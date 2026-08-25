@@ -1,0 +1,35 @@
+name: Aggiorna notizie Molecola
+
+on:
+  schedule:
+    # 06:20 UTC ogni giorno (~08:20 ora italiana in estate)
+    - cron: '20 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-wire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Aggiorna il filo diretto da feed RSS reali
+        run: python3 scripts/update_wire.py
+
+      - name: Commit e push se qualcosa e' cambiato
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "Nessuna modifica, salto il commit."
+            exit 0
+          fi
+          git config user.name "molecola-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html
+          git commit -m "Aggiornamento automatico Filo diretto"
+          git push
