@@ -27,6 +27,7 @@ FEEDS = [
 
 MAX_ITEMS = 27
 TIMEOUT = 20
+MIN_HEALTHY_FEEDS = 3  # sotto questa soglia il job fallisce apposta (vedi main())
 
 ITALIAN_MONTHS = [
     "gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno",
@@ -169,8 +170,22 @@ def replace_between(text, start_marker, end_marker, replacement):
 
 def main():
     items, attempted, succeeded = collect_items()
+
+    # Guardia di salute: se troppi feed sono irraggiungibili, il job fallisce
+    # di proposito. Un run GitHub Actions programmato che fallisce manda
+    # automaticamente un'email al proprietario del repository: e' il modo
+    # piu' semplice e robusto per essere avvisati se una fonte si e' rotta,
+    # senza dover tenere in vita un processo di controllo separato.
+    if succeeded < MIN_HEALTHY_FEEDS:
+        print(
+            f"ERRORE: solo {succeeded}/{attempted} feed raggiungibili "
+            f"(soglia minima {MIN_HEALTHY_FEEDS}). Controllare le fonti in FEEDS.",
+            file=sys.stderr,
+        )
+        return 1
+
     if not items:
-        print("Tutti i feed hanno fallito: nessuna modifica.", file=sys.stderr)
+        print("Nessun articolo trovato nei feed raggiunti: nessuna modifica.", file=sys.stderr)
         return 0
 
     with open("index.html", "r", encoding="utf-8") as f:

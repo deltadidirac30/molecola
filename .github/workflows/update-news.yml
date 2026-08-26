@@ -2,8 +2,8 @@ name: Aggiorna notizie Molecola
 
 on:
   schedule:
-    # 06:20 UTC ogni giorno (~08:20 ora italiana in estate)
-    - cron: '20 6 * * *'
+    # ogni 3 ore, sui minuti :07 per non intasare i runner GitHub allo scoccare dell'ora
+    - cron: '7 */3 * * *'
   workflow_dispatch: {}
 
 permissions:
