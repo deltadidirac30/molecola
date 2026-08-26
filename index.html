@@ -2,15 +2,14 @@
 <html lang="it">
 <head>
 <meta charset="UTF-8" />
-<title>Molecola</title>
+<title>Molecola — Osservatorio idrogeno</title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="description" content="Homepage editoriale su energia e mercati dell'idrogeno, con il filo diretto aggiornato ogni giorno da fonti RSS reali." />
+<meta name="description" content="Rassegna stampa automatica sull'idrogeno: notizie reali aggiornate ogni giorno da feed RSS di settore, con link diretti alle fonti primarie. Pensata per un uso di ricerca." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;600;700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 
 <style>
-  /* ---------- Tokens ---------- */
   :root{
     --paper: #F1F4F2;
     --paper-raised: #E6EBE8;
@@ -23,12 +22,7 @@
     --accent: #0A7E8C;
     --accent-strong: #076370;
     --accent-ink: #F1F4F2;
-    --ember: #BD5A2A;
-    --ember-ink: #F1F4F2;
-    --green-h2: #3C7F53;
-    --blue-h2: #35608E;
-    --grey-h2: #756F63;
-    --shadow: 0 1px 2px rgba(16,30,27,0.06);
+    --good: #3C7F53;
 
     --font-display: "Zilla Slab", Georgia, "Times New Roman", serif;
     --font-body: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -48,12 +42,7 @@
       --accent: #2FC4D3;
       --accent-strong: #57D6E2;
       --accent-ink: #06181A;
-      --ember: #E58A52;
-      --ember-ink: #221204;
-      --green-h2: #6FBE8B;
-      --blue-h2: #7FA7D6;
-      --grey-h2: #A79F92;
-      --shadow: 0 1px 2px rgba(0,0,0,0.35);
+      --good: #6FBE8B;
     }
   }
   :root[data-theme="dark"]{
@@ -68,12 +57,7 @@
     --accent: #2FC4D3;
     --accent-strong: #57D6E2;
     --accent-ink: #06181A;
-    --ember: #E58A52;
-    --ember-ink: #221204;
-    --green-h2: #6FBE8B;
-    --blue-h2: #7FA7D6;
-    --grey-h2: #A79F92;
-    --shadow: 0 1px 2px rgba(0,0,0,0.35);
+    --good: #6FBE8B;
   }
 
   *,*::before,*::after{ box-sizing: border-box; }
@@ -84,399 +68,150 @@
     color: var(--ink);
     font-family: var(--font-body);
     font-size: 16px;
-    line-height: 1.55;
+    line-height: 1.5;
     -webkit-font-smoothing: antialiased;
   }
-  img{ max-width:100%; display:block; }
   a{ color: inherit; }
   h1,h2,h3,h4{
     font-family: var(--font-display);
     font-weight: 600;
-    line-height: 1.08;
+    line-height: 1.1;
     margin: 0;
-    text-wrap: balance;
     letter-spacing: -0.01em;
   }
   p{ margin: 0; }
   .container{
     max-width: 1180px;
     margin: 0 auto;
-    padding: 0 clamp(18px, 4vw, 48px);
+    padding: 0 clamp(16px, 4vw, 40px);
   }
   .mono{ font-family: var(--font-mono); }
+  .num{ font-variant-numeric: tabular-nums; }
   .eyebrow{
     font-family: var(--font-mono);
-    font-size: 0.72rem;
-    letter-spacing: 0.12em;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--ink-faint);
   }
-  .num{ font-variant-numeric: tabular-nums; }
-
-  a.link-accent{
+  a.ext{
     color: var(--accent-strong);
     text-decoration: none;
-    background-image: linear-gradient(var(--accent-strong), var(--accent-strong));
-    background-repeat: no-repeat;
-    background-position: 0 100%;
-    background-size: 0% 1px;
-    transition: background-size .35s ease;
+    border-bottom: 1px solid color-mix(in oklab, var(--accent-strong) 35%, transparent);
   }
-  a.link-accent:hover, a.link-accent:focus-visible{ background-size: 100% 1px; }
-
-  :focus-visible{
-    outline: 2px solid var(--accent-strong);
-    outline-offset: 3px;
-    border-radius: 2px;
-  }
-
-  /* ---------- Reveal-on-scroll ---------- */
-  .reveal{
-    opacity: 0;
-    transform: translateY(18px);
-    transition: opacity .7s cubic-bezier(.2,.7,.2,1), transform .7s cubic-bezier(.2,.7,.2,1);
-  }
-  .reveal.is-visible{ opacity: 1; transform: translateY(0); }
-  @media (prefers-reduced-motion: reduce){
-    .reveal{ opacity:1 !important; transform:none !important; transition:none !important; }
-  }
+  a.ext:hover, a.ext:focus-visible{ border-bottom-color: var(--accent-strong); }
+  :focus-visible{ outline: 2px solid var(--accent-strong); outline-offset: 2px; border-radius: 2px; }
 
   /* ---------- Header ---------- */
   .site-header{
-    position: sticky; top:0; z-index: 40;
-    background: color-mix(in oklab, var(--paper) 88%, transparent);
+    position: sticky; top:0; z-index: 30;
+    background: color-mix(in oklab, var(--paper) 90%, transparent);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid var(--line);
   }
   .header-row{
     display:flex; align-items:center; justify-content:space-between;
-    gap: 20px;
-    padding: 14px clamp(18px,4vw,48px);
+    gap: 16px; flex-wrap: wrap;
+    padding: 12px clamp(16px,4vw,40px);
   }
-  .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; color:var(--ink); }
-  .brand-mark{ width:30px; height:22px; flex:none; }
-  .brand-word{
-    font-family: var(--font-display);
-    font-weight: 700;
-    font-size: 1.34rem;
-    letter-spacing: 0.01em;
-  }
+  .brand{ display:flex; align-items:baseline; gap:10px; text-decoration:none; color:var(--ink); }
+  .brand-mark{ width:26px; height:19px; flex:none; align-self:center; }
+  .brand-word{ font-family: var(--font-display); font-weight: 700; font-size: 1.2rem; }
   .brand-tagline{
-    display:none;
-    font-family: var(--font-mono);
-    font-size: 0.66rem;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--ink-faint);
-    border-left: 1px solid var(--line-strong);
-    padding-left: 10px;
-    margin-left: 2px;
+    font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.06em;
+    text-transform: uppercase; color: var(--ink-faint);
   }
-  @media (min-width: 720px){ .brand-tagline{ display:block; } }
+  .header-links{ display:flex; gap:18px; align-items:center; }
+  .header-links a{ font-size:0.84rem; text-decoration:none; color:var(--ink-soft); }
+  .header-links a:hover{ color:var(--ink); }
 
-  nav.primary-nav{ display:none; gap: 22px; }
-  nav.primary-nav a{
-    font-size: 0.86rem; text-decoration:none; color: var(--ink-soft);
-    padding: 4px 2px; border-bottom: 2px solid transparent;
+  /* ---------- Intro strip ---------- */
+  .intro{ border-bottom:1px solid var(--line); background: var(--paper-raised); }
+  .intro .container{ padding-top:18px; padding-bottom:18px; }
+  .intro p{ max-width:78ch; color: var(--ink-soft); font-size:0.95rem; }
+  .intro p a{ color: var(--accent-strong); text-decoration:none; }
+  .intro p a:hover{ text-decoration:underline; }
+
+  /* ---------- Layout ---------- */
+  .layout{
+    display:grid; grid-template-columns: 1fr; gap: 40px;
+    padding: 32px 0 64px;
   }
-  nav.primary-nav a:hover{ color: var(--ink); border-color: var(--accent); }
-  @media (min-width: 920px){ nav.primary-nav{ display:flex; } }
-
-  .header-meta{
-    font-family: var(--font-mono);
-    font-size: 0.7rem;
-    color: var(--ink-faint);
-    text-align:right;
-    line-height:1.3;
+  @media (min-width: 960px){
+    .layout{ grid-template-columns: minmax(0,1fr) 300px; align-items:start; }
   }
 
-  /* ---------- Ticker (light briefing strip) ---------- */
-  .ticker-wrap{
-    background: var(--paper-raised);
-    color: var(--ink-soft);
-    overflow: hidden;
-    white-space: nowrap;
-    border-bottom: 1px solid var(--line);
-  }
-  .ticker-track{
-    display:inline-flex;
-    align-items:center;
-    animation: ticker 42s linear infinite;
-    padding: 9px 0;
-  }
-  .ticker-wrap:hover .ticker-track{ animation-play-state: paused; }
-  @keyframes ticker{ from{ transform: translateX(0);} to{ transform: translateX(-50%);} }
-  @media (prefers-reduced-motion: reduce){
-    .ticker-track{ animation-duration: 140s; }
-  }
-  .ticker-item{
-    font-family: var(--font-mono);
-    font-size: 0.74rem;
-    letter-spacing: 0.02em;
-    padding: 0 26px;
-    border-right: 1px solid var(--line-strong);
-  }
-  .ticker-item b{ color: var(--accent-strong); font-weight: 600; }
+  .feed-head{ display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:14px; }
+  .feed-head h1{ font-size: clamp(1.5rem, 2.4vw, 1.9rem); }
+  #wire-updated{ text-align:right; }
 
-  /* ---------- Hero ---------- */
-  .hero{
-    position: relative;
-    padding: clamp(40px,7vw,84px) 0 clamp(36px,6vw,64px);
-    border-bottom: 1px solid var(--line);
-    overflow: hidden;
+  /* ---------- Controls ---------- */
+  .controls{ display:flex; flex-direction:column; gap:10px; margin-bottom:20px; }
+  .search-input{
+    width:100%; background: var(--paper); border:1px solid var(--line-strong);
+    color: var(--ink); padding: 10px 14px; font-family: var(--font-body); font-size:0.94rem;
+    border-radius:2px;
   }
-  .hero-grid{
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 36px;
-    align-items: center;
+  .search-input::placeholder{ color: var(--ink-faint); }
+  .filter-row{ display:flex; flex-wrap:wrap; gap: 4px 14px; align-items:center; }
+  .filter-row .flabel{ font-family: var(--font-mono); font-size:0.68rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--ink-faint); margin-right:2px; }
+  .filter-btn{
+    background:none; border:none; cursor:pointer; padding: 4px 0;
+    font-family: var(--font-body); font-size: 0.82rem; color: var(--ink-soft);
+    border-bottom: 2px solid transparent;
   }
-  @media (min-width: 980px){
-    .hero-grid{ grid-template-columns: 1.15fr 0.85fr; gap: 56px; }
-  }
-  .hero-tag{
-    display:inline-flex; align-items:center; gap:8px;
-    font-family: var(--font-mono);
-    font-size: 0.72rem; letter-spacing:0.1em; text-transform:uppercase;
-    color: var(--accent-strong);
-    margin-bottom: 18px;
-  }
-  .hero-tag::before{
-    content:""; width:7px; height:7px; border-radius:50%;
-    background: var(--accent-strong);
-    box-shadow: 0 0 0 3px color-mix(in oklab, var(--accent-strong) 25%, transparent);
-  }
-  .hero h1{
-    font-size: clamp(2.3rem, 5.2vw, 4.1rem);
-    max-width: 15ch;
-  }
-  .hero .dek{
-    margin-top: 20px;
-    font-size: 1.12rem;
-    color: var(--ink-soft);
-    max-width: 54ch;
-  }
-  .hero-byline{
-    margin-top: 22px;
-    display:flex; flex-wrap:wrap; gap: 14px 22px;
-    font-family: var(--font-mono);
-    font-size: 0.76rem;
-    color: var(--ink-faint);
-  }
-  .hero-stats{
-    margin-top: 30px;
-    display:flex; gap: 28px; flex-wrap:wrap;
-  }
-  .hero-stat b{
-    display:block; font-family: var(--font-display); font-weight:700;
-    font-size: 1.7rem; color: var(--ink);
-  }
-  .hero-stat span{
-    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing:0.06em;
-    text-transform:uppercase; color: var(--ink-faint);
-  }
-
-  .hero-visual{
-    position: relative;
-    aspect-ratio: 4 / 3.2;
-    border: 1px solid var(--line);
-    background: var(--paper-raised);
-    border-radius: 3px;
-    overflow:hidden;
-  }
-  .hero-visual canvas{ width:100%; height:100%; display:block; }
-  .hero-visual .caption{
-    position:absolute; left:0; right:0; bottom:0;
-    display:flex; justify-content:space-between; gap:10px;
-    padding: 9px 12px;
-    font-family: var(--font-mono); font-size: 0.66rem; letter-spacing:0.04em;
-    color: var(--ink-faint);
-    background: linear-gradient(0deg, color-mix(in oklab, var(--paper-raised) 88%, transparent), transparent);
-  }
-
-  /* record bar chart in hero */
-  .record-bars{ margin-top: 26px; display:flex; flex-direction:column; gap:10px; }
-  .record-row{ display:grid; grid-template-columns: 108px 1fr 64px; align-items:center; gap:10px; }
-  .record-label{ font-family: var(--font-mono); font-size:0.7rem; color: var(--ink-soft); }
-  .record-track{ height:10px; background: var(--paper-raised-2); border-radius:5px; overflow:hidden; }
-  .record-fill{ display:block; height:100%; border-radius:5px; }
-  .record-fill.prev{ background: var(--ink-faint); width:0; }
-  .record-fill.new{ background: var(--accent); width:0; }
-  .record-value{ font-family: var(--font-mono); font-size:0.78rem; text-align:right; color:var(--ink); }
-  .record-row.is-visible .record-fill.prev{ width: 62.5%; transition: width 1s cubic-bezier(.2,.7,.2,1) .1s; }
-  .record-row.is-visible .record-fill.new{ width: 75.75%; transition: width 1.1s cubic-bezier(.2,.7,.2,1) .35s; }
-  @media (prefers-reduced-motion: reduce){
-    .record-fill.prev{ width:62.5% !important; transition:none !important; }
-    .record-fill.new{ width:75.75% !important; transition:none !important; }
-  }
-
-  /* ---------- Section scaffolding ---------- */
-  .section{ padding: clamp(44px,6vw,72px) 0; border-bottom: 1px solid var(--line); }
-  .section-head{
-    display:flex; align-items:baseline; justify-content:space-between; gap: 16px;
-    margin-bottom: 30px;
-  }
-  .section-head h2{ font-size: clamp(1.5rem, 2.6vw, 2.1rem); }
-  .section-head .see-all{ font-family: var(--font-mono); font-size:0.72rem; text-transform:uppercase; letter-spacing:0.08em; white-space:nowrap; }
-
-  /* ---------- Tags (editorial kickers, not UI chips) ---------- */
-  .tag{
-    display:inline-block;
-    font-family: var(--font-body);
-    font-weight: 600;
-    font-size: 0.72rem;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-    padding: 0;
-    border: none;
-    background: none;
-  }
-  .tag.cat{ color: var(--ink-soft); }
-  .tag.h2-green{ color: var(--green-h2); }
-  .tag.h2-blue{ color: var(--blue-h2); }
-  .tag.h2-grey{ color: var(--grey-h2); }
-
-  /* ---------- Featured grid ---------- */
-  .featured-grid{
-    display:grid; grid-template-columns: 1fr; gap: 1px;
-    background: var(--line);
-    border: 1px solid var(--line);
-  }
-  @media (min-width: 720px){
-    .featured-grid{ grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (min-width: 1080px){
-    .featured-grid{ grid-template-columns: repeat(4, 1fr); }
-    .featured-grid .card:first-child{ grid-column: span 2; grid-row: span 2; }
-  }
-  .card{
-    background: var(--paper);
-    padding: 24px;
-    display:flex; flex-direction:column; gap:14px;
-    transition: background-color .25s ease;
-  }
-  .card:hover{ background: var(--paper-raised); }
-  .card .top-row{ display:flex; justify-content:space-between; align-items:center; gap:10px; }
-  .card h3{ font-size: 1.22rem; }
-  .featured-grid .card:first-child h3{ font-size: clamp(1.5rem, 2.4vw, 1.9rem); }
-  .card p.excerpt{ color: var(--ink-soft); font-size: 0.94rem; }
-  .card .stat-line{
-    margin-top: auto;
-    font-family: var(--font-mono); font-size: 0.78rem; color: var(--ember);
-    font-weight:600;
-  }
-  .card .meta{ font-family: var(--font-mono); font-size:0.68rem; color: var(--ink-faint); }
+  .filter-btn:hover{ color: var(--ink); }
+  .filter-btn.active{ color: var(--accent-strong); border-bottom-color: var(--accent-strong); font-weight:600; }
+  .no-results{ display:none; padding: 24px 0; color: var(--ink-faint); font-size:0.9rem; }
+  .no-results.show{ display:block; }
 
   /* ---------- Wire feed ---------- */
   .wire-list{ display:flex; flex-direction:column; }
   .wire-item{
-    display:grid; grid-template-columns: 96px 1fr auto;
-    gap: 16px; align-items:start;
-    padding: 16px 0;
+    display:grid; grid-template-columns: 64px 1fr auto;
+    gap: 14px; align-items:start;
+    padding: 13px 0;
     border-top: 1px solid var(--line);
   }
   .wire-item:first-child{ border-top: 1px solid var(--line-strong); }
-  .wire-time{ font-family: var(--font-mono); font-size:0.72rem; color: var(--ink-faint); padding-top:3px; }
-  .wire-body h4{ font-family: var(--font-body); font-weight:600; font-size: 1rem; }
+  .wire-item.is-hidden{ display:none; }
+  .wire-time{ font-family: var(--font-mono); font-size:0.7rem; color: var(--ink-faint); padding-top:3px; }
+  .wire-body h4{ font-family: var(--font-body); font-weight:600; font-size: 0.98rem; line-height:1.35; }
   .wire-body h4 a{ color:inherit; text-decoration:none; }
   .wire-body h4 a:hover{ text-decoration:underline; text-decoration-color: var(--line-strong); }
-  .wire-body p{ margin-top:4px; color: var(--ink-soft); font-size: 0.9rem; }
-  .wire-tag{ padding-top: 3px; }
+  .wire-body p{ margin-top:4px; color: var(--ink-soft); font-size: 0.86rem; }
+  .wire-tag{
+    padding-top: 3px; font-family: var(--font-body); font-weight:600; font-size:0.68rem;
+    letter-spacing:0.05em; text-transform:uppercase; color: var(--ink-faint); white-space:nowrap;
+  }
   @media (max-width: 620px){
-    .wire-item{ grid-template-columns: 1fr; gap:6px; }
+    .wire-item{ grid-template-columns: 1fr; gap:4px; }
     .wire-time{ order:1; }
     .wire-tag{ order:2; }
   }
 
-  /* ---------- Split feature (mobility) ---------- */
-  .split-feature{
-    display:grid; grid-template-columns:1fr; gap: 34px;
-    align-items:center;
-  }
-  @media (min-width: 900px){ .split-feature{ grid-template-columns: 0.9fr 1.1fr; gap: 56px; } }
-  .flight-graphic{
-    aspect-ratio: 16/11; border:1px solid var(--line); border-radius:3px;
-    background: var(--paper-raised); position:relative; overflow:hidden;
-  }
-  .flight-graphic svg{ width:100%; height:100%; display:block; }
-
-  /* ---------- Stat band ---------- */
-  .stat-band{ background: var(--paper-raised); }
-  .stat-grid{
-    display:grid; grid-template-columns: repeat(2,1fr); gap: 1px;
-    background: var(--line); border:1px solid var(--line);
-  }
-  @media (min-width: 780px){ .stat-grid{ grid-template-columns: repeat(5,1fr); } }
-  .stat-tile{ background: var(--paper-raised); padding: 26px 20px; text-align:left; }
-  .stat-tile b{
-    display:block; font-family: var(--font-display); font-weight:700;
-    font-size: clamp(1.8rem,3vw,2.4rem); color: var(--ember);
-    letter-spacing:-0.02em;
-  }
-  .stat-tile b.teal{ color: var(--accent-strong); }
-  .stat-tile p{ margin-top:6px; font-size:0.84rem; color: var(--ink-soft); }
-
-  /* ---------- Analysis / pull quote ---------- */
-  .analysis{
-    display:grid; grid-template-columns:1fr; gap:32px;
-  }
-  @media (min-width:900px){ .analysis{ grid-template-columns: 1fr 1fr; gap: 56px; } }
-  blockquote{
-    margin:0; font-family: var(--font-display); font-weight:500;
-    font-size: clamp(1.3rem,2.4vw,1.7rem); line-height:1.35;
-    color: var(--ink);
-    border-left: 3px solid var(--accent);
-    padding-left: 22px;
-  }
-  blockquote footer{
-    margin-top:16px; font-family: var(--font-mono); font-size:0.72rem;
-    color: var(--ink-faint); text-transform:uppercase; letter-spacing:0.06em;
-  }
-  .reckoning-list{ display:flex; flex-direction:column; gap:16px; }
-  .reckoning-list li{ list-style:none; display:flex; gap:14px; }
-  .reckoning-list .n{
-    font-family: var(--font-mono); font-size:0.78rem; color: var(--ink-faint); padding-top:2px;
-  }
-  .reckoning-list h4{ font-family: var(--font-body); font-weight:600; font-size:0.98rem; }
-  .reckoning-list p{ margin-top:3px; color: var(--ink-soft); font-size:0.88rem; }
-
-  /* ---------- Newsletter / footer (light panel, not an inverted block) ---------- */
-  .newsletter{
-    background: var(--paper-raised); color: var(--ink);
-    border-top: 1px solid var(--line);
-  }
-  .newsletter h2{ color: var(--ink); font-size: clamp(1.6rem,3vw,2.2rem); max-width:18ch; }
-  .newsletter p{ color: var(--ink-soft); margin-top:12px; max-width:48ch; }
-  .newsletter-form{
-    margin-top: 26px; display:flex; gap:10px; flex-wrap:wrap; max-width: 480px;
-  }
-  .newsletter-form input{
-    flex:1; min-width:220px;
-    background: var(--paper); border:1px solid var(--line-strong);
-    color: var(--ink); padding: 12px 14px; font-family: var(--font-body); font-size:0.94rem;
-    border-radius:2px;
-  }
-  .newsletter-form input::placeholder{ color: var(--ink-faint); }
-  .newsletter-form button{
-    background: var(--accent); color: var(--accent-ink);
-    border:none; padding: 12px 20px; font-family: var(--font-body); font-weight:600;
-    font-size:0.9rem; border-radius:2px; cursor:pointer;
-  }
-  .newsletter-form button:hover{ background: var(--accent-strong); }
-  .newsletter-note{ margin-top:12px; font-size:0.76rem; color: var(--ink-faint); }
+  /* ---------- Sidebar ---------- */
+  .sidebar{ display:flex; flex-direction:column; gap:28px; }
+  .side-block{ border-top: 2px solid var(--line-strong); padding-top:14px; }
+  .side-block h2{ font-size:1rem; margin-bottom:4px; }
+  .side-block .side-note{ font-size:0.78rem; color:var(--ink-faint); margin-bottom:10px; }
+  .source-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:9px; }
+  .source-list li{ display:flex; justify-content:space-between; align-items:baseline; gap:8px; }
+  .source-list a{ text-decoration:none; font-size:0.9rem; color:var(--ink); }
+  .source-list a:hover{ color: var(--accent-strong); }
+  .source-list .arrow{ color: var(--ink-faint); font-size:0.8rem; flex:none; }
+  .methodology p{ font-size:0.85rem; color: var(--ink-soft); line-height:1.6; }
+  .methodology p + p{ margin-top:10px; }
+  .methodology code{ font-family: var(--font-mono); font-size:0.82em; background: var(--paper-raised-2); padding:1px 4px; border-radius:2px; }
 
   footer.site-footer{
-    background: var(--paper); padding: 34px 0 46px;
+    background: var(--paper-raised); border-top: 1px solid var(--line);
+    padding: 24px 0 32px;
     font-family: var(--font-mono); font-size: 0.72rem; color: var(--ink-faint);
   }
-  footer.site-footer .foot-row{
-    display:flex; flex-wrap:wrap; justify-content:space-between; gap:16px;
-    padding-bottom:18px; margin-bottom:18px; border-bottom:1px solid var(--line);
-  }
-  footer.site-footer a{ text-decoration:none; }
+  footer.site-footer .foot-row{ display:flex; flex-wrap:wrap; justify-content:space-between; gap:12px; }
+  footer.site-footer a{ text-decoration:none; color:inherit; }
   footer.site-footer a:hover{ color: var(--ink); }
-  .foot-links{ display:flex; gap:16px; flex-wrap:wrap; }
-  .sources-note{ line-height:1.7; max-width: 74ch; }
 </style>
 </head>
 <body>
@@ -490,460 +225,203 @@
           <line x1="14.8" y1="11" x2="17.2" y2="11" stroke="var(--accent)" stroke-width="2.4"/>
         </svg>
         <span class="brand-word">MOLECOLA</span>
-        <span class="brand-tagline">L'economia dell'idrogeno</span>
+        <span class="brand-tagline">Osservatorio idrogeno</span>
       </a>
-      <nav class="primary-nav" aria-label="Sezioni">
-        <a href="#tecnologia">Tecnologia</a>
-        <a href="#mercati">Mercati</a>
-        <a href="#infrastrutture">Infrastrutture</a>
-        <a href="#mobilita">Mobilità</a>
-        <a href="#analisi">Analisi</a>
+      <nav class="header-links" aria-label="Sezioni">
+        <a href="#wire">Filo diretto</a>
+        <a href="#fonti">Fonti</a>
+        <a href="https://github.com/deltadidirac30/molecola" target="_blank" rel="noopener">Codice</a>
       </nav>
-      <div class="header-meta">
-        <div id="today-date">25 agosto 2026</div>
-        <div>Edizione europea</div>
-      </div>
     </div>
   </header>
 
-  <div class="ticker-wrap" role="marquee" aria-label="Aggiornamenti rapidi">
-    <div class="ticker-track" id="ticker-track">
-      <!-- content injected twice via JS for seamless loop, base list below -->
+  <div class="intro">
+    <div class="container">
+      <p>Rassegna automatica sull'idrogeno per uso di ricerca: uno script gira ogni giorno via <a href="https://github.com/deltadidirac30/molecola/actions" target="_blank" rel="noopener">GitHub Actions</a>, legge i feed RSS reali elencati in <a href="#fonti">Fonti</a> e ricostruisce l'elenco sotto. Titoli ed estratti restano nella lingua originale della fonte; ogni voce rimanda all'articolo completo.</p>
     </div>
   </div>
 
   <main id="top">
+    <div class="container layout">
 
-    <!-- ============ HERO ============ -->
-    <section class="hero">
-      <div class="container hero-grid">
-        <div>
-          <span class="hero-tag">Tecnologia · In apertura</span>
-          <h1>La turbina che trasforma piccole esplosioni controllate in elettricità</h1>
-          <p class="dek">A Karlsruhe un gruppo di ricerca ha fatto girare per 303 secondi una turbina a idrogeno priva di compressore meccanico, superando il precedente record NASA di 250 secondi. Il segreto è la combustione a guadagno di pressione, generata da onde di detonazione.</p>
-          <div class="hero-byline">
-            <span>Redazione Molecola</span>
-            <span>25 agosto 2026</span>
-            <span>Fonte: Karlsruhe Institute of Technology (KIT), via ScienceDaily</span>
-          </div>
+      <section id="wire">
+        <div class="feed-head">
+          <h1>Filo diretto</h1>
+          <!-- WIRE_UPDATED_START --><span class="eyebrow" id="wire-updated">Aggiornato automaticamente · 26 agosto · 8/8 fonti raggiunte · 6 notizie</span><!-- WIRE_UPDATED_END -->
+        </div>
 
-          <div class="record-bars">
-            <div class="record-row reveal">
-              <span class="record-label">Record NASA</span>
-              <span class="record-track"><span class="record-fill prev"></span></span>
-              <span class="record-value num">250 s</span>
-            </div>
-            <div class="record-row reveal">
-              <span class="record-label">Turbina KIT</span>
-              <span class="record-track"><span class="record-fill new"></span></span>
-              <span class="record-value num">303 s</span>
-            </div>
+        <div class="controls">
+          <input class="search-input" id="wire-search" type="search" placeholder="Cerca per parola chiave, progetto, paese, fonte…" aria-label="Cerca nel filo diretto" />
+          <div class="filter-row" id="filter-row">
+            <span class="flabel">Fonte</span>
+            <!-- i pulsanti di filtro per fonte vengono generati automaticamente dallo script -->
           </div>
         </div>
 
-        <div class="hero-visual reveal">
-          <canvas id="wave-canvas" aria-hidden="true"></canvas>
-          <div class="caption">
-            <span>ONDA DI DETONAZIONE — SIMULAZIONE</span>
-            <span class="num">H₂ + O₂</span>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ FEATURED GRID ============ -->
-    <section class="section" id="mercati">
-      <div class="container">
-        <div class="section-head reveal">
-          <h2>In evidenza</h2>
-          <a class="see-all link-accent" href="#wire">Tutte le notizie →</a>
-        </div>
-
-        <div class="featured-grid reveal">
-          <article class="card">
-            <div class="top-row">
-              <span class="tag cat">Mercati · Cina</span>
-              <span class="tag h2-green">Idrogeno verde</span>
-            </div>
-            <h3>Gli investimenti cinesi nell'idrogeno crescono del 160% in un semestre</h3>
-            <p class="excerpt">Secondo i dati della National Energy Administration, gli investimenti nella filiera dell'idrogeno in Cina sono più che raddoppiati su base annua nel primo semestre 2026, trainati da elettrolizzatori, metanolo verde e cluster industriali dedicati.</p>
-            <div class="stat-line num">+160% YoY, H1 2026</div>
-            <div class="meta">Fonte: NEA, via Hydrogen Insight</div>
-          </article>
-
-          <article class="card">
-            <div class="top-row">
-              <span class="tag cat">Progetti · Australia</span>
-              <span class="tag h2-green">Idrogeno verde</span>
-            </div>
-            <h3>Electric Hydrogen fornirà gli elettrolizzatori per un progetto da 750 MW</h3>
-            <p class="excerpt">Il progetto australiano, sostenuto da fondi pubblici, ha scelto Electric Hydrogen come fornitore di elettrolizzatori per uno degli impianti a idrogeno verde più grandi in fase di sviluppo nel Paese.</p>
-            <div class="meta">21 agosto 2026 · Fonte: Hydrogen Insight</div>
-          </article>
-
-          <article class="card">
-            <div class="top-row">
-              <span class="tag cat">Politica · Stati Uniti</span>
-              <span class="tag h2-grey">Idrogeno grigio</span>
-            </div>
-            <h3>Washington dirotta 500 milioni di dollari dall'acciaio a idrogeno agli altiforni a carbone</h3>
-            <p class="excerpt">Il fondo, nato per sostenere la produzione di acciaio pulito basata su idrogeno, viene in parte reindirizzato verso impianti a carbone tradizionali, in una delle inversioni di rotta più nette della politica industriale statunitense sull'idrogeno.</p>
-            <div class="meta">24 agosto 2026 · Fonte: Hydrogen Insight</div>
-          </article>
-
-          <article class="card">
-            <div class="top-row">
-              <span class="tag cat">Finanza · Giappone</span>
-              <span class="tag h2-blue">Idrogeno blu</span>
-            </div>
-            <h3>Tokyo mette sul piatto 1 miliardo di dollari per progetti globali</h3>
-            <p class="excerpt">Il fondo giapponese finanzierà fino a 15 progetti di idrogeno pulito in giro per il mondo entro il 2029, parte della strategia con cui il Paese punta ad assicurarsi filiere di approvvigionamento a lungo termine.</p>
-            <div class="meta">25 agosto 2026 · Fonte: Hydrogen Insight</div>
-          </article>
-
-          <article class="card">
-            <div class="top-row">
-              <span class="tag cat">Infrastrutture · Germania</span>
-              <span class="tag h2-green">Idrogeno verde</span>
-            </div>
-            <h3>Consegnati gli ultimi elettrolizzatori per l'impianto da 100 MW</h3>
-            <p class="excerpt">Con l'equipaggiamento completo, l'impianto tedesco entra nella fase finale prima dell'avvio, mentre iniziano i lavori sui collegamenti in pipeline verso gli utenti industriali.</p>
-            <div class="meta">24 agosto 2026 · Fonte: Hydrogen Insight</div>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ ANALYSIS ============ -->
-    <section class="section" id="analisi">
-      <div class="container">
-        <div class="section-head reveal">
-          <h2>L'anno della resa dei conti</h2>
-          <span class="eyebrow">Analisi · Wood Mackenzie</span>
-        </div>
-
-        <div class="analysis reveal">
-          <blockquote>
-            "Il 2026 sarà l'anno della resa dei conti per il settore dell'idrogeno", segna il momento in cui il mercato scopre davvero cosa rende un progetto bancabile.
-            <footer>Wood Mackenzie, Hydrogen 2026 Outlook</footer>
-          </blockquote>
-
-          <ol class="reckoning-list">
-            <li>
-              <span class="n num">01</span>
-              <div><h4>Le regole RFNBO si ammorbidiscono</h4><p>Il Low-Carbon Fuels Delegated Act ha chiarito gli standard, e Bruxelles aprirà parte della prossima asta dell'Hydrogen Bank anche a progetti elettrolitici non-RFNBO.</p></div>
-            </li>
-            <li>
-              <span class="n num">02</span>
-              <div><h4>Il Medio Oriente perde slancio</h4><p>Dopo la FID di NEOM nel 2023, l'Oman ha cancellato progetti a fine 2025 e Saudi Aramco ha ridimensionato i piani sull'ammoniaca blu per mancanza di acquirenti.</p></div>
-            </li>
-            <li>
-              <span class="n num">03</span>
-              <div><h4>L'India alla prova dei costi</h4><p>Le aste indiane hanno prodotto offerte molto aggressive: resta da vedere se gli sviluppatori potranno mantenere quei prezzi su scala operativa.</p></div>
-            </li>
-            <li>
-              <span class="n num">04</span>
-              <div><h4>Il cracking dell'ammoniaca resta indietro</h4><p>Gli investimenti su scala commerciale nell'infrastruttura di cracking restano scarsi, nonostante il ruolo chiave nelle catene di fornitura ibride.</p></div>
-            </li>
-          </ol>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ WIRE FEED ============ -->
-    <section class="section" id="wire">
-      <div class="container">
-        <div class="section-head reveal">
-          <h2>Filo diretto</h2>
-          <!-- WIRE_UPDATED_START --><span class="eyebrow" id="wire-updated">Aggiornato automaticamente · 25 agosto</span><!-- WIRE_UPDATED_END -->
-        </div>
-
-        <div class="wire-list reveal" id="wire-list">
+        <div class="wire-list" id="wire-list">
 <!-- WIRE_ITEMS_START -->
-          <div class="wire-item">
+          <div class="wire-item" data-source="hydrogen-europe" data-title="uk zero-emission flight development takes off">
             <span class="wire-time mono num">25.08</span>
             <div class="wire-body">
-              <h4>Un fornitore olandese certifica idrogeno RFNBO con matching quindicinale a 15 minuti</h4>
-              <p>Prima certificazione del genere sul mercato, pensata per dimostrare la corrispondenza oraria tra produzione rinnovabile ed elettrolisi.</p>
+              <h4><a href="https://hydrogeneurope.eu/uk-zero-emission-flight-development-takes-off/" target="_blank" rel="noopener">UK zero-emission flight development takes off</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag h2-green">Verde</span>
+            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item">
+          <div class="wire-item" data-source="hydrogen-europe" data-title="hamburg starts building hydrogen connector for hh-win network">
             <span class="wire-time mono num">25.08</span>
             <div class="wire-body">
-              <h4>La Romania fissa sanzioni per chi non raggiunge il target industriale del 42% entro il 2030</h4>
-              <p>Bucarest introduce penali per le imprese che non useranno idrogeno verde per almeno il 42% dei consumi industriali entro fine decennio.</p>
+              <h4><a href="https://hydrogeneurope.eu/hamburg-starts-building-hydrogen-connector-for-hh-win-network/" target="_blank" rel="noopener">Hamburg starts building hydrogen connector for HH-WIN network</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag h2-green">Verde</span>
+            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item">
-            <span class="wire-time mono num">24.08</span>
-            <div class="wire-body">
-              <h4>In Germania consegnati gli ultimi elettrolizzatori per l'impianto da 100 MW</h4>
-              <p>Parallelamente sono iniziati i lavori per i collegamenti in pipeline che porteranno l'idrogeno verde dell'impianto verso gli utenti industriali.</p>
-            </div>
-            <span class="wire-tag tag h2-green">Verde</span>
-          </div>
-          <div class="wire-item">
-            <span class="wire-time mono num">24.08</span>
-            <div class="wire-body">
-              <h4>Guofu lancia un nuovo profit warning</h4>
-              <p>Il produttore cinese di elettrolizzatori segnala ulteriori perdite, in un contesto di forte pressione sui prezzi nel comparto.</p>
-            </div>
-            <span class="wire-tag tag cat">Mercati</span>
-          </div>
-          <div class="wire-item">
-            <span class="wire-time mono num">24.08</span>
-            <div class="wire-body">
-              <h4>Il Giappone apre le domande per sussidi al 50% su navi a idrogeno e ammoniaca</h4>
-              <p>Il programma sostiene la conversione della flotta mercantile verso combustibili a zero emissioni nette.</p>
-            </div>
-            <span class="wire-tag tag h2-blue">Blu</span>
-          </div>
-          <div class="wire-item">
+          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: jcb hydromax sets speed record for hydrogen-powered vehicles of any kind">
             <span class="wire-time mono num">21.08</span>
             <div class="wire-body">
-              <h4>Shanghai Electric amplia la produzione di metanolo verde di 200.000 tonnellate l'anno</h4>
-              <p>L'espansione rafforza uno dei più grandi impianti cinesi di metanolo da idrogeno rinnovabile e CO₂ catturata.</p>
+              <h4><a href="https://www.pv-magazine.com/2026/08/21/the-hydrogen-stream-jcb-hydromax-sets-speed-record-for-hydrogen-powered-vehicles-of-any-kind/" target="_blank" rel="noopener">The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag h2-green">Verde</span>
+            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item">
+          <div class="wire-item" data-source="pv-magazine" data-title="air bubbles boost cooling and hydrogen production in photovoltaic-thermal system">
             <span class="wire-time mono num">21.08</span>
             <div class="wire-body">
-              <h4>Pechino stanzia 1,1 miliardi di dollari per cinque cluster urbani dell'idrogeno</h4>
-              <p>L'obiettivo è creare poli di domanda concentrata attorno a trasporti pesanti, industria e mobilità pubblica.</p>
+              <h4><a href="https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/" target="_blank" rel="noopener">Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag cat">Politica</span>
+            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item">
+          <div class="wire-item" data-source="hydrogen-europe" data-title="danish green hydrogen-based methanol project secures a fourth offtaker">
             <span class="wire-time mono num">20.08</span>
             <div class="wire-body">
-              <h4>Pechino chiede al comparto oil &amp; gas di costruire pipeline e stoccaggi per l'idrogeno</h4>
-              <p>Le grandi compagnie energetiche statali sono invitate a riutilizzare competenze e infrastrutture esistenti per accelerare la rete di trasporto.</p>
+              <h4><a href="https://hydrogeneurope.eu/danish-green-hydrogen-based-methanol-project-secures-a-fourth-offtaker/" target="_blank" rel="noopener">Danish green hydrogen-based methanol project secures a fourth offtaker</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag cat">Infrastrutture</span>
+            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item">
-            <span class="wire-time mono num">20.08</span>
+          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: commissioning begins for 2.2 gw neom h2 project in saudi arabia">
+            <span class="wire-time mono num">14.08</span>
             <div class="wire-body">
-              <h4>Singapore approva una centrale hydrogen-ready da 670 MW</h4>
-              <p>L'impianto nascerà predisposto per bruciare quote crescenti di idrogeno mano a mano che l'offerta regionale aumenterà.</p>
+              <h4><a href="https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/" target="_blank" rel="noopener">The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia</a></h4>
+              <p>Leggi l'articolo completo sulla fonte originale.</p>
             </div>
-            <span class="wire-tag tag h2-blue">Blu</span>
+            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
 <!-- WIRE_ITEMS_END -->
         </div>
-      </div>
-    </section>
+        <p class="no-results" id="no-results">Nessuna notizia corrisponde alla ricerca o al filtro selezionato.</p>
+      </section>
 
-    <!-- ============ MOBILITY SPLIT FEATURE ============ -->
-    <section class="section" id="mobilita">
-      <div class="container">
-        <div class="section-head reveal">
-          <h2>Mobilità</h2>
-          <span class="eyebrow">Aviazione</span>
+      <aside class="sidebar" id="fonti">
+        <div class="side-block">
+          <h2>Osservatori istituzionali</h2>
+          <p class="side-note">Risorse di riferimento — non hanno un feed RSS pubblico affidabile, aggiornamento manuale</p>
+          <ul class="source-list">
+            <li><a class="ext" href="https://www.iea.org/energy-system/low-emission-fuels/hydrogen" target="_blank" rel="noopener">IEA — Hydrogen</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://www.energy.gov/eere/fuelcells/hydrogen-and-fuel-cell-technologies-office" target="_blank" rel="noopener">US DOE — Hydrogen &amp; Fuel Cell Technologies Office</a><span class="arrow">↗</span></li>
+          </ul>
         </div>
 
-        <div class="split-feature reveal">
-          <div class="flight-graphic" aria-hidden="true">
-            <svg viewBox="0 0 400 280" preserveAspectRatio="xMidYMid meet">
-              <path d="M20 220 C 120 220, 160 90, 380 60" fill="none" stroke="var(--line-strong)" stroke-width="1.5" stroke-dasharray="4 6"/>
-              <circle cx="20" cy="220" r="4" fill="var(--ink-faint)"/>
-              <circle cx="380" cy="60" r="5" fill="var(--accent)"/>
-              <text x="20" y="240" class="mono" font-size="11" fill="var(--ink-faint)">OGGI</text>
-              <text x="336" y="46" class="mono" font-size="11" fill="var(--accent-strong)">2030</text>
-            </svg>
-          </div>
-          <div>
-            <span class="tag h2-green" style="margin-bottom:14px;">Idrogeno verde</span>
-            <h3 style="font-size:clamp(1.4rem,2.6vw,1.9rem); margin-top:14px;">Un pioniere dell'aviazione a idrogeno: i primi aerei commerciali in servizio entro il 2030</h3>
-            <p class="excerpt" style="margin-top:14px; max-width:56ch;">Le celle a combustibile e i powertrain elettrici a idrogeno stanno passando dai banchi di prova ai primi velivoli dimostrativi. Il settore resta cauto sui tempi reali di certificazione, ma i primi collegamenti commerciali a corto raggio sono ormai nel mirino di diversi sviluppatori.</p>
-            <p class="meta" style="margin-top:16px;">Fonte: Fuel Cells Works, maggio 2026</p>
-          </div>
+        <div class="side-block">
+          <h2>Organizzazioni di settore</h2>
+          <p class="side-note">Monitorate automaticamente ogni giorno</p>
+          <ul class="source-list">
+            <li><a class="ext" href="https://hydrogencouncil.com" target="_blank" rel="noopener">Hydrogen Council</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://hydrogeneurope.eu" target="_blank" rel="noopener">Hydrogen Europe</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://fchea.org" target="_blank" rel="noopener">FCHEA</a><span class="arrow">↗</span></li>
+          </ul>
         </div>
-      </div>
-    </section>
 
-    <!-- ============ STAT BAND ============ -->
-    <section class="stat-band" id="infrastrutture">
-      <div class="container" style="padding-top:56px; padding-bottom:56px;">
-        <div class="section-head reveal">
-          <h2>I numeri della settimana</h2>
+        <div class="side-block">
+          <h2>Testate monitorate</h2>
+          <p class="side-note">Monitorate automaticamente ogni giorno</p>
+          <ul class="source-list">
+            <li><a class="ext" href="https://www.hydrogenfuelnews.com" target="_blank" rel="noopener">Hydrogen Fuel News</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://www.powermag.com/category/hydrogen/" target="_blank" rel="noopener">POWER — Hydrogen</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://www.pv-magazine.com/tag/hydrogen/" target="_blank" rel="noopener">PV Magazine — Hydrogen</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://www.energy-storage.news/tag/hydrogen/" target="_blank" rel="noopener">Energy Storage News — Hydrogen</a><span class="arrow">↗</span></li>
+            <li><a class="ext" href="https://www.offshore-energy.biz/tag/hydrogen/" target="_blank" rel="noopener">Offshore Energy — Hydrogen</a><span class="arrow">↗</span></li>
+          </ul>
         </div>
-        <div class="stat-grid reveal">
-          <div class="stat-tile"><b class="num">+160%</b><p>Crescita investimenti idrogeno in Cina, H1 2026</p></div>
-          <div class="stat-tile"><b class="teal num">303 s</b><p>Durata record della turbina a detonazione KIT</p></div>
-          <div class="stat-tile"><b class="num">$1 mld</b><p>Fondo giapponese per progetti globali entro il 2029</p></div>
-          <div class="stat-tile"><b class="teal num">670 MW</b><p>Centrale hydrogen-ready approvata a Singapore</p></div>
-          <div class="stat-tile"><b class="num">42%</b><p>Target industriale rumeno di idrogeno verde al 2030</p></div>
+
+        <div class="side-block methodology">
+          <h2>Come funziona</h2>
+          <p>Ogni notte (circa le 6:20 UTC) un workflow <code>GitHub Actions</code> esegue <code>scripts/update_wire.py</code>: legge gli 8 feed RSS qui sopra, scarta quelli irraggiungibili, elimina i duplicati e tiene i ~27 articoli più recenti.</p>
+          <p>Nessun titolo o dato viene generato o tradotto artificialmente: sono presi cosi' come pubblicati dalla fonte, con link diretto all'originale. Il codice è pubblico su <a class="ext" href="https://github.com/deltadidirac30/molecola" target="_blank" rel="noopener">GitHub</a>.</p>
         </div>
-      </div>
-    </section>
+      </aside>
 
-    <!-- ============ IEA CALLOUT ============ -->
-    <section class="section">
-      <div class="container">
-        <div class="split-feature reveal" style="align-items:start;">
-          <div>
-            <span class="eyebrow">Approfondimento</span>
-            <h3 style="font-size:clamp(1.3rem,2.4vw,1.7rem); margin-top:12px;">Global Hydrogen Review 2026: la fotografia dell'AIE</h3>
-          </div>
-          <div>
-            <p class="excerpt" style="max-width:60ch;">Giunto alla sesta edizione, il rapporto dell'Agenzia Internazionale dell'Energia analizza domanda, produzione e commercio globale dell'idrogeno a basse emissioni, con un focus dedicato alle filiere africane. Il rapporto segnala anche come le tensioni in Medio Oriente stiano esponendo le vulnerabilità delle catene di fornitura di idrogeno e derivati come i fertilizzanti, e cataloga oltre 1.000 politiche pubbliche annunciate dal 2020 a oggi.</p>
-            <p class="meta" style="margin-top:14px;">Fonte: IEA, Global Hydrogen Review 2026</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ============ NEWSLETTER ============ -->
-    <section class="newsletter">
-      <div class="container" style="padding: 56px 0;">
-        <h2 class="reveal">Il briefing settimanale sull'idrogeno, ogni venerdì</h2>
-        <p class="reveal">Progetti, numeri e politiche del settore, selezionati e spiegati in cinque minuti di lettura.</p>
-        <form class="newsletter-form reveal" onsubmit="event.preventDefault(); this.querySelector('button').textContent='Iscrizione registrata';">
-          <label class="visually-hidden" for="email-input" style="position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0);">Indirizzo email</label>
-          <input id="email-input" type="email" required placeholder="La tua email" />
-          <button type="submit">Iscrivimi</button>
-        </form>
-        <p class="newsletter-note">Contenuto dimostrativo — nessuna email viene inviata o conservata.</p>
-      </div>
-    </section>
-
+    </div>
   </main>
 
   <footer class="site-footer">
     <div class="container">
       <div class="foot-row">
-        <span>© 2026 Molecola — pubblicazione dimostrativa</span>
-        <div class="foot-links">
-          <a class="link-accent" href="#tecnologia">Tecnologia</a>
-          <a class="link-accent" href="#mercati">Mercati</a>
-          <a class="link-accent" href="#infrastrutture">Infrastrutture</a>
-          <a class="link-accent" href="#mobilita">Mobilità</a>
-          <a class="link-accent" href="#analisi">Analisi</a>
-        </div>
+        <span>Molecola — rassegna stampa automatica, uso di ricerca</span>
+        <a href="https://github.com/deltadidirac30/molecola" target="_blank" rel="noopener">github.com/deltadidirac30/molecola</a>
       </div>
-      <p class="sources-note">Notizie e dati basati su fonti pubbliche di agosto 2026: Hydrogen Insight, Fuel Cells Works, ScienceDaily, Wood Mackenzie e IEA. Testi riscritti e adattati in forma editoriale a scopo dimostrativo; per l'informazione originale si rimanda alle fonti citate in ciascun articolo. La sezione "Filo diretto" viene aggiornata ogni giorno in automatico da fonti RSS reali del settore.</p>
     </div>
   </footer>
 
 <script>
 (function(){
-  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var wireList = document.getElementById('wire-list');
+  var items = Array.prototype.slice.call(wireList.querySelectorAll('.wire-item'));
+  var searchInput = document.getElementById('wire-search');
+  var filterRow = document.getElementById('filter-row');
+  var noResults = document.getElementById('no-results');
+  var activeSources = new Set();
 
-  /* ---- Ticker: build content once, duplicated for seamless loop ---- */
-  var items = [
-    'CINA · investimenti idrogeno <b>+160%</b> H1 2026 — NEA',
-    'GIAPPONE · fondo globale da <b>$1 mld</b> per 15 progetti entro il 2029',
-    'AUSTRALIA · progetto da <b>750 MW</b>, elettrolizzatori Electric Hydrogen',
-    'GERMANIA · impianto da <b>100 MW</b>, consegnati gli ultimi elettrolizzatori',
-    'SINGAPORE · via libera a centrale hydrogen-ready da <b>670 MW</b>',
-    'ROMANIA · sanzioni per il target industriale del <b>42%</b> al 2030',
-    'KIT · turbina a detonazione: nuovo record di <b>303 secondi</b>'
-  ];
-  var track = document.getElementById('ticker-track');
-  var html = items.map(function(t){ return '<span class="ticker-item">'+t+'</span>'; }).join('');
-  track.innerHTML = html + html;
-
-  /* ---- Scroll reveal ---- */
-  var revealEls = document.querySelectorAll('.reveal');
-  if('IntersectionObserver' in window && !reduceMotion){
-    var io = new IntersectionObserver(function(entries){
-      entries.forEach(function(entry){
-        if(entry.isIntersecting){
-          entry.target.classList.add('is-visible');
-          io.unobserve(entry.target);
-        }
-      });
-    }, { threshold: 0.15, rootMargin: '0px 0px -8% 0px' });
-    revealEls.forEach(function(el){ io.observe(el); });
-  } else {
-    revealEls.forEach(function(el){ el.classList.add('is-visible'); });
-  }
-
-  /* ---- Hero diagram: quiet, print-like pressure-wave rings (single accent, slow) ---- */
-  var canvas = document.getElementById('wave-canvas');
-  var ctx = canvas.getContext('2d');
-  var dpr = Math.min(window.devicePixelRatio || 1, 2);
-  var w, h;
-
-  function getAccent(){
-    return getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#0A7E8C';
-  }
-  function getInkFaint(){
-    return getComputedStyle(document.documentElement).getPropertyValue('--ink-faint').trim() || '#7C8B87';
-  }
-
-  function resize(){
-    var rect = canvas.getBoundingClientRect();
-    w = rect.width; h = rect.height;
-    canvas.width = w * dpr; canvas.height = h * dpr;
-    ctx.setTransform(dpr,0,0,dpr,0,0);
-  }
-  window.addEventListener('resize', resize);
-  resize();
-
-  var rings = [];
-  var lastPulse = 0;
-  var pulseInterval = 2800;
-  var ringLife = 3600;
-
-  function spawnRing(t){
-    rings.push({ born: t });
-  }
-
-  function drawStatic(){
-    ctx.clearRect(0,0,w,h);
-    var cx = w/2, cy = h/2;
-    ctx.strokeStyle = getInkFaint();
-    ctx.globalAlpha = 0.4;
-    for(var i=1;i<=3;i++){
-      ctx.beginPath();
-      ctx.arc(cx, cy, (Math.min(w,h)/2) * (i/3.4), 0, Math.PI*2);
-      ctx.lineWidth = 1;
-      ctx.stroke();
+  // Costruisce i pulsanti di filtro per fonte, in base a cio' che e' presente ora nella pagina
+  var sourcesSeen = {};
+  items.forEach(function(item){
+    var slug = item.getAttribute('data-source');
+    var label = item.querySelector('.wire-tag');
+    if(slug && label && !sourcesSeen[slug]){
+      sourcesSeen[slug] = label.textContent.trim();
     }
-    ctx.globalAlpha = 1;
-    ctx.fillStyle = getAccent();
-    ctx.beginPath();
-    ctx.arc(cx, cy, 3.5, 0, Math.PI*2);
-    ctx.fill();
+  });
+  Object.keys(sourcesSeen).sort(function(a,b){ return sourcesSeen[a].localeCompare(sourcesSeen[b]); }).forEach(function(slug){
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'filter-btn';
+    btn.textContent = sourcesSeen[slug];
+    btn.setAttribute('data-slug', slug);
+    btn.setAttribute('aria-pressed', 'false');
+    btn.addEventListener('click', function(){
+      if(activeSources.has(slug)){
+        activeSources.delete(slug);
+        btn.classList.remove('active');
+        btn.setAttribute('aria-pressed','false');
+      } else {
+        activeSources.add(slug);
+        btn.classList.add('active');
+        btn.setAttribute('aria-pressed','true');
+      }
+      applyFilters();
+    });
+    filterRow.appendChild(btn);
+  });
+
+  function applyFilters(){
+    var q = (searchInput.value || '').trim().toLowerCase();
+    var visibleCount = 0;
+    items.forEach(function(item){
+      var slug = item.getAttribute('data-source') || '';
+      var title = item.getAttribute('data-title') || '';
+      var bodyText = item.querySelector('.wire-body p');
+      var haystack = title + ' ' + (bodyText ? bodyText.textContent.toLowerCase() : '');
+      var matchesSource = activeSources.size === 0 || activeSources.has(slug);
+      var matchesQuery = !q || haystack.indexOf(q) !== -1;
+      var visible = matchesSource && matchesQuery;
+      item.classList.toggle('is-hidden', !visible);
+      if(visible) visibleCount++;
+    });
+    noResults.classList.toggle('show', visibleCount === 0);
   }
 
-  if(reduceMotion){
-    drawStatic();
-  } else {
-    function frame(t){
-      if(t - lastPulse > pulseInterval){ spawnRing(t); lastPulse = t; }
-      ctx.clearRect(0,0,w,h);
-      var cx = w/2, cy = h/2;
-      var maxR = Math.hypot(w,h)/2;
-
-      rings = rings.filter(function(r){ return (t - r.born) < ringLife; });
-      rings.forEach(function(r){
-        var age = (t - r.born) / ringLife;
-        var radius = age * maxR;
-        var alpha = Math.max(0, 1 - age);
-        ctx.beginPath();
-        ctx.arc(cx, cy, radius, 0, Math.PI*2);
-        ctx.strokeStyle = getAccent();
-        ctx.globalAlpha = alpha * 0.32;
-        ctx.lineWidth = 1;
-        ctx.stroke();
-      });
-      ctx.globalAlpha = 1;
-
-      ctx.beginPath();
-      ctx.arc(cx, cy, 3.5, 0, Math.PI*2);
-      ctx.fillStyle = getAccent();
-      ctx.fill();
-
-      requestAnimationFrame(frame);
-    }
-    requestAnimationFrame(frame);
-  }
+  searchInput.addEventListener('input', applyFilters);
 })();
 </script>
 </body>
