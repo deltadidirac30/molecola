@@ -6,7 +6,13 @@ name: Verifica fonti
 # per accorgersi in anticipo di una fonte che sta morendo lentamente.
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URL candidati da sondare, separati da spazio (vuoto = controlla le fonti configurate)"
+        required: false
+        default: ""
+
   schedule:
     - cron: '23 6 * * 1'   # lunedì mattina
 
@@ -23,11 +29,16 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Interroga tutte le fonti
+      - name: Interroga le fonti
         run: |
-          python3 scripts/check_sources.py | tee /tmp/report.txt
+          if [ -n "${{ inputs.urls }}" ]; then
+            python3 scripts/check_sources.py --probe ${{ inputs.urls }} | tee /tmp/report.txt
+          else
+            python3 scripts/check_sources.py | tee /tmp/report.txt
+          fi
 
       - name: Salva il referto nel repository
+        if: inputs.urls == ''
         run: |
           git config user.name  "molecola-bot"
           git config user.email "actions@users.noreply.github.com"
