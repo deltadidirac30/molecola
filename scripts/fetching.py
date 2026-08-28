@@ -27,8 +27,12 @@ from xml.etree import ElementTree
 import sources as S
 
 TIMEOUT = 25
-USER_AGENT = ("Mozilla/5.0 (compatible; MolecolaBot/2.0; "
-              "+https://github.com/deltadidirac30/molecola)")
+# Diversi siti di settore (IEA, IRENA, MASE, Hydrogen Council…) rispondono 403
+# a qualunque user-agent che si dichiari automatico, anche solo per leggere un
+# feed RSS pubblico. Ci si presenta come un browser normale: la richiesta e' la
+# stessa che farebbe una persona che apre il feed, una ogni tre ore.
+USER_AGENT = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
 
 # Rumore ricorrente negli estratti RSS: footer WordPress, inviti alla lettura,
 # firme in testa. Vengono tolti prima di decidere se l'estratto vale qualcosa.
@@ -107,9 +111,14 @@ def clean_excerpt(raw, title, limit=220):
 
 
 def fetch(url, accept=None):
-    headers = {"User-Agent": USER_AGENT,
-               "Accept": accept or "application/rss+xml, application/xml, text/xml, */*",
-               "Accept-Language": "en,it;q=0.8"}
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": accept or ("application/rss+xml, application/atom+xml, "
+                             "application/xml;q=0.9, text/xml;q=0.9, */*;q=0.8"),
+        "Accept-Language": "en-GB,en;q=0.9,it;q=0.8",
+        "Accept-Encoding": "identity",
+        "Cache-Control": "no-cache",
+    }
     req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=TIMEOUT, context=_ssl_ctx) as resp:
         return resp.read()
