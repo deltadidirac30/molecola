@@ -37,11 +37,19 @@ jobs:
             python3 scripts/check_sources.py | tee /tmp/report.txt
           fi
 
-      - name: Salva il referto nel repository
-        if: inputs.urls == ''
+      - name: Salva l'esito nel repository
         run: |
           git config user.name  "molecola-bot"
           git config user.email "actions@users.noreply.github.com"
+          # I log di Actions vivono su uno storage che non tutti gli ambienti
+          # raggiungono: l'esito della sonda si legge nel repository.
+          if [ -n "${{ inputs.urls }}" ]; then
+            cp /tmp/report.txt data/probe-results.txt
+            git add data/probe-results.txt
+            git diff --cached --quiet || git commit -m "Esito della sonda sugli URL candidati"
+            git pull --rebase origin main && git push origin HEAD:main
+            exit 0
+          fi
           # git diff non vede un file non ancora tracciato: si mette in stage
           # e poi si controlla l'indice, altrimenti il primo referto non viene
           # mai committato.
