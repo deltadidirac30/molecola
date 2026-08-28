@@ -1,0 +1,207 @@
+{
+ "checked": "2026-08-28T10:27:12+00:00",
+ "productive": 9,
+ "total": 25,
+ "sources": [
+  {
+   "slug": "canale-energia",
+   "name": "Canale Energia",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "cinea",
+   "name": "CINEA — Hydrogen Bank",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "clean-hydrogen-partnership",
+   "name": "Clean Hydrogen Partnership",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "ec-energy",
+   "name": "Commissione europea — Energia",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "green-car-congress",
+   "name": "Green Car Congress",
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno -2] Name or service not known>",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "h2-view",
+   "name": "H2 View",
+   "ok": false,
+   "error": "nessun elemento riconosciuto nel documento",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "h2it",
+   "name": "H2IT",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "hydrogen-council",
+   "name": "Hydrogen Council",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "hydrogen-fuel-news",
+   "name": "Hydrogen Fuel News",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "hydrogen-insight",
+   "name": "Hydrogen Insight",
+   "ok": false,
+   "error": "parse ParseError: syntax error: line 1, column 0",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "iea",
+   "name": "IEA",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "irena",
+   "name": "IRENA",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "mase",
+   "name": "MASE — Ministero Ambiente",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "rinnovabili",
+   "name": "Rinnovabili.it",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "us-doe",
+   "name": "US DOE — Energy",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-08-26"
+  },
+  {
+   "slug": "energy-storage-news",
+   "name": "Energy Storage News",
+   "ok": true,
+   "error": null,
+   "count": 3,
+   "newest": "2026-07-08"
+  },
+  {
+   "slug": "fchea",
+   "name": "FCHEA",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-08-10"
+  },
+  {
+   "slug": "fuel-cells-works",
+   "name": "Fuel Cells Works",
+   "ok": true,
+   "error": null,
+   "count": 64,
+   "newest": "2026-08-27"
+  },
+  {
+   "slug": "hydrogen-europe",
+   "name": "Hydrogen Europe",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-08-27"
+  },
+  {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-04-24"
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": true,
+   "error": null,
+   "count": 39,
+   "newest": "2026-08-26"
+  },
+  {
+   "slug": "power",
+   "name": "POWER",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-08-04"
+  },
+  {
+   "slug": "pv-magazine",
+   "name": "PV Magazine",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-08-21"
+  }
+ ]
+}
