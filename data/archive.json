@@ -1,5 +1,5 @@
 {
- "count": 189,
+ "count": 199,
  "items": [
   {
    "authors": [],
@@ -427,6 +427,20 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "South Korea Proposes Zero Import Tariffs on Key Fuel-Cell Components in 2027"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-26T06:32:36+00:00",
+   "excerpt": "SAN BERNARDINO, Calif. (July 31 st , 2026) The San Bernardino International Airport Authority (SBIAA) and Total Hydrogen Development (THD) today announced plans to develop a clean hydrogen production facility at San…",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "a8b99472a2d74783",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/san-bernardino-international-airport-and-total-hydrogen-development-to-produce-c/8576552/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "San Bernardino International Airport and Total Hydrogen Development to Produce Clean, Low- Cost Hydrogen in the Inland Empire"
   },
   {
    "authors": [
@@ -934,6 +948,62 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-08-25T18:08:34+00:00",
+   "excerpt": "Metafuels and PSI have launched an end-to-end Power-to-Liquid demo plant in Villigen, Switzerland, producing 50 L/day of synthetic aviation fuel from green hydrogen and CO₂ under one roof—marking a key step toward…",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "b451c14f5db41a2f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-driven-synthetic-aviation-fuel-demonstration-plant-debuts-at-psi/8576551/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen-driven Synthetic Aviation Fuel Demonstration Plant Debuts at PSI"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T18:04:39+00:00",
+   "excerpt": "Chile’s push for green hydrogen faces a paradox: abundant solar and wind power is often curtailed, while the grid struggles with winter deficits. Experts call for integrating electrolyzers with renewable assets, grid…",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "07f87c50f53d7c63",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-in-chile-faces-test-on-a-fragile-electricity-grid/8576550/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production in Chile Faces Test on a Fragile Electricity Grid"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T18:04:22+00:00",
+   "excerpt": "A Nature Communications study shows a global shift to green hydrogen in shipping could avert 129,458 premature deaths and deliver US$284 billion in yearly health benefits by cutting PM2.5 and ozone emissions.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "0020c7910f442f9b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-shipping-s-green-hydrogen-shift-could-unlock-284-billion-in-annual/8576549/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: Shipping’s Green Hydrogen Shift Could Unlock $284 Billion in Annual Health Benefits"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T18:03:52+00:00",
+   "excerpt": "UKRI’s new £28 million Ultra-LDES Challenge backs 100-hour discharge systems—advanced batteries and underground hydrogen storage—to bridge multi-day renewable gaps.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "9dda9a5cd197fde3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ukri-unveils-28-million-ultra-long-duration-energy-storage-challenge-to-accelera/8576546/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "UKRI Unveils £28 Million Ultra-Long Duration Energy Storage Challenge to Accelerate Hydrogen Storage and Advanced Batteries"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-08-25T15:58:51+00:00",
    "excerpt": "",
    "first_seen": "2026-08-28T10:21:36+00:00",
@@ -1007,6 +1077,48 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "Hamburg starts building hydrogen connector for HH-WIN network"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T05:12:38+00:00",
+   "excerpt": "Dongfeng Liuzhou Motor and CATL deepen their partnership with a five-year pact to standardize commercial vehicle batteries, pioneer a battery bank model and integrate hydrogen fuel cell vehicles.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "e543ee4593d01ac7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/dongfeng-liuzhou-and-catl-enhance-commercial-vehicle-battery-standards-and-hydro/8576545/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Dongfeng Liuzhou and CATL Enhance Commercial Vehicle Battery Standards and Hydrogen Fuel Cell Integration"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T05:08:40+00:00",
+   "excerpt": "HYPERION’s fifth meeting in Valladolid brought eight European regions together to accelerate green hydrogen infrastructure, featuring CyLH2Valley pilots and policy workshops.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "9217caf9b0828783",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-infrastructure-news-hyperion-summit-in-valladolid-advances-region/8576544/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Infrastructure News: HYPERION Summit in Valladolid Advances Regional Projects"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-25T05:04:09+00:00",
+   "excerpt": "Chile’s Green Hydrogen Action Plan 2023-2030 outlines 81 measures to build a complete green hydrogen ecosystem with clear roles, regional roadmaps and infrastructure upgrades.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "e78352c48f8cf7ef",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-chile-s-action-plan-kicks-industry-into-high-gear/8576543/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: Chile’s Action Plan Kicks Industry into High Gear"
   },
   {
    "authors": [
@@ -1277,6 +1389,34 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Dielectric–Electrochemical Coupling in Ag@Cu-Modified Chitosan–Silica Conductive Hydrogels for H2O2 Detection"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-24T16:13:40+00:00",
+   "excerpt": "Global investment in natural hydrogen exploration has exceeded USD 1 billion, driving junior explorers like Makenita Resources to expand their Saskatchewan acreage near MAX Power’s Lawson discovery and attracting major…",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "31d4923e48e4d1bf",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/natural-hydrogen-production-attracts-over-1-billion-in-global-investment-energiz/8576542/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Natural Hydrogen Production Attracts Over $1 Billion in Global Investment, Energizing Saskatchewan Exploration"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-24T16:12:08+00:00",
+   "excerpt": "NEDO and Kyoto University are building BL34XU, the world’s first hydrogen-focused beamline at SPring-8-II, to slash R&D cycles and accelerate hydrogen fuel cell and electrolysis research.",
+   "first_seen": "2026-08-28T10:39:42+00:00",
+   "id": "eaee750056c50302",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-energy-news-nedo-kyoto-university-fast-track-hydrogen-fuel-cell-r-d-wit/8576541/",
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "NEDO & Kyoto University Fast-Track Hydrogen Fuel Cell R&D with BL34XU Beamline"
   },
   {
    "authors": [
@@ -3089,6 +3229,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-28T10:21:36+00:00",
+ "updated": "2026-08-28T10:39:42+00:00",
  "version": 2
 }

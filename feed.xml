@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 28 Aug 2026 10:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:39:28 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>ZeroAvia Appoints Christine Ourmières-Widener as Chief Executive Officer</title>
@@ -249,6 +249,14 @@
       <description>South Korea Proposes Zero Import Tariffs on Key Fuel-Cell Components in 2027 — Fuel Cells Works</description>
     </item>
     <item>
+      <title>San Bernardino International Airport and Total Hydrogen Development to Produce Clean, Low- Cost Hydrogen in the Inland Empire</title>
+      <link>http://www.hydrogenfuelnews.com/san-bernardino-international-airport-and-total-hydrogen-development-to-produce-c/8576552/</link>
+      <guid isPermaLink="false">molecola-a8b99472a2d74783</guid>
+      <pubDate>Wed, 26 Aug 2026 06:32:36 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>SAN BERNARDINO, Calif. (July 31 st , 2026) The San Bernardino International Airport Authority (SBIAA) and Total Hydrogen Development (THD) today announced plans to develop a clean hydrogen production facility at San… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>A Cournot–Nash model for a coupled hydrogen and electricity market</title>
       <link>https://doi.org/10.1007/s12667-026-00817-z</link>
       <guid isPermaLink="false">molecola-07344a9c1285d867</guid>
@@ -321,6 +329,38 @@
       <description>Scientific Reports — OpenAlex</description>
     </item>
     <item>
+      <title>Green Hydrogen-driven Synthetic Aviation Fuel Demonstration Plant Debuts at PSI</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-driven-synthetic-aviation-fuel-demonstration-plant-debuts-at-psi/8576551/</link>
+      <guid isPermaLink="false">molecola-b451c14f5db41a2f</guid>
+      <pubDate>Tue, 25 Aug 2026 18:08:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Metafuels and PSI have launched an end-to-end Power-to-Liquid demo plant in Villigen, Switzerland, producing 50 L/day of synthetic aviation fuel from green hydrogen and CO₂ under one roof—marking a key step toward… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production in Chile Faces Test on a Fragile Electricity Grid</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-in-chile-faces-test-on-a-fragile-electricity-grid/8576550/</link>
+      <guid isPermaLink="false">molecola-07f87c50f53d7c63</guid>
+      <pubDate>Tue, 25 Aug 2026 18:04:39 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Chile’s push for green hydrogen faces a paradox: abundant solar and wind power is often curtailed, while the grid struggles with winter deficits. Experts call for integrating electrolyzers with renewable assets, grid… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen News: Shipping’s Green Hydrogen Shift Could Unlock $284 Billion in Annual Health Benefits</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-shipping-s-green-hydrogen-shift-could-unlock-284-billion-in-annual/8576549/</link>
+      <guid isPermaLink="false">molecola-0020c7910f442f9b</guid>
+      <pubDate>Tue, 25 Aug 2026 18:04:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A Nature Communications study shows a global shift to green hydrogen in shipping could avert 129,458 premature deaths and deliver US$284 billion in yearly health benefits by cutting PM2.5 and ozone emissions. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>UKRI Unveils £28 Million Ultra-Long Duration Energy Storage Challenge to Accelerate Hydrogen Storage and Advanced Batteries</title>
+      <link>http://www.hydrogenfuelnews.com/ukri-unveils-28-million-ultra-long-duration-energy-storage-challenge-to-accelera/8576546/</link>
+      <guid isPermaLink="false">molecola-9dda9a5cd197fde3</guid>
+      <pubDate>Tue, 25 Aug 2026 18:03:52 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>UKRI’s new £28 million Ultra-LDES Challenge backs 100-hour discharge systems—advanced batteries and underground hydrogen storage—to bridge multi-day renewable gaps. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Mantle8 to Search 1,680Km² of Spanish Pyrenees for Natural Hydrogen and Helium</title>
       <link>https://fuelcellsworks.com/2026/08/25/energy-policy/mantle8-to-search-1-680km-of-spanish-pyrenees-for-natural-hydrogen-and-helium</link>
       <guid isPermaLink="false">molecola-cbdc989c5109e9ab</guid>
@@ -353,6 +393,46 @@
       <description>Hamburg starts building hydrogen connector for HH-WIN network — Hydrogen Europe</description>
     </item>
     <item>
+      <title>Dongfeng Liuzhou and CATL Enhance Commercial Vehicle Battery Standards and Hydrogen Fuel Cell Integration</title>
+      <link>http://www.hydrogenfuelnews.com/dongfeng-liuzhou-and-catl-enhance-commercial-vehicle-battery-standards-and-hydro/8576545/</link>
+      <guid isPermaLink="false">molecola-e543ee4593d01ac7</guid>
+      <pubDate>Tue, 25 Aug 2026 05:12:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Dongfeng Liuzhou Motor and CATL deepen their partnership with a five-year pact to standardize commercial vehicle batteries, pioneer a battery bank model and integrate hydrogen fuel cell vehicles. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Infrastructure News: HYPERION Summit in Valladolid Advances Regional Projects</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-infrastructure-news-hyperion-summit-in-valladolid-advances-region/8576544/</link>
+      <guid isPermaLink="false">molecola-9217caf9b0828783</guid>
+      <pubDate>Tue, 25 Aug 2026 05:08:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>HYPERION’s fifth meeting in Valladolid brought eight European regions together to accelerate green hydrogen infrastructure, featuring CyLH2Valley pilots and policy workshops. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: Chile’s Action Plan Kicks Industry into High Gear</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-chile-s-action-plan-kicks-industry-into-high-gear/8576543/</link>
+      <guid isPermaLink="false">molecola-e78352c48f8cf7ef</guid>
+      <pubDate>Tue, 25 Aug 2026 05:04:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Chile’s Green Hydrogen Action Plan 2023-2030 outlines 81 measures to build a complete green hydrogen ecosystem with clear roles, regional roadmaps and infrastructure upgrades. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Natural Hydrogen Production Attracts Over $1 Billion in Global Investment, Energizing Saskatchewan Exploration</title>
+      <link>http://www.hydrogenfuelnews.com/natural-hydrogen-production-attracts-over-1-billion-in-global-investment-energiz/8576542/</link>
+      <guid isPermaLink="false">molecola-31d4923e48e4d1bf</guid>
+      <pubDate>Mon, 24 Aug 2026 16:13:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Global investment in natural hydrogen exploration has exceeded USD 1 billion, driving junior explorers like Makenita Resources to expand their Saskatchewan acreage near MAX Power’s Lawson discovery and attracting major… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>NEDO &amp; Kyoto University Fast-Track Hydrogen Fuel Cell R&amp;D with BL34XU Beamline</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-energy-news-nedo-kyoto-university-fast-track-hydrogen-fuel-cell-r-d-wit/8576541/</link>
+      <guid isPermaLink="false">molecola-eaee750056c50302</guid>
+      <pubDate>Mon, 24 Aug 2026 16:12:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>NEDO and Kyoto University are building BL34XU, the world’s first hydrogen-focused beamline at SPring-8-II, to slash R&amp;D cycles and accelerate hydrogen fuel cell and electrolysis research. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Green Hydrogen Production: German Mission Targets Electrolysis, Storage and Pipeline Conversion in Algiers</title>
       <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-german-mission-targets-electrolysis-storage-and-pipeli/8576533/</link>
       <guid isPermaLink="false">molecola-3a885c3112d3f551</guid>
@@ -367,86 +447,6 @@
       <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Research demonstrates that engineering polymer photocatalyst crystallinity boosts sunlight-driven hydrogen production, potentially making organic catalysts competitive alternatives to standard inorganic materials. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Plug Power Cancels 100 MW Antwerp Plant</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-plug-power-cancels-100-mw-antwerp-plant/8576531/</link>
-      <guid isPermaLink="false">molecola-daa682991a25dcfb</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Plug Power has abandoned its planned 100 MW electrolyzer facility at the Port of Antwerp-Bruges, writing off EUR 13.6 million due to financial and market challenges in scaling production. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Clean Hydrogen Offtake Agreement Powers e-Methane Supply from Finland to Germany</title>
-      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-offtake-agreement-powers-e-methane-supply-from-finland-to-germany/8576530/</link>
-      <guid isPermaLink="false">molecola-879f0f55222ae351</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>P2X Solutions signed a long-term deal to supply synthetic methane from its Harjavalta facility to avanca Energy and Alternoil's REEFUEL network for heavy-duty transport beginning Q4 2026. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Empa's Proton Highway Project Aims to Boost Green Hydrogen Production</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-empa-s-proton-highway-project-aims-to-boost-green-hydrogen-product/8576529/</link>
-      <guid isPermaLink="false">molecola-0e5477b2e9e8e16e</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Swiss researchers use neutron crystallography and lattice dynamics to improve proton transport in ceramic membranes, aiming to enhance efficiency and durability of electrolyzers and fuel cells. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind</title>
-      <link>https://www.pv-magazine.com/2026/08/21/the-hydrogen-stream-jcb-hydromax-sets-speed-record-for-hydrogen-powered-vehicles-of-any-kind/</link>
-      <guid isPermaLink="false">molecola-a8432a74f9bae3a2</guid>
-      <pubDate>Fri, 21 Aug 2026 11:55:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>In other news, Egyptian researchers developed new catalysts for hydrogen production from plastic waste. Asahi Kasei, Perdaman, and Sunfire also advanced electrolysis projects in Japan, Australia, and Germany. — PV Magazine</description>
-    </item>
-    <item>
-      <title>Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system</title>
-      <link>https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/</link>
-      <guid isPermaLink="false">molecola-256772bd4d4890b1</guid>
-      <pubDate>Fri, 21 Aug 2026 05:49:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Researchers in India developed a PVT-hydrogen system using air-bubble injection to improve cooling, thermal and electrical efficiency, and hydrogen production. Tested outdoors in Tamil Nadu, the system achieved a peak… — PV Magazine</description>
-    </item>
-    <item>
-      <title>Danish green hydrogen-based methanol project secures a fourth offtaker</title>
-      <link>https://hydrogeneurope.eu/danish-green-hydrogen-based-methanol-project-secures-a-fourth-offtaker/</link>
-      <guid isPermaLink="false">molecola-813638c4579bafd4</guid>
-      <pubDate>Thu, 20 Aug 2026 15:28:47 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Danish green hydrogen-based methanol project secures a fourth offtaker — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Colruyt Group pioneers hydrogen trucks</title>
-      <link>https://hydrogeneurope.eu/colruyt-group-pioneers-hydrogen-trucks/</link>
-      <guid isPermaLink="false">molecola-f332ba57fe56858a</guid>
-      <pubDate>Thu, 20 Aug 2026 10:56:06 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Colruyt Group pioneers hydrogen trucks — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Kyushu University Expands Hydrogen Research Push Into Catalysts and Advanced Materials</title>
-      <link>https://fuelcellsworks.com/2026/08/17/education/kyushu-university-expands-hydrogen-research-push-into-catalysts-and-advanced-materials</link>
-      <guid isPermaLink="false">molecola-b860b9046acabacd</guid>
-      <pubDate>Wed, 19 Aug 2026 13:33:13 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Kyushu University Expands Hydrogen Research Push Into Catalysts and Advanced Materials — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hellesylt Hydrogen Hub Becomes the First RFNBO-Certified Hydrogen Production Site in Norway</title>
-      <link>https://hydrogeneurope.eu/hellesylt-hydrogen-hub-becomes-the-first-rfnbo-certified-hydrogen-production-site-in-norway/</link>
-      <guid isPermaLink="false">molecola-eb61e61d41d3276b</guid>
-      <pubDate>Wed, 19 Aug 2026 13:04:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Hellesylt Hydrogen Hub Becomes the First RFNBO-Certified Hydrogen Production Site in Norway — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Finland’s P2X Solutions Signs Green Hydrogen E-Methane Supply Deal</title>
-      <link>https://hydrogeneurope.eu/finlands-p2x-solutions-signs-green-hydrogen-e-methane-supply-deal/</link>
-      <guid isPermaLink="false">molecola-f8c8b6056a24e4e1</guid>
-      <pubDate>Tue, 18 Aug 2026 11:25:36 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Finland’s P2X Solutions Signs Green Hydrogen E-Methane Supply Deal — Hydrogen Europe</description>
     </item>
   </channel>
 </rss>
