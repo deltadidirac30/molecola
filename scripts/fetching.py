@@ -286,7 +286,7 @@ def collect_all(verbose=True):
     dal workflow di diagnostica.
     """
     all_items, report = [], []
-    for source in S.SOURCES:
+    for source in S.POLLED:
         items, error = collect_source(source)
         report.append(dict(slug=source["slug"], name=source["name"],
                            ok=error is None, error=error, count=len(items),

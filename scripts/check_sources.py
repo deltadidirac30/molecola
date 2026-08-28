@@ -51,7 +51,7 @@ def main():
         return probe(args.probe)
 
     rows, healthy = [], 0
-    for source in S.SOURCES:
+    for source in S.POLLED:
         items, error = fetching.collect_source(source)
         newest = max((i["date"] for i in items), default="")
         if error:
@@ -76,8 +76,12 @@ def main():
                             ok=(state != "IRRAGGIUNGIBILE"), error=error or None,
                             count=count, newest=newest or None)
                        for (state, name, kind, count, newest, error, url), s
-                       in zip(rows, S.SOURCES)])
-    print(f"\n{healthy}/{len(rows)} fonti producono articoli.")
+                       in zip(rows, S.POLLED)])
+    print(f"\n{healthy}/{len(rows)} fonti interrogate producono articoli.")
+    if S.MANUAL:
+        print("\nNon interrogate (solo riferimento nella sezione «Fonti»):")
+        for s in S.MANUAL:
+            print(f"  {s['name']:32s} {s.get('note','')}")
     print("Referto salvato in data/source-health.json")
     empty = [r[1] for r in rows if r[0] != "OK"]
     if empty:

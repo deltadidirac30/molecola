@@ -197,7 +197,7 @@ def footer(lang, *, depth, report):
     t = lambda key, **kw: i18n.t(lang, key, **kw)
     reached = sum(1 for r in report if r["ok"] and r["count"])
     groups = {"industria": [], "politica": [], "ricerca": []}
-    for source in S.SOURCES:
+    for source in S.POLLED:
         groups[source["category"]].append(source)
     columns = []
     for category, items in groups.items():
@@ -210,10 +210,20 @@ def footer(lang, *, depth, report):
 {links}
         </ul>
       </div>""")
+    reference = "\n".join(
+        f'        <li><a href="{esc(x["home"])}" target="_blank" rel="noopener" '
+        f'title="{esc(x.get("note", ""))}">{esc(x["name"])}</a></li>'
+        for x in sorted(S.MANUAL, key=lambda x: x["name"].lower()))
     return f"""<footer class="site-footer" id="fonti">
   <div class="wrap">
     <div class="footer-grid">
 {chr(10).join(columns)}
+      <div>
+        <h3>{esc(t('reference_sources'))}</h3>
+        <ul class="footer-links">
+{reference}
+        </ul>
+      </div>
       <div>
         <h3>Molecola</h3>
         <ul class="footer-links">
@@ -226,7 +236,7 @@ def footer(lang, *, depth, report):
     </div>
     <div class="footer-bottom">
       <p>{esc(t('rights'))}</p>
-      <p>{esc(t('footer_purpose'))} · {reached}/{len(S.SOURCES)} {esc(t('sources_reached'))}</p>
+      <p>{esc(t('footer_purpose'))} · {reached}/{len(S.POLLED)} {esc(t('sources_reached'))}</p>
     </div>
   </div>
 </footer>
@@ -443,7 +453,7 @@ def method_band(lang, indicators):
     <div class="prose">{body}</div>
     <div class="prose">
       <h3>{esc(t('section_sources'))}</h3>
-      <p>{len(S.SOURCES)} {esc(t('sources_reached'))} · <a href="{esc(REPO_URL)}/blob/main/scripts/sources.py" target="_blank" rel="noopener">scripts/sources.py</a></p>
+      <p>{len(S.POLLED)} {esc(t('sources_reached'))} · <a href="{esc(REPO_URL)}/blob/main/scripts/sources.py" target="_blank" rel="noopener">scripts/sources.py</a></p>
       <p>{esc(t('rights'))}</p>
     </div>
   </div>
@@ -474,7 +484,7 @@ def front_page(lang, *, items, research, report, built_at, indicators, archive_t
   <span class="status-live"><span class="live-dot" aria-hidden="true"></span>
     {esc(t('updated_prefix'))}
     <time datetime="{esc(built_at.isoformat(timespec='seconds'))}" data-localtime>{esc(i18n.format_date(built_at, lang, with_time=True))} UTC</time></span>
-  <span><b>{reached}</b>/{len(S.SOURCES)} {esc(t('sources_reached'))}</span>
+  <span><b>{reached}</b>/{len(S.POLLED)} {esc(t('sources_reached'))}</span>
   <span><b>{len(items)}</b> {esc(t('articles_in_feed'))}</span>
   <span><b>{archive_total}</b> {esc(t('in_archive'))}</span>
   {f'<span>{esc(t("newest_article"))} <b>{esc(i18n.format_date(newest, lang))}</b></span>' if newest else ''}

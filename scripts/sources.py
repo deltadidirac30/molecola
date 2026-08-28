@@ -22,6 +22,14 @@ Ogni fonte e' un dizionario con questi campi:
                      contengono una parola chiave (vedi KEYWORDS)
   initials   2 lettere per la sigla nel filo diretto
   weight     priorita' a parita' di data (piu' alto = preferito nel dedup)
+  poll       False = la fonte NON viene interrogata, resta solo come link nella
+             sezione «Fonti» del sito. Si usa per chi non espone un feed
+             leggibile da uno script: quasi sempre una protezione anti-bot
+             (Cloudflare risponde 403 agli indirizzi dei datacenter, qualunque
+             sia lo user-agent) o l'assenza di un RSS pubblico. Il motivo va
+             scritto in `note`, così non si riprova all'infinito la stessa
+             strada gia' verificata come chiusa.
+  note       perche' la fonte non e' interrogabile (solo quando poll=False)
 
 Aggiungere una fonte = aggiungere una riga qui. Nient'altro da toccare:
 il build genera da solo filtri, legenda, sezione "Fonti" e colori.
@@ -63,13 +71,15 @@ SOURCES = [
          url="https://www.h2-view.com/feed/",
          home="https://www.h2-view.com",
          category="industria", lang="en", paywall=True, topical=True,
-         initials="H2", weight=7),
+         initials="H2", weight=7,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="hydrogen-insight", name="Hydrogen Insight", kind="rss",
          url="https://www.hydrogeninsight.com/?service=rss",
          home="https://www.hydrogeninsight.com",
          category="industria", lang="en", paywall=True, topical=True,
-         initials="HI", weight=8),
+         initials="HI", weight=8,
+         poll=False, note="nessun feed pubblico raggiungibile; il sito serve HTML anche su /rss"),
 
     dict(slug="power", name="POWER", kind="rss",
          url="https://www.powermag.com/category/hydrogen/feed/",
@@ -99,7 +109,8 @@ SOURCES = [
          url="https://www.greencarcongress.com/index.rdf",
          home="https://www.greencarcongress.com",
          category="industria", lang="en", paywall=False, topical=False,
-         initials="GC", weight=2),
+         initials="GC", weight=2,
+         poll=False, note="dominio non piu' risolvibile"),
 
     # ------------------------------------------------------------------
     # Associazioni e piattaforme di settore
@@ -114,7 +125,8 @@ SOURCES = [
          url="https://hydrogencouncil.com/en/feed/",
          home="https://hydrogencouncil.com",
          category="industria", lang="en", paywall=False, topical=True,
-         initials="HC", weight=5),
+         initials="HC", weight=5,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="fchea", name="FCHEA", kind="rss",
          url="https://fchea.org/feed/",
@@ -126,22 +138,26 @@ SOURCES = [
          url="https://www.clean-hydrogen.europa.eu/rss_en.xml",
          home="https://www.clean-hydrogen.europa.eu",
          category="politica", lang="en", paywall=False, topical=True,
-         initials="CH", weight=7),
+         initials="CH", weight=7,
+         poll=False, note="nessun RSS pubblico (404 su tutte le varianti)"),
 
     # ------------------------------------------------------------------
     # Istituzionali — Unione europea
     # ------------------------------------------------------------------
-    dict(slug="ec-energy", name="Commissione europea — Energia", kind="rss",
-         url="https://energy.ec.europa.eu/rss_en.xml",
-         home="https://energy.ec.europa.eu",
+    # Il press corner e' l'unico endpoint istituzionale europeo che risponda a
+    # uno script: energy.ec.europa.eu, CINEA e Clean Hydrogen Partnership non
+    # espongono RSS (404 su tutte le varianti provate con la sonda).
+    dict(slug="ec-presscorner", name="Commissione europea", kind="rss",
+         url="https://ec.europa.eu/commission/presscorner/api/rss?language=en",
+         home="https://ec.europa.eu/commission/presscorner/home/en",
          category="politica", lang="en", paywall=False, topical=False,
-         initials="EC", weight=8),
+         initials="EC", weight=9),
 
-    dict(slug="cinea", name="CINEA — Hydrogen Bank", kind="rss",
-         url="https://cinea.ec.europa.eu/rss_en.xml",
-         home="https://cinea.ec.europa.eu",
+    dict(slug="eea", name="Agenzia europea dell'ambiente", kind="rss",
+         url="https://www.eea.europa.eu/en/newsroom/news/rss.xml",
+         home="https://www.eea.europa.eu",
          category="politica", lang="en", paywall=False, topical=False,
-         initials="CI", weight=8),
+         initials="EE", weight=6),
 
     # ------------------------------------------------------------------
     # Istituzionali — internazionali
@@ -150,13 +166,15 @@ SOURCES = [
          url="https://www.iea.org/rss/news",
          home="https://www.iea.org/energy-system/low-emission-fuels/hydrogen",
          category="politica", lang="en", paywall=False, topical=False,
-         initials="IE", weight=9),
+         initials="IE", weight=9,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="irena", name="IRENA", kind="rss",
          url="https://www.irena.org/rss/news",
          home="https://www.irena.org",
          category="politica", lang="en", paywall=False, topical=False,
-         initials="IR", weight=7),
+         initials="IR", weight=7,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="us-doe", name="US DOE — Energy", kind="rss",
          url="https://www.energy.gov/rss/articles.xml",
@@ -171,7 +189,8 @@ SOURCES = [
          url="https://www.rinnovabili.it/tag/idrogeno/feed/",
          home="https://www.rinnovabili.it/tag/idrogeno/",
          category="industria", lang="it", paywall=False, topical=True,
-         initials="RI", weight=4),
+         initials="RI", weight=4,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="qualenergia", name="QualEnergia", kind="rss",
          url="https://www.qualenergia.it/feed/",
@@ -189,7 +208,8 @@ SOURCES = [
          url="https://www.mase.gov.it/rss/comunicati",
          home="https://www.mase.gov.it",
          category="politica", lang="it", paywall=False, topical=False,
-         initials="MA", weight=8),
+         initials="MA", weight=8,
+         poll=False, note="Cloudflare respinge le richieste automatiche (403)"),
 
     dict(slug="h2it", name="H2IT", kind="rss",
          url="https://www.h2it.it/feed/",
@@ -222,6 +242,11 @@ SOURCES = [
          initials="OA", weight=4),
 ]
 
+# Le fonti effettivamente interrogate a ogni run. Le altre restano elencate
+# nella sezione «Fonti» del sito come riferimento, con il motivo per cui non
+# sono automatizzabili.
+POLLED = [s for s in SOURCES if s.get("poll", True)]
+MANUAL = [s for s in SOURCES if not s.get("poll", True)]
 BY_SLUG = {s["slug"]: s for s in SOURCES}
 
 

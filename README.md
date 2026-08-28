@@ -71,6 +71,25 @@ Campo `topical`: `True` se la fonte pubblica solo idrogeno (si prende tutto),
 `False` se è generalista (si tiene solo ciò che contiene una parola chiave).
 Campo `paywall`: `True` se l'articolo completo richiede abbonamento — il sito
 lo segnala al lettore prima del clic.
+Campo `poll`: `False` per una fonte che non è interrogabile da uno script;
+resta elencata nella sezione «Fonti» come riferimento, con in `note` il motivo.
+
+### Trovare il feed giusto di una fonte nuova
+
+**Actions → Verifica fonti → Run workflow**, campo *urls*: si incollano gli URL
+candidati separati da spazio. Il workflow li prova tutti e scrive l'esito in
+`data/probe-results.txt` — quali rispondono, con quanti articoli e quanto
+recenti. Una misura invece di un tentativo alla cieca.
+
+### Fonti che non si possono automatizzare
+
+Nove fonti hanno `poll=False`. Non è una dimenticanza: sono state provate e
+sono chiuse. IEA, IRENA, Hydrogen Council, MASE, Rinnovabili.it e H2 View
+rispondono `403` a qualunque richiesta automatica — è Cloudflare che blocca gli
+indirizzi dei datacenter, e non si aggira cambiando user-agent. CINEA e Clean
+Hydrogen Partnership non espongono alcun RSS pubblico. Green Car Congress non
+risolve più. Restano nella sezione «Fonti» del sito come link di riferimento,
+con il motivo in `note`, così nessuno rifà la stessa strada.
 
 ### Aggiornare le cifre IEA
 
