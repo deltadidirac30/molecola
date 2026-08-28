@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 28 Aug 2026 11:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 11:19:09 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Five key questions about hydrogen – Global Hydrogen Review 2025 – Analysis - IEA</title>
+      <link>https://www.iea.org/reports/global-hydrogen-review-2025/five-key-questions-about-hydrogen</link>
+      <guid isPermaLink="false">molecola-7d0fe391e6760e33</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">IEA</source>
+      <description>Global Hydrogen Review 2025 - Analysis and key findings. A report by the International Energy Agency. — IEA</description>
+    </item>
     <item>
       <title>ZeroAvia Appoints Christine Ourmières-Widener as Chief Executive Officer</title>
       <link>https://fuelcellsworks.com/2026/08/27/hydrogen/zeroavia-appoints-christine-ourmieres-widener-as-chief-executive-officer</link>
@@ -439,14 +447,6 @@
       <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>A German delegation led by energiewaechter GmbH visits Algiers to advance green hydrogen infrastructure under the SoutH2 Corridor plan, focusing on electrolysis, desalination, storage and pipeline conversion. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Crystalline polymer catalysts edge closer to efficient green hydrogen production</title>
-      <link>http://www.hydrogenfuelnews.com/crystalline-polymer-catalysts-edge-closer-to-efficient-green-hydrogen-production/8576532/</link>
-      <guid isPermaLink="false">molecola-931b306ea39d55d2</guid>
-      <pubDate>Sun, 23 Aug 2026 12:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Research demonstrates that engineering polymer photocatalyst crystallinity boosts sunlight-driven hydrogen production, potentially making organic catalysts competitive alternatives to standard inorganic materials. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,20 @@
+{
+ "_comment": "Articoli aggiunti a mano con scripts/add_article.py. Rifusi nell'archivio a ogni build.",
+ "count": 1,
+ "items": [
+  {
+   "id": "7d0fe391e6760e33",
+   "title": "Five key questions about hydrogen – Global Hydrogen Review 2025 – Analysis - IEA",
+   "link": "https://www.iea.org/reports/global-hydrogen-review-2025/five-key-questions-about-hydrogen",
+   "source": "IEA",
+   "source_slug": "iea",
+   "category": "politica",
+   "lang": "en",
+   "paywall": false,
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Global Hydrogen Review 2025 - Analysis and key findings. A report by the International Energy Agency.",
+   "authors": [],
+   "manual": true
+  }
+ ]
+}
