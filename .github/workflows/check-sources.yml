@@ -29,10 +29,13 @@ jobs:
 
       - name: Salva il referto nel repository
         run: |
-          if git diff --quiet -- data/source-health.json; then exit 0; fi
           git config user.name  "molecola-bot"
           git config user.email "actions@users.noreply.github.com"
+          # git diff non vede un file non ancora tracciato: si mette in stage
+          # e poi si controlla l'indice, altrimenti il primo referto non viene
+          # mai committato.
           git add data/source-health.json
+          if git diff --cached --quiet; then echo "referto invariato"; exit 0; fi
           git commit -m "Referto fonti"
           git pull --rebase origin main && git push origin HEAD:main
 
