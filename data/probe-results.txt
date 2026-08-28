@@ -1,0 +1,20 @@
+ESITO        N  PIÙ RECENTE  URL
+----------------------------------------------------------------------------------------------------
+ERRORE       0               https://energy.ec.europa.eu/rss.xml  HTTPError: HTTP Error 404: Not Found
+FUNZIONA    10  2026-08-27   https://ec.europa.eu/commission/presscorner/api/rss?language=en
+ERRORE       0               https://cinea.ec.europa.eu/rss.xml  HTTPError: HTTP Error 404: Not Found
+ERRORE       0               https://www.clean-hydrogen.europa.eu/rss.xml  HTTPError: HTTP Error 404: Not Found
+FUNZIONA    25  2026-07-01   https://www.eea.europa.eu/en/newsroom/news/rss.xml
+ERRORE       0               https://www.europarl.europa.eu/rss/doc/press-releases/en.xml  parse ParseError: no element found: line 1, column 0
+ERRORE       0               https://www.iea.org/rss/news.xml  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.irena.org/rss  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.ansa.it/canale_ambiente/notizie/energia/energia_rss.xml  HTTPError: HTTP Error 404: Not Found
+ERRORE       0               https://www.rinnovabili.it/feed/  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.energia-oltre.it/feed/  URLError: <urlopen error [Errno -2] Name or service not kn
+ERRORE       0               https://www.mase.gov.it/rss.xml  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.h2-view.com/rss/  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.hydrogeninsight.com/rss  HTTPError: HTTP Error 404: Not Found
+ERRORE       0               https://www.rechargenews.com/?service=rss  parse ParseError: syntax error: line 1, column 0
+ERRORE       0               https://www.greencarcongress.com/atom.xml  URLError: <urlopen error [Errno -2] Name or service not kn
+ERRORE       0               https://www.hydrogencouncil.com/feed/  HTTPError: HTTP Error 403: Forbidden
+ERRORE       0               https://www.energy.gov/eere/fuelcells/rss.xml  HTTPError: HTTP Error 404: Not Found
