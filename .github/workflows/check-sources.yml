@@ -1,0 +1,39 @@
+name: Verifica fonti
+
+# Diagnostica: dice quali fonti rispondono davvero e con quanti articoli.
+# Da lanciare a mano ogni volta che si aggiunge o si sospetta una fonte
+# (Actions -> Verifica fonti -> Run workflow). Gira anche una volta a settimana
+# per accorgersi in anticipo di una fonte che sta morendo lentamente.
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '23 6 * * 1'   # lunedì mattina
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Interroga tutte le fonti
+        run: |
+          python3 scripts/check_sources.py | tee /tmp/report.txt
+
+      - name: Riepilogo leggibile
+        if: always()
+        run: |
+          {
+            echo "### Stato delle fonti"
+            echo ""
+            echo '```'
+            cat /tmp/report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

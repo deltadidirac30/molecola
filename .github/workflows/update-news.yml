@@ -1,35 +1,66 @@
-name: Aggiorna notizie Molecola
+name: Aggiorna Molecola
 
 on:
   schedule:
-    # ogni 3 ore, sui minuti :07 per non intasare i runner GitHub allo scoccare dell'ora
+    # ogni 3 ore, al minuto :07 per non finire nella coda dei runner allo scoccare dell'ora
     - cron: '7 */3 * * *'
   workflow_dispatch: {}
 
 permissions:
   contents: write
 
+# Due run sovrapposti si darebbero fastidio a vicenda sullo stesso branch.
+concurrency:
+  group: aggiorna-molecola
+  cancel-in-progress: false
+
 jobs:
-  update-wire:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # serve la history: il push fa rebase se il branch si e' mosso
 
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Aggiorna il filo diretto da feed RSS reali
-        run: python3 scripts/update_wire.py
+      - name: Costruisci il sito dalle fonti
+        run: python3 scripts/build.py
 
-      - name: Commit e push se qualcosa e' cambiato
+      - name: Pubblica se qualcosa e' cambiato
         run: |
-          if git diff --quiet -- index.html; then
-            echo "Nessuna modifica, salto il commit."
+          set -euo pipefail
+          if git diff --quiet; then
+            echo "Nessuna modifica: niente da pubblicare."
             exit 0
           fi
-          git config user.name "molecola-bot"
+          git config user.name  "molecola-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add index.html
-          git commit -m "Aggiornamento automatico Filo diretto"
-          git push
+          git add -A
+          git commit -m "Aggiornamento automatico"
+
+          # Nel frattempo qualcuno puo' aver committato a mano: si riprova con rebase
+          # invece di fallire e mandare un falso allarme via email.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Pubblicato al tentativo $attempt."
+              exit 0
+            fi
+            echo "Push respinto, riallineo e riprovo ($attempt/3)…"
+            git pull --rebase origin main
+          done
+          echo "Push fallito dopo 3 tentativi." >&2
+          exit 1
+
+      - name: Riepilogo
+        if: always()
+        run: |
+          {
+            echo "### Molecola"
+            echo ""
+            echo "- Articoli in archivio: $(python3 -c "import json;print(json.load(open('data/archive.json'))['count'])" 2>/dev/null || echo 'n/d')"
+            echo "- Ultimo articolo: $(python3 -c "import json;print(json.load(open('data/archive.json'))['items'][0]['date'][:10])" 2>/dev/null || echo 'n/d')"
+          } >> "$GITHUB_STEP_SUMMARY"

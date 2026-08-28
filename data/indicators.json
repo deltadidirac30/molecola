@@ -1,0 +1,46 @@
+{
+  "_comment": "Sezione «L'idrogeno in numeri». NON automatica: si aggiorna a mano quando esce un nuovo IEA Global Hydrogen Review. Ogni cifra deve avere fonte e link diretto. meter = percentuale della barra (0-100), opzionale.",
+  "source_label": "IEA, Global Hydrogen Review 2026",
+  "source_url": "https://www.iea.org/reports/global-hydrogen-review-2026",
+  "license": "CC BY 4.0",
+  "figures": [
+    {
+      "value": ">100",
+      "unit": {"it": "Mt H₂", "en": "Mt H₂"},
+      "label": {"it": "Domanda globale 2025", "en": "Global demand 2025"},
+      "note": {"it": "+3% sul 2024, ancora quasi interamente da fonti fossili.",
+               "en": "Up 3% on 2024, still almost entirely from fossil sources."},
+      "cite": "IEA (2026), Global Hydrogen Review — Demand",
+      "url": "https://www.iea.org/reports/global-hydrogen-review-2026/demand"
+    },
+    {
+      "value": "~1",
+      "unit": {"it": "Mt, <1% del totale", "en": "Mt, <1% of the total"},
+      "meter": 1,
+      "label": {"it": "Idrogeno a basse emissioni", "en": "Low-emission hydrogen"},
+      "note": {"it": "+20% sul 2025, ma resta una frazione minima dei >100 Mt prodotti.",
+               "en": "Up 20% on 2025, yet a sliver of the >100 Mt produced."},
+      "cite": "IEA (2026), Global Hydrogen Review — Production",
+      "url": "https://www.iea.org/reports/global-hydrogen-review-2026/production"
+    },
+    {
+      "value": "37",
+      "unit": {"it": "Mtpa annunciati al 2030", "en": "Mtpa announced to 2030"},
+      "meter": 11,
+      "label": {"it": "Progetti in pipeline", "en": "Project pipeline"},
+      "note": {"it": "Solo 4,2 Mtpa hanno una decisione finale d'investimento: il resto è sulla carta.",
+               "en": "Only 4.2 Mtpa have a final investment decision; the rest is on paper."},
+      "cite": "IEA (2026), Global Hydrogen Review — Investment",
+      "url": "https://www.iea.org/reports/global-hydrogen-review-2026/investment-and-innovation"
+    },
+    {
+      "value": "~130",
+      "unit": {"it": "mila in circolazione", "en": "thousand on the road"},
+      "label": {"it": "Veicoli a celle a combustibile", "en": "Fuel-cell vehicles"},
+      "note": {"it": "+20% nel 2025: cresce, ma resta piccolo accanto al parco elettrico a batteria.",
+               "en": "Up 20% in 2025: growing, but small next to the battery-electric fleet."},
+      "cite": "IEA (2026), Global Hydrogen Review — Demand",
+      "url": "https://www.iea.org/reports/global-hydrogen-review-2026/demand"
+    }
+  ]
+}
