@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 
 ARCHIVE_PATH = os.path.join("data", "archive.json")
 FIELDS = ("id", "title", "link", "source", "source_slug", "category",
-          "lang", "paywall", "date", "excerpt", "authors", "first_seen")
+          "lang", "paywall", "date", "excerpt", "authors", "manual", "first_seen")
 
 
 def load(path=ARCHIVE_PATH):
@@ -56,7 +56,7 @@ def merge(existing, fresh, now=None):
             added += 1
         else:
             for key in ("title", "excerpt", "authors", "source", "source_slug",
-                        "category", "lang", "paywall", "date"):
+                        "category", "lang", "paywall", "date", "manual"):
                 if item.get(key):
                     current[key] = item[key]
     merged = sorted(by_id.values(), key=lambda i: (i.get("date") or ""), reverse=True)

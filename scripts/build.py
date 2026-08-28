@@ -117,6 +117,21 @@ def main():
     built_at = datetime.now(timezone.utc)
     archive = store.load()
 
+    # Gli articoli aggiunti a mano (scripts/add_article.py) rientrano a ogni
+    # build: nessun aggiornamento automatico puo' farli sparire.
+    manual_path = os.path.join("data", "manual.json")
+    if os.path.exists(manual_path):
+        with open(manual_path, "r", encoding="utf-8") as fh:
+            try:
+                manual = json.load(fh).get("items", [])
+            except json.JSONDecodeError:
+                manual = []
+        if manual:
+            archive, added_manual = store.merge(archive, manual)
+            if added_manual:
+                print(f"{added_manual} articoli aggiunti a mano rientrati in archivio",
+                      file=sys.stderr)
+
     if args.offline:
         report = [dict(slug=s["slug"], name=s["name"], ok=True, error=None,
                        count=sum(1 for i in archive if i["source_slug"] == s["slug"]),

@@ -91,6 +91,32 @@ Hydrogen Partnership non espongono alcun RSS pubblico. Green Car Congress non
 risolve più. Restano nella sezione «Fonti» del sito come link di riferimento,
 con il motivo in `note`, così nessuno rifà la stessa strada.
 
+### Aggiungere un articolo a mano
+
+Per gli articoli che l'automazione non può prendere — IEA, MASE, Hydrogen
+Council e le altre fonti dietro protezione anti-bot, un PDF, un comunicato
+arrivato per email:
+
+```bash
+python3 scripts/add_article.py https://esempio.it/articolo
+```
+
+oppure doppio clic su **`aggiungi-articolo.command`** dal Finder.
+
+Lo script apre la pagina, ne ricava titolo, data, testata e lingua, ti mostra
+cosa ha trovato e ti lascia correggere ogni campo premendo Invio per
+accettare. Poi ricostruisce il sito, fa il commit e lo pubblica. Se la pagina
+non si lascia leggere, chiede tutto a mano.
+
+Le voci finiscono in `data/manual.json` e vengono rifuse nell'archivio a ogni
+build: nessun aggiornamento automatico può cancellarle. Sul sito portano
+l'etichetta «segnalato», perché sono una scelta editoriale e non il risultato
+dell'aggregazione. Per toglierne una, cancellala da `data/manual.json` **e**
+da `data/archive.json` — l'archivio è in sola aggiunta e non la perde da solo.
+
+Opzioni: `--no-push` prepara il commit senza pubblicarlo, `--no-build` lascia
+la ricostruzione delle pagine al prossimo run automatico.
+
 ### Aggiornare le cifre IEA
 
 `data/indicators.json`, a mano, quando esce un nuovo *Global Hydrogen Review*.

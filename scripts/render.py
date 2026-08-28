@@ -279,12 +279,17 @@ def _actions(lang):
 
 def _kicker(item, lang):
     t = lambda key: i18n.t(lang, key)
-    paywall = (f'<span class="badge-paywall" title="{esc(t("paywall_title"))}">'
-               f'{esc(t("paywall"))}</span>') if item.get("paywall") else ""
+    badges = ""
+    if item.get("paywall"):
+        badges += (f'<span class="badge-paywall" title="{esc(t("paywall_title"))}">'
+                   f'{esc(t("paywall"))}</span>')
+    if item.get("manual"):
+        badges += (f'<span class="badge-paywall" title="{esc(t("manual_title"))}">'
+                   f'{esc(t("manual"))}</span>')
     return (f'<p class="story-kicker">'
             f'<span class="cat">{esc(t("cat_" + item["category"]))}</span>'
             f'<span class="sep">|</span>'
-            f'<span class="src">{esc(item["source"])}</span>{paywall}</p>')
+            f'<span class="src">{esc(item["source"])}</span>{badges}</p>')
 
 
 def _meta(item, lang):
@@ -369,8 +374,10 @@ def controls_html(lang, items):
 
     cat_pairs = [(c, t("cat_" + c), counts_cat[c])
                  for c in ("industria", "politica", "ricerca") if counts_cat.get(c)]
-    src_pairs = sorted(((s["slug"], s["name"], counts_src[s["slug"]])
-                        for s in S.SOURCES if counts_src.get(s["slug"])),
+    names = {}
+    for item in items:
+        names.setdefault(item["source_slug"], item["source"])
+    src_pairs = sorted(((slug, names[slug], counts_src[slug]) for slug in counts_src),
                        key=lambda p: p[1].lower())
     lang_pairs = [(code, t("lang_" + code), counts_lang[code])
                   for code in ("en", "it") if counts_lang.get(code)]
