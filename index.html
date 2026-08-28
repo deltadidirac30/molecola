@@ -24,6 +24,16 @@
     --accent-ink: #F1F4F2;
     --good: #3C7F53;
 
+    --src-teal: #12777F;
+    --src-blue: #35608E;
+    --src-green: #3C7F53;
+    --src-plum: #74528C;
+    --src-amber: #96631C;
+    --src-rose: #A14B5C;
+    --src-slate: #4A5C7A;
+    --src-olive: #6E6B2E;
+    --src-text: #F7F8F6;
+
     --font-display: "Zilla Slab", Georgia, "Times New Roman", serif;
     --font-body: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -43,6 +53,15 @@
       --accent-strong: #57D6E2;
       --accent-ink: #06181A;
       --good: #6FBE8B;
+
+      --src-teal: #2BA3AC;
+      --src-blue: #6F97C4;
+      --src-green: #74B389;
+      --src-plum: #A986C2;
+      --src-amber: #D6A64F;
+      --src-rose: #CC8494;
+      --src-slate: #8AA0C6;
+      --src-olive: #A6A455;
     }
   }
   :root[data-theme="dark"]{
@@ -58,6 +77,15 @@
     --accent-strong: #57D6E2;
     --accent-ink: #06181A;
     --good: #6FBE8B;
+
+    --src-teal: #2BA3AC;
+    --src-blue: #6F97C4;
+    --src-green: #74B389;
+    --src-plum: #A986C2;
+    --src-amber: #D6A64F;
+    --src-rose: #CC8494;
+    --src-slate: #8AA0C6;
+    --src-olive: #A6A455;
   }
 
   *,*::before,*::after{ box-sizing: border-box; }
@@ -166,28 +194,56 @@
   .no-results.show{ display:block; }
 
   /* ---------- Wire feed ---------- */
-  .wire-list{ display:flex; flex-direction:column; }
-  .wire-item{
-    display:grid; grid-template-columns: 64px 1fr auto;
-    gap: 14px; align-items:start;
-    padding: 13px 0;
-    border-top: 1px solid var(--line);
+  .wire-list{ display:flex; flex-direction:column; gap:10px; }
+  .day-divider{
+    display:flex; align-items:center; gap:10px;
+    margin: 22px 0 2px; font-family: var(--font-mono); font-size:0.72rem;
+    letter-spacing:0.1em; text-transform:uppercase; color: var(--ink-faint);
   }
-  .wire-item:first-child{ border-top: 1px solid var(--line-strong); }
+  .day-divider:first-child{ margin-top:0; }
+  .day-divider::after{ content:""; flex:1; height:1px; background: var(--line); }
+  .day-divider.is-hidden{ display:none; }
+
+  .wire-item{
+    display:grid; grid-template-columns: 40px 1fr;
+    gap: 13px; align-items:start;
+    padding: 14px 16px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--paper);
+    transition: background-color .15s ease, border-color .15s ease;
+  }
+  .wire-item:hover{ background: var(--paper-raised); border-color: var(--line-strong); }
   .wire-item.is-hidden{ display:none; }
-  .wire-time{ font-family: var(--font-mono); font-size:0.7rem; color: var(--ink-faint); padding-top:3px; }
-  .wire-body h4{ font-family: var(--font-body); font-weight:600; font-size: 0.98rem; line-height:1.35; }
+
+  .avatar{
+    width:38px; height:38px; border-radius:50%; flex:none;
+    display:flex; align-items:center; justify-content:center;
+    font-family: var(--font-mono); font-weight:600; font-size:0.68rem; letter-spacing:0.01em;
+    color: var(--src-text); background: var(--ink-faint);
+  }
+  .avatar.src-hydrogen-europe{ background: var(--src-blue); }
+  .avatar.src-hydrogen-council{ background: var(--src-teal); }
+  .avatar.src-hydrogen-fuel-news{ background: var(--src-green); }
+  .avatar.src-fchea{ background: var(--src-plum); }
+  .avatar.src-power{ background: var(--src-amber); }
+  .avatar.src-pv-magazine{ background: var(--src-rose); }
+  .avatar.src-energy-storage-news{ background: var(--src-slate); }
+  .avatar.src-offshore-energy{ background: var(--src-olive); }
+
+  .wire-body h4{ font-family: var(--font-display); font-weight:600; font-size: 1.08rem; line-height:1.3; }
   .wire-body h4 a{ color:inherit; text-decoration:none; }
   .wire-body h4 a:hover{ text-decoration:underline; text-decoration-color: var(--line-strong); }
-  .wire-body p{ margin-top:4px; color: var(--ink-soft); font-size: 0.86rem; }
-  .wire-tag{
-    padding-top: 3px; font-family: var(--font-body); font-weight:600; font-size:0.68rem;
-    letter-spacing:0.05em; text-transform:uppercase; color: var(--ink-faint); white-space:nowrap;
+  .wire-body p.excerpt{ margin-top:6px; color: var(--ink-soft); font-size: 0.9rem; line-height:1.5; }
+  .wire-meta{
+    margin-top:8px; display:flex; flex-wrap:wrap; gap:6px 10px; align-items:center;
+    font-family: var(--font-mono); font-size:0.72rem; color: var(--ink-faint);
   }
-  @media (max-width: 620px){
-    .wire-item{ grid-template-columns: 1fr; gap:4px; }
-    .wire-time{ order:1; }
-    .wire-tag{ order:2; }
+  .wire-meta .dot{ opacity:0.6; }
+
+  @media (max-width: 480px){
+    .wire-item{ grid-template-columns: 32px 1fr; padding:12px; gap:10px; }
+    .avatar{ width:30px; height:30px; font-size:0.6rem; }
   }
 
   /* ---------- Sidebar ---------- */
@@ -262,221 +318,329 @@
 
         <div class="wire-list" id="wire-list">
 <!-- WIRE_ITEMS_START -->
-          <div class="wire-item" data-source="hydrogen-europe" data-title="uk zero-emission flight development takes off">
-            <span class="wire-time mono num">25.08</span>
+          <div class="wire-item" data-source="hydrogen-europe" data-date="2026-08-25" data-title="uk zero-emission flight development takes off">
+            <span class="avatar src-hydrogen-europe">HE</span>
             <div class="wire-body">
               <h4><a href="https://hydrogeneurope.eu/uk-zero-emission-flight-development-takes-off/" target="_blank" rel="noopener">UK zero-emission flight development takes off</a></h4>
-              <p></p>
+              
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Europe</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">25.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-europe" data-title="hamburg starts building hydrogen connector for hh-win network">
-            <span class="wire-time mono num">25.08</span>
+          <div class="wire-item" data-source="hydrogen-europe" data-date="2026-08-25" data-title="hamburg starts building hydrogen connector for hh-win network">
+            <span class="avatar src-hydrogen-europe">HE</span>
             <div class="wire-body">
               <h4><a href="https://hydrogeneurope.eu/hamburg-starts-building-hydrogen-connector-for-hh-win-network/" target="_blank" rel="noopener">Hamburg starts building hydrogen connector for HH-WIN network</a></h4>
-              <p></p>
+              
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Europe</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">25.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-fuel-news" data-title="green hydrogen production: german mission targets electrolysis, storage and pipeline conversion in algiers">
-            <span class="wire-time mono num">23.08</span>
+          <div class="wire-item" data-source="hydrogen-fuel-news" data-date="2026-08-23" data-title="green hydrogen production: german mission targets electrolysis, storage and pipeline conversion in algiers">
+            <span class="avatar src-hydrogen-fuel-news">HN</span>
             <div class="wire-body">
               <h4><a href="http://www.hydrogenfuelnews.com/green-hydrogen-production-german-mission-targets-electrolysis-storage-and-pipeli/8576533/" target="_blank" rel="noopener">Green Hydrogen Production: German Mission Targets Electrolysis, Storage and Pipeline Conversion in Algiers</a></h4>
-              <p>A German delegation led by energiewaechter GmbH visits Algiers to advance green hydrogen infrastructure under the SoutH2 Corridor plan, focusing on electrolysis, desalination, storage and pipeline conversion.</p>
+              <p class="excerpt">A German delegation led by energiewaechter GmbH visits Algiers to advance green hydrogen infrastructure under the SoutH2 Corridor plan, focusing on electrolysis, desalination, storage and pipeline conversion.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Fuel News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">23.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Fuel News</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-fuel-news" data-title="crystalline polymer catalysts edge closer to efficient green hydrogen production">
-            <span class="wire-time mono num">23.08</span>
+          <div class="wire-item" data-source="hydrogen-fuel-news" data-date="2026-08-23" data-title="crystalline polymer catalysts edge closer to efficient green hydrogen production">
+            <span class="avatar src-hydrogen-fuel-news">HN</span>
             <div class="wire-body">
               <h4><a href="http://www.hydrogenfuelnews.com/crystalline-polymer-catalysts-edge-closer-to-efficient-green-hydrogen-production/8576532/" target="_blank" rel="noopener">Crystalline polymer catalysts edge closer to efficient green hydrogen production</a></h4>
-              <p>Research demonstrates that engineering polymer photocatalyst crystallinity boosts sunlight-driven hydrogen production, potentially making organic catalysts competitive alternatives to standard inorganic materials.</p>
+              <p class="excerpt">Research demonstrates that engineering polymer photocatalyst crystallinity boosts sunlight-driven hydrogen production, potentially making organic catalysts competitive alternatives to standard inorganic materials.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Fuel News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">23.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Fuel News</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-fuel-news" data-title="plug power cancels 100 mw antwerp plant">
-            <span class="wire-time mono num">23.08</span>
+          <div class="wire-item" data-source="hydrogen-fuel-news" data-date="2026-08-23" data-title="plug power cancels 100 mw antwerp plant">
+            <span class="avatar src-hydrogen-fuel-news">HN</span>
             <div class="wire-body">
               <h4><a href="http://www.hydrogenfuelnews.com/green-hydrogen-news-plug-power-cancels-100-mw-antwerp-plant/8576531/" target="_blank" rel="noopener">Plug Power Cancels 100 MW Antwerp Plant</a></h4>
-              <p>Plug Power has abandoned its planned 100 MW electrolyzer facility at the Port of Antwerp-Bruges, writing off EUR 13.6 million due to financial and market challenges in scaling production.</p>
+              <p class="excerpt">Plug Power has abandoned its planned 100 MW electrolyzer facility at the Port of Antwerp-Bruges, writing off EUR 13.6 million due to financial and market challenges in scaling production.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Fuel News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">23.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Fuel News</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-fuel-news" data-title="clean hydrogen offtake agreement powers e-methane supply from finland to germany">
-            <span class="wire-time mono num">23.08</span>
+          <div class="wire-item" data-source="hydrogen-fuel-news" data-date="2026-08-23" data-title="clean hydrogen offtake agreement powers e-methane supply from finland to germany">
+            <span class="avatar src-hydrogen-fuel-news">HN</span>
             <div class="wire-body">
               <h4><a href="http://www.hydrogenfuelnews.com/clean-hydrogen-offtake-agreement-powers-e-methane-supply-from-finland-to-germany/8576530/" target="_blank" rel="noopener">Clean Hydrogen Offtake Agreement Powers e-Methane Supply from Finland to Germany</a></h4>
-              <p>P2X Solutions signed a long-term deal to supply synthetic methane from its Harjavalta facility to avanca Energy and Alternoil&#x27;s REEFUEL network for heavy-duty transport beginning Q4 2026.</p>
+              <p class="excerpt">P2X Solutions signed a long-term deal to supply synthetic methane from its Harjavalta facility to avanca Energy and Alternoil&#x27;s REEFUEL network for heavy-duty transport beginning Q4 2026.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Fuel News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">23.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Fuel News</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-fuel-news" data-title="empa&#x27;s proton highway project aims to boost green hydrogen production">
-            <span class="wire-time mono num">23.08</span>
+          <div class="wire-item" data-source="hydrogen-fuel-news" data-date="2026-08-23" data-title="empa&#x27;s proton highway project aims to boost green hydrogen production">
+            <span class="avatar src-hydrogen-fuel-news">HN</span>
             <div class="wire-body">
               <h4><a href="http://www.hydrogenfuelnews.com/hydrogen-news-empa-s-proton-highway-project-aims-to-boost-green-hydrogen-product/8576529/" target="_blank" rel="noopener">Empa&#x27;s Proton Highway Project Aims to Boost Green Hydrogen Production</a></h4>
-              <p>Swiss researchers use neutron crystallography and lattice dynamics to improve proton transport in ceramic membranes, aiming to enhance efficiency and durability of electrolyzers and fuel cells.</p>
+              <p class="excerpt">Swiss researchers use neutron crystallography and lattice dynamics to improve proton transport in ceramic membranes, aiming to enhance efficiency and durability of electrolyzers and fuel cells.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Fuel News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">23.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Fuel News</span>
           </div>
-          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: jcb hydromax sets speed record for hydrogen-powered vehicles of any kind">
-            <span class="wire-time mono num">21.08</span>
+          <div class="wire-item" data-source="pv-magazine" data-date="2026-08-21" data-title="the hydrogen stream: jcb hydromax sets speed record for hydrogen-powered vehicles of any kind">
+            <span class="avatar src-pv-magazine">PV</span>
             <div class="wire-body">
               <h4><a href="https://www.pv-magazine.com/2026/08/21/the-hydrogen-stream-jcb-hydromax-sets-speed-record-for-hydrogen-powered-vehicles-of-any-kind/" target="_blank" rel="noopener">The Hydrogen Stream: JCB Hydromax sets speed record for hydrogen-powered vehicles of any kind</a></h4>
-              <p>JCB achieved a world land speed record of 406.320 mph with its hydrogen-powered vehicle. Egyptian researchers also developed catalysts for hydrogen from plastic waste.</p>
+              <p class="excerpt">JCB achieved a world land speed record of 406.320 mph with its hydrogen-powered vehicle. Egyptian researchers also developed catalysts for hydrogen from plastic waste.</p>
+              <div class="wire-meta">
+                <span class="wire-source">PV Magazine</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">21.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item" data-source="pv-magazine" data-title="air bubbles boost cooling and hydrogen production in photovoltaic-thermal system">
-            <span class="wire-time mono num">21.08</span>
+          <div class="wire-item" data-source="pv-magazine" data-date="2026-08-21" data-title="air bubbles boost cooling and hydrogen production in photovoltaic-thermal system">
+            <span class="avatar src-pv-magazine">PV</span>
             <div class="wire-body">
               <h4><a href="https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/" target="_blank" rel="noopener">Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system</a></h4>
-              <p>Indian researchers developed a PVT-hydrogen system using air-bubble injection, achieving peak thermal efficiency of 45.5% and hydrogen production of 15.5 ml/min when tested outdoors in Tamil Nadu.</p>
+              <p class="excerpt">Indian researchers developed a PVT-hydrogen system using air-bubble injection, achieving peak thermal efficiency of 45.5% and hydrogen production of 15.5 ml/min when tested outdoors in Tamil Nadu.</p>
+              <div class="wire-meta">
+                <span class="wire-source">PV Magazine</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">21.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-europe" data-title="danish green hydrogen-based methanol project secures a fourth offtaker">
-            <span class="wire-time mono num">20.08</span>
+          <div class="wire-item" data-source="hydrogen-europe" data-date="2026-08-20" data-title="danish green hydrogen-based methanol project secures a fourth offtaker">
+            <span class="avatar src-hydrogen-europe">HE</span>
             <div class="wire-body">
               <h4><a href="https://hydrogeneurope.eu/danish-green-hydrogen-based-methanol-project-secures-a-fourth-offtaker/" target="_blank" rel="noopener">Danish green hydrogen-based methanol project secures a fourth offtaker</a></h4>
-              <p></p>
+              
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Europe</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">20.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-europe" data-title="colruyt group pioneers hydrogen trucks">
-            <span class="wire-time mono num">20.08</span>
+          <div class="wire-item" data-source="hydrogen-europe" data-date="2026-08-20" data-title="colruyt group pioneers hydrogen trucks">
+            <span class="avatar src-hydrogen-europe">HE</span>
             <div class="wire-body">
               <h4><a href="https://hydrogeneurope.eu/colruyt-group-pioneers-hydrogen-trucks/" target="_blank" rel="noopener">Colruyt Group pioneers hydrogen trucks</a></h4>
-              <p></p>
+              
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Europe</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">20.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-europe" data-title="hellesylt hydrogen hub becomes the first rfnbo-certified hydrogen production site in norway">
-            <span class="wire-time mono num">19.08</span>
+          <div class="wire-item" data-source="hydrogen-europe" data-date="2026-08-19" data-title="hellesylt hydrogen hub becomes the first rfnbo-certified hydrogen production site in norway">
+            <span class="avatar src-hydrogen-europe">HE</span>
             <div class="wire-body">
               <h4><a href="https://hydrogeneurope.eu/hellesylt-hydrogen-hub-becomes-the-first-rfnbo-certified-hydrogen-production-site-in-norway/" target="_blank" rel="noopener">Hellesylt Hydrogen Hub Becomes the First RFNBO-Certified Hydrogen Production Site in Norway</a></h4>
-              <p></p>
+              
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Europe</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">19.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Europe</span>
           </div>
-          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: commissioning begins for 2.2 gw neom h2 project in saudi arabia">
-            <span class="wire-time mono num">14.08</span>
+          <div class="wire-item" data-source="pv-magazine" data-date="2026-08-14" data-title="the hydrogen stream: commissioning begins for 2.2 gw neom h2 project in saudi arabia">
+            <span class="avatar src-pv-magazine">PV</span>
             <div class="wire-body">
               <h4><a href="https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/" target="_blank" rel="noopener">The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia</a></h4>
-              <p>The Neom Green Hydrogen Company started commissioning its 2.2 GW green hydrogen facility. Additional developments included a German electrolyzer project cancellation and new initiatives across Belgium, India and Italy.</p>
+              <p class="excerpt">The Neom Green Hydrogen Company started commissioning its 2.2 GW green hydrogen facility. Additional developments included a German electrolyzer project cancellation and new initiatives across Belgium, India and Italy.</p>
+              <div class="wire-meta">
+                <span class="wire-source">PV Magazine</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">14.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item" data-source="fchea" data-title="transit agencies continue to grow u.s. fuel cell bus fleets">
-            <span class="wire-time mono num">10.08</span>
+          <div class="wire-item" data-source="fchea" data-date="2026-08-10" data-title="transit agencies continue to grow u.s. fuel cell bus fleets">
+            <span class="avatar src-fchea">FC</span>
             <div class="wire-body">
               <h4><a href="https://fchea.org/transit-agencies-continue-to-grow-u-s-fuel-cell-bus-fleets/" target="_blank" rel="noopener">Transit Agencies Continue to Grow U.S. Fuel Cell Bus Fleets</a></h4>
-              <p>Transportation agencies across multiple U.S. states are expanding hydrogen fuel cell bus deployments and infrastructure, adding vehicles and refueling capacity despite federal funding shifts.</p>
+              <p class="excerpt">Transportation agencies across multiple U.S. states are expanding hydrogen fuel cell bus deployments and infrastructure, adding vehicles and refueling capacity despite federal funding shifts.</p>
+              <div class="wire-meta">
+                <span class="wire-source">FCHEA</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">10.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">FCHEA</span>
           </div>
-          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: over $1 billion in funds for projects in spain, the netherlands">
-            <span class="wire-time mono num">07.08</span>
+          <div class="wire-item" data-source="pv-magazine" data-date="2026-08-07" data-title="the hydrogen stream: over $1 billion in funds for projects in spain, the netherlands">
+            <span class="avatar src-pv-magazine">PV</span>
             <div class="wire-body">
               <h4><a href="https://www.pv-magazine.com/2026/08/07/the-hydrogen-stream-over-1-billion-in-funds-for-projects-in-spain-the-netherlands/" target="_blank" rel="noopener">The Hydrogen Stream: Over $1 billion in funds for projects in Spain, the Netherlands</a></h4>
-              <p>Spain allocated EUR 274.2 million for four renewable hydrogen projects totaling 102.27 MW capacity. The European Commission approved a EUR 780 million Dutch support scheme for renewable hydrogen.</p>
+              <p class="excerpt">Spain allocated EUR 274.2 million for four renewable hydrogen projects totaling 102.27 MW capacity. The European Commission approved a EUR 780 million Dutch support scheme for renewable hydrogen.</p>
+              <div class="wire-meta">
+                <span class="wire-source">PV Magazine</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">07.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item" data-source="power" data-title="energy security during uncertainty: why hydrogen power matters more than ever">
-            <span class="wire-time mono num">04.08</span>
+          <div class="wire-item" data-source="power" data-date="2026-08-04" data-title="energy security during uncertainty: why hydrogen power matters more than ever">
+            <span class="avatar src-power">PW</span>
             <div class="wire-body">
               <h4><a href="https://www.powermag.com/energy-security-during-uncertainty-why-hydrogen-power-matters-more-than-ever/" target="_blank" rel="noopener">Energy Security During Uncertainty: Why Hydrogen Power Matters More Than Ever</a></h4>
-              <p>Global energy markets face mounting volatility due to geopolitical tensions and supply chain disruptions; hydrogen deployment is presented as support for energy resilience.</p>
+              <p class="excerpt">Global energy markets face mounting volatility due to geopolitical tensions and supply chain disruptions; hydrogen deployment is presented as support for energy resilience.</p>
+              <div class="wire-meta">
+                <span class="wire-source">POWER</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">04.08</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">POWER</span>
           </div>
-          <div class="wire-item" data-source="pv-magazine" data-title="the hydrogen stream: chinese company sets record for green ammonia export">
-            <span class="wire-time mono num">31.07</span>
+          <div class="wire-item" data-source="pv-magazine" data-date="2026-07-31" data-title="the hydrogen stream: chinese company sets record for green ammonia export">
+            <span class="avatar src-pv-magazine">PV</span>
             <div class="wire-body">
               <h4><a href="https://www.pv-magazine.com/2026/07/31/the-hydrogen-stream-chinese-company-sets-record-for-green-ammonia-export/" target="_blank" rel="noopener">The Hydrogen Stream: Chinese company sets record for green ammonia export</a></h4>
-              <p>State Power Investment Corp shipped 3,750 tonnes of green ammonia to South Korea, setting a global export record. Additional updates covered hydrogen pipeline plans in Latvia.</p>
+              <p class="excerpt">State Power Investment Corp shipped 3,750 tonnes of green ammonia to South Korea, setting a global export record. Additional updates covered hydrogen pipeline plans in Latvia.</p>
+              <div class="wire-meta">
+                <span class="wire-source">PV Magazine</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">31.07</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">PV Magazine</span>
           </div>
-          <div class="wire-item" data-source="fchea" data-title="the case for aligning hydrogen ghg accounting">
-            <span class="wire-time mono num">21.07</span>
+          <div class="wire-item" data-source="fchea" data-date="2026-07-21" data-title="the case for aligning hydrogen ghg accounting">
+            <span class="avatar src-fchea">FC</span>
             <div class="wire-body">
               <h4><a href="https://fchea.org/the-case-for-aligning-hydrogen-ghg-accounting/" target="_blank" rel="noopener">The Case for Aligning Hydrogen GHG Accounting</a></h4>
-              <p>Different governmental frameworks and certification schemes measure hydrogen emissions differently across regions; better alignment could reduce compliance costs and enable easier trade.</p>
+              <p class="excerpt">Different governmental frameworks and certification schemes measure hydrogen emissions differently across regions; better alignment could reduce compliance costs and enable easier trade.</p>
+              <div class="wire-meta">
+                <span class="wire-source">FCHEA</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">21.07</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">FCHEA</span>
           </div>
-          <div class="wire-item" data-source="energy-storage-news" data-title="elestor, windpark zeewolde partner on 10-40-hour hydrogen-iron flow battery ldes project in netherlands">
-            <span class="wire-time mono num">08.07</span>
+          <div class="wire-item" data-source="energy-storage-news" data-date="2026-07-08" data-title="elestor, windpark zeewolde partner on 10-40-hour hydrogen-iron flow battery ldes project in netherlands">
+            <span class="avatar src-energy-storage-news">ES</span>
             <div class="wire-body">
               <h4><a href="https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/" target="_blank" rel="noopener">Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands</a></h4>
-              <p>Dutch developer Elestor has partnered with Windpark Zeewolde to deploy a hydrogen-iron flow battery storage system at what is described as Europe&#x27;s largest onshore wind farm.</p>
+              <p class="excerpt">Dutch developer Elestor has partnered with Windpark Zeewolde to deploy a hydrogen-iron flow battery storage system at what is described as Europe&#x27;s largest onshore wind farm.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Energy Storage News</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">08.07</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Energy Storage News</span>
           </div>
-          <div class="wire-item" data-source="fchea" data-title="automakers pave road ahead for fuel cells">
-            <span class="wire-time mono num">06.07</span>
+          <div class="wire-item" data-source="fchea" data-date="2026-07-06" data-title="automakers pave road ahead for fuel cells">
+            <span class="avatar src-fchea">FC</span>
             <div class="wire-body">
               <h4><a href="https://fchea.org/automakers-pave-road-ahead-for-fuel-cells/" target="_blank" rel="noopener">Automakers Pave Road Ahead for Fuel Cells</a></h4>
-              <p>Major automotive manufacturers including BMW, Toyota and Hyundai are advancing fuel cell systems and hydrogen storage innovations, from tank designs to commercial truck deployments.</p>
+              <p class="excerpt">Major automotive manufacturers including BMW, Toyota and Hyundai are advancing fuel cell systems and hydrogen storage innovations, from tank designs to commercial truck deployments.</p>
+              <div class="wire-meta">
+                <span class="wire-source">FCHEA</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">06.07</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">FCHEA</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-council" data-title="20+ associations endorse the call-to-action: hydrogen for a resilient world">
-            <span class="wire-time mono num">29.06</span>
+          <div class="wire-item" data-source="hydrogen-council" data-date="2026-06-29" data-title="20+ associations endorse the call-to-action: hydrogen for a resilient world">
+            <span class="avatar src-hydrogen-council">HC</span>
             <div class="wire-body">
               <h4><a href="https://hydrogencouncil.com/en/20-associations-endorse-the-call-to-action-hydrogen-for-a-resilient-world/" target="_blank" rel="noopener">20+ associations endorse the Call-to-Action: Hydrogen for a resilient world</a></h4>
-              <p>A coalition of 26 national and regional hydrogen associations worldwide has endorsed the CEO-led Call-to-Action launched at the World Hydrogen Summit in Rotterdam.</p>
+              <p class="excerpt">A coalition of 26 national and regional hydrogen associations worldwide has endorsed the CEO-led Call-to-Action launched at the World Hydrogen Summit in Rotterdam.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Council</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">29.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Council</span>
           </div>
-          <div class="wire-item" data-source="fchea" data-title="the molecules behind the movement: how chemistry is powering the hydrogen economy">
-            <span class="wire-time mono num">22.06</span>
+          <div class="wire-item" data-source="fchea" data-date="2026-06-22" data-title="the molecules behind the movement: how chemistry is powering the hydrogen economy">
+            <span class="avatar src-fchea">FC</span>
             <div class="wire-body">
               <h4><a href="https://fchea.org/the-molecules-behind-the-movement-how-chemistry-is-powering-the-hydrogen-economy/" target="_blank" rel="noopener">The Molecules Behind the Movement: How Chemistry is Powering the Hydrogen Economy</a></h4>
-              <p>Materials science and chemistry breakthroughs are enabling hydrogen technologies, from advanced membranes to storage materials critical to production and infrastructure.</p>
+              <p class="excerpt">Materials science and chemistry breakthroughs are enabling hydrogen technologies, from advanced membranes to storage materials critical to production and infrastructure.</p>
+              <div class="wire-meta">
+                <span class="wire-source">FCHEA</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">22.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">FCHEA</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-council" data-title="ceo-led call-to-action: hydrogen for a resilient world">
-            <span class="wire-time mono num">17.06</span>
+          <div class="wire-item" data-source="hydrogen-council" data-date="2026-06-17" data-title="ceo-led call-to-action: hydrogen for a resilient world">
+            <span class="avatar src-hydrogen-council">HC</span>
             <div class="wire-body">
               <h4><a href="https://hydrogencouncil.com/en/ceo-led-call-to-action-hydrogen-for-a-resilient-world/" target="_blank" rel="noopener">CEO-led Call-to-Action: Hydrogen for a resilient world</a></h4>
-              <p>Hydrogen Council member CEOs explain why hydrogen represents a strategic approach for achieving deep electrification and lasting resilience.</p>
+              <p class="excerpt">Hydrogen Council member CEOs explain why hydrogen represents a strategic approach for achieving deep electrification and lasting resilience.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Council</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">17.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Council</span>
           </div>
-          <div class="wire-item" data-source="power" data-title="hydrogen&#x27;s practical turn: from hype to targeted value">
-            <span class="wire-time mono num">16.06</span>
+          <div class="wire-item" data-source="power" data-date="2026-06-16" data-title="hydrogen&#x27;s practical turn: from hype to targeted value">
+            <span class="avatar src-power">PW</span>
             <div class="wire-body">
               <h4><a href="https://www.powermag.com/blog/hydrogens-practical-turn-from-hype-to-targeted-value/" target="_blank" rel="noopener">Hydrogen&#x27;s Practical Turn: From Hype to Targeted Value</a></h4>
-              <p>The hydrogen sector is moving beyond promotional cycles toward strategic deployment, increasingly complementing electrification in specific applications rather than serving as a universal solution.</p>
+              <p class="excerpt">The hydrogen sector is moving beyond promotional cycles toward strategic deployment, increasingly complementing electrification in specific applications rather than serving as a universal solution.</p>
+              <div class="wire-meta">
+                <span class="wire-source">POWER</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">16.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">POWER</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-council" data-title="hydrogen moves from blueprints to reality as capacity set to double: hydrogen council">
-            <span class="wire-time mono num">04.06</span>
+          <div class="wire-item" data-source="hydrogen-council" data-date="2026-06-04" data-title="hydrogen moves from blueprints to reality as capacity set to double: hydrogen council">
+            <span class="avatar src-hydrogen-council">HC</span>
             <div class="wire-body">
               <h4><a href="https://hydrogencouncil.com/en/hydrogen-moves-from-blueprints-to-reality-as-capacity-set-to-double-hydrogen-council/" target="_blank" rel="noopener">Hydrogen moves from blueprints to reality as capacity set to double: Hydrogen Council</a></h4>
-              <p>Hydrogen Council CEO Ivana Jemelkova discusses the sector&#x27;s shift from planning to execution, with global operational production capacity expected to double in 2026.</p>
+              <p class="excerpt">Hydrogen Council CEO Ivana Jemelkova discusses the sector&#x27;s shift from planning to execution, with global operational production capacity expected to double in 2026.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Council</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">04.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Council</span>
           </div>
-          <div class="wire-item" data-source="fchea" data-title="fuel cell power on the go: anywhere, anytime, any need">
-            <span class="wire-time mono num">01.06</span>
+          <div class="wire-item" data-source="fchea" data-date="2026-06-01" data-title="fuel cell power on the go: anywhere, anytime, any need">
+            <span class="avatar src-fchea">FC</span>
             <div class="wire-body">
               <h4><a href="https://fchea.org/fuel-cell-power-on-the-go-anywhere-anytime-any-need/" target="_blank" rel="noopener">Fuel Cell Power on the Go: Anywhere, Anytime, Any Need</a></h4>
-              <p>Mobile fuel cell systems provide quiet, zero-emissions power for temporary deployments at construction sites, EV charging stations and events.</p>
+              <p class="excerpt">Mobile fuel cell systems provide quiet, zero-emissions power for temporary deployments at construction sites, EV charging stations and events.</p>
+              <div class="wire-meta">
+                <span class="wire-source">FCHEA</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">01.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">FCHEA</span>
           </div>
-          <div class="wire-item" data-source="hydrogen-council" data-title="hydrogen council ceo: industry&#x27;s asks are the same, but the politics aren&#x27;t">
-            <span class="wire-time mono num">01.06</span>
+          <div class="wire-item" data-source="hydrogen-council" data-date="2026-06-01" data-title="hydrogen council ceo: industry&#x27;s asks are the same, but the politics aren&#x27;t">
+            <span class="avatar src-hydrogen-council">HC</span>
             <div class="wire-body">
               <h4><a href="https://hydrogencouncil.com/en/hydrogen-council-ceo-industrys-asks-are-the-same-but-the-politics-arent/" target="_blank" rel="noopener">Hydrogen Council CEO: Industry&#x27;s asks are the same, but the politics aren&#x27;t</a></h4>
-              <p>CEO Ivana Jemelkova reflects on hydrogen&#x27;s role in strengthening energy and industrial resilience amid a shifting political landscape.</p>
+              <p class="excerpt">CEO Ivana Jemelkova reflects on hydrogen&#x27;s role in strengthening energy and industrial resilience amid a shifting political landscape.</p>
+              <div class="wire-meta">
+                <span class="wire-source">Hydrogen Council</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">01.06</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">Hydrogen Council</span>
           </div>
 <!-- WIRE_ITEMS_END -->
         </div>
@@ -543,11 +707,45 @@
   var noResults = document.getElementById('no-results');
   var activeSources = new Set();
 
-  // Costruisce i pulsanti di filtro per fonte, in base a cio' che e' presente ora nella pagina
+  // ---- Raggruppa per giorno: inserisce intestazioni "Oggi / Ieri / Questa settimana / Prima" ----
+  function dateKey(d){
+    return d.getFullYear() + '-' + String(d.getMonth()+1).padStart(2,'0') + '-' + String(d.getDate()).padStart(2,'0');
+  }
+  var today = new Date();
+  var todayKey = dateKey(today);
+  var yesterday = new Date(today); yesterday.setDate(yesterday.getDate()-1);
+  var yesterdayKey = dateKey(yesterday);
+  var weekAgo = new Date(today); weekAgo.setDate(weekAgo.getDate()-7);
+
+  function groupLabel(dateStr){
+    if(!dateStr) return 'Senza data';
+    var key = dateStr;
+    if(key === todayKey) return 'Oggi';
+    if(key === yesterdayKey) return 'Ieri';
+    var d = new Date(dateStr + 'T00:00:00');
+    if(!isNaN(d) && d > weekAgo) return 'Questa settimana';
+    return 'Prima d’ora';
+  }
+
+  var lastGroup = null;
+  items.forEach(function(item){
+    var g = groupLabel(item.getAttribute('data-date'));
+    if(g !== lastGroup){
+      var div = document.createElement('div');
+      div.className = 'day-divider';
+      div.setAttribute('data-group', g);
+      div.textContent = g;
+      wireList.insertBefore(div, item);
+      lastGroup = g;
+    }
+  });
+  var dividers = Array.prototype.slice.call(wireList.querySelectorAll('.day-divider'));
+
+  // ---- Pulsanti di filtro per fonte, generati da cio' che e' presente in pagina ----
   var sourcesSeen = {};
   items.forEach(function(item){
     var slug = item.getAttribute('data-source');
-    var label = item.querySelector('.wire-tag');
+    var label = item.querySelector('.wire-source');
     if(slug && label && !sourcesSeen[slug]){
       sourcesSeen[slug] = label.textContent.trim();
     }
@@ -580,14 +778,29 @@
     items.forEach(function(item){
       var slug = item.getAttribute('data-source') || '';
       var title = item.getAttribute('data-title') || '';
-      var bodyText = item.querySelector('.wire-body p');
-      var haystack = title + ' ' + (bodyText ? bodyText.textContent.toLowerCase() : '');
+      var excerptEl = item.querySelector('.excerpt');
+      var sourceEl = item.querySelector('.wire-source');
+      var haystack = title + ' ' +
+        (excerptEl ? excerptEl.textContent.toLowerCase() : '') + ' ' +
+        (sourceEl ? sourceEl.textContent.toLowerCase() : '');
       var matchesSource = activeSources.size === 0 || activeSources.has(slug);
       var matchesQuery = !q || haystack.indexOf(q) !== -1;
       var visible = matchesSource && matchesQuery;
       item.classList.toggle('is-hidden', !visible);
       if(visible) visibleCount++;
     });
+
+    // Nasconde le intestazioni di giorno se nessun elemento del loro gruppo e' visibile
+    dividers.forEach(function(div){
+      var el = div.nextElementSibling;
+      var anyVisible = false;
+      while(el && !el.classList.contains('day-divider')){
+        if(el.classList.contains('wire-item') && !el.classList.contains('is-hidden')){ anyVisible = true; break; }
+        el = el.nextElementSibling;
+      }
+      div.classList.toggle('is-hidden', !anyVisible);
+    });
+
     noResults.classList.toggle('show', visibleCount === 0);
   }
 

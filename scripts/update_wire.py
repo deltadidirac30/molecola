@@ -25,6 +25,18 @@ FEEDS = [
     ("https://www.offshore-energy.biz/tag/hydrogen/feed/", "Offshore Energy", "https://www.offshore-energy.biz/tag/hydrogen/"),
 ]
 
+# Iniziali per l'avatar circolare nel feed (scelte a mano per restare distinte tra loro)
+SOURCE_INITIALS = {
+    "Hydrogen Fuel News": "HN",
+    "POWER": "PW",
+    "FCHEA": "FC",
+    "Hydrogen Council": "HC",
+    "Hydrogen Europe": "HE",
+    "Energy Storage News": "ES",
+    "PV Magazine": "PV",
+    "Offshore Energy": "OE",
+}
+
 MAX_ITEMS = 27
 TIMEOUT = 20
 MIN_HEALTHY_FEEDS = 3  # sotto questa soglia il job fallisce apposta (vedi main())
@@ -128,18 +140,25 @@ def build_wire_html(items):
     blocks = []
     for item in items:
         day_month = item["date"].strftime("%d.%m") if item["date"] else "--.--"
+        iso_date = item["date"].strftime("%Y-%m-%d") if item["date"] else ""
         title = html.escape(item["title"])
         excerpt = html.escape(item["excerpt"]) if item["excerpt"] else ""
         source = html.escape(item["source"])
         source_slug = slugify(item["source"])
+        initials = html.escape(SOURCE_INITIALS.get(item["source"], item["source"][:2].upper()))
         link = html.escape(item["link"], quote=True)
-        blocks.append(f"""          <div class="wire-item" data-source="{source_slug}" data-title="{title.lower()}">
-            <span class="wire-time mono num">{day_month}</span>
+        excerpt_html = f'<p class="excerpt">{excerpt}</p>' if excerpt else ""
+        blocks.append(f"""          <div class="wire-item" data-source="{source_slug}" data-date="{iso_date}" data-title="{title.lower()}">
+            <span class="avatar src-{source_slug}">{initials}</span>
             <div class="wire-body">
               <h4><a href="{link}" target="_blank" rel="noopener">{title}</a></h4>
-              <p>{excerpt}</p>
+              {excerpt_html}
+              <div class="wire-meta">
+                <span class="wire-source">{source}</span>
+                <span class="dot">·</span>
+                <span class="wire-date mono num">{day_month}</span>
+              </div>
             </div>
-            <span class="wire-tag tag cat">{source}</span>
           </div>""")
     return "\n".join(blocks)
 
