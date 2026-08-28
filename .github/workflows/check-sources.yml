@@ -11,7 +11,7 @@ on:
     - cron: '23 6 * * 1'   # lunedì mattina
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   check:
@@ -26,6 +26,15 @@ jobs:
       - name: Interroga tutte le fonti
         run: |
           python3 scripts/check_sources.py | tee /tmp/report.txt
+
+      - name: Salva il referto nel repository
+        run: |
+          if git diff --quiet -- data/source-health.json; then exit 0; fi
+          git config user.name  "molecola-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/source-health.json
+          git commit -m "Referto fonti"
+          git pull --rebase origin main && git push origin HEAD:main
 
       - name: Riepilogo leggibile
         if: always()

@@ -128,6 +128,11 @@ def main():
         archive, added = store.merge(archive, fresh)
         print(f"\n{added} articoli nuovi, {len(archive)} in archivio", file=sys.stderr)
 
+        # Il referto si scrive PRIMA della guardia: quando il job fallisce e'
+        # esattamente il momento in cui serve sapere quale fonte e' caduta.
+        if not args.dry_run:
+            store.save_health(report)
+
         ok, problems = health_check(report, archive)
         if not ok:
             for problem in problems:

@@ -39,7 +39,14 @@ def main():
         note = error if error else url
         print(f"{state:<16} {name:<{width}}  {kind:<9} {count:>3}  {newest:<12} {note[:70]}")
 
+    import store
+    store.save_health([dict(slug=s["slug"], name=s["name"],
+                            ok=(state != "IRRAGGIUNGIBILE"), error=error or None,
+                            count=count, newest=newest or None)
+                       for (state, name, kind, count, newest, error, url), s
+                       in zip(rows, S.SOURCES)])
     print(f"\n{healthy}/{len(rows)} fonti producono articoli.")
+    print("Referto salvato in data/source-health.json")
     empty = [r[1] for r in rows if r[0] != "OK"]
     if empty:
         print("Da sistemare o rimuovere da scripts/sources.py: " + ", ".join(empty))

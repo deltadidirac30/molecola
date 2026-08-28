@@ -76,6 +76,29 @@ def save(items, path=ARCHIVE_PATH):
         fh.write("\n")
 
 
+HEALTH_PATH = os.path.join("data", "source-health.json")
+
+
+def save_health(report, path=HEALTH_PATH):
+    """
+    Scrive lo stato di ogni fonte accanto all'archivio.
+
+    Serve a leggere il referto senza aprire i log di Actions: il file finisce
+    nel repository a ogni run, quindi la diagnosi di una fonte caduta e'
+    sempre a un colpo d'occhio e resta nella history.
+    """
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    payload = {
+        "checked": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "productive": sum(1 for r in report if r.get("ok") and r.get("count")),
+        "total": len(report),
+        "sources": sorted(report, key=lambda r: (bool(r.get("count")), r["slug"])),
+    }
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=1)
+        fh.write("\n")
+
+
 def years(items):
     return sorted({(i.get("date") or "")[:4] for i in items if i.get("date")},
                   reverse=True)
