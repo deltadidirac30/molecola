@@ -1,6 +1,36 @@
 {
- "count": 199,
+ "count": 222,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-28T13:25:26+00:00",
+   "excerpt": "Cbm-Tech has launched a green hydrogen hub in Walvis Bay combining 5 MW of solar, a 5 MW PEM electrolyzer and 5.9 MWh of battery storage.",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "bcf9a64b6721f29c",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/08/28/the-hydrogen-stream-africas-first-full-stack-pv-driven-hydrogen-hub-powers-up-in-namibia/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Africa’s first PV-driven hydrogen hub powers up"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Global Hydrogen Review 2025 - Analysis and key findings. A report by the International Energy Agency.",
+   "first_seen": "2026-08-28T15:15:48+00:00",
+   "id": "7d0fe391e6760e33",
+   "lang": "en",
+   "link": "https://www.iea.org/reports/global-hydrogen-review-2025/five-key-questions-about-hydrogen",
+   "manual": true,
+   "paywall": false,
+   "source": "IEA",
+   "source_slug": "iea",
+   "title": "Five key questions about hydrogen – Global Hydrogen Review 2025 – Analysis - IEA"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -322,6 +352,442 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "EKPO and Akkodis Bring NM20 Fuel Cell Stack to the Road"
+  },
+  {
+   "authors": [
+    "Michele Ciulla",
+    "Nadia Barbacane",
+    "Francesco Raspa",
+    "Roberto Paciotti",
+    "Nazzareno Re",
+    "Gabriella Siani"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "971b1ed86bc9ae4e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141018",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Emulsion architecture Controls the efficiency of hydrogen storage into ternary clathrate hydrates of H2 and mixed Hydrophobic/Hydrophilic co-formers"
+  },
+  {
+   "authors": [
+    "S. A. Freeman",
+    "Ertan Ağar"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Next Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "6a15aaade1e32c63",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.nxener.2026.100939",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Planning energy adequacy for a renewable New England: Multi-decade weather, short- and long-duration storage, and grid-interactive electric vehicles"
+  },
+  {
+   "authors": [
+    "Jiaxin Zhang",
+    "Xin Cao",
+    "Yanhua Zhang",
+    "Tingting Wei",
+    "Jiemin dong",
+    "Xu Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "a49423f4cb61cfa1",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124231",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Al-assisted Y incorporation into Mg matrix: A pathway to uniformly dispersed in-situ catalyst for enhancing dehydrogenation kinetics"
+  },
+  {
+   "authors": [
+    "Wentao Li",
+    "Ying Liu",
+    "Xingchao Wang",
+    "Xiaohan Jiang",
+    "Lingyang Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Molecules",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "0881670708f63c21",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/molecules31173001",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Diethylene Glycol-Regulated Aqueous Electrolyte for Zinc-Ion Hybrid Capacitors Operating from −40 to 60 °C"
+  },
+  {
+   "authors": [
+    "Roshni Kumari",
+    "Dipti Chaudhary",
+    "A. Sircar"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "38a575c855c2a577",
+   "lang": "en",
+   "link": "https://doi.org/10.1177/09576509261483877",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Directly engineered green hydrogen production by water splitting reaction powered by geothermal source: A thermodynamic and mechanistic breakthrough"
+  },
+  {
+   "authors": [
+    "Karan Debnath",
+    "Manish Debbarma",
+    "Subhendu Das",
+    "Surya Chattopadhyaya"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Chemical Papers",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "b1fb0a215d395d6c",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11696-026-05475-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A computational investigation of hydrogen storage and optoelectronic potential of some A′AʺB′Bʺ H6-type (A′Aʺ = LiNa, LiK, & KNa; B′Bʺ = BeMg) double perovskite hydrides with density functional theory"
+  },
+  {
+   "authors": [
+    "Romolo Di Bernardo",
+    "C. Pensa",
+    "G. Spazzafumo",
+    "D. Speranza",
+    "A. Gloria"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "090e5f40ef58114f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.156979",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A parametric design method of metal hydride bulb keel as hydrogen storage system in sailing yachts"
+  },
+  {
+   "authors": [
+    "Tahir Rahim",
+    "Muhammad Shakeel Ahmad",
+    "Nasrudin Abd Rahim",
+    "David Fioriti",
+    "Muhammad Farooq",
+    "Mahmood Khan"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "9290f6c2f7351819",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124061",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Quantitative assessment of hydrogen storage challenges for on-board mobility: A path to decarbonizing global transport"
+  },
+  {
+   "authors": [
+    "Bijian Wang",
+    "Qingshan Xu",
+    "Yongbiao Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "3dfa8e500b3cc76e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157312",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Operational value of hydrogen storage as a market-allocation asset in power-to-hydrogen-and-methane plants: Pathway competition and market-driven sizing"
+  },
+  {
+   "authors": [
+    "Miaomiao Zhao",
+    "Lumeng Zhou",
+    "Chenyue Wu",
+    "Jingyuan Wang",
+    "Wenyan Wang",
+    "Yaping Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "9786539fb710b356",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241317",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A halloysite/PVDF composite electrolyte toward high-performance shuttle-inhibition quasi-solid-state Zn-I2 batteries"
+  },
+  {
+   "authors": [
+    "Ahmad K. ALAhmad",
+    "Hazlie Mokhlis",
+    "Saad Mekhilef",
+    "Hussain Shareef",
+    "Nurulafiqah Nadzirah Mansor",
+    "Nur Elida Mohamad Zahari"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "b912a06f0c2ef179",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.128708",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reliability-constrained optimal sizing and energy management of off-grid PV–battery–green hydrogen microgrids for industrial energy autonomy"
+  },
+  {
+   "authors": [
+    "Jooseong Kim",
+    "Swe Lynn Htet",
+    "Sookyung Park",
+    "Sang Hyup Lee",
+    "Nonghoon Choe"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Agriculture",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "4e5738856a433401",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/agriculture16171837",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Storage Stability and Antimicrobial Efficacy of Veterinary Disinfectants Under Simulated Field Conditions"
+  },
+  {
+   "authors": [
+    "Xingyu Zhang",
+    "Haiqiang Bai",
+    "Wenbin Li",
+    "You Wang",
+    "Yunhua Xu",
+    "Sai Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Advanced Science",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "0b9e4461f2497703",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/advs.77432",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Strong Metal‐Support Interaction Driven Janus Reconstruction in PtRu Alloys for Low‐Temperature Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Yousef Gharbia",
+    "Javad Farrokhi Derakhshandeh",
+    "Mohamed Said Abouelela",
+    "Ibrahim Elbadawy",
+    "Mohammad Doust"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "a63ea97e0ba61708",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19174029",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Energy Storage Technologies and Applications: A Comprehensive Review"
+  },
+  {
+   "authors": [
+    "吕玉亮",
+    "Jianping He",
+    "Yichun Zeng",
+    "Tianyu Liao",
+    "Lezi Li",
+    "Chenfei Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Gels",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "7d22bb9c25c41686",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/gels12090768",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Cucumber Biomass Powder as Reinforcing Scaffold for Poly(acrylic acid-co-acrylamide) Superabsorbent Hydrogels: Structure and Properties"
+  },
+  {
+   "authors": [
+    "Sefa Yıldırım"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "afc00aa702706cb5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157309",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Elastodynamic response of functionally-graded hollow cylinders under transient hydrogenation and pressurization"
+  },
+  {
+   "authors": [
+    "Usman Saeed",
+    "Ghulam M. Mustafa",
+    "N. A. Noor",
+    "Sikandar Azam",
+    "Hosam O. Elansary",
+    "Arslan Zulfiqar"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "22b09433180eaf5d",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-66823-4",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles investigation of A2SnH6 (A = Li, Na, K) double perovskite hydrides for energy conversion applications"
+  },
+  {
+   "authors": [
+    "Ritsuki Morohoshi",
+    "Tomoya Kawabata"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "cd6cc4aa321a78b9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157002",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental and Hutchinson–Rice–Rosengren field analysis of J-integral resistance in pre-strained SUS316L at cryogenic temperatures"
+  },
+  {
+   "authors": [
+    "Ying Li",
+    "Jue Wang",
+    "Yue Liu",
+    "Yinshui He",
+    "Xiongxin Jiang",
+    "Qinglin Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "International Communications in Heat and Mass Transfer",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "acb8f5f477e318a1",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.icheatmasstransfer.2026.112446",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Lauric acid/MIL-101-NH2 composite enhanced thermal conductivity and thermal stability of phase change material for thermal energy management: Experiment and molecular dynamics simulations"
+  },
+  {
+   "authors": [
+    "Yukun Zhou",
+    "Yaqi Ge",
+    "Huaqiao Liu",
+    "Yigang Huang",
+    "Xiaolong Tian",
+    "Chuansheng Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Industrial Crops and Products",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "c409d24546520b27",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.indcrop.2026.124257",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mechanism on natural raw rubber network construction via ternary deep eutectic solvent combined with foaming dispersion microwave irradiation process"
+  },
+  {
+   "authors": [
+    "Jie Yang",
+    "Kuo Bao",
+    "Kai Ma",
+    "Boyuan Zhao",
+    "Zhengwei Qu"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-28T15:16:52+00:00",
+   "id": "e1a0a8e3160a9d90",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124156",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hierarchical coordination of voyage routing and shipboard energy dispatch for hybrid all-electric ships"
   },
   {
    "authors": [
@@ -3229,6 +3695,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-28T10:39:42+00:00",
+ "updated": "2026-08-28T15:16:52+00:00",
  "version": 2
 }

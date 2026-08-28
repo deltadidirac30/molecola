@@ -1,13 +1,13 @@
 {
- "checked": "2026-08-28T10:39:42+00:00",
- "productive": 11,
+ "checked": "2026-08-28T15:16:52+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
-   "ok": true,
-   "error": null,
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -24,6 +24,14 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "fuel-cells-works",
+   "name": "Fuel Cells Works",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -68,14 +76,6 @@
    "newest": "2026-08-10T19:19:41+00:00"
   },
   {
-   "slug": "fuel-cells-works",
-   "name": "Fuel Cells Works",
-   "ok": true,
-   "error": null,
-   "count": 64,
-   "newest": "2026-08-27T15:43:54+00:00"
-  },
-  {
    "slug": "h2it",
    "name": "H2IT",
    "ok": true,
@@ -113,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "newest": "2026-08-26T00:00:00+00:00"
+   "newest": "2026-08-27T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-08-21T11:55:09+00:00"
+   "newest": "2026-08-28T13:25:26+00:00"
   }
  ]
 }
