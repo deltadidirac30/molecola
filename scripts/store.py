@@ -88,15 +88,30 @@ def save_health(report, path=HEALTH_PATH):
     sempre a un colpo d'occhio e resta nella history.
     """
     os.makedirs(os.path.dirname(path), exist_ok=True)
+    sources = sorted(report, key=lambda r: (bool(r.get("count")), r["slug"]))
+
+    # Se la sostanza non cambia non si riscrive il file: altrimenti il solo
+    # orario del controllo produrrebbe un commit a ogni run, otto al giorno,
+    # per sempre.
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as fh:
+                previous = json.load(fh)
+            if previous.get("sources") == json.loads(json.dumps(sources)):
+                return False
+        except (json.JSONDecodeError, OSError):
+            pass
+
     payload = {
         "checked": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "productive": sum(1 for r in report if r.get("ok") and r.get("count")),
         "total": len(report),
-        "sources": sorted(report, key=lambda r: (bool(r.get("count")), r["slug"])),
+        "sources": sources,
     }
     with open(path, "w", encoding="utf-8") as fh:
         json.dump(payload, fh, ensure_ascii=False, indent=1)
         fh.write("\n")
+    return True
 
 
 def years(items):
