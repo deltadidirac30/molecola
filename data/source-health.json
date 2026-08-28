@@ -1,5 +1,5 @@
 {
- "checked": "2026-08-28T10:27:12+00:00",
+ "checked": "2026-08-28T10:29:23+00:00",
  "productive": 9,
  "total": 25,
  "sources": [
@@ -52,14 +52,6 @@
    "newest": null
   },
   {
-   "slug": "h2it",
-   "name": "H2IT",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
-   "count": 0,
-   "newest": null
-  },
-  {
    "slug": "hydrogen-council",
    "name": "Hydrogen Council",
    "ok": false,
@@ -104,6 +96,14 @@
    "name": "MASE — Ministero Ambiente",
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "count": 0,
    "newest": null
   },
@@ -164,6 +164,14 @@
    "newest": "2026-08-27"
   },
   {
+   "slug": "h2it",
+   "name": "H2IT",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-08-05"
+  },
+  {
    "slug": "hydrogen-europe",
    "name": "Hydrogen Europe",
    "ok": true,
@@ -178,14 +186,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-04-24"
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": true,
-   "error": null,
-   "count": 39,
-   "newest": "2026-08-26"
   },
   {
    "slug": "power",
