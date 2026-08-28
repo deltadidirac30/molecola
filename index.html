@@ -266,6 +266,7 @@
     font-family: var(--font-mono); font-size: 0.72rem; color: var(--ink-faint);
   }
   footer.site-footer .foot-row{ display:flex; flex-wrap:wrap; justify-content:space-between; gap:12px; }
+  footer.site-footer .foot-row + .foot-row{ margin-top:6px; }
   footer.site-footer a{ text-decoration:none; color:inherit; }
   footer.site-footer a:hover{ color: var(--ink); }
 </style>
@@ -683,6 +684,7 @@
           <h2>Come funziona</h2>
           <p>Ogni notte (circa le 6:20 UTC) un workflow <code>GitHub Actions</code> esegue <code>scripts/update_wire.py</code>: legge gli 8 feed RSS qui sopra, scarta quelli irraggiungibili, elimina i duplicati e tiene i ~27 articoli più recenti.</p>
           <p>Nessun titolo o dato viene generato o tradotto artificialmente: sono presi cosi' come pubblicati dalla fonte, con link diretto all'originale. Il codice è pubblico su <a class="ext" href="https://github.com/deltadidirac30/molecola" target="_blank" rel="noopener">GitHub</a>.</p>
+          <p>Notizie di terze parti: titoli ed estratti restano di proprietà delle rispettive testate ed organizzazioni, qui riportati solo a fini di rassegna con link diretto alla fonte originale.</p>
         </div>
       </aside>
 
@@ -694,6 +696,9 @@
       <div class="foot-row">
         <span>Molecola — rassegna stampa automatica, uso di ricerca</span>
         <a href="https://github.com/deltadidirac30/molecola" target="_blank" rel="noopener">github.com/deltadidirac30/molecola</a>
+      </div>
+      <div class="foot-row">
+        <span>Diritti sui contenuti di terze parti riservati alle rispettive testate ed organizzazioni.</span>
       </div>
     </div>
   </footer>
