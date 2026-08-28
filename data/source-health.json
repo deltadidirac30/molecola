@@ -1,6 +1,6 @@
 {
- "checked": "2026-08-28T10:30:19+00:00",
- "productive": 10,
+ "checked": "2026-08-28T10:32:30+00:00",
+ "productive": 9,
  "total": 25,
  "sources": [
   {
@@ -100,6 +100,14 @@
    "newest": null
   },
   {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -170,14 +178,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-08-27"
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-04-24"
   },
   {
    "slug": "openalex",
