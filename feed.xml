@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 29 Aug 2026 09:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:39:55 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>PSW Wins 5MW Charging Contract for Estonia’s New Electric Ferry</title>
@@ -193,6 +193,86 @@
       <description>Global Hydrogen Review 2025 - Analysis and key findings. A report by the International Energy Agency. — IEA</description>
     </item>
     <item>
+      <title>Underground hydrogen storage site suitability from the views of efficiency, cost, and risk — A site selection framework for decision-makers</title>
+      <link>https://doi.org/10.1016/j.esr.2026.102349</link>
+      <guid isPermaLink="false">molecola-a6fc5ab5effa574d</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Strategy Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Screening of Austrian geological carbon and hydrogen storage options. Part I: Hydrocarbon fields</title>
+      <link>https://doi.org/10.1016/j.ijggc.2026.104754</link>
+      <guid isPermaLink="false">molecola-cdf79ee4f10d5ef8</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International journal of greenhouse gas control — OpenAlex</description>
+    </item>
+    <item>
+      <title>From multi-pulse to modular: Topology evolution and comparative evaluation of rectified power sources for hydrogen production from renewable energy</title>
+      <link>https://doi.org/10.1016/j.rser.2026.117431</link>
+      <guid isPermaLink="false">molecola-288d6d9c993563c3</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Use of Hydrogen Energy Storage to Stabilize Solar Power Output With an Energy Efficiency Analysis for European Union Member Countries</title>
+      <link>https://doi.org/10.1002/ese3.70639</link>
+      <guid isPermaLink="false">molecola-d23b7901995bc2e6</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Science &amp; Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Comparative Probabilistic Risk Assessment of Alternative Marine Fuels in Traffic Separation Schemes Using Monte Carlo Simulation</title>
+      <link>https://doi.org/10.3390/jmse14171591</link>
+      <guid isPermaLink="false">molecola-68a419f17ef24caa</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Marine Science and Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Work-function engineered V2C MXene via copper phthalocyanine delamination for high-performance flexible asymmetric supercapacitors</title>
+      <link>https://doi.org/10.1016/j.est.2026.124219</link>
+      <guid isPermaLink="false">molecola-5ef7786d0404bd88</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Role of microstructure in the hydrogen storage capacity and kinetics of TiFe AB-type alloys</title>
+      <link>https://doi.org/10.1016/j.heliyon.2026.e45338</link>
+      <guid isPermaLink="false">molecola-62c4da63e73dffbd</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Heliyon — OpenAlex</description>
+    </item>
+    <item>
+      <title>Single Atom Catalysis Enables Preferential Middle‐Ring Dehydrogenation of Perhydro‐Dibenzyltoluene for Low‐Temperature Hydrogen Production</title>
+      <link>https://doi.org/10.1002/anie.6119233</link>
+      <guid isPermaLink="false">molecola-951d72d4231716d1</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie International Edition — OpenAlex</description>
+    </item>
+    <item>
+      <title>First-principles investigation of YXMnH6 (X = Hg, Zn) complex hydrides: structural, electronic, optical, mechanical, and thermodynamic insights for H2 storage efficiency</title>
+      <link>https://doi.org/10.3389/fphy.2026.1870780</link>
+      <guid isPermaLink="false">molecola-1b73702307def72c</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Frontiers in Physics — OpenAlex</description>
+    </item>
+    <item>
+      <title>Pressure-dependent DFT study of A2LuCuH6 (A = Li, Na, K) hydrides for hydrogen storage and photo-catalytic water splitting applications</title>
+      <link>https://doi.org/10.1038/s41598-026-66356-w</link>
+      <guid isPermaLink="false">molecola-743ea0177b61de71</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
       <title>ZeroAvia Appoints Christine Ourmières-Widener as Chief Executive Officer</title>
       <link>https://fuelcellsworks.com/2026/08/27/hydrogen/zeroavia-appoints-christine-ourmieres-widener-as-chief-executive-officer</link>
       <guid isPermaLink="false">molecola-6c66f752eeec1f90</guid>
@@ -367,86 +447,6 @@
       <pubDate>Thu, 27 Aug 2026 13:17:03 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Emulsion architecture Controls the efficiency of hydrogen storage into ternary clathrate hydrates of H2 and mixed Hydrophobic/Hydrophilic co-formers</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141018</link>
-      <guid isPermaLink="false">molecola-971b1ed86bc9ae4e</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
-      <title>Planning energy adequacy for a renewable New England: Multi-decade weather, short- and long-duration storage, and grid-interactive electric vehicles</title>
-      <link>https://doi.org/10.1016/j.nxener.2026.100939</link>
-      <guid isPermaLink="false">molecola-6a15aaade1e32c63</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Next Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Al-assisted Y incorporation into Mg matrix: A pathway to uniformly dispersed in-situ catalyst for enhancing dehydrogenation kinetics</title>
-      <link>https://doi.org/10.1016/j.est.2026.124231</link>
-      <guid isPermaLink="false">molecola-a49423f4cb61cfa1</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Diethylene Glycol-Regulated Aqueous Electrolyte for Zinc-Ion Hybrid Capacitors Operating from −40 to 60 °C</title>
-      <link>https://doi.org/10.3390/molecules31173001</link>
-      <guid isPermaLink="false">molecola-0881670708f63c21</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Molecules — OpenAlex</description>
-    </item>
-    <item>
-      <title>Directly engineered green hydrogen production by water splitting reaction powered by geothermal source: A thermodynamic and mechanistic breakthrough</title>
-      <link>https://doi.org/10.1177/09576509261483877</link>
-      <guid isPermaLink="false">molecola-38a575c855c2a577</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>A computational investigation of hydrogen storage and optoelectronic potential of some A′AʺB′Bʺ H6-type (A′Aʺ = LiNa, LiK, &amp; KNa; B′Bʺ = BeMg) double perovskite hydrides with density functional theory</title>
-      <link>https://doi.org/10.1007/s11696-026-05475-0</link>
-      <guid isPermaLink="false">molecola-b1fb0a215d395d6c</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Chemical Papers — OpenAlex</description>
-    </item>
-    <item>
-      <title>A parametric design method of metal hydride bulb keel as hydrogen storage system in sailing yachts</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.156979</link>
-      <guid isPermaLink="false">molecola-090e5f40ef58114f</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Quantitative assessment of hydrogen storage challenges for on-board mobility: A path to decarbonizing global transport</title>
-      <link>https://doi.org/10.1016/j.est.2026.124061</link>
-      <guid isPermaLink="false">molecola-9290f6c2f7351819</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Operational value of hydrogen storage as a market-allocation asset in power-to-hydrogen-and-methane plants: Pathway competition and market-driven sizing</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157312</link>
-      <guid isPermaLink="false">molecola-3dfa8e500b3cc76e</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>A halloysite/PVDF composite electrolyte toward high-performance shuttle-inhibition quasi-solid-state Zn-I2 batteries</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2026.241317</link>
-      <guid isPermaLink="false">molecola-9786539fb710b356</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Power Sources — OpenAlex</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
- "count": 243,
+ "count": 260,
  "items": [
   {
    "authors": [],
@@ -345,6 +345,337 @@
    "source": "IEA",
    "source_slug": "iea",
    "title": "Five key questions about hydrogen – Global Hydrogen Review 2025 – Analysis - IEA"
+  },
+  {
+   "authors": [
+    "Maryam Dzulkefli",
+    "Juan Alcalde",
+    "Niklas Heinemann",
+    "Johannes Miocic",
+    "David Iacopini"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Energy Strategy Reviews",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "a6fc5ab5effa574d",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.esr.2026.102349",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Underground hydrogen storage site suitability from the views of efficiency, cost, and risk — A site selection framework for decision-makers"
+  },
+  {
+   "authors": [
+    "Jakob Kulich",
+    "Holger Ott"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "International journal of greenhouse gas control",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "cdf79ee4f10d5ef8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijggc.2026.104754",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Screening of Austrian geological carbon and hydrogen storage options. Part I: Hydrocarbon fields"
+  },
+  {
+   "authors": [
+    "Changwei Zhang",
+    "Mingzhi He",
+    "Xin Meng",
+    "Heqing Liu",
+    "Shuhan Zhou",
+    "Yongbo Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "288d6d9c993563c3",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117431",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "From multi-pulse to modular: Topology evolution and comparative evaluation of rectified power sources for hydrogen production from renewable energy"
+  },
+  {
+   "authors": [
+    "Jure Voglar",
+    "Blaž Likozar"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Energy Science & Engineering",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "d23b7901995bc2e6",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/ese3.70639",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Use of Hydrogen Energy Storage to Stabilize Solar Power Output With an Energy Efficiency Analysis for European Union Member Countries"
+  },
+  {
+   "authors": [
+    "Candela Maceiras Tajes",
+    "Manuel Vázquez Neira",
+    "Francisco Javier Pérez Castelo",
+    "José A. Orosa"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Journal of Marine Science and Engineering",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "68a419f17ef24caa",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/jmse14171591",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comparative Probabilistic Risk Assessment of Alternative Marine Fuels in Traffic Separation Schemes Using Monte Carlo Simulation"
+  },
+  {
+   "authors": [
+    "Amit Bera",
+    "Amit Bera",
+    "Anirban Samanta",
+    "Riya Nag",
+    "Puja Bera",
+    "Dipak Maity"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "5ef7786d0404bd88",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124219",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Work-function engineered V2C MXene via copper phthalocyanine delamination for high-performance flexible asymmetric supercapacitors"
+  },
+  {
+   "authors": [
+    "J.A. Lenis",
+    "Julián Arias Velandia",
+    "Robinson Aguirre Ocampo",
+    "Alejandro A. Zuleta Gil",
+    "Sindy Bello",
+    "Esteban Correa"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Heliyon",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "62c4da63e73dffbd",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.heliyon.2026.e45338",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Role of microstructure in the hydrogen storage capacity and kinetics of TiFe AB-type alloys"
+  },
+  {
+   "authors": [
+    "Ligang Zhang",
+    "Fan Wang",
+    "Hongchen Cao",
+    "Xiaoyan Liu",
+    "Sicong Qiu",
+    "Zhounan Yu"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie International Edition",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "951d72d4231716d1",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/anie.6119233",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Single Atom Catalysis Enables Preferential Middle‐Ring Dehydrogenation of Perhydro‐Dibenzyltoluene for Low‐Temperature Hydrogen Production"
+  },
+  {
+   "authors": [
+    "Doha Shtaiwi",
+    "Mohammed Abu-Jafar",
+    "Asif Hosen",
+    "Hasan Masri"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Frontiers in Physics",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "1b73702307def72c",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fphy.2026.1870780",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles investigation of YXMnH6 (X = Hg, Zn) complex hydrides: structural, electronic, optical, mechanical, and thermodynamic insights for H2 storage efficiency"
+  },
+  {
+   "authors": [
+    "Ali Mustafa Khan",
+    "M. U. Sohaib",
+    "Sikander Azam",
+    "N.A. Noor",
+    "Ghulam M. Mustafa",
+    "Rabia Iqbal"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "743ea0177b61de71",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-66356-w",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Pressure-dependent DFT study of A2LuCuH6 (A = Li, Na, K) hydrides for hydrogen storage and photo-catalytic water splitting applications"
+  },
+  {
+   "authors": [
+    "De-Zhong Hu",
+    "Jiang Wen-dan",
+    "Wei Keat Ng",
+    "Jun Yang",
+    "Xiong-Wu Kang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Journal of Electrochemistry",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "15f08a02f2e9a619",
+   "lang": "en",
+   "link": "https://doi.org/10.61558/2993-074x.3617",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Microwave-Assisted Synthesis of Core-Shell Structured Pd@PdPtCuFe Recessed Truncated Octahedral Nanocrystals for Multifunctional Electrocatalysis"
+  },
+  {
+   "authors": [
+    "Ahmadyar Qureshi",
+    "Ulises Martin",
+    "Abdul Mannan",
+    "Homero Castaneda"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Polymer Composites",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "79a995040bf43183",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/pc.71564",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Additive Manufacturing of Glass Fiber‐Reinforced Polypropylene and Its Behavior Under Controlled Hydrogen Exposure"
+  },
+  {
+   "authors": [
+    "Huqi Zhang",
+    "Qinyan Qiu",
+    "Ruotao Liu",
+    "Xiaosong Tang",
+    "Guan Rong"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "b688ea5ba9ae031b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157303",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Capillary end effect in relative permeability test for underground hydrogen storage: A decoupling study based on helium proxy and numerical inversion"
+  },
+  {
+   "authors": [
+    "Wan Muhammad Luqman Sazali",
+    "Jim Buckman",
+    "Jingsheng Ma",
+    "Andreas Busch"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Geoenergy",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "4bd0b5541c66edc7",
+   "lang": "en",
+   "link": "https://doi.org/10.1144/geoenergy2025-038",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Characterising petrophysical caprock properties from cuttings: A case study from offshore Sarawak Basin, Malaysia"
+  },
+  {
+   "authors": [
+    "Zhenlan Dou",
+    "Chunyan Zhang",
+    "Xichao Zhou",
+    "Rui Wang",
+    "Chuanliang Xiao"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Processes",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "88c699d0b1610dcf",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/pr14172771",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Distributionally Robust Optimization Configuration of Microgrid Hybrid Energy Storage Based on Reliability"
+  },
+  {
+   "authors": [
+    "Milad Hashemi",
+    "AliMohammad Sedaghat Kameholiya",
+    "Mohammad Peymani",
+    "Mahdi Kanaani",
+    "Behnam Sedaee"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "3c4c380ca096fea8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124407",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A data-driven smart proxy approach for leakage-aware screening and performance evaluation of underground hydrogen storage"
   },
   {
    "authors": [],
@@ -1103,6 +1434,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Hierarchical coordination of voyage routing and shipboard energy dispatch for hybrid all-electric ships"
+  },
+  {
+   "authors": [
+    "Hanyuan Lv",
+    "Ruojiang Liu",
+    "Yi Fan",
+    "Ruolin Zhao",
+    "Jun Li",
+    "Feifan Hong"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Renewable Energy",
+   "first_seen": "2026-08-29T16:40:39+00:00",
+   "id": "dbfc19a8ee27bfb5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.renene.2026.126382",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dual-phase nanoconfinement effects: Vanadium-MOF derived nanoporous carbon-coated V2O3 nanorods as multifunctional additives for advanced Mg-based hydrogen storage"
   },
   {
    "authors": [
@@ -4010,6 +4363,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-29T09:58:36+00:00",
+ "updated": "2026-08-29T16:40:39+00:00",
  "version": 2
 }
