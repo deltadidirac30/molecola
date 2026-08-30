@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 30 Aug 2026 05:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:49:34 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems</title>
@@ -31,6 +31,62 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Thin-shell Fe@SiO2 catalysts for efficient and stable ortho-para hydrogen conversion at 77 K</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157307</link>
+      <guid isPermaLink="false">molecola-38c7641a09ab39fb</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Exploration of the structural, electrochemical, and electrocatalytic properties of 2D-hBN-modified CaFeXCo1-XO3-δ perovskite: Light-enhanced asymmetric supercapacitor performance and hydrogen evolution catalysis applications</title>
+      <link>https://doi.org/10.1016/j.est.2026.124149</link>
+      <guid isPermaLink="false">molecola-8263ff8f171c0dfa</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Efficient Phase‐Change Thermal Management Film Based on Dual‐Network Phase‐Change Microgels: Integrating Mechanical Strength, Self‐Healing, Photothermal Responsiveness, and Desalination Performance</title>
+      <link>https://doi.org/10.1002/adem.71226</link>
+      <guid isPermaLink="false">molecola-ec5f21dea13ebeee</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Engineering Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Investigating the hydrogen storage potential and optoelectronic properties of double perovskite ZMg2FeH8 (Z = Ca, Be) hydrides</title>
+      <link>https://doi.org/10.1038/s41598-026-68108-2</link>
+      <guid isPermaLink="false">molecola-1b86dc54be9e6b22</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>Suppression efficiency and mechanism of low-temperature phase-transition composite explosion suppressants for MgH2 dust explosions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157239</link>
+      <guid isPermaLink="false">molecola-c44f199bf4039bb1</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Exploring X 2 BH 6 (X = Li, Na, and K) Double Perovskite Hydrides for Solid‐State Hydrogen Storage Applications</title>
+      <link>https://doi.org/10.1002/adts.70534</link>
+      <guid isPermaLink="false">molecola-7298f59243cc7fab</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Theory and Simulations — OpenAlex</description>
+    </item>
+    <item>
+      <title>Socioeconomic and climate uncertainty shape solar electricity costs and storage needs across West Africa</title>
+      <link>https://doi.org/10.1038/s43247-026-03996-w</link>
+      <guid isPermaLink="false">molecola-edeae8b28422d879</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Communications Earth &amp; Environment — OpenAlex</description>
     </item>
     <item>
       <title>EV Drivers to Benefit From Lower Tariffs</title>
@@ -231,62 +287,6 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">IEA</source>
       <description>Global Hydrogen Review 2025 - Analysis and key findings. A report by the International Energy Agency. — IEA</description>
-    </item>
-    <item>
-      <title>Underground hydrogen storage site suitability from the views of efficiency, cost, and risk — A site selection framework for decision-makers</title>
-      <link>https://doi.org/10.1016/j.esr.2026.102349</link>
-      <guid isPermaLink="false">molecola-a6fc5ab5effa574d</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Strategy Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Screening of Austrian geological carbon and hydrogen storage options. Part I: Hydrocarbon fields</title>
-      <link>https://doi.org/10.1016/j.ijggc.2026.104754</link>
-      <guid isPermaLink="false">molecola-cdf79ee4f10d5ef8</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International journal of greenhouse gas control — OpenAlex</description>
-    </item>
-    <item>
-      <title>From multi-pulse to modular: Topology evolution and comparative evaluation of rectified power sources for hydrogen production from renewable energy</title>
-      <link>https://doi.org/10.1016/j.rser.2026.117431</link>
-      <guid isPermaLink="false">molecola-288d6d9c993563c3</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Use of Hydrogen Energy Storage to Stabilize Solar Power Output With an Energy Efficiency Analysis for European Union Member Countries</title>
-      <link>https://doi.org/10.1002/ese3.70639</link>
-      <guid isPermaLink="false">molecola-d23b7901995bc2e6</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Science &amp; Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Comparative Probabilistic Risk Assessment of Alternative Marine Fuels in Traffic Separation Schemes Using Monte Carlo Simulation</title>
-      <link>https://doi.org/10.3390/jmse14171591</link>
-      <guid isPermaLink="false">molecola-68a419f17ef24caa</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Marine Science and Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Work-function engineered V2C MXene via copper phthalocyanine delamination for high-performance flexible asymmetric supercapacitors</title>
-      <link>https://doi.org/10.1016/j.est.2026.124219</link>
-      <guid isPermaLink="false">molecola-5ef7786d0404bd88</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Role of microstructure in the hydrogen storage capacity and kinetics of TiFe AB-type alloys</title>
-      <link>https://doi.org/10.1016/j.heliyon.2026.e45338</link>
-      <guid isPermaLink="false">molecola-62c4da63e73dffbd</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Heliyon — OpenAlex</description>
     </item>
     <item>
       <title>ZeroAvia Appoints Christine Ourmières-Widener as Chief Executive Officer</title>

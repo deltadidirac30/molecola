@@ -1,5 +1,5 @@
 {
- "count": 265,
+ "count": 276,
  "items": [
   {
    "authors": [
@@ -65,6 +65,157 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch"
+  },
+  {
+   "authors": [
+    "Chong Zhang",
+    "Xinbao Li",
+    "Lei Chen",
+    "Gonggang Sun",
+    "Qi Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "38c7641a09ab39fb",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157307",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Thin-shell Fe@SiO2 catalysts for efficient and stable ortho-para hydrogen conversion at 77 K"
+  },
+  {
+   "authors": [
+    "Muhammad Imran",
+    "Amir Muhammad Afzal",
+    "Amjad A. Almunyif",
+    "Abhinav Kumar",
+    "Muhammad Arshad Kamran",
+    "Sohail Mumtaz"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "8263ff8f171c0dfa",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124149",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Exploration of the structural, electrochemical, and electrocatalytic properties of 2D-hBN-modified CaFeXCo1-XO3-δ perovskite: Light-enhanced asymmetric supercapacitor performance and hydrogen evolution catalysis applications"
+  },
+  {
+   "authors": [
+    "Jiashuo Sun",
+    "Jianyu Jiang",
+    "Junwen Che",
+    "Zhiqiang Zhang",
+    "Yongji Wang",
+    "Hong Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Advanced Engineering Materials",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "ec5f21dea13ebeee",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adem.71226",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Efficient Phase‐Change Thermal Management Film Based on Dual‐Network Phase‐Change Microgels: Integrating Mechanical Strength, Self‐Healing, Photothermal Responsiveness, and Desalination Performance"
+  },
+  {
+   "authors": [
+    "Muhammad Adnan Samhi",
+    "Shafaat Hussain Mirza",
+    "Sikander Azam",
+    "Hifza Aziz",
+    "Salah Knani",
+    "Reem Alreshidi"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "1b86dc54be9e6b22",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-68108-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Investigating the hydrogen storage potential and optoelectronic properties of double perovskite ZMg2FeH8 (Z = Ca, Be) hydrides"
+  },
+  {
+   "authors": [
+    "Shuqi Zhang",
+    "Zhenmin Luo",
+    "Fanyi Meng",
+    "Tao Wang",
+    "Bin Su",
+    "Yong Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "c44f199bf4039bb1",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157239",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Suppression efficiency and mechanism of low-temperature phase-transition composite explosion suppressants for MgH2 dust explosions"
+  },
+  {
+   "authors": [
+    "A. Gençer",
+    "Ahmet Aydogan",
+    "Ozge Surucu",
+    "Gökhan Sürücü"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Advanced Theory and Simulations",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "7298f59243cc7fab",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adts.70534",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Exploring X 2 BH 6 (X = Li, Na, and K) Double Perovskite Hydrides for Solid‐State Hydrogen Storage Applications"
+  },
+  {
+   "authors": [
+    "Xiaojing Lin",
+    "Xin Sun",
+    "Sarah Féron",
+    "Raúl R. Cordero",
+    "BO BAI",
+    "Wided Medjroubi"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-29T00:00:00+00:00",
+   "excerpt": "Communications Earth & Environment",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "edeae8b28422d879",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s43247-026-03996-w",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Socioeconomic and climate uncertainty shape solar electricity costs and storage needs across West Africa"
   },
   {
    "authors": [],
@@ -771,6 +922,71 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "A data-driven smart proxy approach for leakage-aware screening and performance evaluation of underground hydrogen storage"
+  },
+  {
+   "authors": [
+    "Sara El Hassani",
+    "Fakher Oueslati",
+    "Firyal Latrache",
+    "Othmane Horma",
+    "Mohammed Benzaouia",
+    "Mohammed Amine Moussaoui"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Journal of Cleaner Production",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "fea68cbe81759c14",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jclepro.2026.149211",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-economic and risk-adjusted assessment of PV–wind–hydrogen hybrid energy systems in Morocco: Towards cost-effective low-carbon electricity supply"
+  },
+  {
+   "authors": [
+    "Ligang Zhang",
+    "Fan Wang",
+    "Hongchen Cao",
+    "Xiaoyan Liu",
+    "Sicong Qiu",
+    "Zhounan Yu"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "7c1929ed6ae64e63",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/ange.6119233",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Single Atom Catalysis Enables Preferential Middle‐Ring Dehydrogenation of Perhydro‐Dibenzyltoluene for Low‐Temperature Hydrogen Production"
+  },
+  {
+   "authors": [
+    "Zoubida Haddad",
+    "Atef Chibani",
+    "Farhan Lafta Rashid",
+    "Moustafa Boukraa",
+    "Tawfiq Chekifi"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-28T00:00:00+00:00",
+   "excerpt": "Energy Storage",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "40b8af6d80032550",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/est2.70504",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Conjugate Heat and Mass Transfer in Activated‐Carbon Hydrogen Storage Reactors With Liquid and Gaseous Heat‐Transfer Fluids: A Numerical Study"
   },
   {
    "authors": [],
@@ -1551,6 +1767,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Dual-phase nanoconfinement effects: Vanadium-MOF derived nanoporous carbon-coated V2O3 nanorods as multifunctional additives for advanced Mg-based hydrogen storage"
+  },
+  {
+   "authors": [
+    "Yerko Fredes",
+    "Ivan Dimitri",
+    "Gerard Guerra",
+    "Antoni Casablancas",
+    "Lars L. Santema",
+    "Marco Fraaije"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-27T00:00:00+00:00",
+   "excerpt": "Enzyme and Microbial Technology",
+   "first_seen": "2026-08-30T11:49:53+00:00",
+   "id": "4b88edbcbdb1ed8e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enzmictec.2026.110960",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Engineering affinity tag strategies for selective downstream processing of H2O2-generating oxidases: Minimizing catalase contamination via CBM-based platforms"
   },
   {
    "authors": [
@@ -4458,6 +4696,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-30T05:16:56+00:00",
+ "updated": "2026-08-30T11:49:53+00:00",
  "version": 2
 }
