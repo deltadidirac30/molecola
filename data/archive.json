@@ -1,6 +1,86 @@
 {
- "count": 260,
+ "count": 265,
  "items": [
+  {
+   "authors": [
+    "Gengrui Chen",
+    "Hui Hongxun",
+    "GAO Hongjun",
+    "LIU Junyong",
+    "Song Yonghua"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-08-30T05:16:56+00:00",
+   "id": "a300983ec9d948cd",
+   "lang": "en",
+   "link": "https://openalex.org/W7204152624",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems"
+  },
+  {
+   "authors": [
+    "Lingling ZHAO",
+    "Shaoning CUI",
+    "Wenpei CHEN",
+    "Hanting WEI",
+    "Yanjing SONG",
+    "Guang GUO"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-08-30T05:16:56+00:00",
+   "id": "4101fed843e5310d",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2026020079",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of Adzuki Bean Powder on the Quality and Anti-retrogradation Properties of Steamed Cake"
+  },
+  {
+   "authors": [
+    "Jingwen QIN",
+    "Zhiqi LI",
+    "Qinghua YUE",
+    "Jiezhen DUAN",
+    "Tianmeng XIE",
+    "Enyu WANG"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-08-30T05:16:56+00:00",
+   "id": "9e262f054e7c85cb",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2025080233",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-28T17:13:31+00:00",
+   "excerpt": "",
+   "first_seen": "2026-08-30T05:16:56+00:00",
+   "id": "f3692329226a8dc9",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/08/27/electric/ev-drivers-to-benefit-from-lower-tariffs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "EV Drivers to Benefit From Lower Tariffs"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -75,6 +155,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "First Hydrogen Combustion Test at an Austrian Cement Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-28T15:41:50+00:00",
+   "excerpt": "",
+   "first_seen": "2026-08-30T05:16:56+00:00",
+   "id": "e78e690f1a22c4e4",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/08/27/electric/ubitricity-and-deftpower-launch-interoperable-smart-charging-with-ocpi-2-2-1-charging-profiles-across-1-500-public-charge-points",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Ubitricity and Deftpower Launch Interoperable Smart Charging with OCPI 2.2.1 Charging Profiles Across 1,500 Public Charge Points"
   },
   {
    "authors": [],
@@ -4363,6 +4458,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-29T23:14:40+00:00",
+ "updated": "2026-08-30T05:16:56+00:00",
  "version": 2
 }

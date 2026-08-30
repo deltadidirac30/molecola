@@ -6,8 +6,40 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 29 Aug 2026 23:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:16:35 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems</title>
+      <link>https://openalex.org/W7204152624</link>
+      <guid isPermaLink="false">molecola-a300983ec9d948cd</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effects of Adzuki Bean Powder on the Quality and Anti-retrogradation Properties of Steamed Cake</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2026020079</link>
+      <guid isPermaLink="false">molecola-4101fed843e5310d</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2025080233</link>
+      <guid isPermaLink="false">molecola-9e262f054e7c85cb</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>EV Drivers to Benefit From Lower Tariffs</title>
+      <link>https://fuelcellsworks.com/2026/08/27/electric/ev-drivers-to-benefit-from-lower-tariffs</link>
+      <guid isPermaLink="false">molecola-f3692329226a8dc9</guid>
+      <pubDate>Fri, 28 Aug 2026 17:13:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>EV Drivers to Benefit From Lower Tariffs — Fuel Cells Works</description>
+    </item>
     <item>
       <title>PSW Wins 5MW Charging Contract for Estonia’s New Electric Ferry</title>
       <link>https://fuelcellsworks.com/2026/08/27/electric/psw-wins-5mw-charging-contract-for-estonia-s-new-electric-ferry</link>
@@ -47,6 +79,14 @@
       <pubDate>Fri, 28 Aug 2026 15:46:20 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>First Hydrogen Combustion Test at an Austrian Cement Plant — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Ubitricity and Deftpower Launch Interoperable Smart Charging with OCPI 2.2.1 Charging Profiles Across 1,500 Public Charge Points</title>
+      <link>https://fuelcellsworks.com/2026/08/27/electric/ubitricity-and-deftpower-launch-interoperable-smart-charging-with-ocpi-2-2-1-charging-profiles-across-1-500-public-charge-points</link>
+      <guid isPermaLink="false">molecola-e78e690f1a22c4e4</guid>
+      <pubDate>Fri, 28 Aug 2026 15:41:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Ubitricity and Deftpower Launch Interoperable Smart Charging with OCPI 2.2.1 Charging Profiles Across 1,500 Public Charge Points — Fuel Cells Works</description>
     </item>
     <item>
       <title>Ishikawa and Toyama Firm Test Low-Cost Mobile Hydrogen Dispenser in Kanazawa</title>
@@ -249,30 +289,6 @@
       <description>Heliyon — OpenAlex</description>
     </item>
     <item>
-      <title>Single Atom Catalysis Enables Preferential Middle‐Ring Dehydrogenation of Perhydro‐Dibenzyltoluene for Low‐Temperature Hydrogen Production</title>
-      <link>https://doi.org/10.1002/anie.6119233</link>
-      <guid isPermaLink="false">molecola-951d72d4231716d1</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie International Edition — OpenAlex</description>
-    </item>
-    <item>
-      <title>First-principles investigation of YXMnH6 (X = Hg, Zn) complex hydrides: structural, electronic, optical, mechanical, and thermodynamic insights for H2 storage efficiency</title>
-      <link>https://doi.org/10.3389/fphy.2026.1870780</link>
-      <guid isPermaLink="false">molecola-1b73702307def72c</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Frontiers in Physics — OpenAlex</description>
-    </item>
-    <item>
-      <title>Pressure-dependent DFT study of A2LuCuH6 (A = Li, Na, K) hydrides for hydrogen storage and photo-catalytic water splitting applications</title>
-      <link>https://doi.org/10.1038/s41598-026-66356-w</link>
-      <guid isPermaLink="false">molecola-743ea0177b61de71</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
-    </item>
-    <item>
       <title>ZeroAvia Appoints Christine Ourmières-Widener as Chief Executive Officer</title>
       <link>https://fuelcellsworks.com/2026/08/27/hydrogen/zeroavia-appoints-christine-ourmieres-widener-as-chief-executive-officer</link>
       <guid isPermaLink="false">molecola-6c66f752eeec1f90</guid>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 27 Aug 2026 13:41:32 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Murata Produces Green Hydrogen From Solar Power to Run Boiler at Japanese R&amp;D Plant — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Motor Oil Puts €36.5 Million [$40 Million] Into Corinth Electrolyser in First Half — €150 Million Hydrogen Programme Continues</title>
-      <link>https://fuelcellsworks.com/2026/08/27/h2/motor-oil-puts-36-5-million-40-million-into-corinth-electrolyser-in-first-half-150-million-hydrogen-programme-continues</link>
-      <guid isPermaLink="false">molecola-6777d9382278c66e</guid>
-      <pubDate>Thu, 27 Aug 2026 13:22:59 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Motor Oil Puts €36.5 Million [$40 Million] Into Corinth Electrolyser in First Half — €150 Million Hydrogen Programme Continues — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen</title>
-      <link>https://hydrogeneurope.eu/air-products-and-nobian-sign-long-term-agreement-for-rfnbo-compliant-hydrogen/</link>
-      <guid isPermaLink="false">molecola-d44c3bf2e04a7768</guid>
-      <pubDate>Thu, 27 Aug 2026 13:17:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Air Products and Nobian sign long-term agreement for RFNBO-compliant hydrogen — Hydrogen Europe</description>
     </item>
   </channel>
 </rss>
