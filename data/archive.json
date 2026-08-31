@@ -1,5 +1,5 @@
 {
- "count": 281,
+ "count": 283,
  "items": [
   {
    "authors": [
@@ -65,6 +65,36 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-31T14:20:38+00:00",
+   "excerpt": "Hydrogen fuel cell trucks offer a combination of benefits that is difficult to match in heavy-duty transportation: long driving range, fast refueling, high payload capability, and zero tailpipe emissions. The challenge…",
+   "first_seen": "2026-08-31T20:47:42+00:00",
+   "id": "a8ec4a33bacd44fe",
+   "lang": "en",
+   "link": "https://fchea.org/new-study-maps-a-cost-effective-hydrogen-network-for-southwestern-trucking/",
+   "manual": null,
+   "paywall": false,
+   "source": "FCHEA",
+   "source_slug": "fchea",
+   "title": "New Study Maps a Cost-Effective Hydrogen Network for Southwestern Trucking"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-08-31T13:54:18+00:00",
+   "excerpt": "SunHydrogen has achieved solar-to-hydrogen conversion efficiencies above 10% with its 100 cm² modules in tests at Sparc Hydrogen’s laboratories. The U.S. company is now targeting efficiencies approaching 15% while…",
+   "first_seen": "2026-08-31T20:47:42+00:00",
+   "id": "d3b5801021482f11",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/08/31/u-s-startup-exceeds-10-solar-to-hydrogen-efficiency-with-100-cm%c2%b2-module/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "U.S. startup exceeds 10% solar-to-hydrogen efficiency with 100 cm² module"
   },
   {
    "authors": [
@@ -4797,6 +4827,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-31T13:35:11+00:00",
+ "updated": "2026-08-31T20:47:42+00:00",
  "version": 2
 }

@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 31 Aug 2026 13:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:47:23 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems</title>
@@ -31,6 +31,22 @@
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>New Study Maps a Cost-Effective Hydrogen Network for Southwestern Trucking</title>
+      <link>https://fchea.org/new-study-maps-a-cost-effective-hydrogen-network-for-southwestern-trucking/</link>
+      <guid isPermaLink="false">molecola-a8ec4a33bacd44fe</guid>
+      <pubDate>Mon, 31 Aug 2026 14:20:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">FCHEA</source>
+      <description>Hydrogen fuel cell trucks offer a combination of benefits that is difficult to match in heavy-duty transportation: long driving range, fast refueling, high payload capability, and zero tailpipe emissions. The challenge… — FCHEA</description>
+    </item>
+    <item>
+      <title>U.S. startup exceeds 10% solar-to-hydrogen efficiency with 100 cm² module</title>
+      <link>https://www.pv-magazine.com/2026/08/31/u-s-startup-exceeds-10-solar-to-hydrogen-efficiency-with-100-cm%c2%b2-module/</link>
+      <guid isPermaLink="false">molecola-d3b5801021482f11</guid>
+      <pubDate>Mon, 31 Aug 2026 13:54:18 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>SunHydrogen has achieved solar-to-hydrogen conversion efficiencies above 10% with its 100 cm² modules in tests at Sparc Hydrogen’s laboratories. The U.S. company is now targeting efficiencies approaching 15% while… — PV Magazine</description>
     </item>
     <item>
       <title>Proton Flux Engineering for Selective CO 2 Electroreduction</title>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 27 Aug 2026 14:01:40 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>RVK's Bergisch Gladbach Hydrogen Plant on Track for End-2026 — €29.5 Million [$32.5 Million] in Funding Now Confirmed — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Video: Integrated Waste-to-Hydrogen Production and Refueling | HTWO ENERGY Cheongju</title>
-      <link>https://fuelcellsworks.com/2026/08/24/h2/video-integrated-waste-to-hydrogen-production-and-refueling-htwo-energy-cheongju</link>
-      <guid isPermaLink="false">molecola-866aa7c344dd2adf</guid>
-      <pubDate>Thu, 27 Aug 2026 13:53:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Video: Integrated Waste-to-Hydrogen Production and Refueling | HTWO ENERGY Cheongju — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Murata Produces Green Hydrogen From Solar Power to Run Boiler at Japanese R&amp;D Plant</title>
-      <link>https://fuelcellsworks.com/2026/08/27/green-hydrogen/murata-produces-green-hydrogen-from-solar-power-to-run-boiler-at-japanese-r-and-d-plant</link>
-      <guid isPermaLink="false">molecola-7dfc4b1a2e65d488</guid>
-      <pubDate>Thu, 27 Aug 2026 13:41:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Murata Produces Green Hydrogen From Solar Power to Run Boiler at Japanese R&amp;D Plant — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
