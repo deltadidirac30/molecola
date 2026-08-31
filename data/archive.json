@@ -1,5 +1,5 @@
 {
- "count": 276,
+ "count": 281,
  "items": [
   {
    "authors": [
@@ -65,6 +65,107 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch"
+  },
+  {
+   "authors": [
+    "Rongjing Miao",
+    "Guoqing Zhang",
+    "Jialu Liu",
+    "Zihang Li",
+    "Xiayan Zhang",
+    "Sung-Ho Kong"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-30T00:00:00+00:00",
+   "excerpt": "Advanced Energy Materials",
+   "first_seen": "2026-08-31T13:35:11+00:00",
+   "id": "f7b8696386fd37cd",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aenm.71519",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Proton Flux Engineering for Selective CO 2 Electroreduction"
+  },
+  {
+   "authors": [
+    "Li Zeng",
+    "Siyuan Wu",
+    "Ziqin Wu",
+    "Dayue Du",
+    "Weishan Tang",
+    "Dan Luo"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-30T00:00:00+00:00",
+   "excerpt": "Advanced Energy Materials",
+   "first_seen": "2026-08-31T13:35:11+00:00",
+   "id": "38262a40aa3f7057",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aenm.71351",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "All‐in‐One 3D Printing for Highly‐Stretchable Zn Metal Batteries: Resolving the Dilemma Between Mechanical Compliance and Electrochemical Stability"
+  },
+  {
+   "authors": [
+    "Hunter Hughes",
+    "H Heuristics"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-30T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-08-31T13:35:11+00:00",
+   "id": "7807c69b22acd500",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22171062",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Technology Diffusion, Clean Development, and Economic Convergence Across Emerging Economies"
+  },
+  {
+   "authors": [
+    "Hunter Hughes",
+    "H Heuristics"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-30T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-08-31T13:35:11+00:00",
+   "id": "ac86101889bd1968",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22171063",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Technology Diffusion, Clean Development, and Economic Convergence Across Emerging Economies"
+  },
+  {
+   "authors": [
+    "Andres C. Arana-Linares",
+    "Arley Camilo Patiño",
+    "Ana Liliana Giraldo",
+    "Constaín H. Salamanca",
+    "Andrés F. Olea"
+   ],
+   "category": "ricerca",
+   "date": "2026-08-30T00:00:00+00:00",
+   "excerpt": "Antioxidants",
+   "first_seen": "2026-08-31T13:35:11+00:00",
+   "id": "53ab87e0b2224549",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/antiox15091090",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Liposomes, Niosomes, Ethosomes, and Transethosomes for Curcumin and Chlorogenic Acid Delivery: Formulation Design and Dermal Performance"
   },
   {
    "authors": [
@@ -4696,6 +4797,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-08-31T05:24:03+00:00",
+ "updated": "2026-08-31T13:35:11+00:00",
  "version": 2
 }

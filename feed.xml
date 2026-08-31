@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 31 Aug 2026 05:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:34:51 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems</title>
@@ -33,6 +33,46 @@
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
     </item>
     <item>
+      <title>Proton Flux Engineering for Selective CO 2 Electroreduction</title>
+      <link>https://doi.org/10.1002/aenm.71519</link>
+      <guid isPermaLink="false">molecola-f7b8696386fd37cd</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>All‐in‐One 3D Printing for Highly‐Stretchable Zn Metal Batteries: Resolving the Dilemma Between Mechanical Compliance and Electrochemical Stability</title>
+      <link>https://doi.org/10.1002/aenm.71351</link>
+      <guid isPermaLink="false">molecola-38262a40aa3f7057</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Technology Diffusion, Clean Development, and Economic Convergence Across Emerging Economies</title>
+      <link>https://doi.org/10.5281/zenodo.22171062</link>
+      <guid isPermaLink="false">molecola-7807c69b22acd500</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Technology Diffusion, Clean Development, and Economic Convergence Across Emerging Economies</title>
+      <link>https://doi.org/10.5281/zenodo.22171063</link>
+      <guid isPermaLink="false">molecola-ac86101889bd1968</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Liposomes, Niosomes, Ethosomes, and Transethosomes for Curcumin and Chlorogenic Acid Delivery: Formulation Design and Dermal Performance</title>
+      <link>https://doi.org/10.3390/antiox15091090</link>
+      <guid isPermaLink="false">molecola-53ab87e0b2224549</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Antioxidants — OpenAlex</description>
+    </item>
+    <item>
       <title>Thin-shell Fe@SiO2 catalysts for efficient and stable ortho-para hydrogen conversion at 77 K</title>
       <link>https://doi.org/10.1016/j.ijhydene.2026.157307</link>
       <guid isPermaLink="false">molecola-38c7641a09ab39fb</guid>
@@ -47,46 +87,6 @@
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Efficient Phase‐Change Thermal Management Film Based on Dual‐Network Phase‐Change Microgels: Integrating Mechanical Strength, Self‐Healing, Photothermal Responsiveness, and Desalination Performance</title>
-      <link>https://doi.org/10.1002/adem.71226</link>
-      <guid isPermaLink="false">molecola-ec5f21dea13ebeee</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Engineering Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Investigating the hydrogen storage potential and optoelectronic properties of double perovskite ZMg2FeH8 (Z = Ca, Be) hydrides</title>
-      <link>https://doi.org/10.1038/s41598-026-68108-2</link>
-      <guid isPermaLink="false">molecola-1b86dc54be9e6b22</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
-    </item>
-    <item>
-      <title>Suppression efficiency and mechanism of low-temperature phase-transition composite explosion suppressants for MgH2 dust explosions</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157239</link>
-      <guid isPermaLink="false">molecola-c44f199bf4039bb1</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Exploring X 2 BH 6 (X = Li, Na, and K) Double Perovskite Hydrides for Solid‐State Hydrogen Storage Applications</title>
-      <link>https://doi.org/10.1002/adts.70534</link>
-      <guid isPermaLink="false">molecola-7298f59243cc7fab</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Theory and Simulations — OpenAlex</description>
-    </item>
-    <item>
-      <title>Socioeconomic and climate uncertainty shape solar electricity costs and storage needs across West Africa</title>
-      <link>https://doi.org/10.1038/s43247-026-03996-w</link>
-      <guid isPermaLink="false">molecola-edeae8b28422d879</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Communications Earth &amp; Environment — OpenAlex</description>
     </item>
     <item>
       <title>EV Drivers to Benefit From Lower Tariffs</title>
