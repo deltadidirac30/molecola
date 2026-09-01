@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-01T08:34:12+00:00",
+ "checked": "2026-09-01T14:07:07+00:00",
  "productive": 11,
  "total": 16,
  "sources": [
@@ -28,10 +28,10 @@
    "newest": null
   },
   {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden",
    "count": 0,
    "newest": null
   },
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-08-31T15:42:59+00:00"
+   "newest": "2026-09-01T13:49:12+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-08-27T13:17:03+00:00"
+   "newest": "2026-09-01T09:00:08+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -98,14 +98,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-08-31T17:19:47+00:00"
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-04-24T11:09:07+00:00"
   },
   {
    "slug": "openalex",
@@ -121,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-08-04T16:56:58+00:00"
+   "newest": "2026-09-01T11:05:38+00:00"
   },
   {
    "slug": "pv-magazine",
@@ -130,6 +122,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-08-31T13:54:18+00:00"
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 1,
+   "newest": "2026-09-01T05:00:52+00:00"
   }
  ]
 }
