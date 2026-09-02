@@ -6,8 +6,40 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:30:00 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Hydrogen News: VVTA Begins Phased Rollout of Fuel Cell Buses on High Desert Routes</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-vvta-begins-phased-rollout-of-fuel-cell-buses-on-high-desert-route/8576572/</link>
+      <guid isPermaLink="false">molecola-644c2e8448f7e292</guid>
+      <pubDate>Wed, 02 Sep 2026 11:16:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>VVTA has launched 13 New Flyer Xcelsior CHARGE FC™ hydrogen fuel cell buses powered by Ballard FCmove-HD+ engines, rolling them out across urban, rural and long-distance High Desert routes as part of its plan for a… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Newlight Hybrid Retrofit Cuts 24% Fuel on Lomar Bulk Carrier Voyage</title>
+      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-newlight-hybrid-retrofit-cuts-24-fuel-on-lomar-bulk-carrier-/8576571/</link>
+      <guid isPermaLink="false">molecola-a7c552483b09ca7f</guid>
+      <pubDate>Wed, 02 Sep 2026 11:14:03 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Lomar Shipping’s bulk carrier used Newlight’s hydrogen–diesel retrofit on an 8,500-mile Singapore-Ghana voyage, cutting fuel use by 24% and CO₂ emissions by 28%. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Doosan Fuel Cell Wins KRW 501.4 Billion U.S. AI Data Center Deal</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-doosan-fuel-cell-wins-krw-501-4-billion-u-s-ai-data-cent/8576569/</link>
+      <guid isPermaLink="false">molecola-c883256ec8bc477d</guid>
+      <pubDate>Wed, 02 Sep 2026 11:10:39 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Doosan Fuel Cell has secured a KRW 501.4 billion contract with its U.S. arm HyAxiom to supply PAFC systems for AI data centers in the United States, marking its first major entry into the U.S. data center power market. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Fuel-Cell Trucks Poised to Drive a Six-Million-Ounce Platinum Demand Surge</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-fuel-cell-trucks-poised-to-drive-a-six-million-ounce-pla/8576567/</link>
+      <guid isPermaLink="false">molecola-ef9b0f4544f57a39</guid>
+      <pubDate>Wed, 02 Sep 2026 11:08:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Valterra Platinum projects that if hydrogen fuel-cell trucks capture 20% of the global heavy-duty fleet at current catalyst loadings, platinum demand could rise by six million ounces annually in a scenario estimate. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Metz Puts Its First Three Hydrogen Buses on the Road — 34 Solaris Units Planned in Total</title>
       <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/metz-puts-its-first-three-hydrogen-buses-on-the-road-34-solaris-units-planned-in-total</link>
@@ -383,38 +415,6 @@
       <pubDate>Mon, 31 Aug 2026 13:59:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai Motor Group Appoints Uni Hong as Head of HMG Energy &amp; Hydrogen Business Division — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>U.S. startup exceeds 10% solar-to-hydrogen efficiency with 100 cm² module</title>
-      <link>https://www.pv-magazine.com/2026/08/31/u-s-startup-exceeds-10-solar-to-hydrogen-efficiency-with-100-cm%c2%b2-module/</link>
-      <guid isPermaLink="false">molecola-d3b5801021482f11</guid>
-      <pubDate>Mon, 31 Aug 2026 13:54:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>SunHydrogen has achieved solar-to-hydrogen conversion efficiencies above 10% with its 100 cm² modules in tests at Sparc Hydrogen’s laboratories. The U.S. company is now targeting efficiencies approaching 15% while… — PV Magazine</description>
-    </item>
-    <item>
-      <title>Toyota's Liquid Hydrogen Racer Returns to Le Mans for LMH2 Day</title>
-      <link>https://fuelcellsworks.com/2026/08/30/fuel-cells/toyota-s-liquid-hydrogen-racer-returns-to-le-mans-for-lmh2-day</link>
-      <guid isPermaLink="false">molecola-0d829c970e8faef5</guid>
-      <pubDate>Mon, 31 Aug 2026 13:35:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Toyota's Liquid Hydrogen Racer Returns to Le Mans for LMH2 Day — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Primary Hydrogen Expands Cumberland Basin Position with Staking of the Wallace Project, Nova Scotia</title>
-      <link>https://fuelcellsworks.com/2026/08/31/green-hydrogen/primary-hydrogen-expands-cumberland-basin-position-with-staking-of-the-wallace-project-nova-scotia</link>
-      <guid isPermaLink="false">molecola-7e04ede7524f8802</guid>
-      <pubDate>Mon, 31 Aug 2026 13:34:11 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Primary Hydrogen Expands Cumberland Basin Position with Staking of the Wallace Project, Nova Scotia — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Algiers Hosts SoutH2Corridor Launch Summit — Energy Ministers of Italy, Austria and Germany Expected</title>
-      <link>https://fuelcellsworks.com/2026/08/30/h2/algiers-hosts-south2corridor-launch-summit-energy-ministers-of-italy-austria-and-germany-expected</link>
-      <guid isPermaLink="false">molecola-6093ac8262aa5e2c</guid>
-      <pubDate>Mon, 31 Aug 2026 13:29:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Algiers Hosts SoutH2Corridor Launch Summit — Energy Ministers of Italy, Austria and Germany Expected — Fuel Cells Works</description>
     </item>
     <item>
       <title>Multi-Agent Receding Horizon Games Framework for Autonomous Market Participation</title>

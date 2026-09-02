@@ -1,6 +1,66 @@
 {
- "count": 347,
+ "count": 351,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-02T11:16:02+00:00",
+   "excerpt": "VVTA has launched 13 New Flyer Xcelsior CHARGE FC™ hydrogen fuel cell buses powered by Ballard FCmove-HD+ engines, rolling them out across urban, rural and long-distance High Desert routes as part of its plan for a…",
+   "first_seen": "2026-09-02T16:30:24+00:00",
+   "id": "644c2e8448f7e292",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-vvta-begins-phased-rollout-of-fuel-cell-buses-on-high-desert-route/8576572/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: VVTA Begins Phased Rollout of Fuel Cell Buses on High Desert Routes"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-02T11:14:03+00:00",
+   "excerpt": "Lomar Shipping’s bulk carrier used Newlight’s hydrogen–diesel retrofit on an 8,500-mile Singapore-Ghana voyage, cutting fuel use by 24% and CO₂ emissions by 28%.",
+   "first_seen": "2026-09-02T16:30:24+00:00",
+   "id": "a7c552483b09ca7f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/clean-hydrogen-news-newlight-hybrid-retrofit-cuts-24-fuel-on-lomar-bulk-carrier-/8576571/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Newlight Hybrid Retrofit Cuts 24% Fuel on Lomar Bulk Carrier Voyage"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-02T11:10:39+00:00",
+   "excerpt": "Doosan Fuel Cell has secured a KRW 501.4 billion contract with its U.S. arm HyAxiom to supply PAFC systems for AI data centers in the United States, marking its first major entry into the U.S. data center power market.",
+   "first_seen": "2026-09-02T16:30:24+00:00",
+   "id": "c883256ec8bc477d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-doosan-fuel-cell-wins-krw-501-4-billion-u-s-ai-data-cent/8576569/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Doosan Fuel Cell Wins KRW 501.4 Billion U.S. AI Data Center Deal"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-02T11:08:34+00:00",
+   "excerpt": "Valterra Platinum projects that if hydrogen fuel-cell trucks capture 20% of the global heavy-duty fleet at current catalyst loadings, platinum demand could rise by six million ounces annually in a scenario estimate.",
+   "first_seen": "2026-09-02T16:30:24+00:00",
+   "id": "ef9b0f4544f57a39",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-fuel-cell-trucks-poised-to-drive-a-six-million-ounce-pla/8576567/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Fuel-Cell Trucks Poised to Drive a Six-Million-Ounce Platinum Demand Surge"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -5899,6 +5959,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-02T11:11:35+00:00",
+ "updated": "2026-09-02T16:30:24+00:00",
  "version": 2
 }
