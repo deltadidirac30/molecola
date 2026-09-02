@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-01T23:16:02+00:00",
- "productive": 12,
+ "checked": "2026-09-02T04:21:49+00:00",
+ "productive": 11,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -36,14 +44,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-08-31T01:44:18+00:00"
-  },
-  {
    "slug": "energy-storage-news",
    "name": "Energy Storage News",
    "ok": true,
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-08-31T15:42:59+00:00"
+   "newest": "2026-09-01T13:49:12+00:00"
   },
   {
    "slug": "h2it",
