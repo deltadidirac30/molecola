@@ -1,16 +1,8 @@
 {
- "checked": "2026-09-02T04:21:49+00:00",
- "productive": 11,
+ "checked": "2026-09-02T11:11:35+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -36,12 +28,36 @@
    "newest": null
   },
   {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "us-doe",
    "name": "US DOE — Energy",
    "ok": true,
    "error": null,
    "count": 0,
    "newest": null
+  },
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-09-01T13:46:26+00:00"
   },
   {
    "slug": "energy-storage-news",
@@ -65,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-01T13:49:12+00:00"
+   "newest": "2026-09-01T15:26:03+00:00"
   },
   {
    "slug": "h2it",
@@ -92,14 +108,6 @@
    "newest": "2026-08-31T17:19:47+00:00"
   },
   {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-04-24T11:09:07+00:00"
-  },
-  {
    "slug": "openalex",
    "name": "OpenAlex",
    "ok": true,
@@ -122,14 +130,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-08-31T13:54:18+00:00"
-  },
-  {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
-   "count": 1,
-   "newest": "2026-09-01T05:00:52+00:00"
   }
  ]
 }
