@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:57:58 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Hydrogen News: VVTA Begins Phased Rollout of Fuel Cell Buses on High Desert Routes</title>
@@ -39,6 +39,86 @@
       <pubDate>Wed, 02 Sep 2026 11:08:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Valterra Platinum projects that if hydrogen fuel-cell trucks capture 20% of the global heavy-duty fleet at current catalyst loadings, platinum demand could rise by six million ounces annually in a scenario estimate. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>From Legacy Gas Fields to Hydrogen Storage: 3D Seismic-Driven Geological Modelling and Dynamic Simulation in the Northern Upper Rhine Graben</title>
+      <link>https://doi.org/10.3390/en19174140</link>
+      <guid isPermaLink="false">molecola-fd959b32281f35c9</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energies — OpenAlex</description>
+    </item>
+    <item>
+      <title>Morpho-electrochemical behavior of particulate Zn electrodes revealed by X-ray and neutron tomography</title>
+      <link>https://doi.org/10.1038/s41598-026-49097-8</link>
+      <guid isPermaLink="false">molecola-02561ddef2c385f6</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multi-zone phase change thermal management for accelerating hydrogen storage in LaNi5 alloy</title>
+      <link>https://doi.org/10.1016/j.enconman.2026.122099</link>
+      <guid isPermaLink="false">molecola-c88d545eb7288428</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Conversion and Management — OpenAlex</description>
+    </item>
+    <item>
+      <title>Integrated Assessment of Battery Degradation and Advanced Characterizations in Renewable–Hydrogen Hybrid Architectures</title>
+      <link>https://doi.org/10.3390/fuels7030060</link>
+      <guid isPermaLink="false">molecola-3dbfeb3613c87a7b</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Fuels — OpenAlex</description>
+    </item>
+    <item>
+      <title>Investigation on Ti0.94Zr0.08Cr1.0Mn0.6−xFe0.4+x (x = 0, 0.1, 0.2, 0.3, 0.4) Alloys for 25 MPa Hydrogen Compression Materials</title>
+      <link>https://doi.org/10.3390/met16090965</link>
+      <guid isPermaLink="false">molecola-14061fcca63a5182</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Metals — OpenAlex</description>
+    </item>
+    <item>
+      <title>Proton Capture and Relay Codesign Enables a pH‐Neutral All‐Organic Aqueous Proton Battery</title>
+      <link>https://doi.org/10.1002/anie.8800816</link>
+      <guid isPermaLink="false">molecola-3eb5116b3879a299</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie International Edition — OpenAlex</description>
+    </item>
+    <item>
+      <title>Ammonia as a hydrogen carrier: Engineering liquid-phase storage in underground salt caverns</title>
+      <link>https://doi.org/10.1016/j.est.2026.124062</link>
+      <guid isPermaLink="false">molecola-c528c0ed4b0deadc</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multi-Objective Capacity Configuration Optimization of an Off-Grid Highway Microgrid Considering Different Energy Storage Structures</title>
+      <link>https://doi.org/10.3390/en19174136</link>
+      <guid isPermaLink="false">molecola-0a6b7a4d53232feb</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energies — OpenAlex</description>
+    </item>
+    <item>
+      <title>Proton Capture and Relay Codesign Enables a pH‐Neutral All‐Organic Aqueous Proton Battery</title>
+      <link>https://doi.org/10.1002/ange.8800816</link>
+      <guid isPermaLink="false">molecola-3d2da0cf36a1e239</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie — OpenAlex</description>
+    </item>
+    <item>
+      <title>Accelerated surface reconstruction via a controllable boronization strategy for efficient water oxidation</title>
+      <link>https://doi.org/10.1016/j.fuel.2026.141175</link>
+      <guid isPermaLink="false">molecola-dc2eb9594159469e</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Fuel — OpenAlex</description>
     </item>
     <item>
       <title>Metz Puts Its First Three Hydrogen Buses on the Road — 34 Solaris Units Planned in Total</title>
@@ -135,14 +215,6 @@
       <pubDate>Tue, 01 Sep 2026 13:48:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>BYD Reportedly to Take Racco Electric K-Car Tech Global for Small EVs — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>A Backend-Agnostic MWIS Kernel for Stochastic Unit Commitment with Neutral-Atom Hardware Validation</title>
-      <link>https://arxiv.org/abs/2609.01248v1</link>
-      <guid isPermaLink="false">molecola-b98fec688bac1b52</guid>
-      <pubDate>Tue, 01 Sep 2026 13:46:26 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Quantum hardware is beginning to address structured combinatorial optimisation, but two steps still block practical use: mapping real operational models onto hardware-compatible instances, and converting noisy hardware… — arXiv</description>
     </item>
     <item>
       <title>Falconara's 500-Tonne Green Hydrogen Plant Inaugurates September 24 — Central Italy's Largest</title>
@@ -247,46 +319,6 @@
       <pubDate>Tue, 01 Sep 2026 05:00:52 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
       <description>Servizio di manutenzione, con reperibilità h24, degli impianti elettrici e apparecchiature elettriche e di telecontrollo, cabine MT/BT, affiancamento e addestramento operativo del personale di Aman. Comune di Amelia… — QualEnergia</description>
-    </item>
-    <item>
-      <title>Process Reconfiguration of Industrial Users to Support the Low-carbon Transition of Power Systems</title>
-      <link>https://openalex.org/W7204152624</link>
-      <guid isPermaLink="false">molecola-a300983ec9d948cd</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effects of Adzuki Bean Powder on the Quality and Anti-retrogradation Properties of Steamed Cake</title>
-      <link>https://doi.org/10.13386/j.issn1002-0306.2026020079</link>
-      <guid isPermaLink="false">molecola-4101fed843e5310d</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effect of Tiger Nut Protein on the Gelatinization and Gelling Properties of Wheat Starch</title>
-      <link>https://doi.org/10.13386/j.issn1002-0306.2025080233</link>
-      <guid isPermaLink="false">molecola-9e262f054e7c85cb</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Multi-timescale scheduling for wind-solar-hydrogen-storage systems under renewable generation and electricity price uncertainties in electricity markets</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157087</link>
-      <guid isPermaLink="false">molecola-9b200cd8eb09147a</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Technoeconomic and Environmental Assessment of a Power-to-H2-to-Power Metal Hydride System for a Renovated Greek Building</title>
-      <link>https://doi.org/10.1061/jleed9.eyeng-7000</link>
-      <guid isPermaLink="false">molecola-664b6e0f7f586423</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Engineering — OpenAlex</description>
     </item>
     <item>
       <title>Green Hydrogen Production Hub Emerges in Oulu with ABO Energy’s 600 MW Electrolyser</title>
@@ -415,38 +447,6 @@
       <pubDate>Mon, 31 Aug 2026 13:59:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai Motor Group Appoints Uni Hong as Head of HMG Energy &amp; Hydrogen Business Division — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Multi-Agent Receding Horizon Games Framework for Autonomous Market Participation</title>
-      <link>https://arxiv.org/abs/2608.30136v1</link>
-      <guid isPermaLink="false">molecola-c651d0e32b4d2f23</guid>
-      <pubDate>Mon, 31 Aug 2026 01:44:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Electrochemical distributed energy resources (DERs), such as electrolyzers and battery energy storage systems, consume large amounts of electricity. Buying that power directly from wholesale markets can sharply reduce… — arXiv</description>
-    </item>
-    <item>
-      <title>Preharvest Foliar Application of Ascorbic Acid Improves Growth, Yield, and Postharvest Quality of Broccoli ( Brassica oleracea var. italica)</title>
-      <link>https://doi.org/10.1002/nzc2.70226</link>
-      <guid isPermaLink="false">molecola-18db110f1fcf8505</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>New Zealand Journal of Crop and Horticultural Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Thermodynamic and electronic driven design of low-V BCC alloys for reversible hydrogen storage</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157321</link>
-      <guid isPermaLink="false">molecola-43f150d1a63ac6aa</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Voltage‐Stabilizing MXene Additive Electrolyte Mitigates Interference From External Force on the Charge‐Discharge Process for Multifunctional Hybrid Structural Supercapacitors</title>
-      <link>https://doi.org/10.1002/adma.74868</link>
-      <guid isPermaLink="false">molecola-0944664d90ae2c28</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Materials — OpenAlex</description>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-02T16:30:24+00:00",
+ "checked": "2026-09-02T20:58:18+00:00",
  "productive": 11,
  "total": 16,
  "sources": [
@@ -112,8 +112,8 @@
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 40,
-   "newest": "2026-09-01T00:00:00+00:00"
+   "count": 39,
+   "newest": "2026-09-02T00:00:00+00:00"
   },
   {
    "slug": "power",
