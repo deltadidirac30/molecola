@@ -1,16 +1,8 @@
 {
- "checked": "2026-09-03T04:15:47+00:00",
- "productive": 11,
+ "checked": "2026-09-03T11:07:27+00:00",
+ "productive": 12,
  "total": 16,
  "sources": [
-  {
-   "slug": "canale-energia",
-   "name": "Canale Energia",
-   "ok": true,
-   "error": null,
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -28,10 +20,10 @@
    "newest": null
   },
   {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway",
    "count": 0,
    "newest": null
   },
@@ -50,6 +42,14 @@
    "error": null,
    "count": 40,
    "newest": "2026-09-02T17:57:21+00:00"
+  },
+  {
+   "slug": "canale-energia",
+   "name": "Canale Energia",
+   "ok": true,
+   "error": null,
+   "count": 1,
+   "newest": "2026-09-03T08:13:14+00:00"
   },
   {
    "slug": "energy-storage-news",
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-02T16:04:48+00:00"
+   "newest": "2026-09-02T13:54:50+00:00"
   },
   {
    "slug": "h2it",
@@ -97,15 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-02T11:16:02+00:00"
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-04-24T11:09:07+00:00"
+   "newest": "2026-09-03T00:19:49+00:00"
   },
   {
    "slug": "openalex",
@@ -130,6 +122,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-08-31T13:54:18+00:00"
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 2,
+   "newest": "2026-09-03T08:00:25+00:00"
   }
  ]
 }

@@ -6,8 +6,48 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 04:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:07:06 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Dall’idrogeno al petrolio passando per l’Ai, le ultime mosse delle aziende dell’energia nel mondo</title>
+      <link>https://www.canaleenergia.com/rubriche/green-economy/idrogeno-petrolio-ai-ultime-mosse-aziende-dellenergia-nel-mondo/</link>
+      <guid isPermaLink="false">molecola-f29123181776a880</guid>
+      <pubDate>Thu, 03 Sep 2026 08:13:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>Dalle nuove alleanze per la mobilita sostenibile alle grandi operazioni nel settore petrolifero, fino all’innovazione tecnologica nei trasporti marittimi e nella gestione dei data center: ecco le principali novità del… — Canale Energia</description>
+    </item>
+    <item>
+      <title>Idrogeno naturale, una mappa delle aree da esplorare in Italia</title>
+      <link>https://www.qualenergia.it/articoli/idrogeno-naturale-mappa-aree-esplorare-italia/</link>
+      <guid isPermaLink="false">molecola-27b3278cf65bf341</guid>
+      <pubDate>Thu, 03 Sep 2026 08:00:25 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Dove avrebbe senso cercare idrogeno naturale nel sottosuolo italiano? Una nuova ricerca prova a rispondere alla domanda con una vera e propria graduatoria delle aree potenzialmente più interessanti. Lo studio… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Quantifying natural hydrogen prospectivity in Italy</title>
+      <link>https://www.qualenergia.it/pro/documenti/quantifying-natural-hydrogen-prospectivity-in-italy/</link>
+      <guid isPermaLink="false">molecola-323b25bf3e9a24c3</guid>
+      <pubDate>Thu, 03 Sep 2026 05:15:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Titolo completo: Quantifying natural hydrogen prospectivity in Italy: A novel pre-exploration workflow for the energy transition Quali sono le aree italiane più promettenti per la ricerca di possibili accumuli di… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Electrolyser with 50 MW PV in Zamora</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-castilla-y-le-n-authorizes-40-mw-moreruela-ii-electrol/8576575/</link>
+      <guid isPermaLink="false">molecola-a0c942ae9eec96c5</guid>
+      <pubDate>Thu, 03 Sep 2026 00:19:49 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Castilla y León approved the 40 MW Moreruela II electrolyser with an integrated 50 MW solar park, advancing green hydrogen production amid groundwater debates in rural Zamora. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regional Low-Carbon Fuel Hub</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-omv-petrom-s-petrobrazi-refinery-emerges-as-a-regional-low-c/8576573/</link>
+      <guid isPermaLink="false">molecola-e76e10197a09553b</guid>
+      <pubDate>Thu, 03 Sep 2026 00:08:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>OMV Petrom’s Petrobrazi refinery is scaling to 55 MW of green hydrogen capacity and adding a 250,000 tonne SAF/HVO plant, marking a major step in Southeastern Europe’s decarbonization drive. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production</title>
       <link>https://arxiv.org/abs/2609.02883v1</link>
@@ -407,46 +447,6 @@
       <pubDate>Tue, 01 Sep 2026 13:37:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Falconara's 500-Tonne Green Hydrogen Plant Inaugurates September 24 — Central Italy's Largest — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>California's Hydrogen Resolution Nears a Final Assembly Vote</title>
-      <link>https://fuelcellsworks.com/2026/08/31/h2/california-s-hydrogen-resolution-nears-a-final-assembly-vote</link>
-      <guid isPermaLink="false">molecola-d830fc77677979da</guid>
-      <pubDate>Tue, 01 Sep 2026 13:29:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>California's Hydrogen Resolution Nears a Final Assembly Vote — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>France Lines Up Second Hydrogen Subsidy Auction — 250MW Up for Grabs as Bids Close by Year-End</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/france-lines-up-second-hydrogen-subsidy-auction-250mw-up-for-grabs-as-bids-close-by-year-end</link>
-      <guid isPermaLink="false">molecola-9089df50d53f88d5</guid>
-      <pubDate>Tue, 01 Sep 2026 13:19:56 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>France Lines Up Second Hydrogen Subsidy Auction — 250MW Up for Grabs as Bids Close by Year-End — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows</title>
-      <link>https://fuelcellsworks.com/2026/08/31/h2/california-dairy-farm-s-new-biogas-project-makes-history-and-raises-eyebrows</link>
-      <guid isPermaLink="false">molecola-6b6081e2d9854f5e</guid>
-      <pubDate>Tue, 01 Sep 2026 13:14:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Stuttgart's Green Hydrogen Hub Gets AI Software to Chase Cheap Renewable Power</title>
-      <link>https://fuelcellsworks.com/2026/08/26/h2/stuttgart-s-green-hydrogen-hub-gets-ai-software-to-chase-cheap-renewable-power</link>
-      <guid isPermaLink="false">molecola-f6cdbdc96bc88c9f</guid>
-      <pubDate>Tue, 01 Sep 2026 13:10:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Stuttgart's Green Hydrogen Hub Gets AI Software to Chase Cheap Renewable Power — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Chile Approves HNH's 1.35-Million-Tonne Green Ammonia Project in Magallanes</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/chile-approves-hnh-s-1-35-million-tonne-green-ammonia-project-in-magallanes</link>
-      <guid isPermaLink="false">molecola-cb90202f8ae0eb31</guid>
-      <pubDate>Tue, 01 Sep 2026 13:05:21 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Chile Approves HNH's 1.35-Million-Tonne Green Ammonia Project in Magallanes — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

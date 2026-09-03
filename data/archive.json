@@ -1,6 +1,81 @@
 {
- "count": 410,
+ "count": 415,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T08:13:14+00:00",
+   "excerpt": "Dalle nuove alleanze per la mobilita sostenibile alle grandi operazioni nel settore petrolifero, fino all’innovazione tecnologica nei trasporti marittimi e nella gestione dei data center: ecco le principali novità del…",
+   "first_seen": "2026-09-03T11:07:26+00:00",
+   "id": "f29123181776a880",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/green-economy/idrogeno-petrolio-ai-ultime-mosse-aziende-dellenergia-nel-mondo/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Dall’idrogeno al petrolio passando per l’Ai, le ultime mosse delle aziende dell’energia nel mondo"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-03T08:00:25+00:00",
+   "excerpt": "Dove avrebbe senso cercare idrogeno naturale nel sottosuolo italiano? Una nuova ricerca prova a rispondere alla domanda con una vera e propria graduatoria delle aree potenzialmente più interessanti. Lo studio…",
+   "first_seen": "2026-09-03T11:07:26+00:00",
+   "id": "27b3278cf65bf341",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/articoli/idrogeno-naturale-mappa-aree-esplorare-italia/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Idrogeno naturale, una mappa delle aree da esplorare in Italia"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-03T05:15:56+00:00",
+   "excerpt": "Titolo completo: Quantifying natural hydrogen prospectivity in Italy: A novel pre-exploration workflow for the energy transition Quali sono le aree italiane più promettenti per la ricerca di possibili accumuli di…",
+   "first_seen": "2026-09-03T11:07:26+00:00",
+   "id": "323b25bf3e9a24c3",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/pro/documenti/quantifying-natural-hydrogen-prospectivity-in-italy/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Quantifying natural hydrogen prospectivity in Italy"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T00:19:49+00:00",
+   "excerpt": "Castilla y León approved the 40 MW Moreruela II electrolyser with an integrated 50 MW solar park, advancing green hydrogen production amid groundwater debates in rural Zamora.",
+   "first_seen": "2026-09-03T11:07:26+00:00",
+   "id": "a0c942ae9eec96c5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-castilla-y-le-n-authorizes-40-mw-moreruela-ii-electrol/8576575/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production: Castilla y León Authorizes 40 MW Moreruela II Electrolyser with 50 MW PV in Zamora"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T00:08:46+00:00",
+   "excerpt": "OMV Petrom’s Petrobrazi refinery is scaling to 55 MW of green hydrogen capacity and adding a 250,000 tonne SAF/HVO plant, marking a major step in Southeastern Europe’s decarbonization drive.",
+   "first_seen": "2026-09-03T11:07:26+00:00",
+   "id": "e76e10197a09553b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-omv-petrom-s-petrobrazi-refinery-emerges-as-a-regional-low-c/8576573/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: OMV Petrom’s Petrobrazi Refinery Emerges as a Regional Low-Carbon Fuel Hub"
+  },
   {
    "authors": [
     "Ritam Chakraborty",
@@ -7063,6 +7138,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-03T04:15:47+00:00",
+ "updated": "2026-09-03T11:07:27+00:00",
  "version": 2
 }
