@@ -1,6 +1,156 @@
 {
- "count": 415,
+ "count": 437,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:48:49+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "6524a35b10d28db1",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/03/h2/university-of-valparaiso-and-mario-molina-center-join-forces-on-green-hydrogen-and-zero-emission-mobility",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "University of Valparaíso and Mario Molina Center Join Forces on Green Hydrogen and Zero-Emission Mobility"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:40:53+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "4bce52df32707a94",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/fuel-cells/zeroavia-leads-hyprime-project-to-demonstrate-hydrogen-infrastructure-for-the-future-of-commercial-aviation-c20411946",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "ZeroAvia Leads HyPRIME Project to Demonstrate Hydrogen Infrastructure for the Future of Commercial Aviation"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:32:40+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "49e1276e834eba94",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/01/h2/south-korea-s-ministry-leaves-clean-hydrogen-import-budgets-unspent-for-two-consecutive-years-industry-pushes-back",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "South Korea's Ministry Leaves Clean Hydrogen Import Budgets Unspent for Two Consecutive Years — Industry Pushes Back"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:22:03+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "a47af4d616f7606c",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/fuel-cells/heven-aerotech-launches-multi-site-manufacturing-network-for-hydrogen-powered-uas-with-the-opening-of-first-east-coast-facility",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Heven AeroTech Launches Multi-Site Manufacturing Network for Hydrogen-Powered UAS with the Opening of First East Coast Facility"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:11:37+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "5d8f2dc678acc468",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/electric/wrightbus-launches-in-australia-to-drive-the-next-chapter-of-zero-emission-transport",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Wrightbus Launches in Australia to Drive the Next Chapter of Zero-Emission Transport"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T13:07:55+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "9314f29c8fa84582",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/03/h2/eib-triples-nordic-ren-gas-financing-framework-to-680-million-for-finnish-e-methane-portfolio",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "EIB Triples Nordic Ren-Gas Financing Framework to €680 Million for Finnish E-Methane Portfolio"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T12:55:39+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "7bbe7caa1a5b7b06",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/03/fuel-cells/industry-leaders-to-join-forces-to-scale-hydrogen-mobility",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Industry Leaders to Join Forces to Scale Hydrogen Mobility"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T12:53:19+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "b47853ef995c5404",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/h2/ceo-gives-a-presentation-at-the-hydrogen-state-of-industry-forum",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "EU Approves Germany's €35 Billion Hydrogen-Ready Gas Power Plant Scheme — First Auction Closes September 8"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T12:34:09+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "be1fc7a37570f3a2",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/01/electric/astemo-plans-major-expansion-of-its-manufacturing-operations-in-kentucky",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Astemo Plans Major Expansion of Its Manufacturing Operations in Kentucky"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T12:33:40+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "204acb8646b7de2d",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/03/electrolyzer/enapter-receives-pilot-order-from-a-us-drone-manufacturer",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Enapter Receives Pilot Order From a US Drone Manufacturer"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -34,7 +184,7 @@
   {
    "authors": [],
    "category": "politica",
-   "date": "2026-09-03T05:15:56+00:00",
+   "date": "2026-09-03T05:00:56+00:00",
    "excerpt": "Titolo completo: Quantifying natural hydrogen prospectivity in Italy: A novel pre-exploration workflow for the energy transition Quali sono le aree italiane più promettenti per la ricerca di possibili accumuli di…",
    "first_seen": "2026-09-03T11:07:26+00:00",
    "id": "323b25bf3e9a24c3",
@@ -709,6 +859,223 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Accelerated surface reconstruction via a controllable boronization strategy for efficient water oxidation"
+  },
+  {
+   "authors": [
+    "Andrew Swift",
+    "Hamid Afshari",
+    "Abdelhakim Khatab",
+    "Claver Diallo"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "fa428a05b730626f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.128759",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Green hydrogen production system design optimisation with strategic reliability decisions"
+  },
+  {
+   "authors": [
+    "Moein Kordrajabi",
+    "Alireza Zakariazadeh",
+    "Pierluigi Siano"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Smart Grids and Sustainable Energy",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "f413c988ca0d2ba1",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s40866-026-00368-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen vs. Battery Energy Storage: A Graph-Theoretic Approach to Network Resilience in Photovoltaic Microgrids"
+  },
+  {
+   "authors": [
+    "T. Zhi-Sin",
+    "P. Ding",
+    "H. F. Teh",
+    "S. F. Kua",
+    "C. H. Pung",
+    "N. Ghazali"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "448d9153dddec131",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.33417063",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Revealing the Critical Impact of Cold Storage Duration on the Browning and Antioxidant Dynamics in the Rind of Jackfruit (Artocarpus heterophyllus Cv. J33)"
+  },
+  {
+   "authors": [
+    "Hamna Habeebullah",
+    "Alan C. Brent"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Archives of Sustainable Energy Systems",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "67352ccf4dd735a8",
+   "lang": "en",
+   "link": "https://doi.org/10.26686/ases.v2.11222",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-economic feasibility of underground hydrogen storage at the Ahuroa gas field with combined cycle gas turbine integration in the Taranaki region of Aotearoa New Zealand"
+  },
+  {
+   "authors": [
+    "Dominic Wilson",
+    "Alan C. Brent"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Archives of Sustainable Energy Systems",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "5f5ecf7b5e0bff2d",
+   "lang": "en",
+   "link": "https://doi.org/10.26686/ases.v2.11205",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Energy storage solutions to support the implementation of renewable electricity in Aotearoa New Zealand"
+  },
+  {
+   "authors": [
+    "Phonthana Sipaseuth",
+    "Alan C. Brent"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Archives of Sustainable Energy Systems",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "be9213b7eb07b8b7",
+   "lang": "en",
+   "link": "https://doi.org/10.26686/ases.v2.11244",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-economic feasibility of green hydrogen as seasonal energy storage from surplus hydropower in Lao PDR"
+  },
+  {
+   "authors": [
+    "Junyi Han",
+    "Jiaming Li",
+    "Hedong Gu",
+    "Yini Long",
+    "Nan Li",
+    "Shaoyu Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "13dafe8faaa2d7f3",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.78116",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "In Situ Protective Interface Construction via a Cyano‐Ether Additive for Durable Zinc Metal Anodes"
+  },
+  {
+   "authors": [
+    "He Xu",
+    "Ines Peremin",
+    "Roger Godschalk",
+    "Marko Gerić",
+    "Ivone Jakaša",
+    "Goran Gajski"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Mutagenesis",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "2556999d62b80701",
+   "lang": "en",
+   "link": "https://doi.org/10.1093/mutage/geag030",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Expanding the comet assay toolbox for human biomonitoring using frozen whole blood"
+  },
+  {
+   "authors": [
+    "T. Zhi-Sin",
+    "P. Ding",
+    "H. F. Teh",
+    "S. F. Kua",
+    "C. H. Pung",
+    "N. Ghazali"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "2f4072c40c50dd8a",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.33417063.v1",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Revealing the Critical Impact of Cold Storage Duration on the Browning and Antioxidant Dynamics in the Rind of Jackfruit (Artocarpus heterophyllus Cv. J33)"
+  },
+  {
+   "authors": [
+    "Simon Tuamemel",
+    "Alan C. Brent"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Archives of Sustainable Energy Systems",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "3580fd838a3967f2",
+   "lang": "en",
+   "link": "https://doi.org/10.26686/ases.v2.11227",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen storage in depleted gas fields: A techno-economic case study of Moomba, South Australia"
+  },
+  {
+   "authors": [
+    "Payam Edalati",
+    "Ricardo Floriano"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-02T00:00:00+00:00",
+   "excerpt": "Journal of Materials Science",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "c00f36ec6e4b78db",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10853-026-13672-1",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent advances in hydrogen storage properties of high-entropy alloys: from alloy design to performance"
   },
   {
    "authors": [
@@ -1744,6 +2111,26 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Multi-stage low-carbon planning of hydrogen-based multi-energy microgrids with multiple hydrogen pathways and hybrid uncertainties"
+  },
+  {
+   "authors": [
+    "Abdullahi Maikanti Baru",
+    "Chinedu J. Okere",
+    "Abdurrahman Baru",
+    "Marshall Watson"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-01T00:00:00+00:00",
+   "excerpt": "Renewable Energy",
+   "first_seen": "2026-09-03T16:20:56+00:00",
+   "id": "dc453a7e8b9f498c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.renene.2026.126403",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Operational Strategy Assessment for Seasonal Hydrogen Storage in Homogeneous and Heterogeneous Deep Saline Anticline Aquifers: Effects of Cushion Gas Selection, Well Configuration, and Cyclic Injection"
   },
   {
    "authors": [],
@@ -7138,6 +7525,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-03T11:07:27+00:00",
+ "updated": "2026-09-03T16:20:56+00:00",
  "version": 2
 }
