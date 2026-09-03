@@ -6,8 +6,112 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 02 Sep 2026 23:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:15:23 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Repairing PBE-Spurious Metallicity for HSE06-Level Screening of 2D Photocatalysts for Green Hydrogen Production</title>
+      <link>https://arxiv.org/abs/2609.02883v1</link>
+      <guid isPermaLink="false">molecola-c442e53d1f3517a5</guid>
+      <pubDate>Wed, 02 Sep 2026 17:57:21 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Semilocal PBE calculations can remove viable photocatalysts before screening by labeling narrow-gap semiconductors as metals. We address this failure mode in the Computational 2D Materials Database (C2DB) by combining… — arXiv</description>
+    </item>
+    <item>
+      <title>Wales &amp; West Utilities Sets Its Sights on Low Emission Hydrogen Vehicles</title>
+      <link>https://fuelcellsworks.com/2026/09/02/fuel-cells/wales-and-west-utilities-sets-its-sights-on-low-emission-hydrogen-vehicles</link>
+      <guid isPermaLink="false">molecola-b0cf9959d2e9d6c2</guid>
+      <pubDate>Wed, 02 Sep 2026 16:04:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Wales &amp; West Utilities Sets Its Sights on Low Emission Hydrogen Vehicles — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Dongfeng Hydrogen-Powered Heavy Trucks Are Accelerating Towards Normalized Commercial Operation.</title>
+      <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/dongfeng-hydrogen-powered-heavy-trucks-are-accelerating-towards-normalized-commercial-operation</link>
+      <guid isPermaLink="false">molecola-971332228855f7cf</guid>
+      <pubDate>Wed, 02 Sep 2026 15:56:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Dongfeng Hydrogen-Powered Heavy Trucks Are Accelerating Towards Normalized Commercial Operation. — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>KoneCranes Straddle Carrier Outfitted with zepp.solutions Hydrogen System</title>
+      <link>https://fuelcellsworks.com/2026/09/02/h2/konecranes-straddle-carrier-outfitted-with-zepp-solutions-hydrogen-system</link>
+      <guid isPermaLink="false">molecola-1185f36b16c1c432</guid>
+      <pubDate>Wed, 02 Sep 2026 15:47:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>KoneCranes Straddle Carrier Outfitted with zepp.solutions Hydrogen System — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>SK Innovation E&amp;S and Deokyang Energen Sign MOU to Build Five Combined Hydrogen Refuelling Stations in South Korea</title>
+      <link>https://fuelcellsworks.com/2026/09/02/electrolyzer/sk-innovation-e-and-s-and-deokyang-energen-sign-mou-to-build-five-combined-hydrogen-refuelling-stations-in-south-korea</link>
+      <guid isPermaLink="false">molecola-72e7ef03b97d82ea</guid>
+      <pubDate>Wed, 02 Sep 2026 15:30:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>SK Innovation E&amp;S and Deokyang Energen Sign MOU to Build Five Combined Hydrogen Refuelling Stations in South Korea — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Brazil Approves NEBRA Hydrogen Research Facility at Parnaíba Export Zone</title>
+      <link>https://fuelcellsworks.com/2026/09/01/h2/brazil-approves-nebra-hydrogen-research-facility-at-parnaiba-export-zone</link>
+      <guid isPermaLink="false">molecola-cf7a08299bb078f6</guid>
+      <pubDate>Wed, 02 Sep 2026 15:18:11 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Brazil Approves NEBRA Hydrogen Research Facility at Parnaíba Export Zone — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>OroCarbo Reserves 12 SYNOCA® C-iC Units From Haffner Energy, Representing Up to €30 Million in Potential Revenue</title>
+      <link>https://fuelcellsworks.com/2026/09/02/h2/orocarbo-reserves-12-synoca-c-ic-units-from-haffner-energy-representing-up-to-30-million-in-potential-revenue</link>
+      <guid isPermaLink="false">molecola-45d9d6d470a3953d</guid>
+      <pubDate>Wed, 02 Sep 2026 15:06:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>OroCarbo Reserves 12 SYNOCA® C-iC Units From Haffner Energy, Representing Up to €30 Million in Potential Revenue — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Korea: Seongnam Council Vice Chair Calls for More Hydrogen Refuelling Stations</title>
+      <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/seongnam-council-vice-chair-calls-for-more-hydrogen-refuelling-stations</link>
+      <guid isPermaLink="false">molecola-40337846b8898834</guid>
+      <pubDate>Wed, 02 Sep 2026 14:56:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Korea: Seongnam Council Vice Chair Calls for More Hydrogen Refuelling Stations — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Riverside Transit Agency Opens Hydrogen Fuelling Station and Puts First Five Fuel Cell Buses on the Road</title>
+      <link>https://fuelcellsworks.com/2026/09/01/electrolyzer/riverside-transit-agency-opens-hydrogen-fuelling-station-and-puts-first-five-fuel-cell-buses-on-the-road</link>
+      <guid isPermaLink="false">molecola-f23faf7de9c85975</guid>
+      <pubDate>Wed, 02 Sep 2026 14:48:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Riverside Transit Agency Opens Hydrogen Fuelling Station and Puts First Five Fuel Cell Buses on the Road — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>South Korea Study Proposes 1GW Fuel Cell Power Build-Out for Yongin Semiconductor Cluster</title>
+      <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/south-korea-study-proposes-1gw-fuel-cell-power-build-out-for-yongin-semiconductor-cluster</link>
+      <guid isPermaLink="false">molecola-9cf3eb3e2aee5b31</guid>
+      <pubDate>Wed, 02 Sep 2026 14:40:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>South Korea Study Proposes 1GW Fuel Cell Power Build-Out for Yongin Semiconductor Cluster — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Alfa Laval Technology Provider for Electrolyzer Cooling in One of Europe’s Largest Renewable Hydrogen Projects</title>
+      <link>https://fuelcellsworks.com/2026/09/02/h2/alfa-laval-technology-provider-for-electrolyzer-cooling-in-one-of-europe-s-largest-renewable-hydrogen-projects</link>
+      <guid isPermaLink="false">molecola-ddd80dcd144d0e22</guid>
+      <pubDate>Wed, 02 Sep 2026 14:30:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Alfa Laval Technology Provider for Electrolyzer Cooling in One of Europe’s Largest Renewable Hydrogen Projects — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>France Backs Energy Observer 3 Ammonia-to-Hydrogen Fuel Cell Vessel</title>
+      <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/france-backs-energy-observer-3-ammonia-to-hydrogen-fuel-cell-vessel</link>
+      <guid isPermaLink="false">molecola-ced50fcec42d6c36</guid>
+      <pubDate>Wed, 02 Sep 2026 14:14:36 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>France Backs Energy Observer 3 Ammonia-to-Hydrogen Fuel Cell Vessel — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Hitachi Announces Collaboration with Bloom Energy to Deliver On-Site Power Solutions in Japan</title>
+      <link>https://fuelcellsworks.com/2026/09/02/electrolyzer/hitachi-announces-collaboration-with-bloom-energy-to-deliver-on-site-power-solutions-in-japan</link>
+      <guid isPermaLink="false">molecola-cfa6541b418d4a16</guid>
+      <pubDate>Wed, 02 Sep 2026 14:02:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Hitachi Announces Collaboration with Bloom Energy to Deliver On-Site Power Solutions in Japan — Fuel Cells Works</description>
+    </item>
     <item>
       <title>South Korea Updates Hydrogen Act Enforcement Rules — Fuel Cells, Electrolysers and Gas Turbines Now Formally Defined, Effective September 18</title>
       <link>https://fuelcellsworks.com/2026/09/01/electrolyzer/south-korea-updates-hydrogen-act-enforcement-rules-fuel-cells-electrolysers-and-gas-turbines-now-formally-defined-effective-september-18</link>
@@ -201,14 +305,6 @@
       <description>Angewandte Chemie — OpenAlex</description>
     </item>
     <item>
-      <title>Accelerated surface reconstruction via a controllable boronization strategy for efficient water oxidation</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141175</link>
-      <guid isPermaLink="false">molecola-dc2eb9594159469e</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
       <title>Metz Puts Its First Three Hydrogen Buses on the Road — 34 Solaris Units Planned in Total</title>
       <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/metz-puts-its-first-three-hydrogen-buses-on-the-road-34-solaris-units-planned-in-total</link>
       <guid isPermaLink="false">molecola-31f7d215a0748924</guid>
@@ -351,102 +447,6 @@
       <pubDate>Tue, 01 Sep 2026 13:05:21 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Chile Approves HNH's 1.35-Million-Tonne Green Ammonia Project in Magallanes — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>SPT Launches Hydrogen Heavy-Duty Truck Fleet Project in California — Hyundai XCIENT the Lead Vehicle</title>
-      <link>https://fuelcellsworks.com/2026/08/30/fuel-cells/spt-launches-hydrogen-heavy-duty-truck-fleet-project-in-california-hyundai-xcient-the-lead-vehicle</link>
-      <guid isPermaLink="false">molecola-692341c8e3492972</guid>
-      <pubDate>Tue, 01 Sep 2026 12:52:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>SPT Launches Hydrogen Heavy-Duty Truck Fleet Project in California — Hyundai XCIENT the Lead Vehicle — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Creos Breaks Ground on 17Km Hydrogen Pipeline to Dillinger Hütte — Part of €110 Million Cross-Border MosaHYc Network</title>
-      <link>https://fuelcellsworks.com/2026/08/30/h2/creos-breaks-ground-on-17km-hydrogen-pipeline-to-dillinger-hutte-part-of-110-million-cross-border-mosahyc-network</link>
-      <guid isPermaLink="false">molecola-35457210189690fc</guid>
-      <pubDate>Tue, 01 Sep 2026 12:38:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Creos Breaks Ground on 17Km Hydrogen Pipeline to Dillinger Hütte — Part of €110 Million Cross-Border MosaHYc Network — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Kansai Electric Gets Serious on Hydrogen — But the Hard Numbers Are Still Missing</title>
-      <link>https://fuelcellsworks.com/2026/08/25/h2/kansai-electric-gets-serious-on-hydrogen-but-the-hard-numbers-are-still-missing</link>
-      <guid isPermaLink="false">molecola-41e67a8dcb4a1515</guid>
-      <pubDate>Tue, 01 Sep 2026 12:32:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Kansai Electric Gets Serious on Hydrogen — But the Hard Numbers Are Still Missing — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Manage Water Use in Power and Energy With Reliable Process Instrumentation</title>
-      <link>https://www.powermag.com/manage-water-use-in-power-and-energy-with-reliable-process-instrumentation/</link>
-      <guid isPermaLink="false">molecola-be4b2075bdd63473</guid>
-      <pubDate>Tue, 01 Sep 2026 11:05:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
-      <description>From green hydrogen and coal wastewater, to data center cooling and steam cycle chemistry, reliable measurement helps power producers moderate water use, protect critical equipment, and comply with — POWER</description>
-    </item>
-    <item>
-      <title>Japan’s Hydrogen Strategy Is About More Than Hydrogen</title>
-      <link>https://www.powermag.com/japans-hydrogen-strategy-is-about-more-than-hydrogen/</link>
-      <guid isPermaLink="false">molecola-3dd51d9030695791</guid>
-      <pubDate>Tue, 01 Sep 2026 11:05:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
-      <description>Japan for nearly a decade has been one of the world’s most committed proponents of hydrogen. It was among the first countries to establish a national hydrogen strategy, and it continues to invest heavily in — POWER</description>
-    </item>
-    <item>
-      <title>Miguel López, CEO of thyssenkrupp, elected new board chair of Hydrogen Europe</title>
-      <link>https://hydrogeneurope.eu/miguel-lopez-ceo-of-thyssenkrupp-elected-new-board-chair-of-hydrogen-europe/</link>
-      <guid isPermaLink="false">molecola-9030b907e667db9a</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Miguel López, CEO of thyssenkrupp, elected new board chair of Hydrogen Europe — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Servizio manutenzione impianti elettrici e cabine MT/BT ad Amelia (TR)</title>
-      <link>https://www.qualenergia.it/pro/documenti/servizio-manutenzione-impianti-elettrici-e-cabine-mt-bt-ad-amelia-tr/</link>
-      <guid isPermaLink="false">molecola-718183714eb284b3</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
-      <description>Servizio di manutenzione, con reperibilità h24, degli impianti elettrici e apparecchiature elettriche e di telecontrollo, cabine MT/BT, affiancamento e addestramento operativo del personale di Aman. Comune di Amelia… — QualEnergia</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production Hub Emerges in Oulu with ABO Energy’s 600 MW Electrolyser</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-hub-emerges-in-oulu-with-abo-energy-s-600-mw-electroly/8576560/</link>
-      <guid isPermaLink="false">molecola-4f579839e7751588</guid>
-      <pubDate>Mon, 31 Aug 2026 17:19:47 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>German developer ABO Energy and the City of Oulu have agreed on zoning to host a 600 MW green hydrogen production plant in Pyyryväinen, featuring e-fuel synthesis and district heating integration. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure Bottleneck Threatens Europe’s Zero-Emission Truck Rollout</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-bottleneck-threatens-europe-s-zero-emission-truck-rollou/8576559/</link>
-      <guid isPermaLink="false">molecola-223327665d368488</guid>
-      <pubDate>Mon, 31 Aug 2026 17:19:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>VDA warns that Europe’s zero-emission truck rollout risks stalling due to insufficient high-power charging and hydrogen refueling infrastructure, calling for urgent funding, regulatory reforms, and public-private… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure: Four Low-Pressure Storage Tanks Go Online at Stuttgart’s Green Hydrogen Hub</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-four-low-pressure-storage-tanks-go-online-at-stuttgart-s/8576558/</link>
-      <guid isPermaLink="false">molecola-56cedab45e739c21</guid>
-      <pubDate>Mon, 31 Aug 2026 17:11:54 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Stadtwerke Stuttgart has deployed four low-pressure hydrogen storage tanks at its Green Hydrogen Hub, adding 328 m³ of buffer capacity to stabilise renewable hydrogen supply for regional mobility and industry. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Global EV Sales Split Sharply in July — Europe Up a Third, America Down a Quarter</title>
-      <link>https://fuelcellsworks.com/2026/08/30/electric/global-ev-sales-split-sharply-in-july-europe-up-a-third-america-down-a-quarter</link>
-      <guid isPermaLink="false">molecola-e5376c1bc9595675</guid>
-      <pubDate>Mon, 31 Aug 2026 15:42:59 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Global EV Sales Split Sharply in July — Europe Up a Third, America Down a Quarter — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Teragen Energy Raises Oversubscribed $6M to Take Solid-Oxide Fuel Cells Toward Commercial Pilots</title>
-      <link>https://fuelcellsworks.com/2026/08/31/energy-innovation/teragen-energy-raises-oversubscribed-6m-to-take-solid-oxide-fuel-cells-toward-commercial-pilots</link>
-      <guid isPermaLink="false">molecola-4e40e09aad3e8b5e</guid>
-      <pubDate>Mon, 31 Aug 2026 15:40:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Teragen Energy Raises Oversubscribed $6M to Take Solid-Oxide Fuel Cells Toward Commercial Pilots — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
