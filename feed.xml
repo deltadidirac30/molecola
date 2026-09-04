@@ -6,8 +6,40 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 03 Sep 2026 23:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:22:05 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>OEMs and Energy Majors Unite on European Truck Refueling Network</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-news-oems-and-energy-majors-unite-on-european-truck-refu/8576581/</link>
+      <guid isPermaLink="false">molecola-fceb236f31b9d238</guid>
+      <pubDate>Thu, 03 Sep 2026 15:19:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Major OEMs and energy firms, including Daimler Truck, Volvo, Toyota, Bosch, Air Liquide, TotalEnergies, TEAL Mobility and MB Energy, announced a collaboration in Germany to develop a strategic hydrogen refueling… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen News: Metz Unveils First Fuel Cell Buses on LE MET’ Network</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-metz-unveils-first-fuel-cell-buses-on-le-met-network/8576580/</link>
+      <guid isPermaLink="false">molecola-9f1831981adf9a20</guid>
+      <pubDate>Thu, 03 Sep 2026 15:18:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Metz has rolled out its first hydrogen fuel cell buses on the LE MET’ network, part of a plan to deploy 34 H₂ vehicles and build local green hydrogen infrastructure. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure: How Nouvelle-Aquitaine Is Cementing Its Role as a European Hub</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-how-nouvelle-aquitaine-is-cementing-its-role-as-a-europe/8576579/</link>
+      <guid isPermaLink="false">molecola-f59ffaacda4e0703</guid>
+      <pubDate>Thu, 03 Sep 2026 15:11:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Nouvelle-Aquitaine is building a pan-European hydrogen hub through the H2Med and HySoW corridors, a PEM fuel cell gigafactory, cross-border PHYRENE cooperation and the H2Charente mobility project. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Corfo and Eight Chilean Firms Forge Industrial Demand Pact</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-corfo-and-eight-chilean-firms-forge-industrial-demand-pact/8576578/</link>
+      <guid isPermaLink="false">molecola-883c27e09e8e8e6b</guid>
+      <pubDate>Thu, 03 Sep 2026 15:09:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Corfo and eight corporations signed a pact at Hyvolution Chile 2026 to co-finance green hydrogen rings and secure domestic demand across logistics, chemical and forestry applications. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>University of Valparaíso and Mario Molina Center Join Forces on Green Hydrogen and Zero-Emission Mobility</title>
       <link>https://fuelcellsworks.com/2026/09/03/h2/university-of-valparaiso-and-mario-molina-center-join-forces-on-green-hydrogen-and-zero-emission-mobility</link>
@@ -89,6 +121,22 @@
       <description>Enapter Receives Pilot Order From a US Drone Manufacturer — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study</title>
+      <link>https://arxiv.org/abs/2609.03717v1</link>
+      <guid isPermaLink="false">molecola-fe56f340cb168889</guid>
+      <pubDate>Thu, 03 Sep 2026 11:51:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>La2Mo2O9 (LAMOX) is a promising oxide-ion conductor for intermediate-temperature solid oxide fuel cells, but its practical application is limited by a first-order monoclinic-to-cubic (alpha to beta) phase transition… — arXiv</description>
+    </item>
+    <item>
+      <title>Beyond Higher-Pulse Rectification: Operational Harmonic Coordination in Renewable P2H Systems</title>
+      <link>https://arxiv.org/abs/2609.03531v1</link>
+      <guid isPermaLink="false">molecola-6bf35a9e8e99b92e</guid>
+      <pubDate>Thu, 03 Sep 2026 08:30:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Thyristor rectifiers (TRs) are cost-effective electrolysis power supplies for renewable power-to-hydrogen (ReP2H) systems, but their harmonics may violate grid-code limits. In contrast to conventional solutions that… — arXiv</description>
+    </item>
+    <item>
       <title>Dall’idrogeno al petrolio passando per l’Ai, le ultime mosse delle aziende dell’energia nel mondo</title>
       <link>https://www.canaleenergia.com/rubriche/green-economy/idrogeno-petrolio-ai-ultime-mosse-aziende-dellenergia-nel-mondo/</link>
       <guid isPermaLink="false">molecola-f29123181776a880</guid>
@@ -103,6 +151,14 @@
       <pubDate>Thu, 03 Sep 2026 08:00:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
       <description>Dove avrebbe senso cercare idrogeno naturale nel sottosuolo italiano? Una nuova ricerca prova a rispondere alla domanda con una vera e propria graduatoria delle aree potenzialmente più interessanti. Lo studio… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Cascade coalescence dynamically sustains bubble retention near gas-evolving surfaces</title>
+      <link>https://arxiv.org/abs/2609.03387v1</link>
+      <guid isPermaLink="false">molecola-3a50584d9751b3ea</guid>
+      <pubDate>Thu, 03 Sep 2026 05:42:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Bubble detachment from solid surfaces governs heat, mass, and charge transport across technologies vital to clean energy, including high-current-density water electrolysis and boiling thermal management. At high gas… — arXiv</description>
     </item>
     <item>
       <title>Quantifying natural hydrogen prospectivity in Italy</title>
@@ -345,14 +401,6 @@
       <description>Doosan Fuel Cell has secured a KRW 501.4 billion contract with its U.S. arm HyAxiom to supply PAFC systems for AI data centers in the United States, marking its first major entry into the U.S. data center power market. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>Fuel-Cell Trucks Poised to Drive a Six-Million-Ounce Platinum Demand Surge</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-fuel-cell-trucks-poised-to-drive-a-six-million-ounce-pla/8576567/</link>
-      <guid isPermaLink="false">molecola-ef9b0f4544f57a39</guid>
-      <pubDate>Wed, 02 Sep 2026 11:08:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Valterra Platinum projects that if hydrogen fuel-cell trucks capture 20% of the global heavy-duty fleet at current catalyst loadings, platinum demand could rise by six million ounces annually in a scenario estimate. — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>From Legacy Gas Fields to Hydrogen Storage: 3D Seismic-Driven Geological Modelling and Dynamic Simulation in the Northern Upper Rhine Graben</title>
       <link>https://doi.org/10.3390/en19174140</link>
       <guid isPermaLink="false">molecola-fd959b32281f35c9</guid>
@@ -399,54 +447,6 @@
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Angewandte Chemie International Edition — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ammonia as a hydrogen carrier: Engineering liquid-phase storage in underground salt caverns</title>
-      <link>https://doi.org/10.1016/j.est.2026.124062</link>
-      <guid isPermaLink="false">molecola-c528c0ed4b0deadc</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Multi-Objective Capacity Configuration Optimization of an Off-Grid Highway Microgrid Considering Different Energy Storage Structures</title>
-      <link>https://doi.org/10.3390/en19174136</link>
-      <guid isPermaLink="false">molecola-0a6b7a4d53232feb</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energies — OpenAlex</description>
-    </item>
-    <item>
-      <title>Proton Capture and Relay Codesign Enables a pH‐Neutral All‐Organic Aqueous Proton Battery</title>
-      <link>https://doi.org/10.1002/ange.8800816</link>
-      <guid isPermaLink="false">molecola-3d2da0cf36a1e239</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie — OpenAlex</description>
-    </item>
-    <item>
-      <title>Metz Puts Its First Three Hydrogen Buses on the Road — 34 Solaris Units Planned in Total</title>
-      <link>https://fuelcellsworks.com/2026/09/01/fuel-cells/metz-puts-its-first-three-hydrogen-buses-on-the-road-34-solaris-units-planned-in-total</link>
-      <guid isPermaLink="false">molecola-31f7d215a0748924</guid>
-      <pubDate>Tue, 01 Sep 2026 15:26:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Metz Puts Its First Three Hydrogen Buses on the Road — 34 Solaris Units Planned in Total — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Switch Mobility Wins 650-Bus Order for Mumbai and Pune Under India's PM E-Drive Scheme</title>
-      <link>https://fuelcellsworks.com/2026/08/31/electric/switch-mobility-wins-650-bus-order-for-mumbai-and-pune-under-india-s-pm-e-drive-scheme</link>
-      <guid isPermaLink="false">molecola-c2335c4314798eee</guid>
-      <pubDate>Tue, 01 Sep 2026 15:25:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Switch Mobility Wins 650-Bus Order for Mumbai and Pune Under India's PM E-Drive Scheme — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>DP World Tour Drives Golf’s Green Hydrogen Shift</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/dp-world-tour-drives-golf-s-green-hydrogen-shift</link>
-      <guid isPermaLink="false">molecola-50df4d761560ff2b</guid>
-      <pubDate>Tue, 01 Sep 2026 15:25:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>DP World Tour Drives Golf’s Green Hydrogen Shift — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,66 @@
 {
- "count": 437,
+ "count": 444,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T15:19:31+00:00",
+   "excerpt": "Major OEMs and energy firms, including Daimler Truck, Volvo, Toyota, Bosch, Air Liquide, TotalEnergies, TEAL Mobility and MB Energy, announced a collaboration in Germany to develop a strategic hydrogen refueling…",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "fceb236f31b9d238",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-news-oems-and-energy-majors-unite-on-european-truck-refu/8576581/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "OEMs and Energy Majors Unite on European Truck Refueling Network"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T15:18:53+00:00",
+   "excerpt": "Metz has rolled out its first hydrogen fuel cell buses on the LE MET’ network, part of a plan to deploy 34 H₂ vehicles and build local green hydrogen infrastructure.",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "9f1831981adf9a20",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-metz-unveils-first-fuel-cell-buses-on-le-met-network/8576580/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: Metz Unveils First Fuel Cell Buses on LE MET’ Network"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T15:11:02+00:00",
+   "excerpt": "Nouvelle-Aquitaine is building a pan-European hydrogen hub through the H2Med and HySoW corridors, a PEM fuel cell gigafactory, cross-border PHYRENE cooperation and the H2Charente mobility project.",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "f59ffaacda4e0703",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-how-nouvelle-aquitaine-is-cementing-its-role-as-a-europe/8576579/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure: How Nouvelle-Aquitaine Is Cementing Its Role as a European Hub"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-03T15:09:58+00:00",
+   "excerpt": "Corfo and eight corporations signed a pact at Hyvolution Chile 2026 to co-finance green hydrogen rings and secure domestic demand across logistics, chemical and forestry applications.",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "883c27e09e8e8e6b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-corfo-and-eight-chilean-firms-forge-industrial-demand-pact/8576578/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Corfo and Eight Chilean Firms Forge Industrial Demand Pact"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -152,6 +212,47 @@
    "title": "Enapter Receives Pilot Order From a US Drone Manufacturer"
   },
   {
+   "authors": [
+    "Amogh U. Lanjewar",
+    "Saurabh Shiwankar",
+    "Smita Acharya"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-03T11:51:53+00:00",
+   "excerpt": "La2Mo2O9 (LAMOX) is a promising oxide-ion conductor for intermediate-temperature solid oxide fuel cells, but its practical application is limited by a first-order monoclinic-to-cubic (alpha to beta) phase transition…",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "fe56f340cb168889",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.03717v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Gd-4f Exchange Splitting and Mo-4d Crystal-Field Redistribution in Gd/W Co-doped La2Mo2O9: A DFT+U Study"
+  },
+  {
+   "authors": [
+    "Yangjun Zeng",
+    "Yiwei Qiu",
+    "Jie Zhu",
+    "Yi Zhou",
+    "Tao Wu",
+    "Xin Meng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-03T08:30:00+00:00",
+   "excerpt": "Thyristor rectifiers (TRs) are cost-effective electrolysis power supplies for renewable power-to-hydrogen (ReP2H) systems, but their harmonics may violate grid-code limits. In contrast to conventional solutions that…",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "6bf35a9e8e99b92e",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.03531v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Beyond Higher-Pulse Rectification: Operational Harmonic Coordination in Renewable P2H Systems"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-09-03T08:13:14+00:00",
@@ -180,6 +281,28 @@
    "source": "QualEnergia",
    "source_slug": "qualenergia",
    "title": "Idrogeno naturale, una mappa delle aree da esplorare in Italia"
+  },
+  {
+   "authors": [
+    "Tao Wu",
+    "Bo Liu",
+    "Haohao Hao",
+    "Xuehua Zhang",
+    "Fang Yuan",
+    "Huanshu Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-03T05:42:08+00:00",
+   "excerpt": "Bubble detachment from solid surfaces governs heat, mass, and charge transport across technologies vital to clean energy, including high-current-density water electrolysis and boiling thermal management. At high gas…",
+   "first_seen": "2026-09-04T04:22:24+00:00",
+   "id": "3a50584d9751b3ea",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.03387v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Cascade coalescence dynamically sustains bubble retention near gas-evolving surfaces"
   },
   {
    "authors": [],
@@ -7525,6 +7648,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-03T23:14:20+00:00",
+ "updated": "2026-09-04T04:22:24+00:00",
  "version": 2
 }

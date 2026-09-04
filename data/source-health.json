@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-03T23:14:20+00:00",
+ "checked": "2026-09-04T04:22:24+00:00",
  "productive": 13,
  "total": 16,
  "sources": [
@@ -33,7 +33,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-09-02T17:57:21+00:00"
+   "newest": "2026-09-03T11:51:53+00:00"
   },
   {
    "slug": "canale-energia",
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-02T16:04:48+00:00"
+   "newest": "2026-09-03T13:48:49+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-03T00:19:49+00:00"
+   "newest": "2026-09-03T15:19:31+00:00"
   },
   {
    "slug": "offshore-energy",
