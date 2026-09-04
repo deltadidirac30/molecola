@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-04T04:22:24+00:00",
- "productive": 13,
+ "checked": "2026-09-04T11:10:05+00:00",
+ "productive": 12,
  "total": 16,
  "sources": [
   {
@@ -16,6 +16,14 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway",
    "count": 0,
    "newest": null
   },
@@ -89,15 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-03T15:19:31+00:00"
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-04-24T11:09:07+00:00"
+   "newest": "2026-09-04T04:16:42+00:00"
   },
   {
    "slug": "openalex",
@@ -128,8 +128,8 @@
    "name": "QualEnergia",
    "ok": true,
    "error": null,
-   "count": 2,
-   "newest": "2026-09-03T08:00:25+00:00"
+   "count": 1,
+   "newest": "2026-09-03T07:15:25+00:00"
   }
  ]
 }

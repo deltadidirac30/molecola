@@ -6,8 +6,48 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 04 Sep 2026 04:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:09:47 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Green Hydrogen Production: Siemens Energy Spins Off Electrolyzer Business</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-siemens-energy-spins-off-electrolyzer-business/8576588/</link>
+      <guid isPermaLink="false">molecola-b658d84f080cbb55</guid>
+      <pubDate>Fri, 04 Sep 2026 04:16:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Siemens Energy will spin off its Transformation of Industry unit—including its Berlin-based electrolyzer business—to external investors, sharpening its focus on grids and retaining a minority stake in the hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Fuel Cell Market to Reach $13.1 Billion by 2031 Driven by Data Center Power and FCEV Adoption</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-market-to-reach-13-1-billion-by-2031-driven-by-data-center-po/8576587/</link>
+      <guid isPermaLink="false">molecola-839d2896c6a440cc</guid>
+      <pubDate>Fri, 04 Sep 2026 04:16:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>BCC Research forecasts the hydrogen fuel cell market will grow from $5.4 billion in 2025 to $13.1 billion by 2031 at a 17.3% CAGR, driven by data center power needs and heavy-duty FCEV adoption underpinned by robust… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen News: Deutsche Edelstahlwerke’s Krefeld Plant Trials Green Hydrogen in Steel Furnaces</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-deutsche-edelstahlwerke-s-krefeld-plant-trials-green-hydrogen-in-s/8576586/</link>
+      <guid isPermaLink="false">molecola-e191db94c6e4697b</guid>
+      <pubDate>Fri, 04 Sep 2026 04:09:33 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>DEW’s Krefeld plant is piloting green hydrogen in reheating furnaces through EU-backed Hydreams and federally funded H2-HotRoll projects, testing impacts on steel quality and infrastructure to support industrial… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>South Korean Lawmakers Tour Hyundai’s Namyang Center to Boost Hydrogen Infrastructure and Vehicles</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-south-korean-lawmakers-tour-hyundai-s-namyang-center-to-boost-hydr/8576585/</link>
+      <guid isPermaLink="false">molecola-324318a0b54a859d</guid>
+      <pubDate>Fri, 04 Sep 2026 04:08:11 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>South Korean parliamentary hydrogen-policy forum members toured Hyundai’s Namyang centre to inspect hydrogen production, storage, refueling and fuel cell vehicle data. Hyundai highlighted over 2.3 billion kilometres of… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production in Bielefeld Drives Fuel Cell Bus Fleet Expansion</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-in-bielefeld-drives-fuel-cell-bus-fleet-expansion/8576584/</link>
+      <guid isPermaLink="false">molecola-01dac51ac2a1efbb</guid>
+      <pubDate>Fri, 04 Sep 2026 04:05:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Stadtwerke Bielefeld installs a 1 MW electrolyzer at its Innovation Park to produce green hydrogen on-site for moBiel’s fuel cell buses, cutting logistics and linking waste-to-energy electricity with transport fuel. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>OEMs and Energy Majors Unite on European Truck Refueling Network</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-news-oems-and-energy-majors-unite-on-european-truck-refu/8576581/</link>
@@ -148,7 +188,7 @@
       <title>Idrogeno naturale, una mappa delle aree da esplorare in Italia</title>
       <link>https://www.qualenergia.it/articoli/idrogeno-naturale-mappa-aree-esplorare-italia/</link>
       <guid isPermaLink="false">molecola-27b3278cf65bf341</guid>
-      <pubDate>Thu, 03 Sep 2026 08:00:25 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 07:15:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
       <description>Dove avrebbe senso cercare idrogeno naturale nel sottosuolo italiano? Una nuova ricerca prova a rispondere alla domanda con una vera e propria graduatoria delle aree potenzialmente più interessanti. Lo studio… — QualEnergia</description>
     </item>
@@ -359,46 +399,6 @@
       <pubDate>Wed, 02 Sep 2026 12:48:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Japan's Hydrogen Artery Council Holds Fukushima Planning Meeting — Toyota's Koji Sato and METI Among Speakers — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Innovation Funding Awarded for Next Phase of Northern Gas Networks Hydrogen Storage Project</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/innovation-funding-awarded-for-next-phase-of-northern-gas-networks-hydrogen-storage-project</link>
-      <guid isPermaLink="false">molecola-2b848e58faf10ba5</guid>
-      <pubDate>Wed, 02 Sep 2026 12:29:10 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Innovation Funding Awarded for Next Phase of Northern Gas Networks Hydrogen Storage Project — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Jeju Starts Korea’s First Direct Wind PPA for Commercial Green Hydrogen Production</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/jeju-starts-korea-s-first-direct-wind-ppa-for-commercial-green-hydrogen-production</link>
-      <guid isPermaLink="false">molecola-0342b15e5d10dd96</guid>
-      <pubDate>Wed, 02 Sep 2026 12:23:40 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Jeju Starts Korea’s First Direct Wind PPA for Commercial Green Hydrogen Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen News: VVTA Begins Phased Rollout of Fuel Cell Buses on High Desert Routes</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-vvta-begins-phased-rollout-of-fuel-cell-buses-on-high-desert-route/8576572/</link>
-      <guid isPermaLink="false">molecola-644c2e8448f7e292</guid>
-      <pubDate>Wed, 02 Sep 2026 11:16:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>VVTA has launched 13 New Flyer Xcelsior CHARGE FC™ hydrogen fuel cell buses powered by Ballard FCmove-HD+ engines, rolling them out across urban, rural and long-distance High Desert routes as part of its plan for a… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Newlight Hybrid Retrofit Cuts 24% Fuel on Lomar Bulk Carrier Voyage</title>
-      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-newlight-hybrid-retrofit-cuts-24-fuel-on-lomar-bulk-carrier-/8576571/</link>
-      <guid isPermaLink="false">molecola-a7c552483b09ca7f</guid>
-      <pubDate>Wed, 02 Sep 2026 11:14:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Lomar Shipping’s bulk carrier used Newlight’s hydrogen–diesel retrofit on an 8,500-mile Singapore-Ghana voyage, cutting fuel use by 24% and CO₂ emissions by 28%. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Doosan Fuel Cell Wins KRW 501.4 Billion U.S. AI Data Center Deal</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-doosan-fuel-cell-wins-krw-501-4-billion-u-s-ai-data-cent/8576569/</link>
-      <guid isPermaLink="false">molecola-c883256ec8bc477d</guid>
-      <pubDate>Wed, 02 Sep 2026 11:10:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Doosan Fuel Cell has secured a KRW 501.4 billion contract with its U.S. arm HyAxiom to supply PAFC systems for AI data centers in the United States, marking its first major entry into the U.S. data center power market. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>From Legacy Gas Fields to Hydrogen Storage: 3D Seismic-Driven Geological Modelling and Dynamic Simulation in the Northern Upper Rhine Graben</title>

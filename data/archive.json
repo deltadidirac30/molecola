@@ -1,6 +1,81 @@
 {
- "count": 444,
+ "count": 449,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T04:16:42+00:00",
+   "excerpt": "Siemens Energy will spin off its Transformation of Industry unit—including its Berlin-based electrolyzer business—to external investors, sharpening its focus on grids and retaining a minority stake in the hydrogen…",
+   "first_seen": "2026-09-04T11:10:05+00:00",
+   "id": "b658d84f080cbb55",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-siemens-energy-spins-off-electrolyzer-business/8576588/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production: Siemens Energy Spins Off Electrolyzer Business"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T04:16:08+00:00",
+   "excerpt": "BCC Research forecasts the hydrogen fuel cell market will grow from $5.4 billion in 2025 to $13.1 billion by 2031 at a 17.3% CAGR, driven by data center power needs and heavy-duty FCEV adoption underpinned by robust…",
+   "first_seen": "2026-09-04T11:10:05+00:00",
+   "id": "839d2896c6a440cc",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-market-to-reach-13-1-billion-by-2031-driven-by-data-center-po/8576587/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell Market to Reach $13.1 Billion by 2031 Driven by Data Center Power and FCEV Adoption"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T04:09:33+00:00",
+   "excerpt": "DEW’s Krefeld plant is piloting green hydrogen in reheating furnaces through EU-backed Hydreams and federally funded H2-HotRoll projects, testing impacts on steel quality and infrastructure to support industrial…",
+   "first_seen": "2026-09-04T11:10:05+00:00",
+   "id": "e191db94c6e4697b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-deutsche-edelstahlwerke-s-krefeld-plant-trials-green-hydrogen-in-s/8576586/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: Deutsche Edelstahlwerke’s Krefeld Plant Trials Green Hydrogen in Steel Furnaces"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T04:08:11+00:00",
+   "excerpt": "South Korean parliamentary hydrogen-policy forum members toured Hyundai’s Namyang centre to inspect hydrogen production, storage, refueling and fuel cell vehicle data. Hyundai highlighted over 2.3 billion kilometres of…",
+   "first_seen": "2026-09-04T11:10:05+00:00",
+   "id": "324318a0b54a859d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-south-korean-lawmakers-tour-hyundai-s-namyang-center-to-boost-hydr/8576585/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "South Korean Lawmakers Tour Hyundai’s Namyang Center to Boost Hydrogen Infrastructure and Vehicles"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T04:05:24+00:00",
+   "excerpt": "Stadtwerke Bielefeld installs a 1 MW electrolyzer at its Innovation Park to produce green hydrogen on-site for moBiel’s fuel cell buses, cutting logistics and linking waste-to-energy electricity with transport fuel.",
+   "first_seen": "2026-09-04T11:10:05+00:00",
+   "id": "01dac51ac2a1efbb",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-in-bielefeld-drives-fuel-cell-bus-fleet-expansion/8576584/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production in Bielefeld Drives Fuel Cell Bus Fleet Expansion"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -270,7 +345,7 @@
   {
    "authors": [],
    "category": "politica",
-   "date": "2026-09-03T08:00:25+00:00",
+   "date": "2026-09-03T07:15:25+00:00",
    "excerpt": "Dove avrebbe senso cercare idrogeno naturale nel sottosuolo italiano? Una nuova ricerca prova a rispondere alla domanda con una vera e propria graduatoria delle aree potenzialmente più interessanti. Lo studio…",
    "first_seen": "2026-09-03T11:07:26+00:00",
    "id": "27b3278cf65bf341",
@@ -7648,6 +7723,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-04T04:22:24+00:00",
+ "updated": "2026-09-04T11:10:05+00:00",
  "version": 2
 }
