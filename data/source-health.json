@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-05T20:16:38+00:00",
+ "checked": "2026-09-05T22:49:52+00:00",
  "productive": 10,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 406: Not Acceptable",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -28,14 +36,6 @@
    "newest": null
   },
   {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
-   "count": 0,
-   "newest": null
-  },
-  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -50,14 +50,6 @@
    "error": null,
    "count": 0,
    "newest": null
-  },
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-09-03T11:51:53+00:00"
   },
   {
    "slug": "energy-storage-news",
@@ -106,6 +98,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-09-05T06:12:18+00:00"
+  },
+  {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-04-24T11:09:07+00:00"
   },
   {
    "slug": "openalex",
