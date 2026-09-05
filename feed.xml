@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 05 Sep 2026 17:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:16:19 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia &amp; Tangier H₂O₂</title>
@@ -23,6 +23,14 @@
       <pubDate>Sat, 05 Sep 2026 06:08:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>The Swiss Federal Council declined to provide a financial guarantee for converting part of the Transitgas pipeline into a hydrogen corridor, citing uncertain demand, no market failure and lacking legal basis. Financing… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Wayve and Uber Launch First-Ever Autonomous Rides in the UK</title>
+      <link>https://fuelcellsworks.com/2026/09/03/electric/wayve-and-uber-launch-first-ever-autonomous-rides-in-the-uk</link>
+      <guid isPermaLink="false">molecola-4978d811b288cd6f</guid>
+      <pubDate>Fri, 04 Sep 2026 19:04:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Wayve and Uber Launch First-Ever Autonomous Rides in the UK — Fuel Cells Works</description>
     </item>
     <item>
       <title>Hydrogen Fuel Cell News: FuelCell Energy Q3 Revenues Decline 29% as Scale-Up Costs Persist</title>
@@ -55,6 +63,14 @@
       <pubDate>Fri, 04 Sep 2026 16:07:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>DHL Freight Adds Second Hydrogen Truck in Netherlands — This One in Houten for Trans24 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Corvus Energy Expands LFP Portfolio with Blue Whale NxtGen Power</title>
+      <link>https://fuelcellsworks.com/2026/09/02/battery/corvus-energy-expands-lfp-portfolio-with-blue-whale-nxtgen-power</link>
+      <guid isPermaLink="false">molecola-80dcb916d8caa1e2</guid>
+      <pubDate>Fri, 04 Sep 2026 16:05:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Corvus Energy Expands LFP Portfolio with Blue Whale NxtGen Power — Fuel Cells Works</description>
     </item>
     <item>
       <title>Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales</title>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 03 Sep 2026 15:11:02 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Nouvelle-Aquitaine is building a pan-European hydrogen hub through the H2Med and HySoW corridors, a PEM fuel cell gigafactory, cross-border PHYRENE cooperation and the H2Charente mobility project. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Corfo and Eight Chilean Firms Forge Industrial Demand Pact</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-corfo-and-eight-chilean-firms-forge-industrial-demand-pact/8576578/</link>
-      <guid isPermaLink="false">molecola-883c27e09e8e8e6b</guid>
-      <pubDate>Thu, 03 Sep 2026 15:09:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Corfo and eight corporations signed a pact at Hyvolution Chile 2026 to co-finance green hydrogen rings and secure domestic demand across logistics, chemical and forestry applications. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>From Aircraft to Airport: Beyond Aero and Aéroports De La Côte D’Azur Prepare for Hydrogen Operations</title>
-      <link>https://fuelcellsworks.com/2026/09/03/fuel-cells/from-aircraft-to-airport-beyond-aero-and-aeroports-de-la-cote-d-azur-prepare-for-hydrogen-operations</link>
-      <guid isPermaLink="false">molecola-04f005ec99b64c73</guid>
-      <pubDate>Thu, 03 Sep 2026 15:06:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>From Aircraft to Airport: Beyond Aero and Aéroports De La Côte D’Azur Prepare for Hydrogen Operations — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

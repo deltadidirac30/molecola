@@ -1,5 +1,5 @@
 {
- "count": 530,
+ "count": 532,
  "items": [
   {
    "authors": [],
@@ -30,6 +30,21 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Hydrogen Infrastructure: Swiss Government Passes on Guarantee for Transitgas Pipeline"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T19:04:34+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-05T20:16:38+00:00",
+   "id": "4978d811b288cd6f",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/03/electric/wayve-and-uber-launch-first-ever-autonomous-rides-in-the-uk",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Wayve and Uber Launch First-Ever Autonomous Rides in the UK"
   },
   {
    "authors": [],
@@ -90,6 +105,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "DHL Freight Adds Second Hydrogen Truck in Netherlands — This One in Houten for Trans24"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T16:05:22+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-05T20:16:38+00:00",
+   "id": "80dcb916d8caa1e2",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/battery/corvus-energy-expands-lfp-portfolio-with-blue-whale-nxtgen-power",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Corvus Energy Expands LFP Portfolio with Blue Whale NxtGen Power"
   },
   {
    "authors": [],
@@ -9154,6 +9184,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-05T17:18:44+00:00",
+ "updated": "2026-09-05T20:16:38+00:00",
  "version": 2
 }
