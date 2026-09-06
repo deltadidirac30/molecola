@@ -1,6 +1,96 @@
 {
- "count": 532,
+ "count": 538,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-06T08:21:59+00:00",
+   "excerpt": "FuelCell Energy inked a 380 MW data center power deal, a 75 MW Texas reservation, grew its backlog to $3.646 billion, expanded Torrington manufacturing plans, and deployed first industrial carbonate fuel cell CO₂…",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "154a43f76ca78bbe",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/fuel-cell-technology-delivers-data-center-baseload-power-and-industrial-co-captu/8576611/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-06T08:08:25+00:00",
+   "excerpt": "Riverside Transit Agency has opened a liquid hydrogen refueling station and deployed its first five fuel cell electric buses, initiating its shift from natural gas to a zero-emission fleet under California regulation.",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "388afb1c72491cfe",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/riverside-transit-agency-unveils-hydrogen-infrastructure-and-fuel-cell-buses/8576609/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Riverside Transit Agency Unveils Hydrogen Infrastructure and Fuel Cell Buses"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-05T19:15:19+00:00",
+   "excerpt": "Chile’s H2V-TRANSDRIVE program has unveiled a locally engineered hybrid fuel cell truck offering 600 km range and 2,000 kg payload. Pilots in central and southern regions will validate performance and support national…",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "35abc63fc6fb6cba",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-chile-s-homegrown-hybrid-fuel-cell-truck-drives-green-logistics-re/8576606/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen news: Chile’s homegrown hybrid fuel cell truck drives green logistics revolution"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-05T19:09:42+00:00",
+   "excerpt": "Gold Standard has published a Green Hydrogen Production methodology that sets strict rules on additionality, renewable electricity traceability, temporal matching, and water safeguards to issue carbon credits for…",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "9a15fada1fb14be4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-gold-standard-s-new-carbon-credit-methodology/8576605/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Gold Standard’s New Carbon-Credit Methodology"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-05T19:07:56+00:00",
+   "excerpt": "Hitachi and Bloom Energy are collaborating to deploy solid oxide fuel cell systems for on-site power, enhancing reliability and enabling distributed generation at Japanese data centers and industrial sites.",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "7e1cb4ec82353c22",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/fuel-cell-technology-brings-on-site-power-resilience-to-japanese-data-centers-th/8576604/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Fuel cell technology brings on-site power resilience to Japanese data centers through Hitachi–Bloom Energy tie-up"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-05T19:06:41+00:00",
+   "excerpt": "Alberta’s government has allocated CAD $20 million from its TIER fund to four rural pilots—hydrogen hub, pulp mill carbon capture, pipeline efficiency and soil bioremediation—aiming to cut emissions, boost jobs and…",
+   "first_seen": "2026-09-06T10:49:26+00:00",
+   "id": "fea32cf4a6332408",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-and-carbon-capture-alberta-channels-20m-into-rural-clean/8576602/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure and Carbon Capture: Alberta Channels $20M into Rural Clean-Tech Projects"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -9184,6 +9274,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-06T04:28:20+00:00",
+ "updated": "2026-09-06T10:49:26+00:00",
  "version": 2
 }

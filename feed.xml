@@ -6,8 +6,56 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 06 Sep 2026 04:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:49:08 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture</title>
+      <link>http://www.hydrogenfuelnews.com/fuel-cell-technology-delivers-data-center-baseload-power-and-industrial-co-captu/8576611/</link>
+      <guid isPermaLink="false">molecola-154a43f76ca78bbe</guid>
+      <pubDate>Sun, 06 Sep 2026 08:21:59 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>FuelCell Energy inked a 380 MW data center power deal, a 75 MW Texas reservation, grew its backlog to $3.646 billion, expanded Torrington manufacturing plans, and deployed first industrial carbonate fuel cell CO₂… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Riverside Transit Agency Unveils Hydrogen Infrastructure and Fuel Cell Buses</title>
+      <link>http://www.hydrogenfuelnews.com/riverside-transit-agency-unveils-hydrogen-infrastructure-and-fuel-cell-buses/8576609/</link>
+      <guid isPermaLink="false">molecola-388afb1c72491cfe</guid>
+      <pubDate>Sun, 06 Sep 2026 08:08:25 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Riverside Transit Agency has opened a liquid hydrogen refueling station and deployed its first five fuel cell electric buses, initiating its shift from natural gas to a zero-emission fleet under California regulation. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen news: Chile’s homegrown hybrid fuel cell truck drives green logistics revolution</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-chile-s-homegrown-hybrid-fuel-cell-truck-drives-green-logistics-re/8576606/</link>
+      <guid isPermaLink="false">molecola-35abc63fc6fb6cba</guid>
+      <pubDate>Sat, 05 Sep 2026 19:15:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Chile’s H2V-TRANSDRIVE program has unveiled a locally engineered hybrid fuel cell truck offering 600 km range and 2,000 kg payload. Pilots in central and southern regions will validate performance and support national… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Gold Standard’s New Carbon-Credit Methodology</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-gold-standard-s-new-carbon-credit-methodology/8576605/</link>
+      <guid isPermaLink="false">molecola-9a15fada1fb14be4</guid>
+      <pubDate>Sat, 05 Sep 2026 19:09:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Gold Standard has published a Green Hydrogen Production methodology that sets strict rules on additionality, renewable electricity traceability, temporal matching, and water safeguards to issue carbon credits for… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Fuel cell technology brings on-site power resilience to Japanese data centers through Hitachi–Bloom Energy tie-up</title>
+      <link>http://www.hydrogenfuelnews.com/fuel-cell-technology-brings-on-site-power-resilience-to-japanese-data-centers-th/8576604/</link>
+      <guid isPermaLink="false">molecola-7e1cb4ec82353c22</guid>
+      <pubDate>Sat, 05 Sep 2026 19:07:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hitachi and Bloom Energy are collaborating to deploy solid oxide fuel cell systems for on-site power, enhancing reliability and enabling distributed generation at Japanese data centers and industrial sites. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure and Carbon Capture: Alberta Channels $20M into Rural Clean-Tech Projects</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-and-carbon-capture-alberta-channels-20m-into-rural-clean/8576602/</link>
+      <guid isPermaLink="false">molecola-fea32cf4a6332408</guid>
+      <pubDate>Sat, 05 Sep 2026 19:06:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Alberta’s government has allocated CAD $20 million from its TIER fund to four rural pilots—hydrogen hub, pulp mill carbon capture, pipeline efficiency and soil bioremediation—aiming to cut emissions, boost jobs and… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Green Hydrogen Production Goes Inland: H2 Global Energy’s Beni Mellal Ammonia &amp; Tangier H₂O₂</title>
       <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-goes-inland-h2-global-energy-s-beni-mellal-ammonia-tan/8576599/</link>
@@ -399,54 +447,6 @@
       <pubDate>Thu, 03 Sep 2026 15:39:03 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>ORLEN Forms New Baltic Energy Alliance, Hydrogen and CCS Markets Included — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Toyota Pushes US-Built Highlander EV to 2028 Model Year</title>
-      <link>https://fuelcellsworks.com/2026/09/02/electric/toyota-pushes-us-built-highlander-ev-to-2028-model-year</link>
-      <guid isPermaLink="false">molecola-bcbcb7c65e1b09f5</guid>
-      <pubDate>Thu, 03 Sep 2026 15:38:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Toyota Pushes US-Built Highlander EV to 2028 Model Year — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>South Korean Lawmakers Pledge Hydrogen Industry Bills After Hyundai R&amp;D Visit</title>
-      <link>https://fuelcellsworks.com/2026/09/02/fuel-cells/south-korean-lawmakers-pledge-hydrogen-industry-bills-after-hyundai-r-and-d-visit</link>
-      <guid isPermaLink="false">molecola-f530fec05ee63800</guid>
-      <pubDate>Thu, 03 Sep 2026 15:27:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>South Korean Lawmakers Pledge Hydrogen Industry Bills After Hyundai R&amp;D Visit — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>OEMs and Energy Majors Unite on European Truck Refueling Network</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-news-oems-and-energy-majors-unite-on-european-truck-refu/8576581/</link>
-      <guid isPermaLink="false">molecola-fceb236f31b9d238</guid>
-      <pubDate>Thu, 03 Sep 2026 15:19:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Major OEMs and energy firms, including Daimler Truck, Volvo, Toyota, Bosch, Air Liquide, TotalEnergies, TEAL Mobility and MB Energy, announced a collaboration in Germany to develop a strategic hydrogen refueling… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen News: Metz Unveils First Fuel Cell Buses on LE MET’ Network</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-metz-unveils-first-fuel-cell-buses-on-le-met-network/8576580/</link>
-      <guid isPermaLink="false">molecola-9f1831981adf9a20</guid>
-      <pubDate>Thu, 03 Sep 2026 15:18:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Metz has rolled out its first hydrogen fuel cell buses on the LE MET’ network, part of a plan to deploy 34 H₂ vehicles and build local green hydrogen infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Natural Hydrogen: The First Italian Map of the Most Promising Areas for Exploration</title>
-      <link>https://fuelcellsworks.com/2026/09/01/h2/natural-hydrogen-the-first-italian-map-of-the-most-promising-areas-for-exploration</link>
-      <guid isPermaLink="false">molecola-59221ef7140549f3</guid>
-      <pubDate>Thu, 03 Sep 2026 15:18:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Natural Hydrogen: The First Italian Map of the Most Promising Areas for Exploration — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure: How Nouvelle-Aquitaine Is Cementing Its Role as a European Hub</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-how-nouvelle-aquitaine-is-cementing-its-role-as-a-europe/8576579/</link>
-      <guid isPermaLink="false">molecola-f59ffaacda4e0703</guid>
-      <pubDate>Thu, 03 Sep 2026 15:11:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Nouvelle-Aquitaine is building a pan-European hydrogen hub through the H2Med and HySoW corridors, a PEM fuel cell gigafactory, cross-border PHYRENE cooperation and the H2Charente mobility project. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
