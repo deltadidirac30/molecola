@@ -1,5 +1,5 @@
 {
- "count": 538,
+ "count": 539,
  "items": [
   {
    "authors": [],
@@ -225,6 +225,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T15:45:30+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-06T15:24:01+00:00",
+   "id": "0c5d716090fc7e41",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/electric/sinopec-opens-600kw-kowloon-bay-charging-hub-after-full-petrol-station-conversion",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Sinopec Opens 600kW Kowloon Bay Charging Hub After Full Petrol-Station Conversion"
   },
   {
    "authors": [],
@@ -9274,6 +9289,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-06T10:49:26+00:00",
+ "updated": "2026-09-06T15:24:01+00:00",
  "version": 2
 }

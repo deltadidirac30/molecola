@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:23:34 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture</title>
@@ -127,6 +127,14 @@
       <pubDate>Fri, 04 Sep 2026 15:54:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Sinopec Opens 600kW Kowloon Bay Charging Hub After Full Petrol-Station Conversion</title>
+      <link>https://fuelcellsworks.com/2026/09/02/electric/sinopec-opens-600kw-kowloon-bay-charging-hub-after-full-petrol-station-conversion</link>
+      <guid isPermaLink="false">molecola-0c5d716090fc7e41</guid>
+      <pubDate>Fri, 04 Sep 2026 15:45:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Sinopec Opens 600kW Kowloon Bay Charging Hub After Full Petrol-Station Conversion — Fuel Cells Works</description>
     </item>
     <item>
       <title>TU Graz Commissions 1.25MW Hydrogen Engine to Cover University's Base Electricity Load During Trials</title>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 03 Sep 2026 15:41:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>50 Partners Join Forces to Plan Hydrogen Distribution Network Across Eastern Germany — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ORLEN Forms New Baltic Energy Alliance, Hydrogen and CCS Markets Included</title>
-      <link>https://fuelcellsworks.com/2026/09/03/h2/orlen-forms-14-member-baltic-energy-alliance-to-build-regional-hydrogen-and-ccs-markets</link>
-      <guid isPermaLink="false">molecola-ff19df19eb78a10f</guid>
-      <pubDate>Thu, 03 Sep 2026 15:39:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>ORLEN Forms New Baltic Energy Alliance, Hydrogen and CCS Markets Included — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
