@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 06 Sep 2026 15:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:20:33 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture</title>
@@ -73,6 +73,30 @@
       <description>The Swiss Federal Council declined to provide a financial guarantee for converting part of the Transitgas pipeline into a hydrogen corridor, citing uncertain demand, no market failure and lacking legal basis. Financing… — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>mnemorphics</title>
+      <link>https://doi.org/10.5281/zenodo.18371320</link>
+      <guid isPermaLink="false">molecola-3279f0b8f65f5173</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>mnemorphics</title>
+      <link>https://doi.org/10.5281/zenodo.22345559</link>
+      <guid isPermaLink="false">molecola-462a38b606889179</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Prediction of self-pressurization and thermal stratification characteristics of liquid hydrogen spherical tanks based on thermal multi-zone model</title>
+      <link>https://doi.org/10.1016/j.applthermaleng.2026.133049</link>
+      <guid isPermaLink="false">molecola-54729452b0114e92</guid>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Applied Thermal Engineering — OpenAlex</description>
+    </item>
+    <item>
       <title>Wayve and Uber Launch First-Ever Autonomous Rides in the UK</title>
       <link>https://fuelcellsworks.com/2026/09/03/electric/wayve-and-uber-launch-first-ever-autonomous-rides-in-the-uk</link>
       <guid isPermaLink="false">molecola-4978d811b288cd6f</guid>
@@ -127,6 +151,14 @@
       <pubDate>Fri, 04 Sep 2026 15:54:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Xos Hub Surpasses One Gigawatt-Hour of Energy Delivered in the Field</title>
+      <link>https://fuelcellsworks.com/2026/09/02/battery/xos-hub-surpasses-one-gigawatt-hour-of-energy-delivered-in-the-field</link>
+      <guid isPermaLink="false">molecola-ec546230dd2b57e0</guid>
+      <pubDate>Fri, 04 Sep 2026 15:54:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Xos Hub Surpasses One Gigawatt-Hour of Energy Delivered in the Field — Fuel Cells Works</description>
     </item>
     <item>
       <title>Sinopec Opens 600kW Kowloon Bay Charging Hub After Full Petrol-Station Conversion</title>
@@ -393,30 +425,6 @@
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
-      <title>Boosting Charge Storage and Oxygen Evolution Kinetics through Li+ Doping in Co9S8/Ni9S8 Materials</title>
-      <link>https://doi.org/10.1021/acsaem.6c01619</link>
-      <guid isPermaLink="false">molecola-33d8960ed095f8ac</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Energy Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Machine Learning‐Driven Alloy Anode Accompanied by Interfacial Kinetic Compensation Design Toward High‐Rate Zinc Pouch Cells</title>
-      <link>https://doi.org/10.1002/ange.5246689</link>
-      <guid isPermaLink="false">molecola-4f583e49c81ddeb8</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie — OpenAlex</description>
-    </item>
-    <item>
-      <title>Integrated Spatial and Multiperiod Optimization of Morocco’s Green Hydrogen Supply Chain Using Mixed Integer Linear Programming and a FlexSim/FloWorks Based Digital Twin Simulation</title>
-      <link>https://doi.org/10.3390/hydrogen7030130</link>
-      <guid isPermaLink="false">molecola-471c4f0dc0e999f0</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Hydrogen — OpenAlex</description>
-    </item>
-    <item>
       <title>Polestar Reports Second Quarter Select and H1 2026 Financial Results</title>
       <link>https://fuelcellsworks.com/2026/09/03/electric/polestar-reports-second-quarter-select-and-h1-2026-financial-results</link>
       <guid isPermaLink="false">molecola-5086efda0b944487</guid>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 03 Sep 2026 15:45:27 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>ERA Backs Two Alberta Hydrogen Refuelling Projects — C$8 Million for Brooks Newell Hub and Azolla's Methanol-to-Hydrogen System — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>50 Partners Join Forces to Plan Hydrogen Distribution Network Across Eastern Germany</title>
-      <link>https://fuelcellsworks.com/2026/09/02/h2/50-partners-join-forces-to-plan-hydrogen-distribution-network-across-eastern-germany</link>
-      <guid isPermaLink="false">molecola-c27c27d2c745a836</guid>
-      <pubDate>Thu, 03 Sep 2026 15:41:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>50 Partners Join Forces to Plan Hydrogen Distribution Network Across Eastern Germany — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

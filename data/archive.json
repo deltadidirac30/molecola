@@ -1,5 +1,5 @@
 {
- "count": 539,
+ "count": 547,
  "items": [
   {
    "authors": [],
@@ -122,6 +122,61 @@
    "title": "Hydrogen Infrastructure: Swiss Government Passes on Guarantee for Transitgas Pipeline"
   },
   {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-05T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "3279f0b8f65f5173",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.18371320",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-05T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "462a38b606889179",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22345559",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "Fushou Xie",
+    "Xiaoshuang Duan",
+    "Peng Xu",
+    "Zhanwu Zhang",
+    "Yanzhong Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-05T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "54729452b0114e92",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133049",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Prediction of self-pressurization and thermal stratification characteristics of liquid hydrogen spherical tanks based on thermal multi-zone model"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-09-04T19:04:34+00:00",
@@ -225,6 +280,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Essity Invests £2.85 Million in Hydrogen-Ready Burners at Oakenholt Mill in North Wales"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-04T15:54:05+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "ec546230dd2b57e0",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/02/battery/xos-hub-surpasses-one-gigawatt-hour-of-energy-delivered-in-the-field",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Xos Hub Surpasses One Gigawatt-Hour of Energy Delivered in the Field"
   },
   {
    "authors": [],
@@ -805,8 +875,10 @@
   {
    "authors": [
     "Raoua NACEIRI MRABTI",
+    "Raoua NACEIRI MRABTI",
     "Hind El Hassani",
     "Noureddine Boutammachte",
+    "Riane Naceiri Mrabti",
     "Riane Naceiri Mrabti"
    ],
    "category": "ricerca",
@@ -974,6 +1046,93 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Next-Generation Monolithic CNF Closed-Loop Solar Hydrogen Engine for Public Fleet E-Bikes:TECHNICAL UPGRADE ENGINEERING REPORT (PART II) Document Series: Advanced LEV Propulsion Systems"
+  },
+  {
+   "authors": [
+    "Xiaofang Liang",
+    "Hui Li",
+    "Lei Yan",
+    "Zijian Ge",
+    "Xingyu Peng",
+    "Linfeng Jin"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "Materials Science and Engineering R Reports",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "1bec5b3666e918d9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.mser.2026.101284",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial proton management for selective hydrogen peroxide electrosynthesis in neutral media: Opportunities and challenges"
+  },
+  {
+   "authors": [
+    "Dilek Nur Özen",
+    "Esra Hançer Güleryüz",
+    "Fatih Akkurt",
+    "Ayşe Merve Acılar",
+    "Muhammed Emin Tolu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "bb3ce6728e87655e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133047",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Performance assessment of a modified Graz cycle fueled by pure hydrogen and oxygen"
+  },
+  {
+   "authors": [
+    "Fang Dong",
+    "Yuhui Wang",
+    "Xin Chen",
+    "旭梅 刘",
+    "Chong Li",
+    "Xinyue Cao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "Journal of Colloid and Interface Science",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "332b9439706e62c8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jcis.2026.141498",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solvation-programmed hybrid interphase enables durable aqueous zinc-metal batteries"
+  },
+  {
+   "authors": [
+    "Shibo Chai",
+    "Xianshengwei Zhang",
+    "Wenpin Li",
+    "Minghao Xu",
+    "Shengjun Zhai",
+    "Peng Gong"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T00:00:00+00:00",
+   "excerpt": "Energy & environment materials",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "179ab8c2495f4ca2",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/eem2.70514",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Amide Methylation Empowers Concentrated Hydrogel Electrolytes for Wide‐Temperature Flexible Aqueous Sodium‐Ion Batteries"
   },
   {
    "authors": [],
@@ -9289,6 +9448,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-06T15:24:01+00:00",
+ "updated": "2026-09-06T20:20:51+00:00",
  "version": 2
 }
