@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 06 Sep 2026 22:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:26:51 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture</title>
@@ -369,6 +369,22 @@
       <description>Stadtwerke Bielefeld installs a 1 MW electrolyzer at its Innovation Park to produce green hydrogen on-site for moBiel’s fuel cell buses, cutting logistics and linking waste-to-energy electricity with transport fuel. — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</title>
+      <link>https://arxiv.org/abs/2609.04623v1</link>
+      <guid isPermaLink="false">molecola-07a9d59d979bd13f</guid>
+      <pubDate>Fri, 04 Sep 2026 01:54:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Recently synthesized carbon nanoribbons (CNRs) were investigated for hydrogen (H2) storage using first-principles density functional theory calculations. Pristine CNRs exhibited weak H2 adsorption; therefore, the host… — arXiv</description>
+    </item>
+    <item>
+      <title>Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</title>
+      <link>https://arxiv.org/abs/2609.04605v1</link>
+      <guid isPermaLink="false">molecola-00bd2de6584f27e9</guid>
+      <pubDate>Fri, 04 Sep 2026 01:06:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>This work presents a density functional theory (DFT) investigation of a two-dimensional (2D) C5N monolayer functionalized with Li, Na, and K for hydrogen storage. Pristine C5N exhibits weak H2 adsorption, while… — arXiv</description>
+    </item>
+    <item>
       <title>Hydrogen storage in porous aluminosilicate ceramics and light-metal hydrides: Physisorption-chemisorption interplay</title>
       <link>https://doi.org/10.18686/cest830</link>
       <guid isPermaLink="false">molecola-fed9f767c95a7c48</guid>
@@ -407,22 +423,6 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Electronic Library of Peter the Great Polytechnic University — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Chemically Selective Fluorescent Probe Visualizes the Non‐Monotonic Evolution of the NaF‐Rich Interphase in Sodium‐Metal Batteries</title>
-      <link>https://doi.org/10.1002/ange.3926577</link>
-      <guid isPermaLink="false">molecola-41bdac01d60f6337</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie — OpenAlex</description>
-    </item>
-    <item>
-      <title>Next-Generation Monolithic CNF Closed-Loop Solar Hydrogen Engine for Public Fleet E-Bikes: TECHNICAL UPGRADE ENGINEERING REPORT</title>
-      <link>https://doi.org/10.5281/zenodo.22291902</link>
-      <guid isPermaLink="false">molecola-1355bdb10defbe26</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
       <title>Polestar Reports Second Quarter Select and H1 2026 Financial Results</title>

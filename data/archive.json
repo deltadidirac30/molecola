@@ -1,5 +1,5 @@
 {
- "count": 547,
+ "count": 549,
  "items": [
   {
    "authors": [],
@@ -685,6 +685,49 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Green Hydrogen Production in Bielefeld Drives Fuel Cell Bus Fleet Expansion"
+  },
+  {
+   "authors": [
+    "Gom Dorji",
+    "Amrutha M",
+    "Brahmananda Chakraborty",
+    "Sonam Peden",
+    "Syed Faraz Hasan",
+    "Shabbir Ahmad Tanveer Hussain"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T01:54:24+00:00",
+   "excerpt": "Recently synthesized carbon nanoribbons (CNRs) were investigated for hydrogen (H2) storage using first-principles density functional theory calculations. Pristine CNRs exhibited weak H2 adsorption; therefore, the host…",
+   "first_seen": "2026-09-07T04:27:10+00:00",
+   "id": "07a9d59d979bd13f",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.04623v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons"
+  },
+  {
+   "authors": [
+    "Gom Dorji",
+    "Sonam Peden",
+    "Syed Faraz Hasan",
+    "Kondo-Francois Aguey-Zinsou",
+    "Tanveer Hussain"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-04T01:06:00+00:00",
+   "excerpt": "This work presents a density functional theory (DFT) investigation of a two-dimensional (2D) C5N monolayer functionalized with Li, Na, and K for hydrogen storage. Pristine C5N exhibits weak H2 adsorption, while…",
+   "first_seen": "2026-09-07T04:27:10+00:00",
+   "id": "00bd2de6584f27e9",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.04605v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage"
   },
   {
    "authors": [
@@ -9448,6 +9491,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-06T22:51:52+00:00",
+ "updated": "2026-09-07T04:27:10+00:00",
  "version": 2
 }
