@@ -6,8 +6,48 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 07 Sep 2026 04:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:20:18 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Hydrogen Production: DGEC Prepares Second Wave of Green Hydrogen Electrolysis Support</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-dgec-prepares-second-wave-of-green-hydrogen-electrolysis-sup/8576617/</link>
+      <guid isPermaLink="false">molecola-0fb93202667c8efc</guid>
+      <pubDate>Mon, 07 Sep 2026 10:09:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>France’s DGEC plans a second round of electrolysis subsidies to drive 1 GW of green hydrogen capacity and narrow the cost gap with fossil-based hydrogen. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>EKPO and Akkodis Launch 360 kW Heavy-Duty Fuel Cell Truck</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-ekpo-and-akkodis-launch-360-kw-heavy-duty-fuel-cell-truck/8576616/</link>
+      <guid isPermaLink="false">molecola-12aa53f167b4cd73</guid>
+      <pubDate>Sun, 06 Sep 2026 21:07:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>EKPO and Akkodis are integrating a 360 kW NM20 PEM fuel cell into a 40-tonne truck in Germany, testing zero-emission heavy-duty performance under real-world logistics. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Fuel Cell News: Zero-Emission Straddle Carrier Trials Usher New Era at Hamburg Port</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-zero-emission-straddle-carrier-trials-usher-new-era-at-h/8576615/</link>
+      <guid isPermaLink="false">molecola-c8fd7e4e6dc95313</guid>
+      <pubDate>Sun, 06 Sep 2026 21:07:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>HHLA is testing a hydrogen fuel cell-powered Konecranes straddle carrier fitted with a zepp.solutions system at Container Terminal Tollerort, matching diesel-hybrid performance with zero emissions. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen UAV Scale-Up: Feiruide and SHPT Target 1,000 Drones for Long-Endurance Missions</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-uav-scale-up-feiruide-and-shpt-target-1-000-drones-for-long-endurance-m/8576614/</link>
+      <guid isPermaLink="false">molecola-602ca5dc7c157eba</guid>
+      <pubDate>Sun, 06 Sep 2026 21:07:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Feiruide and SHPT have teamed up to develop and deploy 1,000 hydrogen fuel cell UAVs over the next three years, targeting long-endurance missions and building real-world data on safety, economics and hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Bosch Debuts Rigid eAxle, Fuel-Cell Systems and Hydrogen Engine Components at IAA Transportation 2026</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-bosch-debuts-rigid-eaxle-fuel-cell-systems-and-hydrogen-/8576613/</link>
+      <guid isPermaLink="false">molecola-efa00ab0c68bfcdb</guid>
+      <pubDate>Sun, 06 Sep 2026 21:06:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Bosch unveils Rigid eAxle, modular fuel-cell systems and hydrogen engine components at IAA Transportation 2026, highlighting a multi-pathway decarbonization strategy for heavy-duty transport. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Fuel Cell Technology Delivers Data Center Baseload Power and Industrial CO₂ Capture</title>
       <link>http://www.hydrogenfuelnews.com/fuel-cell-technology-delivers-data-center-baseload-power-and-industrial-co-captu/8576611/</link>
@@ -353,22 +393,6 @@
       <description>DEW’s Krefeld plant is piloting green hydrogen in reheating furnaces through EU-backed Hydreams and federally funded H2-HotRoll projects, testing impacts on steel quality and infrastructure to support industrial… — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>South Korean Lawmakers Tour Hyundai’s Namyang Center to Boost Hydrogen Infrastructure and Vehicles</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-south-korean-lawmakers-tour-hyundai-s-namyang-center-to-boost-hydr/8576585/</link>
-      <guid isPermaLink="false">molecola-324318a0b54a859d</guid>
-      <pubDate>Fri, 04 Sep 2026 04:08:11 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>South Korean parliamentary hydrogen-policy forum members toured Hyundai’s Namyang centre to inspect hydrogen production, storage, refueling and fuel cell vehicle data. Hyundai highlighted over 2.3 billion kilometres of… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production in Bielefeld Drives Fuel Cell Bus Fleet Expansion</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-in-bielefeld-drives-fuel-cell-bus-fleet-expansion/8576584/</link>
-      <guid isPermaLink="false">molecola-01dac51ac2a1efbb</guid>
-      <pubDate>Fri, 04 Sep 2026 04:05:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Stadtwerke Bielefeld installs a 1 MW electrolyzer at its Innovation Park to produce green hydrogen on-site for moBiel’s fuel cell buses, cutting logistics and linking waste-to-energy electricity with transport fuel. — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</title>
       <link>https://arxiv.org/abs/2609.04623v1</link>
       <guid isPermaLink="false">molecola-07a9d59d979bd13f</guid>
@@ -423,30 +447,6 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Electronic Library of Peter the Great Polytechnic University — OpenAlex</description>
-    </item>
-    <item>
-      <title>Polestar Reports Second Quarter Select and H1 2026 Financial Results</title>
-      <link>https://fuelcellsworks.com/2026/09/03/electric/polestar-reports-second-quarter-select-and-h1-2026-financial-results</link>
-      <guid isPermaLink="false">molecola-5086efda0b944487</guid>
-      <pubDate>Thu, 03 Sep 2026 15:53:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Polestar Reports Second Quarter Select and H1 2026 Financial Results — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Fraunhofer IMM Develops System Solution for Ammonia-Powered Engines in Inland Water-Way Shipping</title>
-      <link>https://fuelcellsworks.com/2026/09/02/h2/fraunhofer-imm-develops-system-solution-for-ammonia-powered-engines-in-inland-water-way-shipping</link>
-      <guid isPermaLink="false">molecola-28185e145f34b794</guid>
-      <pubDate>Thu, 03 Sep 2026 15:47:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Fraunhofer IMM Develops System Solution for Ammonia-Powered Engines in Inland Water-Way Shipping — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ERA Backs Two Alberta Hydrogen Refuelling Projects — C$8 Million for Brooks Newell Hub and Azolla's Methanol-to-Hydrogen System</title>
-      <link>https://fuelcellsworks.com/2026/09/02/h2/era-backs-two-alberta-hydrogen-refuelling-projects-c-8-million-for-brooks-newell-hub-and-azolla-s-methanol-to-hydrogen-system</link>
-      <guid isPermaLink="false">molecola-c8002f2313abe55c</guid>
-      <pubDate>Thu, 03 Sep 2026 15:45:27 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>ERA Backs Two Alberta Hydrogen Refuelling Projects — C$8 Million for Brooks Newell Hub and Azolla's Methanol-to-Hydrogen System — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
