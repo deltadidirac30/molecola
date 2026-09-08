@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-07T23:27:36+00:00",
- "productive": 10,
+ "checked": "2026-09-08T04:26:13+00:00",
+ "productive": 11,
  "total": 16,
  "sources": [
   {
@@ -24,14 +24,6 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
    "count": 0,
    "newest": null
   },
@@ -105,7 +97,15 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-07T10:09:31+00:00"
+   "newest": "2026-09-07T23:20:14+00:00"
+  },
+  {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-04-24T11:09:07+00:00"
   },
   {
    "slug": "openalex",

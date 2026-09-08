@@ -1,6 +1,51 @@
 {
- "count": 570,
+ "count": 573,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-07T23:20:14+00:00",
+   "excerpt": "Plug Power is combining a multiyear GenDrive refresh for over 20,000 units with $275 million in asset sales to reach positive EBITDA by Q4 2026.",
+   "first_seen": "2026-09-08T04:26:13+00:00",
+   "id": "5d62a84c73b3b845",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-plug-power-s-two-track-strategy-combines-gendrive-refres/8576622/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Plug Power’s Two-Track Strategy Combines GenDrive Refresh and Asset Monetization"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-07T23:14:13+00:00",
+   "excerpt": "Bosch has unveiled a multi-fuel injector platform in Hamburg that supports hydrogen, methanol, ethanol and ammonia, accelerating marine decarbonization and hydrogen infrastructure growth.",
+   "first_seen": "2026-09-08T04:26:13+00:00",
+   "id": "2dc6caf4951ff381",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/bosch-s-multi-fuel-injector-accelerates-shipping-s-hydrogen-infrastructure/8576621/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Bosch’s Multi-Fuel Injector Accelerates Shipping’s Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-07T23:06:40+00:00",
+   "excerpt": "Haffner Energy and OroCarbo have reserved capacity for 12 SYNOCA C-iC biomass thermolysis units worth up to €30 million, targeting renewable hydrogen and power hubs across California, Oregon and Washington.",
+   "first_seen": "2026-09-08T04:26:13+00:00",
+   "id": "1934da017132604e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/biomass-hydrogen-production-advances-in-the-western-u-s-with-haffner-energy-and-/8576619/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Biomass Hydrogen Production Advances in the Western U.S. with Haffner Energy and OroCarbo Reservation"
+  },
   {
    "authors": [],
    "category": "politica",
@@ -9827,6 +9872,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-07T23:27:36+00:00",
+ "updated": "2026-09-08T04:26:13+00:00",
  "version": 2
 }
