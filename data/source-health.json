@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-08T11:10:08+00:00",
+ "checked": "2026-09-08T16:33:55+00:00",
  "productive": 11,
  "total": 16,
  "sources": [
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-07T14:51:28+00:00"
+   "newest": "2026-09-08T14:43:55+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-07T16:00:17+00:00"
+   "newest": "2026-09-08T12:59:07+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
