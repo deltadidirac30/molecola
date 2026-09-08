@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:09:45 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Electrolyte materials and interfacial engineering for high-energy-density aqueous potassium-ion batteries</title>
+      <link>https://doi.org/10.26599/cf.2026.9200087</link>
+      <guid isPermaLink="false">molecola-bd7fcce6167c3f31</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Carbon Future — OpenAlex</description>
+    </item>
     <item>
       <title>Plug Power’s Two-Track Strategy Combines GenDrive Refresh and Asset Monetization</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-plug-power-s-two-track-strategy-combines-gendrive-refres/8576622/</link>
@@ -129,6 +137,78 @@
       <description>France’s DGEC plans a second round of electrolysis subsidies to drive 1 GW of green hydrogen capacity and narrow the cost gap with fossil-based hydrogen. — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>A simulation study of underground hydrogen storage (UHS) in a partially depleted gas reservoir: A case study for the North Field, Qatar</title>
+      <link>https://doi.org/10.1016/j.egyr.2026.109717</link>
+      <guid isPermaLink="false">molecola-b2d62bb18e9c4ce4</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>Numerical investigation of repurposing oil storage caverns for hydrogen storage using lined rock cavern (LRC) technology</title>
+      <link>https://doi.org/10.1016/j.tust.2026.108096</link>
+      <guid isPermaLink="false">molecola-433171201641ca38</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Tunnelling and Underground Space Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Copper-Based Bimetallic Catalysts for CO2 Hydrogenation to Methanol: Interfacial Synergy, Reaction Pathways, and Rational Design</title>
+      <link>https://doi.org/10.3390/catal16090809</link>
+      <guid isPermaLink="false">molecola-093d596432b67679</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Catalysts — OpenAlex</description>
+    </item>
+    <item>
+      <title>Techno-economic assessment of large-scale 700-bar Type IV hydrogen storage tank manufacturing: Cost drivers, production-scale effects, and industrial implications</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157339</link>
+      <guid isPermaLink="false">molecola-58ac931dbf4c59ab</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Nuclear Energy Development and Energy Security in Slovakia: Current Status and Conditional Prospects up to 2050</title>
+      <link>https://doi.org/10.3390/en19174225</link>
+      <guid isPermaLink="false">molecola-5af6cad45674f3b7</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energies — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen Bond‐Engineered Dual‐Phase Cellulose‐Polyelectrolyte Ionogel for All‐Weather Health Monitoring and Human‐Machine Interaction</title>
+      <link>https://doi.org/10.1002/adfm.78126</link>
+      <guid isPermaLink="false">molecola-98608870704495bb</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Functional Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Whey Protein Peptides Self-Assembled Nanoparticles with Intrinsic Cholesterol Esterase Inhibition Enhance Stigmasterol Bioaccessibility and Hypocholesterolemic Effects</title>
+      <link>https://doi.org/10.3390/nu18172934</link>
+      <guid isPermaLink="false">molecola-cff050c1467b3bfe</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Nutrients — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multifunctional Molecular Bridge Strategy for Efficient and UV-Resilient Perovskite Solar Cells</title>
+      <link>https://doi.org/10.1021/acsami.6c10630</link>
+      <guid isPermaLink="false">molecola-ca21d9b483b080f3</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
+      <title>SnSe/SnO2 Heterojunction-Based Single-Sensor Virtual Electronic Nose with Low Reaction Barrier for Trace Identification of Volatile Sulfur Compounds toward Illicit Methamphetamine Trafficking Traceability</title>
+      <link>https://doi.org/10.1021/acsami.6c13231</link>
+      <guid isPermaLink="false">molecola-0580538ab77774b5</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
       <title>EKPO and Akkodis Launch 360 kW Heavy-Duty Fuel Cell Truck</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-news-ekpo-and-akkodis-launch-360-kw-heavy-duty-fuel-cell-truck/8576616/</link>
       <guid isPermaLink="false">molecola-12aa53f167b4cd73</guid>
@@ -177,38 +257,6 @@
       <description>Riverside Transit Agency has opened a liquid hydrogen refueling station and deployed its first five fuel cell electric buses, initiating its shift from natural gas to a zero-emission fleet under California regulation. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>Nanomaterials and their Applications in Energy and Environment: A Comprehensive Review</title>
-      <link>https://doi.org/10.5281/zenodo.22477559</link>
-      <guid isPermaLink="false">molecola-00ae805600a400bf</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Nanomaterials and their Applications in Energy and Environment: A Comprehensive Review</title>
-      <link>https://doi.org/10.5281/zenodo.22477558</link>
-      <guid isPermaLink="false">molecola-b7d751cac9e693ff</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>From pasture to platform integrating agrivoltaics and green hydrogen for the Penzance–London railway corridor</title>
-      <link>https://doi.org/10.1016/j.solener.2026.115064</link>
-      <guid isPermaLink="false">molecola-54b3e94fc0fc9dc9</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Solar Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Functionalized TiO 2 Catalysts: Revolutionary Candidate for Low‐Temperature MgH 2 and Prospects for Intelligent Integration</title>
-      <link>https://doi.org/10.1002/aidi.70156</link>
-      <guid isPermaLink="false">molecola-40217bf1360223ff</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Intelligent Discovery — OpenAlex</description>
-    </item>
-    <item>
       <title>Hydrogen news: Chile’s homegrown hybrid fuel cell truck drives green logistics revolution</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-news-chile-s-homegrown-hybrid-fuel-cell-truck-drives-green-logistics-re/8576606/</link>
       <guid isPermaLink="false">molecola-35abc63fc6fb6cba</guid>
@@ -255,38 +303,6 @@
       <pubDate>Sat, 05 Sep 2026 06:08:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>The Swiss Federal Council declined to provide a financial guarantee for converting part of the Transitgas pipeline into a hydrogen corridor, citing uncertain demand, no market failure and lacking legal basis. Financing… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.18371320</link>
-      <guid isPermaLink="false">molecola-3279f0b8f65f5173</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.22345559</link>
-      <guid isPermaLink="false">molecola-462a38b606889179</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Prediction of self-pressurization and thermal stratification characteristics of liquid hydrogen spherical tanks based on thermal multi-zone model</title>
-      <link>https://doi.org/10.1016/j.applthermaleng.2026.133049</link>
-      <guid isPermaLink="false">molecola-54729452b0114e92</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Thermal Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Rational Hydrophilic/Hydrophobic PDA/PVDF Bilayer Configuration for Stable Aqueous Zn Metal Batteries</title>
-      <link>https://doi.org/10.1007/s13391-026-00663-2</link>
-      <guid isPermaLink="false">molecola-9d63117d218e2c34</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Electronic Materials Letters — OpenAlex</description>
     </item>
     <item>
       <title>Wayve and Uber Launch First-Ever Autonomous Rides in the UK</title>
@@ -431,22 +447,6 @@
       <pubDate>Fri, 04 Sep 2026 14:03:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Ontario Invests in HYGN Energy to Advance Hydrogen Energy Storage Solutions for Industrial Power and Off-Grid EV Charging — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Storage on Transition-Metal-Decorated Nitrogen-Modified Carbon Nanoribbons</title>
-      <link>https://arxiv.org/abs/2609.04623v1</link>
-      <guid isPermaLink="false">molecola-07a9d59d979bd13f</guid>
-      <pubDate>Fri, 04 Sep 2026 01:54:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Recently synthesized carbon nanoribbons (CNRs) were investigated for hydrogen (H2) storage using first-principles density functional theory calculations. Pristine CNRs exhibited weak H2 adsorption; therefore, the host… — arXiv</description>
-    </item>
-    <item>
-      <title>Light alkali metal functionalized two-dimensional C5N monolayers for enhanced hydrogen storage</title>
-      <link>https://arxiv.org/abs/2609.04605v1</link>
-      <guid isPermaLink="false">molecola-00bd2de6584f27e9</guid>
-      <pubDate>Fri, 04 Sep 2026 01:06:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>This work presents a density functional theory (DFT) investigation of a two-dimensional (2D) C5N monolayer functionalized with Li, Na, and K for hydrogen storage. Pristine C5N exhibits weak H2 adsorption, while… — arXiv</description>
     </item>
   </channel>
 </rss>
