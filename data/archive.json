@@ -1,6 +1,36 @@
 {
- "count": 632,
+ "count": 634,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-09T13:08:34+00:00",
+   "excerpt": "Realizzata da Joulz per uno dei più importanti centri di ricerca europei, la nuova infrastruttura garantisce continuità operativa h24, taglia le emissioni di oltre il 70% ed è già predisposta per l'uso dell'idrogeno.",
+   "first_seen": "2026-09-09T16:33:27+00:00",
+   "id": "1642f7cf61731478",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/smart-city/sostenibilita-autonomia-energetica-funzione-nuova-microgrid-jrc-ispra/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Sostenibilità e autonomia energetica: entra in funzione la nuova microgrid del JRC di Ispra"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-09T12:50:34+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-09T16:33:27+00:00",
+   "id": "c10806b01f20aa97",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/netherlands-advances-green-hydrogen-projects-under-e661-million-eu-recovery-funding/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Netherlands advances green hydrogen projects under €661 million EU recovery funding"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -10926,6 +10956,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-09T11:14:08+00:00",
+ "updated": "2026-09-09T16:33:27+00:00",
  "version": 2
 }

@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:33:06 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Sostenibilità e autonomia energetica: entra in funzione la nuova microgrid del JRC di Ispra</title>
+      <link>https://www.canaleenergia.com/rubriche/smart-city/sostenibilita-autonomia-energetica-funzione-nuova-microgrid-jrc-ispra/</link>
+      <guid isPermaLink="false">molecola-1642f7cf61731478</guid>
+      <pubDate>Wed, 09 Sep 2026 13:08:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>Realizzata da Joulz per uno dei più importanti centri di ricerca europei, la nuova infrastruttura garantisce continuità operativa h24, taglia le emissioni di oltre il 70% ed è già predisposta per l'uso dell'idrogeno. — Canale Energia</description>
+    </item>
+    <item>
+      <title>Netherlands advances green hydrogen projects under €661 million EU recovery funding</title>
+      <link>https://hydrogeneurope.eu/netherlands-advances-green-hydrogen-projects-under-e661-million-eu-recovery-funding/</link>
+      <guid isPermaLink="false">molecola-c10806b01f20aa97</guid>
+      <pubDate>Wed, 09 Sep 2026 12:50:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Netherlands advances green hydrogen projects under €661 million EU recovery funding — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Green Hydrogen News: POSCO and BHP Advance HyREX Hydrogen Reduction Ironmaking on Pilbara Ore</title>
       <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-posco-and-bhp-advance-hyrex-hydrogen-reduction-ironmaking-on/8576626/</link>
@@ -359,22 +375,6 @@
       <pubDate>Mon, 07 Sep 2026 12:56:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Subaru Patent Reveals New Way to Protect Hydrogen Tanks in a Crash — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Yanmar’s Maritime Hydrogen Fuel Cell System Achieves DNV Type Approval</title>
-      <link>https://fuelcellsworks.com/2026/09/07/h2/yanmar-s-maritime-hydrogen-fuel-cell-system-achieves-dnv-type-approval</link>
-      <guid isPermaLink="false">molecola-fb9b0bf2e2640fbd</guid>
-      <pubDate>Mon, 07 Sep 2026 12:44:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Yanmar’s Maritime Hydrogen Fuel Cell System Achieves DNV Type Approval — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Production: DGEC Prepares Second Wave of Green Hydrogen Electrolysis Support</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-production-dgec-prepares-second-wave-of-green-hydrogen-electrolysis-sup/8576617/</link>
-      <guid isPermaLink="false">molecola-0fb93202667c8efc</guid>
-      <pubDate>Mon, 07 Sep 2026 10:09:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>France’s DGEC plans a second round of electrolysis subsidies to drive 1 GW of green hydrogen capacity and narrow the cost gap with fossil-based hydrogen. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>A simulation study of underground hydrogen storage (UHS) in a partially depleted gas reservoir: A case study for the North Field, Qatar</title>
