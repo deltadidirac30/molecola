@@ -1,6 +1,51 @@
 {
- "count": 629,
+ "count": 632,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-09T01:12:29+00:00",
+   "excerpt": "POSCO and BHP sign a HyREX Collaboration Agreement to validate hydrogen-based steelmaking with Pilbara iron ore at Pohang, advancing near-zero emissions steel production.",
+   "first_seen": "2026-09-09T11:14:08+00:00",
+   "id": "064b77e7ef9f7929",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-posco-and-bhp-advance-hyrex-hydrogen-reduction-ironmaking-on/8576626/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: POSCO and BHP Advance HyREX Hydrogen Reduction Ironmaking on Pilbara Ore"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-09T01:09:29+00:00",
+   "excerpt": "GMI and eCap Marine team up to expand a zero-emission hydrogen-powered bulk carrier fleet, integrating hydrogen storage and fuel cells to decarbonize coastal shipping and build refueling infrastructure.",
+   "first_seen": "2026-09-09T11:14:08+00:00",
+   "id": "d3abbc876f51bfe2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-gmi-and-ecap-marine-expand-zero-emission-bulk-carrier-fleet/8576625/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "GMI and eCap Marine Expand Zero-Emission Bulk Carrier Fleet"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-09T01:06:06+00:00",
+   "excerpt": "Beyond Aero and Aéroports de la Côte d’Azur are planning phased hydrogen infrastructure—focusing on compressed gas, fixed dispensers, and mobile refueling—at French Riviera airports, setting the stage for…",
+   "first_seen": "2026-09-09T11:14:08+00:00",
+   "id": "fa6ae6baa16d7de0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-takes-off-at-french-riviera-airports-for-hydrogen-electr/8576624/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure Takes Off at French Riviera Airports for Hydrogen-Electric Business Jets"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -10881,6 +10926,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-09T04:32:29+00:00",
+ "updated": "2026-09-09T11:14:08+00:00",
  "version": 2
 }
