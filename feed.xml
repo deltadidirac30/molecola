@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:10:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:19:37 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>No-dig, elettrolisi e digitalizzazione, acquisizioni e commesse guardando l’estero</title>
+      <link>https://www.canaleenergia.com/rubriche/green-economy/no-dig-elettrolisi-e-digitalizzazione-acquisizioni-e-commesse-guardando-lestero/</link>
+      <guid isPermaLink="false">molecola-841df85c5b51041c</guid>
+      <pubDate>Thu, 10 Sep 2026 13:56:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>Ambienta rafforza No Dig Alliance in Svezia con l’acquisizione di Horisonterra Ambienta SGR S.p.A. (“Ambienta”), asset manager europeo focalizzato sulla sostenibilità ambientale, ha annunciato l’acquisizione della… — Canale Energia</description>
+    </item>
     <item>
       <title>Environmental and EJ Groups Challenge Green Hydrogen Infrastructure Plan at LA’s Scattergood Plant</title>
       <link>http://www.hydrogenfuelnews.com/environmental-and-ej-groups-challenge-green-hydrogen-infrastructure-plan-at-la-s/8576631/</link>
@@ -439,14 +447,6 @@
       <pubDate>Tue, 08 Sep 2026 13:56:45 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Jacobs Joins 55GWh MESH Energy Storage Project as UK Approval Push Begins — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>BDEW Calls for Hydrogen and Gas Network Planning to Be Integrated with Germany's Heat Planning Law</title>
-      <link>https://fuelcellsworks.com/2026/09/08/h2/bdew-calls-for-hydrogen-and-gas-network-planning-to-be-integrated-with-germany-s-heat-planning-law</link>
-      <guid isPermaLink="false">molecola-aeadb399adcce18e</guid>
-      <pubDate>Tue, 08 Sep 2026 13:47:14 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>BDEW Calls for Hydrogen and Gas Network Planning to Be Integrated with Germany's Heat Planning Law — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

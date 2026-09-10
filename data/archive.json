@@ -1,6 +1,21 @@
 {
- "count": 696,
+ "count": 697,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-10T13:56:35+00:00",
+   "excerpt": "Ambienta rafforza No Dig Alliance in Svezia con l’acquisizione di Horisonterra Ambienta SGR S.p.A. (“Ambienta”), asset manager europeo focalizzato sulla sostenibilità ambientale, ha annunciato l’acquisizione della…",
+   "first_seen": "2026-09-10T16:19:54+00:00",
+   "id": "841df85c5b51041c",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/green-economy/no-dig-elettrolisi-e-digitalizzazione-acquisizioni-e-commesse-guardando-lestero/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "No-dig, elettrolisi e digitalizzazione, acquisizioni e commesse guardando l’estero"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -12126,6 +12141,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-10T11:11:17+00:00",
+ "updated": "2026-09-10T16:19:54+00:00",
  "version": 2
 }

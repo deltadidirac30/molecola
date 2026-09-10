@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-10T11:11:17+00:00",
+ "checked": "2026-09-10T16:19:54+00:00",
  "productive": 12,
  "total": 16,
  "sources": [
@@ -48,8 +48,8 @@
    "name": "Canale Energia",
    "ok": true,
    "error": null,
-   "count": 1,
-   "newest": "2026-09-09T13:08:34+00:00"
+   "count": 2,
+   "newest": "2026-09-10T13:56:35+00:00"
   },
   {
    "slug": "energy-storage-news",
