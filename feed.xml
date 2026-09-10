@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:05:51 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Siltrax Launches Commercialization Initiative in the Americas for Silicon-Based Hydrogen Technology</title>
@@ -63,6 +63,14 @@
       <pubDate>Thu, 10 Sep 2026 15:33:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>An Electrochemical Approach Turns Ammonia Into Pure Hydrogen — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Google Backs 25 Electric Trucks on Houston-Dallas Route — 63-Truck Project Becomes Texas' Largest Known Class 8 ZEV Deployment</title>
+      <link>https://fuelcellsworks.com/2026/09/10/electric/google-backs-25-electric-trucks-on-houston-dallas-route-63-truck-project-becomes-texas-largest-known-class-8-zev-deployment</link>
+      <guid isPermaLink="false">molecola-598852e822dc76ad</guid>
+      <pubDate>Thu, 10 Sep 2026 15:28:23 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Google Backs 25 Electric Trucks on Houston-Dallas Route — 63-Truck Project Becomes Texas' Largest Known Class 8 ZEV Deployment — Fuel Cells Works</description>
     </item>
     <item>
       <title>Corinth Pipeworks Wins Contract for 218Km Hydrogen-Ready Pipeline in Greece</title>
@@ -439,14 +447,6 @@
       <pubDate>Tue, 08 Sep 2026 16:16:48 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Spain Approves 40MW Moreruela II Green Hydrogen Plant — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Innovations at Volvo Trucks at IAA Transportation 2026</title>
-      <link>https://fuelcellsworks.com/2026/09/07/fuel-cells/hydrogen-innovations-at-volvo-trucks-at-iaa-transportation-2026</link>
-      <guid isPermaLink="false">molecola-0c12782e4c2a9fb2</guid>
-      <pubDate>Tue, 08 Sep 2026 16:10:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hydrogen Innovations at Volvo Trucks at IAA Transportation 2026 — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

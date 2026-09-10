@@ -1,5 +1,5 @@
 {
- "count": 713,
+ "count": 714,
  "items": [
   {
    "authors": [],
@@ -105,6 +105,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "An Electrochemical Approach Turns Ammonia Into Pure Hydrogen"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-10T15:28:23+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-10T23:06:07+00:00",
+   "id": "598852e822dc76ad",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/10/electric/google-backs-25-electric-trucks-on-houston-dallas-route-63-truck-project-becomes-texas-largest-known-class-8-zev-deployment",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Google Backs 25 Electric Trucks on Houston-Dallas Route — 63-Truck Project Becomes Texas' Largest Known Class 8 ZEV Deployment"
   },
   {
    "authors": [],
@@ -12381,6 +12396,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-10T20:48:16+00:00",
+ "updated": "2026-09-10T23:06:07+00:00",
  "version": 2
 }

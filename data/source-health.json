@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-10T20:48:16+00:00",
- "productive": 11,
+ "checked": "2026-09-10T23:06:07+00:00",
+ "productive": 12,
  "total": 16,
  "sources": [
   {
@@ -16,14 +16,6 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "offshore-energy",
-   "name": "Offshore Energy",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -106,6 +98,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-09-10T03:07:48+00:00"
+  },
+  {
+   "slug": "offshore-energy",
+   "name": "Offshore Energy",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-04-24T11:09:07+00:00"
   },
   {
    "slug": "openalex",
