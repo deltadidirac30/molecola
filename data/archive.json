@@ -1,6 +1,36 @@
 {
- "count": 667,
+ "count": 671,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-10T03:07:48+00:00",
+   "excerpt": "Environmental and justice groups sue Los Angeles over CEQA review of Scattergood’s $800 million hydrogen-ready retrofit, citing health, NOx and water risks.",
+   "first_seen": "2026-09-10T04:31:54+00:00",
+   "id": "43bba1a6626792f9",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/environmental-and-ej-groups-challenge-green-hydrogen-infrastructure-plan-at-la-s/8576631/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Environmental and EJ Groups Challenge Green Hydrogen Infrastructure Plan at LA’s Scattergood Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-10T03:06:22+00:00",
+   "excerpt": "Subaru Corporation filed a patent describing a passive crash-safety packaging that separates hydrogen tank and drive unit movement to enhance tank integrity under collision for future hydrogen fuel-cell vehicles.",
+   "first_seen": "2026-09-10T04:31:54+00:00",
+   "id": "3c6ed07b8b3d1160",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-vehicles-subaru-files-crash-safety-patent-to-protect-tank-and-drive-uni/8576630/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Vehicles: Subaru Files Crash-Safety Patent to Protect Tank and Drive Unit"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -199,6 +229,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-09T14:14:05+00:00",
+   "excerpt": "Valencian authorities approved €76 million to boost bp’s Castellón refinery green hydrogen demonstrator and sustainable fuel pre-treatment, reinforcing its industrial decarbonization strategy.",
+   "first_seen": "2026-09-10T04:31:54+00:00",
+   "id": "2a8fe4280963bdec",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/valencia-greenlights-76m-for-bp-s-castell-n-hydrogen-and-sustainable-fuels-proje/8576628/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Valencia Greenlights €76M for bp’s Castellón Hydrogen and Sustainable Fuels Projects"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-09T14:05:22+00:00",
    "excerpt": "",
    "first_seen": "2026-09-09T20:53:25+00:00",
@@ -285,6 +330,24 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "Netherlands advances green hydrogen projects under €661 million EU recovery funding"
+  },
+  {
+   "authors": [
+    "Guochen Zhao",
+    "Ahmed S. Alahmed"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T08:21:30+00:00",
+   "excerpt": "This paper develops an analytical framework for profit-maximizing dispatch of water, electricity, and green hydrogen in a renewable-powered water desalination plant (WDP) combining thermal and reverse osmosis (RO)…",
+   "first_seen": "2026-09-10T04:31:54+00:00",
+   "id": "6e5f1a6c1c3a45cf",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.09868v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Optimal Dispatch of a Hydrogen-Colocated Renewable-Powered Desalination Plant"
   },
   {
    "authors": [],
@@ -11538,6 +11601,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-09T23:10:31+00:00",
+ "updated": "2026-09-10T04:31:54+00:00",
  "version": 2
 }

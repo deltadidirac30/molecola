@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 09 Sep 2026 23:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:31:36 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Environmental and EJ Groups Challenge Green Hydrogen Infrastructure Plan at LA’s Scattergood Plant</title>
+      <link>http://www.hydrogenfuelnews.com/environmental-and-ej-groups-challenge-green-hydrogen-infrastructure-plan-at-la-s/8576631/</link>
+      <guid isPermaLink="false">molecola-43bba1a6626792f9</guid>
+      <pubDate>Thu, 10 Sep 2026 03:07:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Environmental and justice groups sue Los Angeles over CEQA review of Scattergood’s $800 million hydrogen-ready retrofit, citing health, NOx and water risks. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Vehicles: Subaru Files Crash-Safety Patent to Protect Tank and Drive Unit</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-vehicles-subaru-files-crash-safety-patent-to-protect-tank-and-drive-uni/8576630/</link>
+      <guid isPermaLink="false">molecola-3c6ed07b8b3d1160</guid>
+      <pubDate>Thu, 10 Sep 2026 03:06:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Subaru Corporation filed a patent describing a passive crash-safety packaging that separates hydrogen tank and drive unit movement to enhance tank integrity under collision for future hydrogen fuel-cell vehicles. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>First Bus Expands UK-First Energy Trial Across Major Glasgow Depot</title>
       <link>https://fuelcellsworks.com/2026/09/08/electric/first-bus-expands-uk-first-energy-trial-across-major-glasgow-depot</link>
@@ -113,6 +129,14 @@
       <description>Green Hydrogen Holds Cost Advantage Over Conventional H₂ as Marginal Costs Stay Flat — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Valencia Greenlights €76M for bp’s Castellón Hydrogen and Sustainable Fuels Projects</title>
+      <link>http://www.hydrogenfuelnews.com/valencia-greenlights-76m-for-bp-s-castell-n-hydrogen-and-sustainable-fuels-proje/8576628/</link>
+      <guid isPermaLink="false">molecola-2a8fe4280963bdec</guid>
+      <pubDate>Wed, 09 Sep 2026 14:14:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Valencian authorities approved €76 million to boost bp’s Castellón refinery green hydrogen demonstrator and sustainable fuel pre-treatment, reinforcing its industrial decarbonization strategy. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Air Liquide Joins IRU to Accelerate Road Transport Decarbonisation</title>
       <link>https://fuelcellsworks.com/2026/09/08/h2/air-liquide-joins-iru-to-accelerate-road-transport-decarbonisation</link>
       <guid isPermaLink="false">molecola-4f99f149e541417f</guid>
@@ -159,6 +183,14 @@
       <pubDate>Wed, 09 Sep 2026 12:50:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Netherlands advances green hydrogen projects under €661 million EU recovery funding — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Optimal Dispatch of a Hydrogen-Colocated Renewable-Powered Desalination Plant</title>
+      <link>https://arxiv.org/abs/2609.09868v1</link>
+      <guid isPermaLink="false">molecola-6e5f1a6c1c3a45cf</guid>
+      <pubDate>Wed, 09 Sep 2026 08:21:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>This paper develops an analytical framework for profit-maximizing dispatch of water, electricity, and green hydrogen in a renewable-powered water desalination plant (WDP) combining thermal and reverse osmosis (RO)… — arXiv</description>
     </item>
     <item>
       <title>Green Hydrogen News: POSCO and BHP Advance HyREX Hydrogen Reduction Ironmaking on Pilbara Ore</title>
@@ -353,30 +385,6 @@
       <description>BDEW Calls for Hydrogen and Gas Network Planning to Be Integrated with Germany's Heat Planning Law — Fuel Cells Works</description>
     </item>
     <item>
-      <title>China Approves Hydrogen Pilot Program – Impact Coatings Sees Immediate Increase in Demand</title>
-      <link>https://fuelcellsworks.com/2026/09/08/fuel-cells/china-approves-hydrogen-pilot-program-impact-coatings-sees-immediate-increase-in-demand</link>
-      <guid isPermaLink="false">molecola-e20afa4e7293b521</guid>
-      <pubDate>Tue, 08 Sep 2026 13:22:01 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China Approves Hydrogen Pilot Program – Impact Coatings Sees Immediate Increase in Demand — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>China’s Guofu Steps Up to 10MW Electrolysers for Hami Green Hydrogen Project</title>
-      <link>https://fuelcellsworks.com/2026/09/08/electrolyzer/china-s-guofu-steps-up-to-10mw-electrolysers-for-hami-green-hydrogen-project</link>
-      <guid isPermaLink="false">molecola-e02c5ab3f098b0cd</guid>
-      <pubDate>Tue, 08 Sep 2026 13:12:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China’s Guofu Steps Up to 10MW Electrolysers for Hami Green Hydrogen Project — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Power to Hydrogen and Repsol Demonstrate Lower-Cost Green Hydrogen Pathway with Successful AEM Electrolyzer Pilot at All4Zero Industrial Innovation Hub</title>
-      <link>https://fuelcellsworks.com/2026/09/08/electrolyzer/power-to-hydrogen-and-repsol-demonstrate-lower-cost-green-hydrogen-pathway-with-successful-aem-electrolyzer-pilot-at-all4zero-industrial-innovation-hub</link>
-      <guid isPermaLink="false">molecola-85ae098d8098e732</guid>
-      <pubDate>Tue, 08 Sep 2026 13:06:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Power to Hydrogen and Repsol Demonstrate Lower-Cost Green Hydrogen Pathway with Successful AEM Electrolyzer Pilot at All4Zero Industrial Innovation Hub — Fuel Cells Works</description>
-    </item>
-    <item>
       <title>Electrolyte materials and interfacial engineering for high-energy-density aqueous potassium-ion batteries</title>
       <link>https://doi.org/10.26599/cf.2026.9200087</link>
       <guid isPermaLink="false">molecola-bd7fcce6167c3f31</guid>
@@ -439,14 +447,6 @@
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Salinization and Freshwater–Saline Interface Dynamics Near Underground Energy Storage Sites: A Hydrogeophysical and Machine-LearningIntegrated Review</title>
-      <link>https://doi.org/10.38124/ijisrt/26aug1167</link>
-      <guid isPermaLink="false">molecola-dd9aa45ed434889f</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Innovative Science and Research Technology (IJISRT) — OpenAlex</description>
     </item>
   </channel>
 </rss>
