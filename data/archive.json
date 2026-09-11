@@ -1,5 +1,5 @@
 {
- "count": 759,
+ "count": 761,
  "items": [
   {
    "authors": [],
@@ -15,6 +15,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Covestro, Fertiglobe and MB Energy Sign MoU to Explore Ammonia Supply Chain"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T16:20:46+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-11T23:12:58+00:00",
+   "id": "33fd6151444cf2e5",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/11/electric/dpd-uk-to-expand-electric-van-fleet-to-over-4-000-vehicles",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "DPD UK to Expand Electric Van Fleet to over 4,000 Vehicles"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T16:17:59+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-11T23:12:58+00:00",
+   "id": "caea48f8ed2d464e",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/11/electric/shapiro-administration-announces-11-million-in-federal-funding-available-for-public-ev-chargers-in-central-pennsylvania",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Shapiro Administration Announces $11 Million in Federal Funding Available for Public EV Chargers in Central Pennsylvania"
   },
   {
    "authors": [],
@@ -13209,6 +13239,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-11T20:54:32+00:00",
+ "updated": "2026-09-11T23:12:58+00:00",
  "version": 2
 }

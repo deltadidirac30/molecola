@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:12:41 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Covestro, Fertiglobe and MB Energy Sign MoU to Explore Ammonia Supply Chain</title>
@@ -15,6 +15,22 @@
       <pubDate>Fri, 11 Sep 2026 16:23:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Covestro, Fertiglobe and MB Energy Sign MoU to Explore Ammonia Supply Chain — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>DPD UK to Expand Electric Van Fleet to over 4,000 Vehicles</title>
+      <link>https://fuelcellsworks.com/2026/09/11/electric/dpd-uk-to-expand-electric-van-fleet-to-over-4-000-vehicles</link>
+      <guid isPermaLink="false">molecola-33fd6151444cf2e5</guid>
+      <pubDate>Fri, 11 Sep 2026 16:20:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>DPD UK to Expand Electric Van Fleet to over 4,000 Vehicles — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Shapiro Administration Announces $11 Million in Federal Funding Available for Public EV Chargers in Central Pennsylvania</title>
+      <link>https://fuelcellsworks.com/2026/09/11/electric/shapiro-administration-announces-11-million-in-federal-funding-available-for-public-ev-chargers-in-central-pennsylvania</link>
+      <guid isPermaLink="false">molecola-caea48f8ed2d464e</guid>
+      <pubDate>Fri, 11 Sep 2026 16:17:59 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Shapiro Administration Announces $11 Million in Federal Funding Available for Public EV Chargers in Central Pennsylvania — Fuel Cells Works</description>
     </item>
     <item>
       <title>PowerUp Keeps the Power Flowing for SP Energy Networks</title>
@@ -431,22 +447,6 @@
       <pubDate>Wed, 09 Sep 2026 16:22:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>New Dacia Spring: 100 % Electric, 100 % Dacia — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Becomes Grid Backup for Electric Trucks at New €6M [$7.0M] German Refuelling Hub</title>
-      <link>https://fuelcellsworks.com/2026/09/05/electrolyzer/hydrogen-becomes-grid-backup-for-electric-trucks-at-new-6m-7-0m-german-refuelling-hub</link>
-      <guid isPermaLink="false">molecola-bee06ca3abdd1c24</guid>
-      <pubDate>Wed, 09 Sep 2026 16:15:13 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hydrogen Becomes Grid Backup for Electric Trucks at New €6M [$7.0M] German Refuelling Hub — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Moeve and ArcelorMittal Team Up to Put Green Hydrogen to Work in Steelmaking</title>
-      <link>https://fuelcellsworks.com/2026/09/09/h2/moeve-and-arcelormittal-team-up-to-put-green-hydrogen-to-work-in-steelmaking</link>
-      <guid isPermaLink="false">molecola-ec522a7fecedf1d9</guid>
-      <pubDate>Wed, 09 Sep 2026 16:03:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Moeve and ArcelorMittal Team Up to Put Green Hydrogen to Work in Steelmaking — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
