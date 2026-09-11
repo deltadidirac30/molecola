@@ -1,5 +1,5 @@
 {
- "count": 720,
+ "count": 745,
  "items": [
   {
    "authors": [],
@@ -75,6 +75,40 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Green hydrogen news: Lhyfe shifts listing to Euronext Growth Paris to streamline growth"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-11T05:00:45+00:00",
+   "excerpt": "Programma formativo di Sardegna Ricerche dedicato all’idrogeno e alle tecnologie digitali per la transizione energetica, con l’obiettivo di sviluppare competenze tecniche per le attività operative, ispettive e…",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "684a419077ce6aeb",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/pro/documenti/sardegna-ricerche-programma-formativo-su-idrogeno-e-tecnologie-digitali/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Sardegna Ricerche: programma formativo su idrogeno e tecnologie digitali"
+  },
+  {
+   "authors": [
+    "Endrik Schulze",
+    "Markus Leyser",
+    "Pascal Kerschke"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-11T00:00:00+00:00",
+   "excerpt": "Data Science for Transportation",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "17dc04ebca73c580",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s42421-026-00169-1",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen Transport by Rail: A Geodata-Driven Approach for the Quantification of Accident Consequences and Risk-Aware Routing"
   },
   {
    "authors": [],
@@ -375,6 +409,374 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Hydrogen Vehicles: Subaru Files Crash-Safety Patent to Protect Tank and Drive Unit"
+  },
+  {
+   "authors": [
+    "Huixin Qu",
+    "Yuxue Deng",
+    "Hongfang Ma",
+    "Pingfan Zhou",
+    "Peng Huang",
+    "Ling Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "052d865fb72af8e9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124497",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ultralong-life dendrite-free zinc anode via InF3/SnF2 co-modification"
+  },
+  {
+   "authors": [
+    "Vinaya B Koradoor"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "5ce6cf4cefef9609",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22688699",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Advanced Power Management of Hydrogen Fuel Cell Electric Vehicles Using Supercapacitor-Assisted Energy Storage"
+  },
+  {
+   "authors": [
+    "Kevin Kendall"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Journal of Earth and Environmental Sciences Research",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "f1cfdeda6674a49d",
+   "lang": "en",
+   "link": "https://doi.org/10.47363/jeesr/2026(8)310",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Difficulties Predicting Green Hydrogen Growth"
+  },
+  {
+   "authors": [
+    "Wanlong Wu",
+    "Zhaoyi Wang",
+    "Bharat Prasad Sharma",
+    "Huijuan Yang",
+    "Razium Ali Soomro",
+    "Xiaoqi Sun"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie International Edition",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "b340aec8fe86af10",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/anie.2408877",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A High‐Voltage Mild Alkaline Zinc‐Iodine Battery Enabled by Tailored Redox Couples"
+  },
+  {
+   "authors": [
+    "Chunhui Gao",
+    "Yulong Yang",
+    "Jun Wang",
+    "Bin Zhu",
+    "Xian Wu",
+    "Runpeng Ma"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "f4c1e26e2d3b10eb",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.78384",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Self‐Assembled Zincophobic/Zincophilic Bilayer Interphase from a Hydrated Eutectic Electrolyte for Dendrite‐Free Zn Metal Anodes"
+  },
+  {
+   "authors": [
+    "Marek Szafraniec",
+    "Tomasz Wałek"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "c7724573eb6739dc",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19184287",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Storage-Supported Renewable Power Systems and Energy Independence of Countries: A Bibliometric Analysis of the Current State of the Art and Future Perspectives"
+  },
+  {
+   "authors": [
+    "顾安康",
+    "Guo Yang",
+    "Shukun Liu",
+    "Zhuo Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "International Journal of Automotive Manufacturing and Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "426e8083fd669ef5",
+   "lang": "en",
+   "link": "https://doi.org/10.53941/ijamm.2026.100025",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design and Simulation Optimization of Type IV On-Board Hydrogen Storage Cylinders"
+  },
+  {
+   "authors": [
+    "Vinaya B Koradoor"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "30258647df387639",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22688700",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Advanced Power Management of Hydrogen Fuel Cell Electric Vehicles Using Supercapacitor-Assisted Energy Storage"
+  },
+  {
+   "authors": [
+    "Palivela Bhargav Chandan",
+    "Devara Venkata Krishna"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Materials Circular Economy",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "c37f1284b21b7eb7",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s42824-026-00267-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Architecting Net-Zero: An Integrated Framework Aligning Industry 5.0, Circular Systems, and Deep Decarbonization"
+  },
+  {
+   "authors": [
+    "Fei Long",
+    "Zhi Zhang",
+    "Changwu Liu",
+    "Yiming Ma",
+    "Yihua Gao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "ACS Applied Materials & Interfaces",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "1e7f37e88b53c666",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsami.6c09981",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "High-Entropy-Doped V2O5 for Efficient NH4+/Zn2+ Energy Storage"
+  },
+  {
+   "authors": [
+    "Keyu Zhu",
+    "Zuomin Lei",
+    "Mengliang Hu",
+    "Zongtao Qu",
+    "Shu‐Shen Lyu",
+    "Dong-Chuan Mo"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "d1c8f50ee994044a",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c06063",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "3D ZnF2–Sn Composite Anode for Ultra-Long-Life Aqueous Zinc-Ion Batteries"
+  },
+  {
+   "authors": [
+    "Anni Liu",
+    "Xinyue Zhang",
+    "Bo Zhang",
+    "Yuzhi Wang",
+    "Feifei Wang",
+    "Daliang Han"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Advanced Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "0daacbb9984e2de8",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adma.74973",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Water Management Toward Durable Aqueous Zinc Ion Batteries"
+  },
+  {
+   "authors": [
+    "Yafen Zheng",
+    "Tao Wang",
+    "Dongling Wu",
+    "Pengxu Ren",
+    "Dianzeng Jia"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "748e396a81be609e",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/ange.6217043",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "All‐in‐One Stretchable Flexible Zinc–Air Battery Enabled by Eutectogel‐Derived Electrolyte and Electrodes"
+  },
+  {
+   "authors": [
+    "Yafen Zheng",
+    "Tao Wang",
+    "Dongling Wu",
+    "Pengxu Ren",
+    "Dianzeng Jia"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie International Edition",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "e5000595950a7610",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/anie.6217043",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "All‐in‐One Stretchable Flexible Zinc–Air Battery Enabled by Eutectogel‐Derived Electrolyte and Electrodes"
+  },
+  {
+   "authors": [
+    "Haoran Wang",
+    "Qimeng Wang",
+    "Shunshun Jia",
+    "Qing Zhou",
+    "Fanxiang Gu",
+    "Zhenhua Jin"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "ACS Applied Energy Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "5ddd75890776d74a",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsaem.6c02347",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial Reconstruction of a SnO/PVDF Coating Induced by Cycling for Stable Zn Metal Anodes"
+  },
+  {
+   "authors": [
+    "Cuiying Lu",
+    "Qianggong Dong",
+    "Changxiang Guo",
+    "Zhen Wang",
+    "Yunqi Feng",
+    "Guangfeng Hu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "Energy Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "b6c382d31c386c1b",
+   "lang": "en",
+   "link": "https://doi.org/10.20517/energymater.2026.162",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Cross-linked coal-derived hard carbon with expanded interlayers and nanopores for high-plateau sodium storage"
+  },
+  {
+   "authors": [
+    "Yu Du",
+    "Jiahui Ma",
+    "Q.L. Zhang",
+    "Bo Zhou",
+    "Yufang Ye",
+    "Xiaofeng Gu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "f1a4cf030563c536",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157516",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Toward Ru-free ammonia decomposition for hydrogen production: Multidimensional modulation and structure-activity relationships of Ni-based catalysts"
+  },
+  {
+   "authors": [
+    "Jinghua Liu",
+    "Xue Shu",
+    "Ziyi Yang",
+    "Zhonglin Wang",
+    "Rongfu Wang",
+    "Yiling Fang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-10T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "51bf13224812515d",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c07840",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tham-Additive-Induced Electric Double Layer Compression and Stabilization Enable Dendrite-Free Zinc Anodes under High Current"
   },
   {
    "authors": [
@@ -1074,6 +1476,110 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Vegetation type overrides lithology in shaping seasonal water uptake patterns in a classical karst landscape"
+  },
+  {
+   "authors": [
+    "Libin Shi",
+    "Suitao Qi",
+    "Yiming Zhou",
+    "Kevin J. Smith"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "d9866c0620e8f593",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157443",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic effect of Pt-Mo bimetallic catalysts in the reversible hydrogenation and dehydrogenation of dibenzyltoluene as a liquid organic hydrogen carrier"
+  },
+  {
+   "authors": [
+    "Subramanian Rajalekshmi",
+    "Alagarsamy Pandikumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "Coordination Chemistry Reviews",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "ad996c07fa11de89",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ccr.2026.218487",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "From materials strategy to mechanistic probing: Progress in solid redox mediators for membrane-free decoupled water splitting"
+  },
+  {
+   "authors": [
+    "Zibo Chen",
+    "Jiebin Zheng",
+    "Zheng Li",
+    "Guoxuan Li",
+    "Xinyi Li",
+    "Hao Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "b0bf0395254191d7",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.78362",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ion‐Coordination “Rails” in a Hydrogel Interphase Enable Stable Aluminum Plating/Stripping"
+  },
+  {
+   "authors": [
+    "Shuo Liu",
+    "Shao‐hua Luo",
+    "Jun Cong",
+    "Qi Sun",
+    "Shengxue Yan",
+    "Jing Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "The Chemical Record",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "48b1c1245ad8ba2f",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/tcr.70248",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Artificial Interfacial Protective Layers for Zinc Anodes in Aqueous Zinc‐Ion Batteries: Design Principles and Stabilization Mechanisms"
+  },
+  {
+   "authors": [
+    "Puja De",
+    "Petr Lazar",
+    "Michal Otyepka",
+    "Jakub Měsíček",
+    "Jiří Hajnyš",
+    "Martin Pumera"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T00:00:00+00:00",
+   "excerpt": "Advanced Energy Materials",
+   "first_seen": "2026-09-11T16:24:04+00:00",
+   "id": "f548462496f5264a",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aenm.71567",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "3D Printed Ordered Porous Architectures of Functional Metal Tellurides for Ultra High Mass‐Loaded Ammonium‐Ion Batteries"
   },
   {
    "authors": [],
@@ -12493,6 +12999,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-11T11:11:15+00:00",
+ "updated": "2026-09-11T16:24:04+00:00",
  "version": 2
 }

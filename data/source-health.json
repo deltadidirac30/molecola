@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-11T11:11:15+00:00",
+ "checked": "2026-09-11T16:24:04+00:00",
  "productive": 12,
  "total": 16,
  "sources": [
+  {
+   "slug": "canale-energia",
+   "name": "Canale Energia",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -14,14 +22,6 @@
   {
    "slug": "eea",
    "name": "Agenzia europea dell'ambiente",
-   "ok": true,
-   "error": null,
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
    "ok": true,
    "error": null,
    "count": 0,
@@ -44,19 +44,11 @@
    "newest": "2026-09-09T22:26:22+00:00"
   },
   {
-   "slug": "canale-energia",
-   "name": "Canale Energia",
-   "ok": true,
-   "error": null,
-   "count": 1,
-   "newest": "2026-09-10T13:56:35+00:00"
-  },
-  {
    "slug": "energy-storage-news",
    "name": "Energy Storage News",
    "ok": true,
    "error": null,
-   "count": 3,
+   "count": 2,
    "newest": "2026-07-08T08:01:42+00:00"
   },
   {
@@ -113,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "newest": "2026-09-09T00:00:00+00:00"
+   "newest": "2026-09-11T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -130,6 +122,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-09-11T10:36:51+00:00"
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 1,
+   "newest": "2026-09-11T05:00:45+00:00"
   }
  ]
 }

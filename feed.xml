@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 11:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:23:30 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>The Hydrogen Stream: AEM electrolysis could deliver hydrogen at $3.27/kg, say Repsol, P2HP</title>
@@ -47,6 +47,22 @@
       <pubDate>Fri, 11 Sep 2026 05:08:41 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Lhyfe is moving its listing to Euronext Growth Paris to lower compliance costs and align with its SME growth profile while retaining its ISIN and investor access. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Sardegna Ricerche: programma formativo su idrogeno e tecnologie digitali</title>
+      <link>https://www.qualenergia.it/pro/documenti/sardegna-ricerche-programma-formativo-su-idrogeno-e-tecnologie-digitali/</link>
+      <guid isPermaLink="false">molecola-684a419077ce6aeb</guid>
+      <pubDate>Fri, 11 Sep 2026 05:00:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Programma formativo di Sardegna Ricerche dedicato all’idrogeno e alle tecnologie digitali per la transizione energetica, con l’obiettivo di sviluppare competenze tecniche per le attività operative, ispettive e… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Hydrogen Transport by Rail: A Geodata-Driven Approach for the Quantification of Accident Consequences and Risk-Aware Routing</title>
+      <link>https://doi.org/10.1007/s42421-026-00169-1</link>
+      <guid isPermaLink="false">molecola-17dc04ebca73c580</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Data Science for Transportation — OpenAlex</description>
     </item>
     <item>
       <title>Siltrax Launches Commercialization Initiative in the Americas for Silicon-Based Hydrogen Technology</title>
@@ -209,12 +225,76 @@
       <description>Subaru Corporation filed a patent describing a passive crash-safety packaging that separates hydrogen tank and drive unit movement to enhance tank integrity under collision for future hydrogen fuel-cell vehicles. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>A multi-model framework for identifying affordable low-carbon electricity pathways for India under uncertainty</title>
-      <link>https://arxiv.org/abs/2607.10581v2</link>
-      <guid isPermaLink="false">molecola-be5d83bfa775dd27</guid>
-      <pubDate>Wed, 09 Sep 2026 22:26:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>To meet climate goals, countries must decarbonize their electricity systems. Yet, uncertainty in future technology costs, electricity demand, and renewable energy generation complicates power system planning and makes… — arXiv</description>
+      <title>Ultralong-life dendrite-free zinc anode via InF3/SnF2 co-modification</title>
+      <link>https://doi.org/10.1016/j.est.2026.124497</link>
+      <guid isPermaLink="false">molecola-052d865fb72af8e9</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Advanced Power Management of Hydrogen Fuel Cell Electric Vehicles Using Supercapacitor-Assisted Energy Storage</title>
+      <link>https://doi.org/10.5281/zenodo.22688699</link>
+      <guid isPermaLink="false">molecola-5ce6cf4cefef9609</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Difficulties Predicting Green Hydrogen Growth</title>
+      <link>https://doi.org/10.47363/jeesr/2026(8)310</link>
+      <guid isPermaLink="false">molecola-f1cfdeda6674a49d</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Earth and Environmental Sciences Research — OpenAlex</description>
+    </item>
+    <item>
+      <title>A High‐Voltage Mild Alkaline Zinc‐Iodine Battery Enabled by Tailored Redox Couples</title>
+      <link>https://doi.org/10.1002/anie.2408877</link>
+      <guid isPermaLink="false">molecola-b340aec8fe86af10</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie International Edition — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Self‐Assembled Zincophobic/Zincophilic Bilayer Interphase from a Hydrated Eutectic Electrolyte for Dendrite‐Free Zn Metal Anodes</title>
+      <link>https://doi.org/10.1002/adfm.78384</link>
+      <guid isPermaLink="false">molecola-f4c1e26e2d3b10eb</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Functional Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Storage-Supported Renewable Power Systems and Energy Independence of Countries: A Bibliometric Analysis of the Current State of the Art and Future Perspectives</title>
+      <link>https://doi.org/10.3390/en19184287</link>
+      <guid isPermaLink="false">molecola-c7724573eb6739dc</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energies — OpenAlex</description>
+    </item>
+    <item>
+      <title>Design and Simulation Optimization of Type IV On-Board Hydrogen Storage Cylinders</title>
+      <link>https://doi.org/10.53941/ijamm.2026.100025</link>
+      <guid isPermaLink="false">molecola-426e8083fd669ef5</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Automotive Manufacturing and Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Advanced Power Management of Hydrogen Fuel Cell Electric Vehicles Using Supercapacitor-Assisted Energy Storage</title>
+      <link>https://doi.org/10.5281/zenodo.22688700</link>
+      <guid isPermaLink="false">molecola-30258647df387639</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Architecting Net-Zero: An Integrated Framework Aligning Industry 5.0, Circular Systems, and Deep Decarbonization</title>
+      <link>https://doi.org/10.1007/s42824-026-00267-z</link>
+      <guid isPermaLink="false">molecola-c37f1284b21b7eb7</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Materials Circular Economy — OpenAlex</description>
     </item>
     <item>
       <title>First Bus Expands UK-First Energy Trial Across Major Glasgow Depot</title>
@@ -367,86 +447,6 @@
       <pubDate>Wed, 09 Sep 2026 13:08:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
       <description>Realizzata da Joulz per uno dei più importanti centri di ricerca europei, la nuova infrastruttura garantisce continuità operativa h24, taglia le emissioni di oltre il 70% ed è già predisposta per l'uso dell'idrogeno. — Canale Energia</description>
-    </item>
-    <item>
-      <title>Netherlands advances green hydrogen projects under €661 million EU recovery funding</title>
-      <link>https://hydrogeneurope.eu/netherlands-advances-green-hydrogen-projects-under-e661-million-eu-recovery-funding/</link>
-      <guid isPermaLink="false">molecola-c10806b01f20aa97</guid>
-      <pubDate>Wed, 09 Sep 2026 12:50:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Netherlands advances green hydrogen projects under €661 million EU recovery funding — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Optimal Dispatch of a Hydrogen-Colocated Renewable-Powered Desalination Plant</title>
-      <link>https://arxiv.org/abs/2609.09868v1</link>
-      <guid isPermaLink="false">molecola-6e5f1a6c1c3a45cf</guid>
-      <pubDate>Wed, 09 Sep 2026 08:21:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>This paper develops an analytical framework for profit-maximizing dispatch of water, electricity, and green hydrogen in a renewable-powered water desalination plant (WDP) combining thermal and reverse osmosis (RO)… — arXiv</description>
-    </item>
-    <item>
-      <title>Design Strategies for Complex Hydrides AMg 3 H 9 (A = Tc, Ru, Rh) for Hydrogen Storage: A DFT Investigation</title>
-      <link>https://doi.org/10.1142/s021798492650226x</link>
-      <guid isPermaLink="false">molecola-2046450c289f6cd2</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Modern Physics Letters B — OpenAlex</description>
-    </item>
-    <item>
-      <title>Phase stability prediction in Ti–Zr–Hf–Ni–Fe–Co high entropy alloys for hydrogen storage: a comprehensive DFT and thermodynamic assessment</title>
-      <link>https://doi.org/10.1007/s11696-026-05563-1</link>
-      <guid isPermaLink="false">molecola-ee031c1b44f0ce55</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Chemical Papers — OpenAlex</description>
-    </item>
-    <item>
-      <title>First-Principles Investigation of Rubidium and Cesium Tin Hydride Perovskites for Sustainable Hydrogen Storage and Thermoelectric Energy Conversion</title>
-      <link>https://doi.org/10.3390/su18189258</link>
-      <guid isPermaLink="false">molecola-9242ca7429f93c24</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Sustainability — OpenAlex</description>
-    </item>
-    <item>
-      <title>Zn Powder Anodes for High-Utilization Aqueous Zinc-Ion Batteries: Interfacial Reaction Selectivity, Coupled Failure Mechanisms, and Electrode Engineering</title>
-      <link>https://doi.org/10.3390/catal16090815</link>
-      <guid isPermaLink="false">molecola-ece1b21f407266a0</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Catalysts — OpenAlex</description>
-    </item>
-    <item>
-      <title>Fault-tolerant nonlinear control of a PV–grid connected microgrid with hydrogen energy storage via electrolysis</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157357</link>
-      <guid isPermaLink="false">molecola-4e3355d1c56c1d42</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Interface-engineered Bi2Te3-MXene heterostructure for multifunctional energy conversion and storage</title>
-      <link>https://doi.org/10.1007/s42114-026-02072-3</link>
-      <guid isPermaLink="false">molecola-c27af3b810026b6e</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Composites and Hybrid Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Integrated design for rural microgrids in Egypt incorporating hydrogen energy and vehicle-to-grid technology</title>
-      <link>https://doi.org/10.1038/s41598-026-67972-2</link>
-      <guid isPermaLink="false">molecola-80e6a487e345e9f0</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
-    </item>
-    <item>
-      <title>Direct and Selective 8e–/8H+ Electrochemical Reduction of CO2 to CH4 in an Aqueous Medium by an Iron Porphyrin with Distal Amine Groups in the 2nd Sphere</title>
-      <link>https://doi.org/10.1021/jacs.6c11724</link>
-      <guid isPermaLink="false">molecola-41a3b3f7a01a0440</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of the American Chemical Society — OpenAlex</description>
     </item>
   </channel>
 </rss>
