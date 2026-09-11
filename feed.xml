@@ -6,8 +6,48 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 04:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:10:43 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: AEM electrolysis could deliver hydrogen at $3.27/kg, say Repsol, P2HP</title>
+      <link>https://www.pv-magazine.com/2026/09/11/the-hydrogen-stream-aem-electrolysis-could-deliver-hydrogen-at-3-27-kg-say-repsol-p2hp/</link>
+      <guid isPermaLink="false">molecola-a79251ae7b4ef3f6</guid>
+      <pubDate>Fri, 11 Sep 2026 10:36:51 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Power to Hydrogen (P2H2) and Repsol completed a 1,250-hour pilot of P2H2’s hybrid AEM electrolyzer technology, demonstrating operation at 40% to 100% load, pressures up to 30 bar and hydrogen purity of up to 99.9%… — PV Magazine</description>
+    </item>
+    <item>
+      <title>EU Greenlights €35 Billion for Germany’s Hydrogen-Ready Gas Plants</title>
+      <link>http://www.hydrogenfuelnews.com/eu-greenlights-35-billion-for-germany-s-hydrogen-ready-gas-plants/8576640/</link>
+      <guid isPermaLink="false">molecola-aeb45e186538102b</guid>
+      <pubDate>Fri, 11 Sep 2026 05:17:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The EU approved Germany’s €35 billion plan to subsidize 11 GW of hydrogen-ready gas plants by 2031 under a capacity market, mandating full conversion to green hydrogen by 2045. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Coega green ammonia project secures $1 billion Topsoe SOEC package to scale green hydrogen production</title>
+      <link>http://www.hydrogenfuelnews.com/coega-green-ammonia-project-secures-1-billion-topsoe-soec-package-to-scale-green/8576639/</link>
+      <guid isPermaLink="false">molecola-4cf90020d0061e48</guid>
+      <pubDate>Fri, 11 Sep 2026 05:15:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hive Hydrogen South Africa’s Coega Green Ammonia Project has contracted Topsoe to deliver an 850 MW SOEC package and ammonia loop, moving the $5.8 billion facility toward a 2026 FID. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Geologic Hydrogen Exploration: Michigan Invests $7.5 Million in Clean Energy Research</title>
+      <link>http://www.hydrogenfuelnews.com/geologic-hydrogen-exploration-michigan-invests-7-5-million-in-clean-energy-resea/8576638/</link>
+      <guid isPermaLink="false">molecola-c080e05045e0ceb2</guid>
+      <pubDate>Fri, 11 Sep 2026 05:10:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Michigan is investing $7.5 million to explore naturally occurring geologic hydrogen, funding mapping, test wells and regulatory readiness as part of a statewide clean energy initiative. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green hydrogen news: Lhyfe shifts listing to Euronext Growth Paris to streamline growth</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-lhyfe-shifts-listing-to-euronext-growth-paris-to-streamline-/8576636/</link>
+      <guid isPermaLink="false">molecola-b7ce591d9a5d5f97</guid>
+      <pubDate>Fri, 11 Sep 2026 05:08:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Lhyfe is moving its listing to Euronext Growth Paris to lower compliance costs and align with its SME growth profile while retaining its ISIN and investor access. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Siltrax Launches Commercialization Initiative in the Americas for Silicon-Based Hydrogen Technology</title>
       <link>https://fuelcellsworks.com/2026/09/10/h2/siltrax-launches-commercialization-initiative-in-the-americas-for-silicon-based-hydrogen-technology</link>
@@ -345,30 +385,6 @@
       <description>This paper develops an analytical framework for profit-maximizing dispatch of water, electricity, and green hydrogen in a renewable-powered water desalination plant (WDP) combining thermal and reverse osmosis (RO)… — arXiv</description>
     </item>
     <item>
-      <title>Green Hydrogen News: POSCO and BHP Advance HyREX Hydrogen Reduction Ironmaking on Pilbara Ore</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-posco-and-bhp-advance-hyrex-hydrogen-reduction-ironmaking-on/8576626/</link>
-      <guid isPermaLink="false">molecola-064b77e7ef9f7929</guid>
-      <pubDate>Wed, 09 Sep 2026 01:12:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>POSCO and BHP sign a HyREX Collaboration Agreement to validate hydrogen-based steelmaking with Pilbara iron ore at Pohang, advancing near-zero emissions steel production. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>GMI and eCap Marine Expand Zero-Emission Bulk Carrier Fleet</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-gmi-and-ecap-marine-expand-zero-emission-bulk-carrier-fleet/8576625/</link>
-      <guid isPermaLink="false">molecola-d3abbc876f51bfe2</guid>
-      <pubDate>Wed, 09 Sep 2026 01:09:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>GMI and eCap Marine team up to expand a zero-emission hydrogen-powered bulk carrier fleet, integrating hydrogen storage and fuel cells to decarbonize coastal shipping and build refueling infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure Takes Off at French Riviera Airports for Hydrogen-Electric Business Jets</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-takes-off-at-french-riviera-airports-for-hydrogen-electr/8576624/</link>
-      <guid isPermaLink="false">molecola-fa6ae6baa16d7de0</guid>
-      <pubDate>Wed, 09 Sep 2026 01:06:06 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Beyond Aero and Aéroports de la Côte d’Azur are planning phased hydrogen infrastructure—focusing on compressed gas, fixed dispensers, and mobile refueling—at French Riviera airports, setting the stage for… — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>Design Strategies for Complex Hydrides AMg 3 H 9 (A = Tc, Ru, Rh) for Hydrogen Storage: A DFT Investigation</title>
       <link>https://doi.org/10.1142/s021798492650226x</link>
       <guid isPermaLink="false">molecola-2046450c289f6cd2</guid>
@@ -431,22 +447,6 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of the American Chemical Society — OpenAlex</description>
-    </item>
-    <item>
-      <title>Why Making Lighter and Better Batteries Takes Time</title>
-      <link>https://fuelcellsworks.com/2026/09/07/battery/why-making-lighter-and-better-batteries-takes-time</link>
-      <guid isPermaLink="false">molecola-375615e40d0e98dc</guid>
-      <pubDate>Tue, 08 Sep 2026 16:21:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Why Making Lighter and Better Batteries Takes Time — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Spain Approves 40MW Moreruela II Green Hydrogen Plant</title>
-      <link>https://fuelcellsworks.com/2026/09/03/electrolyzer/spain-approves-40mw-moreruela-ii-green-hydrogen-plant-as-water</link>
-      <guid isPermaLink="false">molecola-a516f8d4e4a07510</guid>
-      <pubDate>Tue, 08 Sep 2026 16:16:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Spain Approves 40MW Moreruela II Green Hydrogen Plant — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

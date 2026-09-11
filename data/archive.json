@@ -1,6 +1,81 @@
 {
- "count": 715,
+ "count": 720,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T10:36:51+00:00",
+   "excerpt": "Power to Hydrogen (P2H2) and Repsol completed a 1,250-hour pilot of P2H2’s hybrid AEM electrolyzer technology, demonstrating operation at 40% to 100% load, pressures up to 30 bar and hydrogen purity of up to 99.9%…",
+   "first_seen": "2026-09-11T11:11:15+00:00",
+   "id": "a79251ae7b4ef3f6",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/09/11/the-hydrogen-stream-aem-electrolysis-could-deliver-hydrogen-at-3-27-kg-say-repsol-p2hp/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: AEM electrolysis could deliver hydrogen at $3.27/kg, say Repsol, P2HP"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T05:17:22+00:00",
+   "excerpt": "The EU approved Germany’s €35 billion plan to subsidize 11 GW of hydrogen-ready gas plants by 2031 under a capacity market, mandating full conversion to green hydrogen by 2045.",
+   "first_seen": "2026-09-11T11:11:15+00:00",
+   "id": "aeb45e186538102b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/eu-greenlights-35-billion-for-germany-s-hydrogen-ready-gas-plants/8576640/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EU Greenlights €35 Billion for Germany’s Hydrogen-Ready Gas Plants"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T05:15:32+00:00",
+   "excerpt": "Hive Hydrogen South Africa’s Coega Green Ammonia Project has contracted Topsoe to deliver an 850 MW SOEC package and ammonia loop, moving the $5.8 billion facility toward a 2026 FID.",
+   "first_seen": "2026-09-11T11:11:15+00:00",
+   "id": "4cf90020d0061e48",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/coega-green-ammonia-project-secures-1-billion-topsoe-soec-package-to-scale-green/8576639/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Coega green ammonia project secures $1 billion Topsoe SOEC package to scale green hydrogen production"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T05:10:54+00:00",
+   "excerpt": "Michigan is investing $7.5 million to explore naturally occurring geologic hydrogen, funding mapping, test wells and regulatory readiness as part of a statewide clean energy initiative.",
+   "first_seen": "2026-09-11T11:11:15+00:00",
+   "id": "c080e05045e0ceb2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/geologic-hydrogen-exploration-michigan-invests-7-5-million-in-clean-energy-resea/8576638/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Geologic Hydrogen Exploration: Michigan Invests $7.5 Million in Clean Energy Research"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T05:08:41+00:00",
+   "excerpt": "Lhyfe is moving its listing to Euronext Growth Paris to lower compliance costs and align with its SME growth profile while retaining its ISIN and investor access.",
+   "first_seen": "2026-09-11T11:11:15+00:00",
+   "id": "b7ce591d9a5d5f97",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-lhyfe-shifts-listing-to-euronext-growth-paris-to-streamline-/8576636/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green hydrogen news: Lhyfe shifts listing to Euronext Growth Paris to streamline growth"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -12418,6 +12493,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-11T04:30:03+00:00",
+ "updated": "2026-09-11T11:11:15+00:00",
  "version": 2
 }

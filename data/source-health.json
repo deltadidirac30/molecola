@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-11T04:30:03+00:00",
+ "checked": "2026-09-11T11:11:15+00:00",
  "productive": 12,
  "total": 16,
  "sources": [
@@ -48,7 +48,7 @@
    "name": "Canale Energia",
    "ok": true,
    "error": null,
-   "count": 2,
+   "count": 1,
    "newest": "2026-09-10T13:56:35+00:00"
   },
   {
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-10T03:07:48+00:00"
+   "newest": "2026-09-11T05:17:22+00:00"
   },
   {
    "slug": "offshore-energy",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-04T13:15:00+00:00"
+   "newest": "2026-09-11T10:36:51+00:00"
   }
  ]
 }
