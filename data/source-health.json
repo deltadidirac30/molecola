@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-10T23:06:07+00:00",
+ "checked": "2026-09-11T04:30:03+00:00",
  "productive": 12,
  "total": 16,
  "sources": [
@@ -41,7 +41,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-09-09T08:21:30+00:00"
+   "newest": "2026-09-09T22:26:22+00:00"
   },
   {
    "slug": "canale-energia",

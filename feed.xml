@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 10 Sep 2026 23:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:29:44 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Siltrax Launches Commercialization Initiative in the Americas for Silicon-Based Hydrogen Technology</title>
@@ -167,6 +167,14 @@
       <pubDate>Thu, 10 Sep 2026 03:06:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Subaru Corporation filed a patent describing a passive crash-safety packaging that separates hydrogen tank and drive unit movement to enhance tank integrity under collision for future hydrogen fuel-cell vehicles. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>A multi-model framework for identifying affordable low-carbon electricity pathways for India under uncertainty</title>
+      <link>https://arxiv.org/abs/2607.10581v2</link>
+      <guid isPermaLink="false">molecola-be5d83bfa775dd27</guid>
+      <pubDate>Wed, 09 Sep 2026 22:26:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>To meet climate goals, countries must decarbonize their electricity systems. Yet, uncertainty in future technology costs, electricity demand, and renewable energy generation complicates power system planning and makes… — arXiv</description>
     </item>
     <item>
       <title>First Bus Expands UK-First Energy Trial Across Major Glasgow Depot</title>
@@ -423,14 +431,6 @@
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of the American Chemical Society — OpenAlex</description>
-    </item>
-    <item>
-      <title>Mechanisms of hydrogen embrittlement, mitigation strategies, and emerging materials for hydrogen energy and advanced manufacturing</title>
-      <link>https://doi.org/10.3389/fchem.2026.1957974</link>
-      <guid isPermaLink="false">molecola-2440d19588eaa630</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Frontiers in Chemistry — OpenAlex</description>
     </item>
     <item>
       <title>Why Making Lighter and Better Batteries Takes Time</title>

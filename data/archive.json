@@ -1,5 +1,5 @@
 {
- "count": 714,
+ "count": 715,
  "items": [
   {
    "authors": [],
@@ -300,6 +300,28 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Hydrogen Vehicles: Subaru Files Crash-Safety Patent to Protect Tank and Drive Unit"
+  },
+  {
+   "authors": [
+    "Guillermo Terrén-Serrano",
+    "Ranjit Deshmukh",
+    "Srihari Dukkipati",
+    "Measrainsey Meng",
+    "Shradhey Prasad",
+    "Ana Mileva"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-09T22:26:22+00:00",
+   "excerpt": "To meet climate goals, countries must decarbonize their electricity systems. Yet, uncertainty in future technology costs, electricity demand, and renewable energy generation complicates power system planning and makes…",
+   "first_seen": "2026-09-11T04:30:03+00:00",
+   "id": "be5d83bfa775dd27",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2607.10581v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A multi-model framework for identifying affordable low-carbon electricity pathways for India under uncertainty"
   },
   {
    "authors": [],
@@ -12396,6 +12418,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-10T23:06:07+00:00",
+ "updated": "2026-09-11T04:30:03+00:00",
  "version": 2
 }
