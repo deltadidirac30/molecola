@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-12T15:27:44+00:00",
- "productive": 11,
+ "checked": "2026-09-12T22:59:40+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Unknown Error",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -42,14 +50,6 @@
    "error": null,
    "count": 0,
    "newest": null
-  },
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-09-09T22:26:22+00:00"
   },
   {
    "slug": "energy-storage-news",
