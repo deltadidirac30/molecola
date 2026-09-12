@@ -1,6 +1,96 @@
 {
- "count": 761,
+ "count": 767,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-12T07:17:42+00:00",
+   "excerpt": "RINA has launched a new subsidiary in Morocco to support green hydrogen production, hydrogen infrastructure, port logistics and industrial decarbonization, aligning with Morocco’s 52% renewables target and RINA’s…",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "84b99ea84ad71658",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/rina-morocco-launches-to-drive-green-hydrogen-production-and-hydrogen-infrastruc/8576648/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-12T07:17:13+00:00",
+   "excerpt": "Audit by GIZ and LBST finds Morocco’s green ammonia design can meet EU RFNBO standards but flags metering, data and regulatory gaps.",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "27ea05860e2891e3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-milestone-moroccan-ammonia-project-aligns-with-eu-rfnb/8576647/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Milestone: Moroccan Ammonia Project Aligns with EU RFNBO Standards"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-12T07:09:14+00:00",
+   "excerpt": "HyCentA Research GmbH is investing €6.6 million to build a new liquid hydrogen lab in Enns, focusing on cryogenic technologies and supported by BMIMI, FFG and TEST-FUCHS, with operations slated for early 2027.",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "672b7818b73f3ba7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-hycenta-unveils-6-6m-liquid-hydrogen-lab-in-enns/8576646/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure: HyCentA Unveils €6.6M Liquid Hydrogen Lab in Enns"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-12T07:07:35+00:00",
+   "excerpt": "Uniper’s Phase 1 open season completion for the Wilhelmshaven ammonia-to-hydrogen terminal secures market support for a 2.6 Mt/y ammonia import hub, paving the way for 350 kt/y hydrogen.",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "5dbeda6fe374c7f0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-uniper-secures-phase-1-commitments-for-wilhelmshaven-amm/8576644/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure: Uniper Secures Phase 1 Commitments for Wilhelmshaven Ammonia-to-Hydrogen Terminal"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T18:18:14+00:00",
+   "excerpt": "Yanmar Power Solutions’ GH-FC Series maritime hydrogen fuel cell system has received DNV Type Approval, paving the way for scalable zero-emission shipping.",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "86a493950a55d7fc",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-yanmar-s-gh-fc-series-earns-dnv-type-approval/8576642/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Yanmar’s GH-FC Series earns DNV Type Approval"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T18:16:26+00:00",
+   "excerpt": "Alfa Laval has been selected to supply 60 heat exchangers for Moeve’s 300 MW Onuba H2 green hydrogen plant, marking a key step in building Spain’s largest green hydrogen infrastructure project.",
+   "first_seen": "2026-09-12T10:38:56+00:00",
+   "id": "caf2acae9fdad71b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-alfa-laval-to-supply-60-heat-exchangers-for-moeve-s-onuba-h2/8576641/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Alfa Laval to Supply 60 Heat Exchangers for Moeve’s Onuba H2 Plant"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -13239,6 +13329,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-12T04:26:52+00:00",
+ "updated": "2026-09-12T10:38:56+00:00",
  "version": 2
 }

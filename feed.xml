@@ -6,8 +6,56 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 12 Sep 2026 04:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:38:38 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>RINA Morocco Launches to Drive Green Hydrogen Production and Hydrogen Infrastructure in North Africa</title>
+      <link>http://www.hydrogenfuelnews.com/rina-morocco-launches-to-drive-green-hydrogen-production-and-hydrogen-infrastruc/8576648/</link>
+      <guid isPermaLink="false">molecola-84b99ea84ad71658</guid>
+      <pubDate>Sat, 12 Sep 2026 07:17:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>RINA has launched a new subsidiary in Morocco to support green hydrogen production, hydrogen infrastructure, port logistics and industrial decarbonization, aligning with Morocco’s 52% renewables target and RINA’s… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production Milestone: Moroccan Ammonia Project Aligns with EU RFNBO Standards</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-milestone-moroccan-ammonia-project-aligns-with-eu-rfnb/8576647/</link>
+      <guid isPermaLink="false">molecola-27ea05860e2891e3</guid>
+      <pubDate>Sat, 12 Sep 2026 07:17:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Audit by GIZ and LBST finds Morocco’s green ammonia design can meet EU RFNBO standards but flags metering, data and regulatory gaps. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure: HyCentA Unveils €6.6M Liquid Hydrogen Lab in Enns</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-hycenta-unveils-6-6m-liquid-hydrogen-lab-in-enns/8576646/</link>
+      <guid isPermaLink="false">molecola-672b7818b73f3ba7</guid>
+      <pubDate>Sat, 12 Sep 2026 07:09:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>HyCentA Research GmbH is investing €6.6 million to build a new liquid hydrogen lab in Enns, focusing on cryogenic technologies and supported by BMIMI, FFG and TEST-FUCHS, with operations slated for early 2027. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure: Uniper Secures Phase 1 Commitments for Wilhelmshaven Ammonia-to-Hydrogen Terminal</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-uniper-secures-phase-1-commitments-for-wilhelmshaven-amm/8576644/</link>
+      <guid isPermaLink="false">molecola-5dbeda6fe374c7f0</guid>
+      <pubDate>Sat, 12 Sep 2026 07:07:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Uniper’s Phase 1 open season completion for the Wilhelmshaven ammonia-to-hydrogen terminal secures market support for a 2.6 Mt/y ammonia import hub, paving the way for 350 kt/y hydrogen. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Yanmar’s GH-FC Series earns DNV Type Approval</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-yanmar-s-gh-fc-series-earns-dnv-type-approval/8576642/</link>
+      <guid isPermaLink="false">molecola-86a493950a55d7fc</guid>
+      <pubDate>Fri, 11 Sep 2026 18:18:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Yanmar Power Solutions’ GH-FC Series maritime hydrogen fuel cell system has received DNV Type Approval, paving the way for scalable zero-emission shipping. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Alfa Laval to Supply 60 Heat Exchangers for Moeve’s Onuba H2 Plant</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-alfa-laval-to-supply-60-heat-exchangers-for-moeve-s-onuba-h2/8576641/</link>
+      <guid isPermaLink="false">molecola-caf2acae9fdad71b</guid>
+      <pubDate>Fri, 11 Sep 2026 18:16:26 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Alfa Laval has been selected to supply 60 heat exchangers for Moeve’s 300 MW Onuba H2 green hydrogen plant, marking a key step in building Spain’s largest green hydrogen infrastructure project. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Covestro, Fertiglobe and MB Energy Sign MoU to Explore Ammonia Supply Chain</title>
       <link>https://fuelcellsworks.com/2026/09/11/h2/covestro-fertiglobe-and-mb-energy-sign-mou-to-explore-ammonia-supply-chain</link>
@@ -329,30 +377,6 @@
       <description>Ambienta rafforza No Dig Alliance in Svezia con l’acquisizione di Horisonterra Ambienta SGR S.p.A. (“Ambienta”), asset manager europeo focalizzato sulla sostenibilità ambientale, ha annunciato l’acquisizione della… — Canale Energia</description>
     </item>
     <item>
-      <title>Innovation Boost for the Hydrogen Economy: Real-Time Diagnostics for Electrolyzers and Fuel Cells in Operation</title>
-      <link>https://fuelcellsworks.com/2026/09/10/h2/innovation-boost-for-the-hydrogen-economy-real-time-diagnostics-for-electrolyzers-and-fuel-cells-in-operation</link>
-      <guid isPermaLink="false">molecola-577a0fe473d3bec2</guid>
-      <pubDate>Thu, 10 Sep 2026 13:47:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Innovation Boost for the Hydrogen Economy: Real-Time Diagnostics for Electrolyzers and Fuel Cells in Operation — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Environmental and EJ Groups Challenge Green Hydrogen Infrastructure Plan at LA’s Scattergood Plant</title>
-      <link>http://www.hydrogenfuelnews.com/environmental-and-ej-groups-challenge-green-hydrogen-infrastructure-plan-at-la-s/8576631/</link>
-      <guid isPermaLink="false">molecola-43bba1a6626792f9</guid>
-      <pubDate>Thu, 10 Sep 2026 03:07:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Environmental and justice groups sue Los Angeles over CEQA review of Scattergood’s $800 million hydrogen-ready retrofit, citing health, NOx and water risks. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Vehicles: Subaru Files Crash-Safety Patent to Protect Tank and Drive Unit</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-vehicles-subaru-files-crash-safety-patent-to-protect-tank-and-drive-uni/8576630/</link>
-      <guid isPermaLink="false">molecola-3c6ed07b8b3d1160</guid>
-      <pubDate>Thu, 10 Sep 2026 03:06:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Subaru Corporation filed a patent describing a passive crash-safety packaging that separates hydrogen tank and drive unit movement to enhance tank integrity under collision for future hydrogen fuel-cell vehicles. — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>Ultralong-life dendrite-free zinc anode via InF3/SnF2 co-modification</title>
       <link>https://doi.org/10.1016/j.est.2026.124497</link>
       <guid isPermaLink="false">molecola-052d865fb72af8e9</guid>
@@ -423,30 +447,6 @@
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Materials Circular Economy — OpenAlex</description>
-    </item>
-    <item>
-      <title>First Bus Expands UK-First Energy Trial Across Major Glasgow Depot</title>
-      <link>https://fuelcellsworks.com/2026/09/08/electric/first-bus-expands-uk-first-energy-trial-across-major-glasgow-depot</link>
-      <guid isPermaLink="false">molecola-b17be0ef7a1fbc11</guid>
-      <pubDate>Wed, 09 Sep 2026 16:23:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>First Bus Expands UK-First Energy Trial Across Major Glasgow Depot — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>New Software: Bringing RivianOS 2 to the R1 Lineup</title>
-      <link>https://fuelcellsworks.com/2026/09/08/electric/new-software-bringing-rivianos-2-to-the-r1-lineup</link>
-      <guid isPermaLink="false">molecola-375ccf52e1ddf0da</guid>
-      <pubDate>Wed, 09 Sep 2026 16:23:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>New Software: Bringing RivianOS 2 to the R1 Lineup — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>New Dacia Spring: 100 % Electric, 100 % Dacia</title>
-      <link>https://fuelcellsworks.com/2026/09/08/electric/new-dacia-spring-100-percent-electric-100-percent-dacia</link>
-      <guid isPermaLink="false">molecola-1c500f89d63abb4e</guid>
-      <pubDate>Wed, 09 Sep 2026 16:22:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>New Dacia Spring: 100 % Electric, 100 % Dacia — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
