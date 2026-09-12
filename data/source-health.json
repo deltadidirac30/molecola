@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-12T10:38:56+00:00",
- "productive": 10,
+ "checked": "2026-09-12T15:27:44+00:00",
+ "productive": 11,
  "total": 16,
  "sources": [
   {
@@ -24,14 +24,6 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "count": 0,
    "newest": null
   },
@@ -114,6 +106,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-04-24T11:09:07+00:00"
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": true,
+   "error": null,
+   "count": 39,
+   "newest": "2026-09-11T00:00:00+00:00"
   },
   {
    "slug": "power",
