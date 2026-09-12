@@ -1,5 +1,5 @@
 {
- "count": 767,
+ "count": 768,
  "items": [
   {
    "authors": [],
@@ -180,6 +180,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "HVR Energy Secures €20 Million to Accelerate the Rollout of Its Hydrogen Refuelling Network in Spain"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-11T15:44:20+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-12T20:29:43+00:00",
+   "id": "18be7f7b88c320be",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/11/battery/alstom-and-transpennine-express-sign-1-2-billion-contracts-for-britain-s-first-mainline-battery-electric-trains",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Alstom and TransPennine Express Sign €1.2 Billion Contracts for Britain’s First Mainline Battery-Electric Trains"
   },
   {
    "authors": [],
@@ -13329,6 +13344,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-12T15:27:44+00:00",
+ "updated": "2026-09-12T20:29:43+00:00",
  "version": 2
 }
