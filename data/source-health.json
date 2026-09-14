@@ -1,16 +1,8 @@
 {
- "checked": "2026-09-14T13:02:48+00:00",
- "productive": 10,
+ "checked": "2026-09-14T19:49:37+00:00",
+ "productive": 11,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -52,12 +44,20 @@
    "newest": null
   },
   {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-09-09T22:26:22+00:00"
+  },
+  {
    "slug": "energy-storage-news",
    "name": "Energy Storage News",
    "ok": true,
    "error": null,
    "count": 2,
-   "newest": "2026-07-08"
+   "newest": "2026-07-08T08:01:42+00:00"
   },
   {
    "slug": "fchea",
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-08-31"
+   "newest": "2026-08-31T14:20:38+00:00"
   },
   {
    "slug": "fuel-cells-works",
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-11"
+   "newest": "2026-09-14T19:41:18+00:00"
   },
   {
    "slug": "h2it",
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-08-05"
+   "newest": "2026-08-05T07:30:21+00:00"
   },
   {
    "slug": "hydrogen-europe",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-14"
+   "newest": "2026-09-14T12:47:10+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-13"
+   "newest": "2026-09-13T09:26:52+00:00"
   },
   {
    "slug": "offshore-energy",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-04-24"
+   "newest": "2026-04-24T11:09:07+00:00"
   },
   {
    "slug": "openalex",
@@ -113,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 39,
-   "newest": "2026-09-14"
+   "newest": "2026-09-14T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -121,7 +121,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-01"
+   "newest": "2026-09-01T11:05:38+00:00"
   },
   {
    "slug": "pv-magazine",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-11"
+   "newest": "2026-09-11T10:36:51+00:00"
   }
  ]
 }
