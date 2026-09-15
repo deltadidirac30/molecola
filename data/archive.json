@@ -1,6 +1,21 @@
 {
- "count": 857,
+ "count": 859,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-15T13:13:52+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-15T16:52:13+00:00",
+   "id": "e1b652f95aa96520",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/industry-leaders-scale-full-value-chain-for-hydrogen-mobility-across-europe/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Industry leaders scale full value chain for hydrogen mobility across Europe"
+  },
   {
    "authors": [],
    "category": "politica",
@@ -60,6 +75,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Toyota Announces Hydrogen Hilux for 2028 in European Launch"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-14T18:55:33+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-15T16:52:13+00:00",
+   "id": "234f602d7d6ffc4d",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/13/electric/joby-launches-eipp-flights-in-texas",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Joby Launches eIPP Flights in Texas"
   },
   {
    "authors": [],
@@ -15017,6 +15047,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-15T11:37:36+00:00",
+ "updated": "2026-09-15T16:52:13+00:00",
  "version": 2
 }

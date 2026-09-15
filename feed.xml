@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:51:26 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Industry leaders scale full value chain for hydrogen mobility across Europe</title>
+      <link>https://hydrogeneurope.eu/industry-leaders-scale-full-value-chain-for-hydrogen-mobility-across-europe/</link>
+      <guid isPermaLink="false">molecola-e1b652f95aa96520</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:52 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Industry leaders scale full value chain for hydrogen mobility across Europe — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Stargate Hydrogen secures 21 million Euros from the EU Innovation Fund to further scale up its operations</title>
       <link>https://hydrogeneurope.eu/stargate-hydrogen-secures-21-million-euros-from-the-eu-innovation-fund-to-further-scale-up-its-operations/</link>
@@ -39,6 +47,14 @@
       <pubDate>Mon, 14 Sep 2026 19:26:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Toyota Announces Hydrogen Hilux for 2028 in European Launch — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Joby Launches eIPP Flights in Texas</title>
+      <link>https://fuelcellsworks.com/2026/09/13/electric/joby-launches-eipp-flights-in-texas</link>
+      <guid isPermaLink="false">molecola-234f602d7d6ffc4d</guid>
+      <pubDate>Mon, 14 Sep 2026 18:55:33 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Joby Launches eIPP Flights in Texas — Fuel Cells Works</description>
     </item>
     <item>
       <title>Premiere in Romania: Delgaz Grid Validates Mixtures with up to 30% Hydrogen in Existing Gas Installations</title>
@@ -431,22 +447,6 @@
       <pubDate>Fri, 11 Sep 2026 15:37:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hydrogen-Powered Sauna Boat Offers New Way to Unwind — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>The World Is Taking Notice: TIME Recognition Fuels VinFast's Global Journey</title>
-      <link>https://fuelcellsworks.com/2026/09/11/news/the-world-is-taking-notice-time-recognition-fuels-vinfast-s-global-journey</link>
-      <guid isPermaLink="false">molecola-bc19fb58020a3aa6</guid>
-      <pubDate>Fri, 11 Sep 2026 15:37:14 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>The World Is Taking Notice: TIME Recognition Fuels VinFast's Global Journey — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Mitsubishi Kakoki Wins Kawasaki Order for 18-Tonne-a-Day Hydrogen Plant</title>
-      <link>https://fuelcellsworks.com/2026/09/10/h2/mitsubishi-kakoki-wins-kawasaki-order-for-18-tonne-a-day-hydrogen-plant</link>
-      <guid isPermaLink="false">molecola-88f2e53e9ef7fd2b</guid>
-      <pubDate>Fri, 11 Sep 2026 15:13:11 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Mitsubishi Kakoki Wins Kawasaki Order for 18-Tonne-a-Day Hydrogen Plant — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
