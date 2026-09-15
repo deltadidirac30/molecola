@@ -1,6 +1,36 @@
 {
- "count": 832,
+ "count": 857,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-15T10:38:06+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "e2dd621e8f5e78bf",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/stargate-hydrogen-secures-21-million-euros-from-the-eu-innovation-fund-to-further-scale-up-its-operations/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Stargate Hydrogen secures 21 million Euros from the EU Innovation Fund to further scale up its operations"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T00:08:44+00:00",
+   "excerpt": "At IAA Transportation in Hanover, Dongfeng revealed three hydrogen vehicles on its new T1 platform alongside a 400kW hydrogen fuel cell, underscoring its bid to drive zero-emission heavy transport forward.",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "45b795075e8f0459",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/dongfeng-debuts-400kw-hydrogen-fuel-cell-and-new-hydrogen-vehicles-at-iaa-transp/8576663/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Dongfeng Debuts 400kW Hydrogen Fuel Cell and New Hydrogen Vehicles at IAA Transportation"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -227,6 +257,66 @@
    "title": "Air Products Advances Zero Emission Hydrogen Logistics in the Port of Rotterdam"
   },
   {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-14T11:14:26+00:00",
+   "excerpt": "H2EU+Store brings together RAG Austria AG, Eco-Optima and key TSOs to produce RFNBO-compliant hydrogen in Western Ukraine, ship it through Ukraine, Slovakia and Austria, and store it in underground reservoirs…",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "280182427018ac76",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-transport-and-storage-link-ukraine-to-central-europe/8576661/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production, Transport and Storage Link Ukraine to Central Europe"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-14T11:12:48+00:00",
+   "excerpt": "Miesto gijos has finished building a €10 million, 3 MW green hydrogen plant at Vilnius CHP-​2, backed by EU and municipal funds, to power 16 buses and boost local hydrogen infrastructure.",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "afe6b7142007e004",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-takes-off-in-vilnius-10m-plant-paves-way-for-local-hyd/8576660/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Takes Off in Vilnius: €10M Plant Paves Way for Local Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-14T11:12:13+00:00",
+   "excerpt": "Toyota and Scania have teamed up to pilot Toyota’s third-generation hydrogen fuel cell system in 40 Scania heavy-duty trucks across Europe, aiming to gather real-world data on performance, efficiency and total cost of…",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "6ac1b6805db6f02b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-toyota-and-scania-pilot-heavy-duty-trucks-in-europe/8576659/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell News: Toyota and Scania Pilot Heavy-Duty Trucks in Europe"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-14T10:56:37+00:00",
+   "excerpt": "Siltrax, a hydrogen technology company specializing in PEM fuel cells and electrolyzers powered by its proprietary silicon bipolar plate technology, today launched its commercialization initiative in the Americas and…",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "7e31bb02fe8aa005",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/siltrax-launches-commercialization-initiative-in-the-americas-for-silicon-based-/8576658/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Siltrax Launches Commercialization Initiative in the Americas for Silicon-Based Hydrogen Technology"
+  },
+  {
    "authors": [
     "Hui Chen",
     "Lukang Han",
@@ -247,6 +337,238 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Polyhydroxy Molecular Regulator Enabled Interfacial Microenvironment Programming for Alkaline Zinc–Iron Flow Batteries"
+  },
+  {
+   "authors": [
+    "Hao-Yi Xu",
+    "Hai-Jun Hou",
+    "Hong-Li Guo",
+    "Shunru Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Journal of Molecular Modeling",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "b2eed936cb05eb7b",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s00894-026-06955-6",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles study on the structure, hydrogen storage, and physical properties of perovskite hydrides X2YH6 (X = Mg, Ca, Sr, Ba) for hydrogen storage applications"
+  },
+  {
+   "authors": [
+    "Pavani Thallapally",
+    "Debasmita Panda"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "4c9e765010e3d821",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157422",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A coordinative flexibility trading of hydrogen storage system aggregators with energy aggregators and grid: Blockchain-enabled decentralized decision making framework"
+  },
+  {
+   "authors": [
+    "Yingying Zhou",
+    "Yumeng Wei",
+    "Jingyi Huo",
+    "Lijuan Xu",
+    "Meng Li",
+    "Soottawat Benjakul"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "0c7bf529ecc8bd15",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15183246",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Application of Gelatin/Chitosan Films Loaded with Seaweed Extract of Ready-to-Eat Sea Cucumbers Preservation During Ambient-Temperature Storage"
+  },
+  {
+   "authors": [
+    "Dinesh Patel",
+    "Srishti Kamboj",
+    "Yimei Chen",
+    "Krishna M. Gupta",
+    "Ashwini Kumar Sharma",
+    "Xiaolei Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "5bb790a087c9269f",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.75750",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Chelation‐Driven Effect on Electrolyte Modulation Toward Highly Reversible Zinc Metal Anode"
+  },
+  {
+   "authors": [
+    "Mahbub Chowdhury",
+    "Lei Yang",
+    "Keren Shi",
+    "Brandon Wagner",
+    "Emmanuel Vidales Pasos",
+    "Lorenzo Mangolini"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Nano Letters",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "6882070d341eed9a",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.nanolett.6c02359",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Imaging Nanoscale Kirkendall Effect on Oxidation Kinetics of Mg and MgH2 Particles by in Situ TEM"
+  },
+  {
+   "authors": [
+    "Hakan Tutumlu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Black Sea Journal of Engineering and Science",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "ed427d617a40918d",
+   "lang": "en",
+   "link": "https://doi.org/10.34248/bsengineering.1966511",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integration of Photocatalytic Hydrogen Production with a Pem Fuel Cell-Based Off-Grid Cold Storage System: Thermodynamic, Dynamic Solar, and Environmental Performance Analysis across Three Technology Readiness Scenarios"
+  },
+  {
+   "authors": [
+    "Mahmoud A.S. Sakr",
+    "Ghadah M. Al‐Senani",
+    "Mohamed A. Saad",
+    "Salhah D. Al-Qahtani",
+    "Omar H. Abd-Elkader",
+    "Hazem Abdelsalam"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "84166385eb43070d",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124570",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen-passivated amorphous carbon nanosheets as high-capacity reversible hydrogen storage media: Density functional theory study"
+  },
+  {
+   "authors": [
+    "Hanxiao Bian",
+    "Yaorong He",
+    "Hao Zhang",
+    "Zhenchao Liu",
+    "Kaifang Ren",
+    "Qingchun Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "Molecular Catalysis",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "6c9e92b2f9efe252",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.mcat.2026.116336",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Constructing electron-rich Pt single-atom sites via trace Rh doping for efficient hydrogen storage through toluene hydrogenation"
+  },
+  {
+   "authors": [
+    "Yingling Liang",
+    "Haizhi He",
+    "Huanzhi Zhang",
+    "Fen Xu",
+    "Lixian Sun",
+    "Xiaodong Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-14T00:00:00+00:00",
+   "excerpt": "ACS Applied Polymer Materials",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "32c396580776d6d4",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsapm.6c01127",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Structure–Functionality-Integrated Composite Phase Change Materials with Reversible Thermochromism and Enhanced Mechanical Stability"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-13T22:28:14+00:00",
+   "excerpt": "UCL chemists develop an LED-driven, room-temperature route to atomic hydrogen for metal-free hydrogenation and hydrodehalogenation without H₂ gas.",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "7455b5a41ca62c4d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-methods-adapted-for-fine-synthesis-led-driven-atomic-hydroge/8576657/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production Methods Adapted for Fine Synthesis: LED-Driven Atomic Hydrogen Generation at UCL"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-13T22:15:16+00:00",
+   "excerpt": "STL has shifted four optical fibre plants in Aurangabad to 100% wind and solar power via MSEDCL and uses green hydrogen in glass preforms, cutting emissions up to 80% and advancing its net-zero goals.",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "8fd8f546c607c159",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-stl-shifts-optical-fibre-plants-to-100-renewable-power-and-g/8576656/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "STL Shifts Optical Fibre Plants to 100% Renewable Power and Green Hydrogen"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-13T22:11:39+00:00",
+   "excerpt": "PNT Co., Ltd. is showcasing roll-to-roll fuel cell manufacturing equipment at Japan’s H2 & FC Expo, leveraging its battery expertise to support hydrogen infrastructure and clean-energy goals across Asia.",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "d51f472c3cd828b7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-pnt-co-launches-roll-to-roll-equipment-project-to-boost-/8576655/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen fuel cell news: PNT Co. launches roll-to-roll equipment project to boost clean-energy manufacturing"
   },
   {
    "authors": [],
@@ -387,6 +709,72 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Liquid Hydrogen Aviation: Why the Fuel of the Future Requires the Aircraft of the Future"
+  },
+  {
+   "authors": [
+    "M. Agouri",
+    "H. Ouhenou",
+    "H. Fatihi",
+    "A. Abbassi",
+    "Y. Sadiki",
+    "M. El Idrissi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-13T00:00:00+00:00",
+   "excerpt": "Chemical Physics",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "ca828fbc7ce69f31",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.chemphys.2026.113500",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Strain-engineered hydrogen transport in NaBeH3 hydride perovskite: A first-principles study for solid-state hydrogen storage"
+  },
+  {
+   "authors": [
+    "Liang Tong",
+    "Yisong Liu",
+    "Linzhi Xu",
+    "Yupeng Yuan",
+    "Chengqing Yuan",
+    "Tianqi Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-13T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "4db08e0273bfb99e",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19184329",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Energy Management Strategies for Forklifts Using Metal-Hydride Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Kan Zhao",
+    "Lin Li",
+    "Bo Wang",
+    "He Cao",
+    "Xiaohan Shi",
+    "Shixue Dou"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-13T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "ecb96d53d86c9d76",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.78252",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Highly Stable Composite Solid Electrolytes Based on Caffeic Acid Molecular Bridges for Long Lifespan Lithium Metal Batteries"
   },
   {
    "authors": [],
@@ -745,6 +1133,70 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Identifying and analyzing technological ideas in hydrogen fuel cells using topic models and large language models"
+  },
+  {
+   "authors": [
+    "Eman H. El-Naeb",
+    "Mahmoud S. Adam",
+    "Awatief F. Hifney",
+    "Mohamed Gomaa"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-12T00:00:00+00:00",
+   "excerpt": "Algal Research",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "4bdd81aa587b0e7a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.algal.2026.104963",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable biorefinery of orange peel waste for microalgal exopolysaccharide production and development of functional composite edible films for postharvest preservation of fig fruits"
+  },
+  {
+   "authors": [
+    "Jia Wei",
+    "Ziyan He",
+    "Jingtao Ruan",
+    "Junjie Ou",
+    "Wen Zhang",
+    "Bin Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-12T00:00:00+00:00",
+   "excerpt": "Gels",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "eaa8975cc24f9d79",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/gels12090837",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Cellulose Ionogels: Unraveling Structure–Property Relationships Through Multiscale In-Situ Characterization and Theoretical Modeling"
+  },
+  {
+   "authors": [
+    "Qian He",
+    "Fei Wang",
+    "Tianpei Luo",
+    "Gang An",
+    "Naihua Wang",
+    "Xuefang Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-12T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "1f6af6bdd432c389",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19184319",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal Scheduling of an Off-Grid Wind–Photovoltaic Liquid Hydrogen Production System with Fixed Daily Output"
   },
   {
    "authors": [],
@@ -1631,6 +2083,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "A High‐Voltage Mild Alkaline Zinc‐Iodine Battery Enabled by Tailored Redox Couples"
+  },
+  {
+   "authors": [
+    "Lin Zhu",
+    "Fei Wang",
+    "Hao Zhou",
+    "Jiale Ding",
+    "Zhaoyi Xie",
+    "Kan Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-11T00:00:00+00:00",
+   "excerpt": "Diamond and Related Materials",
+   "first_seen": "2026-09-15T11:37:36+00:00",
+   "id": "438de9d07fb2bb1f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.diamond.2026.114168",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Accomplishing dendrite-free anode for aqueous zinc ion batteries by interfacial modification of zinc anode with CeO2/biomass carbon composites"
   },
   {
    "authors": [],
@@ -14543,6 +15017,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-15T04:46:14+00:00",
+ "updated": "2026-09-15T11:37:36+00:00",
  "version": 2
 }
