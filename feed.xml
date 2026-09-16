@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:46:02 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>H2APEX and Lhyfe Expand Partnership to Support Germany’s Growing Hydrogen Market</title>
+      <link>https://hydrogeneurope.eu/h2apex-and-lhyfe-expand-partnership-to-support-germanys-growing-hydrogen-market/</link>
+      <guid isPermaLink="false">molecola-46cc4fb8cbab4e61</guid>
+      <pubDate>Wed, 16 Sep 2026 15:03:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>H2APEX and Lhyfe Expand Partnership to Support Germany’s Growing Hydrogen Market — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant</title>
       <link>https://fuelcellsworks.com/2026/09/15/electric/ford-reportedly-eyeing-affordable-ev-production-at-its-idle-chennai-plant</link>
@@ -439,14 +447,6 @@
       <pubDate>Sun, 13 Sep 2026 22:15:16 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>STL has shifted four optical fibre plants in Aurangabad to 100% wind and solar power via MSEDCL and uses green hydrogen in glass preforms, cutting emissions up to 80% and advancing its net-zero goals. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen fuel cell news: PNT Co. launches roll-to-roll equipment project to boost clean-energy manufacturing</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-pnt-co-launches-roll-to-roll-equipment-project-to-boost-/8576655/</link>
-      <guid isPermaLink="false">molecola-d51f472c3cd828b7</guid>
-      <pubDate>Sun, 13 Sep 2026 22:11:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>PNT Co., Ltd. is showcasing roll-to-roll fuel cell manufacturing equipment at Japan’s H2 &amp; FC Expo, leveraging its battery expertise to support hydrogen infrastructure and clean-energy goals across Asia. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

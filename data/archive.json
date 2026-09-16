@@ -1,6 +1,21 @@
 {
- "count": 880,
+ "count": 881,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-16T15:03:58+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-16T16:46:21+00:00",
+   "id": "46cc4fb8cbab4e61",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/h2apex-and-lhyfe-expand-partnership-to-support-germanys-growing-hydrogen-market/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "H2APEX and Lhyfe Expand Partnership to Support Germany’s Growing Hydrogen Market"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -15373,6 +15388,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-16T11:24:30+00:00",
+ "updated": "2026-09-16T16:46:21+00:00",
  "version": 2
 }
