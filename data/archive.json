@@ -1,5 +1,5 @@
 {
- "count": 876,
+ "count": 877,
  "items": [
   {
    "authors": [],
@@ -75,6 +75,25 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Vulcan Secures Second Lithium Production Licence for Lionheart Project"
+  },
+  {
+   "authors": [
+    "Joshua Edzards",
+    "Holger-Dietrich Sassnick",
+    "Caterina Cocchi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-15T15:44:57+00:00",
+   "excerpt": "In the search for promising material candidates for hydrogen storage, we investigate from first principles derivatives of metal organic framework 5 (MOF-5), including isoelectronic substitution of the metal centers (Zn…",
+   "first_seen": "2026-09-16T04:42:40+00:00",
+   "id": "cb58e852b133dc2a",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2608.16531v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation"
   },
   {
    "authors": [],
@@ -15309,6 +15328,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-15T21:15:48+00:00",
+ "updated": "2026-09-16T04:42:40+00:00",
  "version": 2
 }

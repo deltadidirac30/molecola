@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 15 Sep 2026 21:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:42:22 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Walmart Chile Shows How Green Hydrogen Is Already Being Used in Warehouses and Freight</title>
@@ -47,6 +47,14 @@
       <pubDate>Tue, 15 Sep 2026 16:01:29 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Vulcan Secures Second Lithium Production Licence for Lionheart Project — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation</title>
+      <link>https://arxiv.org/abs/2608.16531v2</link>
+      <guid isPermaLink="false">molecola-cb58e852b133dc2a</guid>
+      <pubDate>Tue, 15 Sep 2026 15:44:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>In the search for promising material candidates for hydrogen storage, we investigate from first principles derivatives of metal organic framework 5 (MOF-5), including isoelectronic substitution of the metal centers (Zn… — arXiv</description>
     </item>
     <item>
       <title>Hyroad Energy Now Fueling and Servicing IMC Logistics' Hydrogen Fleet in Fontana, California</title>
@@ -391,14 +399,6 @@
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Molecular Catalysis — OpenAlex</description>
-    </item>
-    <item>
-      <title>Structure–Functionality-Integrated Composite Phase Change Materials with Reversible Thermochromism and Enhanced Mechanical Stability</title>
-      <link>https://doi.org/10.1021/acsapm.6c01127</link>
-      <guid isPermaLink="false">molecola-32c396580776d6d4</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Polymer Materials — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen Production Methods Adapted for Fine Synthesis: LED-Driven Atomic Hydrogen Generation at UCL</title>
