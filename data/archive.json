@@ -1,6 +1,21 @@
 {
- "count": 877,
+ "count": 880,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T19:03:14+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-16T11:24:30+00:00",
+   "id": "4f6dca217da9ff4f",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/15/electric/ford-reportedly-eyeing-affordable-ev-production-at-its-idle-chennai-plant",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -49,6 +64,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-15T16:01:56+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-16T11:24:30+00:00",
+   "id": "0942eb0afdc3391d",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/13/electric/renault-niagara-the-comfort-of-an-suv-and-the-robust-strength-of-a-pick-up-designed-for-latin-america",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Renault Niagara: The Comfort of an SUV & the Robust Strength of a Pick-Up Designed for Latin America"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-15T16:01:47+00:00",
    "excerpt": "",
    "first_seen": "2026-09-15T21:15:48+00:00",
@@ -75,6 +105,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Vulcan Secures Second Lithium Production Licence for Lionheart Project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T15:58:16+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-16T11:24:30+00:00",
+   "id": "753970465bc023e3",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/13/electric/sp-energy-networks-drives-fleet-electrification-with-an-innovative-fast-charging-solution-for-electric-vehicles",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "SP Energy Networks Drives Fleet Electrification with an Innovative Fast-Charging Solution for Electric Vehicles"
   },
   {
    "authors": [
@@ -15328,6 +15373,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-16T04:42:40+00:00",
+ "updated": "2026-09-16T11:24:30+00:00",
  "version": 2
 }

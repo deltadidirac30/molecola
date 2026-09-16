@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:24:11 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant</title>
+      <link>https://fuelcellsworks.com/2026/09/15/electric/ford-reportedly-eyeing-affordable-ev-production-at-its-idle-chennai-plant</link>
+      <guid isPermaLink="false">molecola-4f6dca217da9ff4f</guid>
+      <pubDate>Tue, 15 Sep 2026 19:03:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant — Fuel Cells Works</description>
+    </item>
     <item>
       <title>Walmart Chile Shows How Green Hydrogen Is Already Being Used in Warehouses and Freight</title>
       <link>https://fuelcellsworks.com/2026/09/15/fuel-cells/walmart-chile-shows-how-green-hydrogen-is-already-being-used-in-warehouses-and-freight</link>
@@ -33,6 +41,14 @@
       <description>Alstom Tests Hydrogen Combustion Engine in Regional Passenger Railcar at Stendal — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Renault Niagara: The Comfort of an SUV &amp; the Robust Strength of a Pick-Up Designed for Latin America</title>
+      <link>https://fuelcellsworks.com/2026/09/13/electric/renault-niagara-the-comfort-of-an-suv-and-the-robust-strength-of-a-pick-up-designed-for-latin-america</link>
+      <guid isPermaLink="false">molecola-0942eb0afdc3391d</guid>
+      <pubDate>Tue, 15 Sep 2026 16:01:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Renault Niagara: The Comfort of an SUV &amp; the Robust Strength of a Pick-Up Designed for Latin America — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Hypercharge Enters Into Letter of Intent to Acquire REVS Charging LLC</title>
       <link>https://fuelcellsworks.com/2026/09/13/electric/hypercharge-enters-into-letter-of-intent-to-acquire-revs-charging-llc</link>
       <guid isPermaLink="false">molecola-f24370f83a2c0a7b</guid>
@@ -47,6 +63,14 @@
       <pubDate>Tue, 15 Sep 2026 16:01:29 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Vulcan Secures Second Lithium Production Licence for Lionheart Project — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>SP Energy Networks Drives Fleet Electrification with an Innovative Fast-Charging Solution for Electric Vehicles</title>
+      <link>https://fuelcellsworks.com/2026/09/13/electric/sp-energy-networks-drives-fleet-electrification-with-an-innovative-fast-charging-solution-for-electric-vehicles</link>
+      <guid isPermaLink="false">molecola-753970465bc023e3</guid>
+      <pubDate>Tue, 15 Sep 2026 15:58:16 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>SP Energy Networks Drives Fleet Electrification with an Innovative Fast-Charging Solution for Electric Vehicles — Fuel Cells Works</description>
     </item>
     <item>
       <title>Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation</title>
@@ -423,30 +447,6 @@
       <pubDate>Sun, 13 Sep 2026 22:11:39 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>PNT Co., Ltd. is showcasing roll-to-roll fuel cell manufacturing equipment at Japan’s H2 &amp; FC Expo, leveraging its battery expertise to support hydrogen infrastructure and clean-energy goals across Asia. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>High-Entropy Self-Rebuilding Electrode Enhances Green Hydrogen Production in AEM Electrolyzers</title>
-      <link>http://www.hydrogenfuelnews.com/high-entropy-self-rebuilding-electrode-enhances-green-hydrogen-production-in-aem/8576654/</link>
-      <guid isPermaLink="false">molecola-8b7f9a47520086dd</guid>
-      <pubDate>Sun, 13 Sep 2026 09:26:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Researchers have designed a self-rebuilding high-entropy electrode that transforms its surface into an active oxyhydroxide under OER conditions, sustaining high currents in AEM electrolyzers and advancing durable green… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>OQAE and Asyad sign clean hydrogen offtake term sheet for Duqm mobility</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-oqae-and-asyad-sign-clean-hydrogen-offtake-term-sheet-for-du/8576652/</link>
-      <guid isPermaLink="false">molecola-2b701c16b0d132a8</guid>
-      <pubDate>Sun, 13 Sep 2026 09:08:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>OQAE and Asyad signed a term sheet to supply 91,000 kg/year of green hydrogen for 8–10 daily heavy-duty truck refuelings at Duqm. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Liquid-Hydrogen Drone Demonstration Takes Off at Rotterdam The Hague Airport</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-news-liquid-hydrogen-drone-demonstration-takes-off-at-ro/8576651/</link>
-      <guid isPermaLink="false">molecola-26ecf94d3f025e94</guid>
-      <pubDate>Sun, 13 Sep 2026 09:05:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>A joint demonstration by Royal NLR, Rotterdam The Hague Airport and TULIPS flew the HYDRA-II liquid-hydrogen drone at a live airport, validating hydrogen supply, storage and safe handling in real-world operations. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
