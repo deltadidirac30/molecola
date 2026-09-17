@@ -1,6 +1,51 @@
 {
- "count": 949,
+ "count": 957,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-17T16:39:41+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "51892d2f3340e7f9",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/moeve-launches-construction-of-the-first-phase-of-europes-largest-green-hydrogen-project/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Moeve launches construction of the first phase of Europe’s largest green hydrogen project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-17T04:12:23+00:00",
+   "excerpt": "Daimler Truck Holding AG will invest several hundred million euros in hydrogen fuel-cell trucks, launching a 100-unit NextGenH2 series supported by €226 million of public funding and aligned with EU decarbonisation…",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "5db832321ab56168",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/daimler-truck-invests-hundreds-of-millions-in-nextgenh2-hydrogen-fuel-cell-truck/8576685/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Daimler Truck Invests Hundreds of Millions in NextGenH2 Hydrogen Fuel-Cell Trucks"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-17T04:09:43+00:00",
+   "excerpt": "Global committed investment in clean hydrogen projects has reached USD 130 billion across over 570 projects, driven by energy security and decarbonization goals, but a policy execution gap must close to realize full…",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "bd13569c9f3280f4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/clean-hydrogen-news-global-investment-tops-130-billion-as-energy-security-drives/8576683/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Global investment tops $130 billion as energy security drives growth"
+  },
   {
    "authors": [
     "Qian Yu",
@@ -196,6 +241,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-16T15:20:06+00:00",
+   "excerpt": "A collaboration between Southern Federal University, Skoltech, the Boreskov Institute and Bauman Moscow State Technical University has yielded a five-metal high-entropy alloy catalyst that retains 78% activity after…",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "90bf8a04b9e55e57",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-russian-institutes-collaborate-on-ultra-stable-five-meta/8576681/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Russian institutes collaborate on ultra-stable five-metal catalyst"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-16T15:18:45+00:00",
    "excerpt": "",
    "first_seen": "2026-09-16T21:14:10+00:00",
@@ -207,6 +267,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "German Consortium Launches HyWheelTank Project — CFRP Hydrogen Tanks Built Into Wheel Loader Wheels"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T15:13:12+00:00",
+   "excerpt": "Peru’s Ministry of Energy and Mines has proposed a three-year cooperation plan with Japan’s METI and JOGMEC to boost mining investments and pilot green hydrogen and distributed generation projects.",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "2e95117dce68ee59",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-peru-proposes-three-year-mining-and-energy-plan-with-japan/8576679/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: Peru Proposes Three-Year Mining and Energy Plan with Japan"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T15:09:55+00:00",
+   "excerpt": "MIT researchers unveiled an electrochemical reactor combining a ruthenium catalyst, palladium membrane and molten hydroxide cell to crack ammonia into pure hydrogen at 200–300°C without separate purification.",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "74cf820985a9f6f4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/electrochemical-ammonia-cracking-boosts-hydrogen-production-efficiency/8576678/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Electrochemical Ammonia Cracking Boosts Hydrogen Production Efficiency"
   },
   {
    "authors": [],
@@ -347,6 +437,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "KIER Palladium Membrane Enables Ammonia Synthesis Using Water as Proton Source"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T02:20:07+00:00",
+   "excerpt": "voestalpine AG has begun constructing the Hy4Smelt demonstration plant at its Linz site, combining HYFOR hydrogen direct reduction with electric smelting to produce green steel at industrial scale, with first output…",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "7646acc2e13344fa",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-voestalpine-begins-construction-of-hy4smelt-steel-demo-in-linz/8576677/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: voestalpine Begins Construction of Hy4Smelt Steel Demo in Linz"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T02:13:37+00:00",
+   "excerpt": "Air Products and RWE signed a long-term PPA to provide 75 GWh of Dutch wind and solar power for Rotterdam hydrogen production and a new liquid hydrogen liquefier, aligning with EU renewable hydrogen criteria.",
+   "first_seen": "2026-09-17T16:52:59+00:00",
+   "id": "a68a29616632769e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-air-products-secures-renewable-ppa-with-rwe-to-power-rotterd/8576675/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production: Air Products Secures Renewable PPA with RWE to Power Rotterdam Liquefier"
   },
   {
    "authors": [],
@@ -16647,6 +16767,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-17T11:33:27+00:00",
+ "updated": "2026-09-17T16:52:59+00:00",
  "version": 2
 }

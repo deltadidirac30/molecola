@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:52:42 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
+      <link>https://hydrogeneurope.eu/moeve-launches-construction-of-the-first-phase-of-europes-largest-green-hydrogen-project/</link>
+      <guid isPermaLink="false">molecola-51892d2f3340e7f9</guid>
+      <pubDate>Thu, 17 Sep 2026 16:39:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Moeve launches construction of the first phase of Europe’s largest green hydrogen project — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Daimler Truck Invests Hundreds of Millions in NextGenH2 Hydrogen Fuel-Cell Trucks</title>
+      <link>http://www.hydrogenfuelnews.com/daimler-truck-invests-hundreds-of-millions-in-nextgenh2-hydrogen-fuel-cell-truck/8576685/</link>
+      <guid isPermaLink="false">molecola-5db832321ab56168</guid>
+      <pubDate>Thu, 17 Sep 2026 04:12:23 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Daimler Truck Holding AG will invest several hundred million euros in hydrogen fuel-cell trucks, launching a 100-unit NextGenH2 series supported by €226 million of public funding and aligned with EU decarbonisation… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Global investment tops $130 billion as energy security drives growth</title>
+      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-global-investment-tops-130-billion-as-energy-security-drives/8576683/</link>
+      <guid isPermaLink="false">molecola-bd13569c9f3280f4</guid>
+      <pubDate>Thu, 17 Sep 2026 04:09:43 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Global committed investment in clean hydrogen projects has reached USD 130 billion across over 570 projects, driven by energy security and decarbonization goals, but a policy execution gap must close to realize full… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Methanol-controlled structural retention of metal-organic frameworks during binder-free pelletisation for enhanced hydrogen storage</title>
       <link>https://doi.org/10.1016/j.ijhydene.2026.157574</link>
@@ -105,12 +129,36 @@
       <description>Lidl Crowns Electrification with Opening of 6Th Fast-Charging Station — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Russian institutes collaborate on ultra-stable five-metal catalyst</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-russian-institutes-collaborate-on-ultra-stable-five-meta/8576681/</link>
+      <guid isPermaLink="false">molecola-90bf8a04b9e55e57</guid>
+      <pubDate>Wed, 16 Sep 2026 15:20:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A collaboration between Southern Federal University, Skoltech, the Boreskov Institute and Bauman Moscow State Technical University has yielded a five-metal high-entropy alloy catalyst that retains 78% activity after… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>German Consortium Launches HyWheelTank Project — CFRP Hydrogen Tanks Built Into Wheel Loader Wheels</title>
       <link>https://fuelcellsworks.com/2026/09/03/h2/german-consortium-launches-hywheeltank-project-cfrp-hydrogen-tanks-built-into-wheel-loader-wheels</link>
       <guid isPermaLink="false">molecola-1bd698eb2dfff4d8</guid>
       <pubDate>Wed, 16 Sep 2026 15:18:45 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>German Consortium Launches HyWheelTank Project — CFRP Hydrogen Tanks Built Into Wheel Loader Wheels — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: Peru Proposes Three-Year Mining and Energy Plan with Japan</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-peru-proposes-three-year-mining-and-energy-plan-with-japan/8576679/</link>
+      <guid isPermaLink="false">molecola-2e95117dce68ee59</guid>
+      <pubDate>Wed, 16 Sep 2026 15:13:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Peru’s Ministry of Energy and Mines has proposed a three-year cooperation plan with Japan’s METI and JOGMEC to boost mining investments and pilot green hydrogen and distributed generation projects. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Electrochemical Ammonia Cracking Boosts Hydrogen Production Efficiency</title>
+      <link>http://www.hydrogenfuelnews.com/electrochemical-ammonia-cracking-boosts-hydrogen-production-efficiency/8576678/</link>
+      <guid isPermaLink="false">molecola-74cf820985a9f6f4</guid>
+      <pubDate>Wed, 16 Sep 2026 15:09:55 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>MIT researchers unveiled an electrochemical reactor combining a ruthenium catalyst, palladium membrane and molten hydroxide cell to crack ammonia into pure hydrogen at 200–300°C without separate purification. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Hy24 and COFIDES Buy 29% Stake in Moeve’s 300MW Onuba Green Hydrogen Project in Southern Spain</title>
@@ -183,6 +231,22 @@
       <pubDate>Wed, 16 Sep 2026 12:48:26 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>KIER Palladium Membrane Enables Ammonia Synthesis Using Water as Proton Source — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Hydrogen News: voestalpine Begins Construction of Hy4Smelt Steel Demo in Linz</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-voestalpine-begins-construction-of-hy4smelt-steel-demo-in-linz/8576677/</link>
+      <guid isPermaLink="false">molecola-7646acc2e13344fa</guid>
+      <pubDate>Wed, 16 Sep 2026 02:20:07 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>voestalpine AG has begun constructing the Hy4Smelt demonstration plant at its Linz site, combining HYFOR hydrogen direct reduction with electric smelting to produce green steel at industrial scale, with first output… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Production: Air Products Secures Renewable PPA with RWE to Power Rotterdam Liquefier</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-air-products-secures-renewable-ppa-with-rwe-to-power-rotterd/8576675/</link>
+      <guid isPermaLink="false">molecola-a68a29616632769e</guid>
+      <pubDate>Wed, 16 Sep 2026 02:13:37 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Air Products and RWE signed a long-term PPA to provide 75 GWh of Dutch wind and solar power for Rotterdam hydrogen production and a new liquid hydrogen liquefier, aligning with EU renewable hydrogen criteria. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth</title>
@@ -383,70 +447,6 @@
       <pubDate>Tue, 15 Sep 2026 14:44:12 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Stockport Recycling Site Is First in UK to Ditch Diesel for Hydrogen, Solar and Grid Combination — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Liaoyuan Starts Trial Operation of Two Hydrogen Tourism Train Routes in Jilin</title>
-      <link>https://fuelcellsworks.com/2026/09/13/fuel-cells/liaoyuan-starts-trial-operation-of-two-hydrogen-tourism-train-routes-in-jilin</link>
-      <guid isPermaLink="false">molecola-b88e192b5ab5baa3</guid>
-      <pubDate>Tue, 15 Sep 2026 14:26:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Liaoyuan Starts Trial Operation of Two Hydrogen Tourism Train Routes in Jilin — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Foton Brings New Electric and Hydrogen Heavy Trucks to Europe</title>
-      <link>https://fuelcellsworks.com/2026/09/14/news/foton-steps-up-european-push-with-new-electric-and-hydrogen-heavy-trucks</link>
-      <guid isPermaLink="false">molecola-a83157185d49555b</guid>
-      <pubDate>Tue, 15 Sep 2026 14:24:27 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Foton Brings New Electric and Hydrogen Heavy Trucks to Europe — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>NewHydrogen Announces Strategic Collaboration with Utah San Rafael Energy Lab</title>
-      <link>https://fuelcellsworks.com/2026/09/15/h2/newhydrogen-announces-strategic-collaboration-with-utah-san-rafael-energy-lab</link>
-      <guid isPermaLink="false">molecola-1cf3117def6811e1</guid>
-      <pubDate>Tue, 15 Sep 2026 14:15:51 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>NewHydrogen Announces Strategic Collaboration with Utah San Rafael Energy Lab — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Chart Industries to Supply Liquid Hydrogen Systems for Samskip SeaShuttle Container Ships</title>
-      <link>https://fuelcellsworks.com/2026/09/14/h2/chart-industries-to-supply-liquid-hydrogen-systems-for-samskip-seashuttle-container-ships</link>
-      <guid isPermaLink="false">molecola-7d2b000d00019358</guid>
-      <pubDate>Tue, 15 Sep 2026 14:01:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Chart Industries to Supply Liquid Hydrogen Systems for Samskip SeaShuttle Container Ships — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production Pilot Validates Hybrid AEM Electrolyzer at Repsol’s All4Zero Hub</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-pilot-validates-hybrid-aem-electrolyzer-at-repsol-s-al/8576668/</link>
-      <guid isPermaLink="false">molecola-030bece678a9bc63</guid>
-      <pubDate>Tue, 15 Sep 2026 13:27:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>P2H2 and Repsol completed a successful pilot of a hybrid AEM electrolyzer at Repsol’s All4Zero hub in Spain, running over 1,250 hours under variable load and up to 30 bar, demonstrating dynamic operation and potential… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Industry leaders scale full value chain for hydrogen mobility across Europe</title>
-      <link>https://hydrogeneurope.eu/industry-leaders-scale-full-value-chain-for-hydrogen-mobility-across-europe/</link>
-      <guid isPermaLink="false">molecola-e1b652f95aa96520</guid>
-      <pubDate>Tue, 15 Sep 2026 13:13:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Industry leaders scale full value chain for hydrogen mobility across Europe — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Hyundai Translead Partners with Range Zero Emissions to Boost XCIENT Fuel Cell Truck Access in Washington</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-hyundai-translead-partners-with-range-zero-emissions-to-/8576667/</link>
-      <guid isPermaLink="false">molecola-90a1e4d77ccbe908</guid>
-      <pubDate>Tue, 15 Sep 2026 13:13:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Hyundai Translead tapped Range Zero Emissions as its Washington dealer, broadening hydrogen infrastructure and commercial support for the XCIENT Fuel Cell truck across the Pacific Northwest. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>China’s Hydrogen Infrastructure Expansion Drives Demand for PEM Fuel Cell Plate Coatings</title>
-      <link>http://www.hydrogenfuelnews.com/china-s-hydrogen-infrastructure-expansion-drives-demand-for-pem-fuel-cell-plate-/8576666/</link>
-      <guid isPermaLink="false">molecola-d82273b9ead4fd33</guid>
-      <pubDate>Tue, 15 Sep 2026 13:12:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>China approved five regional hydrogen city clusters under a new pilot program, prompting a surge in orders for Impact Coatings AB’s PEM fuel cell bipolar plate coatings as infrastructure projects move into… — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
