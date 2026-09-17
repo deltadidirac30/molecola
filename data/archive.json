@@ -1,6 +1,48 @@
 {
- "count": 934,
+ "count": 949,
  "items": [
+  {
+   "authors": [
+    "Qian Yu",
+    "Shaowei Zhang",
+    "Chengming Shang",
+    "Bingbing Fan",
+    "Mi Tian"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "b5d75386aa7a65df",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157574",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Methanol-controlled structural retention of metal-organic frameworks during binder-free pelletisation for enhanced hydrogen storage"
+  },
+  {
+   "authors": [
+    "Zheyu Liu",
+    "Jiaqi Zhang",
+    "Qiuyan Gong",
+    "Xi Lin",
+    "Jianxin Zou"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Journal of Magnesium and Alloys",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "82031a455166baf5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jma.2026.102314",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ultralong cycling stability of a Mg-Ni-Si-Na hydrogen storage alloy enabled by the synergistic promotion effect from Mg2Si phase and Na"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -307,6 +349,51 @@
    "title": "KIER Palladium Membrane Enables Ammonia Synthesis Using Water as Proton Source"
   },
   {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T02:10:25+00:00",
+   "excerpt": "GenH2 Corp. has sold and leased back its Titusville facility, securing mid single-digit millions to fund hydrogen infrastructure growth and R&D.",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "4bb2194591d5d7c2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/genh2-leverages-sale-and-leaseback-to-boost-hydrogen-infrastructure-growth/8576673/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T02:09:48+00:00",
+   "excerpt": "BAIC Foton debuted its versatile Cavan BEACON heavy truck platform at IAA Transportation 2026 in Hannover and opened a 20,000 m² parts hub in Unna as part of its European zero-emission strategy.",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "043894ef080df4f1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-foton-debuts-cavan-beacon-heavy-truck-platform-and-europ/8576672/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell News: Foton Debuts Cavan BEACON Heavy Truck Platform and European Hub"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T02:05:16+00:00",
+   "excerpt": "Japan Engine Corporation unveiled its 6UEC35LSGH hydrogen-fueled main engine after land-based tests achieved over 95% hydrogen co-firing, setting the stage for a three-year sea trial under the Blue Harmony project to…",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "0a0ce89f3a7f6600",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/clean-hydrogen-news-japan-engine-corporation-unveils-6uec35lsgh-hydrogen-main-en/8576671/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Japan Engine Corporation Unveils 6UEC35LSGH Hydrogen Main Engine for Merchant Ships"
+  },
+  {
    "authors": [
     "Pan Gao",
     "Yutao Zhai",
@@ -526,6 +613,114 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Competitive Coordination Structure of Interface Enables Synergistic Regulation of Mass-Charge Transfer for Stable Zinc Electrodes under High Current Density"
+  },
+  {
+   "authors": [
+    "Ruilin Yin",
+    "Qingsong Hua",
+    "Jian Wang",
+    "Li Sun"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "50e531fac9f54d6a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.128792",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Two-layer scheduling and model predictive control of a multiphysics alkaline water electrolyzer with integrated energy storage under variable renewables"
+  },
+  {
+   "authors": [
+    "Manzoore Elahi M. Soudagar",
+    "V. Mohanavel",
+    "M. K. Aravindan",
+    "Jasgurpreet Singh Chohan",
+    "D. S. Vijayan",
+    "S. Ramesh"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Chemical Papers",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "987e0503a2b3383d",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11696-026-05572-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integrated hydrogen–electricity systems for carbon-neutral power: a comprehensive review of technologies, coupling strategies, and future pathways"
+  },
+  {
+   "authors": [
+    "Qi Dai",
+    "Tinghong Gao",
+    "Yun-Jun Ruan",
+    "Tian‐Yu Tang",
+    "Yan-Lin Tang",
+    "Bei Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "195912b2e854b4c4",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157380",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles study of Be-based double perovskite hydrides Li2BeMgH6, Li2BeCaH6, and Na2BeMgH6: Hydrogen storage and optoelectronic properties"
+  },
+  {
+   "authors": [
+    "Eetu Hakkarainen",
+    "Pei-Ying Huang",
+    "Chen-Yu Lin",
+    "Pi‐Tai Chou",
+    "Igor O. Koshevoy",
+    "Glib Baryshnikov"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Journal of the American Chemical Society",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "5bcdff5e264a50fa",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/jacs.6c12003",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solvent-Fueled Anion Translocation in Crystalline Phosphonium Salt"
+  },
+  {
+   "authors": [
+    "Qiyan Chen",
+    "Qing Pang",
+    "Yue Zhang",
+    "Changyi Zheng",
+    "Qing Huang",
+    "Dingyuan Ma"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Energy & Fuels",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "0cb1709b36c04030",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.energyfuels.6c03452",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Bifunctional Electrolyte Additive Enables In Situ Solid Electrolyte Interphase Formation and Restrains Polyiodides Shuttling for High-Efficiency Zinc–Iodine Batteries"
   },
   {
    "authors": [],
@@ -833,6 +1028,21 @@
   },
   {
    "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T13:27:30+00:00",
+   "excerpt": "P2H2 and Repsol completed a successful pilot of a hybrid AEM electrolyzer at Repsol’s All4Zero hub in Spain, running over 1,250 hours under variable load and up to 30 bar, demonstrating dynamic operation and potential…",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "030bece678a9bc63",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-pilot-validates-hybrid-aem-electrolyzer-at-repsol-s-al/8576668/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Pilot Validates Hybrid AEM Electrolyzer at Repsol’s All4Zero Hub"
+  },
+  {
+   "authors": [],
    "category": "politica",
    "date": "2026-09-15T13:13:52+00:00",
    "excerpt": "",
@@ -845,6 +1055,36 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "Industry leaders scale full value chain for hydrogen mobility across Europe"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T13:13:52+00:00",
+   "excerpt": "Hyundai Translead tapped Range Zero Emissions as its Washington dealer, broadening hydrogen infrastructure and commercial support for the XCIENT Fuel Cell truck across the Pacific Northwest.",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "90a1e4d77ccbe908",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-hyundai-translead-partners-with-range-zero-emissions-to-/8576667/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hyundai Translead Partners with Range Zero Emissions to Boost XCIENT Fuel Cell Truck Access in Washington"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T13:12:53+00:00",
+   "excerpt": "China approved five regional hydrogen city clusters under a new pilot program, prompting a surge in orders for Impact Coatings AB’s PEM fuel cell bipolar plate coatings as infrastructure projects move into…",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "d82273b9ead4fd33",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/china-s-hydrogen-infrastructure-expansion-drives-demand-for-pem-fuel-cell-plate-/8576666/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "China’s Hydrogen Infrastructure Expansion Drives Demand for PEM Fuel Cell Plate Coatings"
   },
   {
    "authors": [],
@@ -864,6 +1104,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-15T00:12:52+00:00",
+   "excerpt": "REFIRE’s subsidiary Pandong Electric installed a 3.6 MW hydrogen fuel cell system at Jinchuan’s chlor-alkali plant, coupling PSA purification, solid-state storage and heat recovery to cut coal use and emissions.",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "66e6bc16254f41a7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-3-6-mw-fuel-cell-system-powers-jinchang-chlor-alkali-pla/8576665/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure: 3.6 MW Fuel Cell System Powers Jinchang Chlor-Alkali Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-15T00:08:44+00:00",
    "excerpt": "At IAA Transportation in Hanover, Dongfeng revealed three hydrogen vehicles on its new T1 platform alongside a 400kW hydrogen fuel cell, underscoring its bid to drive zero-emission heavy transport forward.",
    "first_seen": "2026-09-15T11:37:36+00:00",
@@ -875,6 +1130,21 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Dongfeng Debuts 400kW Hydrogen Fuel Cell and New Hydrogen Vehicles at IAA Transportation"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-15T00:08:34+00:00",
+   "excerpt": "A positive EU assessment has unlocked a €661 million Dutch funding tranche for offshore wind, home energy-efficiency upgrades and green hydrogen research under the Recovery and Resilience Facility.",
+   "first_seen": "2026-09-17T11:33:27+00:00",
+   "id": "a833b5ed2af3947d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-eu-backs-661-million-dutch-package-for-offshore-wind-housing/8576662/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EU backs €661 million Dutch package for offshore wind, housing efficiency and hydrogen research"
   },
   {
    "authors": [
@@ -16377,6 +16647,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-17T04:45:21+00:00",
+ "updated": "2026-09-17T11:33:27+00:00",
  "version": 2
 }

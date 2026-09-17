@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 04:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:33:11 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Methanol-controlled structural retention of metal-organic frameworks during binder-free pelletisation for enhanced hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157574</link>
+      <guid isPermaLink="false">molecola-b5d75386aa7a65df</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Ultralong cycling stability of a Mg-Ni-Si-Na hydrogen storage alloy enabled by the synergistic promotion effect from Mg2Si phase and Na</title>
+      <link>https://doi.org/10.1016/j.jma.2026.102314</link>
+      <guid isPermaLink="false">molecola-82031a455166baf5</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Magnesium and Alloys — OpenAlex</description>
+    </item>
     <item>
       <title>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs</title>
       <link>https://fuelcellsworks.com/2026/09/15/electric/lisbon-adds-29-electric-buses-as-carris-fleet-passes-100-evs</link>
@@ -169,6 +185,30 @@
       <description>KIER Palladium Membrane Enables Ammonia Synthesis Using Water as Proton Source — Fuel Cells Works</description>
     </item>
     <item>
+      <title>GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth</title>
+      <link>http://www.hydrogenfuelnews.com/genh2-leverages-sale-and-leaseback-to-boost-hydrogen-infrastructure-growth/8576673/</link>
+      <guid isPermaLink="false">molecola-4bb2194591d5d7c2</guid>
+      <pubDate>Wed, 16 Sep 2026 02:10:25 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>GenH2 Corp. has sold and leased back its Titusville facility, securing mid single-digit millions to fund hydrogen infrastructure growth and R&amp;D. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Fuel Cell News: Foton Debuts Cavan BEACON Heavy Truck Platform and European Hub</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-foton-debuts-cavan-beacon-heavy-truck-platform-and-europ/8576672/</link>
+      <guid isPermaLink="false">molecola-043894ef080df4f1</guid>
+      <pubDate>Wed, 16 Sep 2026 02:09:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>BAIC Foton debuted its versatile Cavan BEACON heavy truck platform at IAA Transportation 2026 in Hannover and opened a 20,000 m² parts hub in Unna as part of its European zero-emission strategy. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Japan Engine Corporation Unveils 6UEC35LSGH Hydrogen Main Engine for Merchant Ships</title>
+      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-japan-engine-corporation-unveils-6uec35lsgh-hydrogen-main-en/8576671/</link>
+      <guid isPermaLink="false">molecola-0a0ce89f3a7f6600</guid>
+      <pubDate>Wed, 16 Sep 2026 02:05:16 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Japan Engine Corporation unveiled its 6UEC35LSGH hydrogen-fueled main engine after land-based tests achieved over 95% hydrogen co-firing, setting the stage for a three-year sea trial under the Blue Harmony project to… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Regulating the hydrogen storage performance of VTiCrFe alloys by tailoring the V-Ti and Cr-Fe ratios</title>
       <link>https://doi.org/10.1016/j.ijhydene.2026.157596</link>
       <guid isPermaLink="false">molecola-9c572dc487d29412</guid>
@@ -223,22 +263,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Electrical Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Cyclodextrin Interactions with Water-Soluble Vitamins: Biological Relevance, Stability, Delivery, and Translational Implications—A Critical Review</title>
-      <link>https://doi.org/10.3390/biology15181637</link>
-      <guid isPermaLink="false">molecola-e98e4fd9b3c3a82c</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Biology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Powering Hyperscale AI Data Centers with Off-Grid Solar, Battery, and Hydrogen</title>
-      <link>https://doi.org/10.1021/acsenergylett.6c02598</link>
-      <guid isPermaLink="false">molecola-6699559edf3d6039</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Energy Letters — OpenAlex</description>
     </item>
     <item>
       <title>Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant</title>
@@ -393,6 +417,14 @@
       <description>Chart Industries to Supply Liquid Hydrogen Systems for Samskip SeaShuttle Container Ships — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Green Hydrogen Production Pilot Validates Hybrid AEM Electrolyzer at Repsol’s All4Zero Hub</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-pilot-validates-hybrid-aem-electrolyzer-at-repsol-s-al/8576668/</link>
+      <guid isPermaLink="false">molecola-030bece678a9bc63</guid>
+      <pubDate>Tue, 15 Sep 2026 13:27:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>P2H2 and Repsol completed a successful pilot of a hybrid AEM electrolyzer at Repsol’s All4Zero hub in Spain, running over 1,250 hours under variable load and up to 30 bar, demonstrating dynamic operation and potential… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Industry leaders scale full value chain for hydrogen mobility across Europe</title>
       <link>https://hydrogeneurope.eu/industry-leaders-scale-full-value-chain-for-hydrogen-mobility-across-europe/</link>
       <guid isPermaLink="false">molecola-e1b652f95aa96520</guid>
@@ -401,52 +433,20 @@
       <description>Industry leaders scale full value chain for hydrogen mobility across Europe — Hydrogen Europe</description>
     </item>
     <item>
-      <title>Stargate Hydrogen secures 21 million Euros from the EU Innovation Fund to further scale up its operations</title>
-      <link>https://hydrogeneurope.eu/stargate-hydrogen-secures-21-million-euros-from-the-eu-innovation-fund-to-further-scale-up-its-operations/</link>
-      <guid isPermaLink="false">molecola-e2dd621e8f5e78bf</guid>
-      <pubDate>Tue, 15 Sep 2026 10:38:06 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Stargate Hydrogen secures 21 million Euros from the EU Innovation Fund to further scale up its operations — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Dongfeng Debuts 400kW Hydrogen Fuel Cell and New Hydrogen Vehicles at IAA Transportation</title>
-      <link>http://www.hydrogenfuelnews.com/dongfeng-debuts-400kw-hydrogen-fuel-cell-and-new-hydrogen-vehicles-at-iaa-transp/8576663/</link>
-      <guid isPermaLink="false">molecola-45b795075e8f0459</guid>
-      <pubDate>Tue, 15 Sep 2026 00:08:44 +0000</pubDate>
+      <title>Hyundai Translead Partners with Range Zero Emissions to Boost XCIENT Fuel Cell Truck Access in Washington</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-hyundai-translead-partners-with-range-zero-emissions-to-/8576667/</link>
+      <guid isPermaLink="false">molecola-90a1e4d77ccbe908</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:52 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>At IAA Transportation in Hanover, Dongfeng revealed three hydrogen vehicles on its new T1 platform alongside a 400kW hydrogen fuel cell, underscoring its bid to drive zero-emission heavy transport forward. — Hydrogen Fuel News</description>
+      <description>Hyundai Translead tapped Range Zero Emissions as its Washington dealer, broadening hydrogen infrastructure and commercial support for the XCIENT Fuel Cell truck across the Pacific Northwest. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>BYD Says It Leads on Solid-State Batteries, Plans First Demonstration Vehicle in 2027</title>
-      <link>https://fuelcellsworks.com/2026/09/14/electric/byd-says-it-is-in-the-lead-on-solid-state-batteries-first-vehicle-with-the-technology-due-in-2027</link>
-      <guid isPermaLink="false">molecola-7bcf6cb5747a0516</guid>
-      <pubDate>Mon, 14 Sep 2026 19:41:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>BYD Says It Leads on Solid-State Batteries, Plans First Demonstration Vehicle in 2027 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Toyota Announces Hydrogen Hilux for 2028 in European Launch</title>
-      <link>https://fuelcellsworks.com/2026/09/14/fuel-cells/toyota-announces-hydrogen-hilux-for-2028-in-european-launch</link>
-      <guid isPermaLink="false">molecola-327906b0880dcb20</guid>
-      <pubDate>Mon, 14 Sep 2026 19:26:14 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Toyota Announces Hydrogen Hilux for 2028 in European Launch — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Joby Launches eIPP Flights in Texas</title>
-      <link>https://fuelcellsworks.com/2026/09/13/electric/joby-launches-eipp-flights-in-texas</link>
-      <guid isPermaLink="false">molecola-234f602d7d6ffc4d</guid>
-      <pubDate>Mon, 14 Sep 2026 18:55:33 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Joby Launches eIPP Flights in Texas — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Premiere in Romania: Delgaz Grid Validates Mixtures with up to 30% Hydrogen in Existing Gas Installations</title>
-      <link>https://fuelcellsworks.com/2026/09/14/h2/premiere-in-romania-delgaz-grid-validates-mixtures-with-up-to-30-percent-hydrogen-in-existing-gas-installations</link>
-      <guid isPermaLink="false">molecola-3a7667b4f55e2b3e</guid>
-      <pubDate>Mon, 14 Sep 2026 14:23:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Premiere in Romania: Delgaz Grid Validates Mixtures with up to 30% Hydrogen in Existing Gas Installations — Fuel Cells Works</description>
+      <title>China’s Hydrogen Infrastructure Expansion Drives Demand for PEM Fuel Cell Plate Coatings</title>
+      <link>http://www.hydrogenfuelnews.com/china-s-hydrogen-infrastructure-expansion-drives-demand-for-pem-fuel-cell-plate-/8576666/</link>
+      <guid isPermaLink="false">molecola-d82273b9ead4fd33</guid>
+      <pubDate>Tue, 15 Sep 2026 13:12:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>China approved five regional hydrogen city clusters under a new pilot program, prompting a surge in orders for Impact Coatings AB’s PEM fuel cell bipolar plate coatings as infrastructure projects move into… — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
