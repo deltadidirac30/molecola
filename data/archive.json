@@ -1,6 +1,36 @@
 {
- "count": 931,
+ "count": 934,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T16:24:05+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-17T04:45:21+00:00",
+   "id": "cca4059205b5a787",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/15/electric/lisbon-adds-29-electric-buses-as-carris-fleet-passes-100-evs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-16T16:19:04+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-17T04:45:21+00:00",
+   "id": "701bc040db017cf0",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/15/electric/volvo-trucks-unveils-new-electric-truck-for-gross-combination-weights-of-up-to-80-tonnes-with-a-longer-range",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Volvo Trucks Unveils New Electric Truck for Gross Combination Weights of up to 80 Tonnes with a Longer Range"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -225,6 +255,26 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Hyundai Signs MoU for 480 Hydrogen Buses"
+  },
+  {
+   "authors": [
+    "Maiken Borud Omtveit",
+    "Lisa Marie Dannappel",
+    "Shi You",
+    "Kjetil Uhlen"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T13:24:22+00:00",
+   "excerpt": "The main contribution of this work is to identify model parameters for an Anion Exchange Membrane (AEM) system directly from measured operational data, enabling their use in power system studies. Due to the relatively…",
+   "first_seen": "2026-09-17T04:45:21+00:00",
+   "id": "97290c11a0a87f18",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.18638v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data"
   },
   {
    "authors": [],
@@ -16327,6 +16377,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-16T21:14:10+00:00",
+ "updated": "2026-09-17T04:45:21+00:00",
  "version": 2
 }

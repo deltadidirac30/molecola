@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:45:01 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs</title>
+      <link>https://fuelcellsworks.com/2026/09/15/electric/lisbon-adds-29-electric-buses-as-carris-fleet-passes-100-evs</link>
+      <guid isPermaLink="false">molecola-cca4059205b5a787</guid>
+      <pubDate>Wed, 16 Sep 2026 16:24:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Volvo Trucks Unveils New Electric Truck for Gross Combination Weights of up to 80 Tonnes with a Longer Range</title>
+      <link>https://fuelcellsworks.com/2026/09/15/electric/volvo-trucks-unveils-new-electric-truck-for-gross-combination-weights-of-up-to-80-tonnes-with-a-longer-range</link>
+      <guid isPermaLink="false">molecola-701bc040db017cf0</guid>
+      <pubDate>Wed, 16 Sep 2026 16:19:04 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Volvo Trucks Unveils New Electric Truck for Gross Combination Weights of up to 80 Tonnes with a Longer Range — Fuel Cells Works</description>
+    </item>
     <item>
       <title>Depotcharge Lands €2.7M and BGL Partnership to Scale Electric Truck Charging</title>
       <link>https://fuelcellsworks.com/2026/09/15/electric/depotcharge-lands-2-7m-and-bgl-partnership-to-scale-electric-truck-charging</link>
@@ -129,6 +145,14 @@
       <description>Hyundai Signs MoU for 480 Hydrogen Buses — Fuel Cells Works</description>
     </item>
     <item>
+      <title>A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</title>
+      <link>https://arxiv.org/abs/2609.18638v1</link>
+      <guid isPermaLink="false">molecola-97290c11a0a87f18</guid>
+      <pubDate>Wed, 16 Sep 2026 13:24:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The main contribution of this work is to identify model parameters for an Anion Exchange Membrane (AEM) system directly from measured operational data, enabling their use in power system studies. Due to the relatively… — arXiv</description>
+    </item>
+    <item>
       <title>Green Hydrogen Loses Cost Advantage as Production Costs Jump</title>
       <link>https://fuelcellsworks.com/2026/09/15/green-hydrogen/green-hydrogen-loses-cost-advantage-as-production-costs-jump</link>
       <guid isPermaLink="false">molecola-aa204dd9e74245d7</guid>
@@ -215,14 +239,6 @@
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>ACS Energy Letters — OpenAlex</description>
-    </item>
-    <item>
-      <title>Synergistic DFT and HEAPS modelling of hydrogen adsorption energetics in high-entropy alloys: Ti0.25V0.25Cr0.25Mn0.187Al0.063</title>
-      <link>https://doi.org/10.1007/s00339-026-10205-0</link>
-      <guid isPermaLink="false">molecola-59caf652b7c64cbc</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Physics A — OpenAlex</description>
     </item>
     <item>
       <title>Ford Reportedly Eyeing Affordable-EV Production at Its Idle Chennai Plant</title>
@@ -431,22 +447,6 @@
       <pubDate>Mon, 14 Sep 2026 14:23:09 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Premiere in Romania: Delgaz Grid Validates Mixtures with up to 30% Hydrogen in Existing Gas Installations — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Fuel Cell and Hydrogen News Highlights From China: Sept. 7-Sept. 11, 2026</title>
-      <link>https://fuelcellsworks.com/2026/09/13/clean-energy/fuel-cell-and-hydrogen-news-highlights-from-china-sept-7-sept-11-2026</link>
-      <guid isPermaLink="false">molecola-21ca8c5610b2826e</guid>
-      <pubDate>Mon, 14 Sep 2026 14:14:33 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Fuel Cell and Hydrogen News Highlights From China: Sept. 7-Sept. 11, 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Jordan, Chinese Firm Study Green Hydrogen Project</title>
-      <link>https://fuelcellsworks.com/2026/09/14/h2/jordan-chinese-firm-study-green-hydrogen-project</link>
-      <guid isPermaLink="false">molecola-85f4bfa590967c98</guid>
-      <pubDate>Mon, 14 Sep 2026 14:12:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Jordan, Chinese Firm Study Green Hydrogen Project — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
