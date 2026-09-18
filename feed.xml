@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 17 Sep 2026 21:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:33:59 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
@@ -153,6 +153,14 @@
       <description>Stevens Researchers Discover Ways to Boost Performance in Hydrogen Fuel Cell Membranes with Big Implications for Improving This Clean Energy Tech’s Performance — Fuel Cells Works</description>
     </item>
     <item>
+      <title>A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</title>
+      <link>https://arxiv.org/abs/2609.18638v2</link>
+      <guid isPermaLink="false">molecola-9e676d97cb1c70db</guid>
+      <pubDate>Thu, 17 Sep 2026 10:02:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The main contribution of this work is to identify model parameters for an Anion Exchange Membrane (AEM) system directly from measured operational data, enabling their use in power system studies. Due to the relatively… — arXiv</description>
+    </item>
+    <item>
       <title>Daimler Truck Invests Hundreds of Millions in NextGenH2 Hydrogen Fuel-Cell Trucks</title>
       <link>http://www.hydrogenfuelnews.com/daimler-truck-invests-hundreds-of-millions-in-nextgenh2-hydrogen-fuel-cell-truck/8576685/</link>
       <guid isPermaLink="false">molecola-5db832321ab56168</guid>
@@ -183,6 +191,62 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Magnesium and Alloys — OpenAlex</description>
+    </item>
+    <item>
+      <title>The Social Superorganism: A Biological Systems Model for Sustainable Human Communities</title>
+      <link>https://doi.org/10.47363/jgwcc/2026(2)147</link>
+      <guid isPermaLink="false">molecola-cc263aa5648e56e3</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Global Warming and Climate Change — OpenAlex</description>
+    </item>
+    <item>
+      <title>Ortho-para hydrogen conversion by highly scalable metal-organic frameworks</title>
+      <link>https://doi.org/10.1016/j.est.2026.124607</link>
+      <guid isPermaLink="false">molecola-7edbcb0f5016689c</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Research on Risk-State-Dependent Dispatch Optimization of Heterogeneous Power Systems: An IGDT-Based Multi-Scheme Decision Framework</title>
+      <link>https://doi.org/10.1007/s40998-026-01245-6</link>
+      <guid isPermaLink="false">molecola-497984d1881868b4</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Iranian Journal of Science and Technology Transactions of Electrical Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Solvent-Free Dehydrogenation of Decahydroquinoline over Palladium Nanoparticles Supported on Modified Ceria-Based Structures</title>
+      <link>https://doi.org/10.3390/catal16090835</link>
+      <guid isPermaLink="false">molecola-2b08d6597ee6d3cb</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Catalysts — OpenAlex</description>
+    </item>
+    <item>
+      <title>Computational Investigation of Perovskite Hydrides XLiH 3 (X = Fe, Co, Ni) for Solid-State Hydrogen Storage</title>
+      <link>https://doi.org/10.1142/s0217984926502313</link>
+      <guid isPermaLink="false">molecola-fd4c255f3874f579</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Modern Physics Letters B — OpenAlex</description>
+    </item>
+    <item>
+      <title>Grain refinement control strategy for Mg-based hydrogen storage materials: Severe plastic deformation</title>
+      <link>https://doi.org/10.1016/j.rser.2026.117486</link>
+      <guid isPermaLink="false">molecola-65408575ebb28fdc</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Assessment Of Fatigue Crack Propagation Life Based On Physics-Informed Neural Networks Under Ensemble Learning In Hydrogen Environments</title>
+      <link>https://doi.org/10.1142/s0218625x26430018</link>
+      <guid isPermaLink="false">molecola-24e8a2df0c4fbbfd</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Surface Review and Letters — OpenAlex</description>
     </item>
     <item>
       <title>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs</title>
@@ -345,14 +409,6 @@
       <description>Hyundai Signs MoU for 480 Hydrogen Buses — Fuel Cells Works</description>
     </item>
     <item>
-      <title>A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data</title>
-      <link>https://arxiv.org/abs/2609.18638v1</link>
-      <guid isPermaLink="false">molecola-97290c11a0a87f18</guid>
-      <pubDate>Wed, 16 Sep 2026 13:24:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>The main contribution of this work is to identify model parameters for an Anion Exchange Membrane (AEM) system directly from measured operational data, enabling their use in power system studies. Due to the relatively… — arXiv</description>
-    </item>
-    <item>
       <title>Green Hydrogen Loses Cost Advantage as Production Costs Jump</title>
       <link>https://fuelcellsworks.com/2026/09/15/green-hydrogen/green-hydrogen-loses-cost-advantage-as-production-costs-jump</link>
       <guid isPermaLink="false">molecola-aa204dd9e74245d7</guid>
@@ -391,62 +447,6 @@
       <pubDate>Wed, 16 Sep 2026 02:10:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>GenH2 Corp. has sold and leased back its Titusville facility, securing mid single-digit millions to fund hydrogen infrastructure growth and R&amp;D. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Regulating the hydrogen storage performance of VTiCrFe alloys by tailoring the V-Ti and Cr-Fe ratios</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157596</link>
-      <guid isPermaLink="false">molecola-9c572dc487d29412</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Selective Lithium Recovery from Spent Lithium Iron Phosphate Batteries Used in Solar Energy Storage</title>
-      <link>https://doi.org/10.3390/batteries12090367</link>
-      <guid isPermaLink="false">molecola-f629278adf89d1ed</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Batteries — OpenAlex</description>
-    </item>
-    <item>
-      <title>Synergistic Promotion of CO2 Hydrate Formation by Hydrophilic/Hydrophobic Amino Acids: Experiment and Mechanism</title>
-      <link>https://doi.org/10.1021/acssuschemeng.6c00120</link>
-      <guid isPermaLink="false">molecola-0fe4e1aae032c66d</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Sustainable Chemistry &amp; Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Securing the future: a review of the history and present of security stocks</title>
-      <link>https://doi.org/10.21701/bolgeomin/137.2/012</link>
-      <guid isPermaLink="false">molecola-1cf1b127a7e1145e</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>BOLETÍN GEOLÓGICO Y MINERO — OpenAlex</description>
-    </item>
-    <item>
-      <title>Case study of a site-specific design and operation optimization of a wind farm co-located PEM electrolyzer and BESS including degradation</title>
-      <link>https://doi.org/10.5194/wes-11-3509-2026</link>
-      <guid isPermaLink="false">molecola-cb0d1ea5746ba6cf</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Wind energy science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Design and Performance Evaluation of an On-Board Pulsed-DC Resonance Electrolyzer for Hydrogen-Biased Electric Powertrains</title>
-      <link>https://doi.org/10.38124/ijisrt/26sep319</link>
-      <guid isPermaLink="false">molecola-09f1180a57d8a979</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Innovative Science and Research Technology (IJISRT) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-economic optimization of off-grid hybrid energy systems for electricity and hydrogen supply</title>
-      <link>https://doi.org/10.1007/s00202-026-03752-5</link>
-      <guid isPermaLink="false">molecola-97f61eb46330ca64</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Electrical Engineering — OpenAlex</description>
     </item>
   </channel>
 </rss>

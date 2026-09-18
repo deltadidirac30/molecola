@@ -1,5 +1,5 @@
 {
- "count": 974,
+ "count": 986,
  "items": [
   {
    "authors": [],
@@ -272,6 +272,26 @@
    "title": "Stevens Researchers Discover Ways to Boost Performance in Hydrogen Fuel Cell Membranes with Big Implications for Improving This Clean Energy Tech’s Performance"
   },
   {
+   "authors": [
+    "Maiken Borud Omtveit",
+    "Lisa Marie Dannappel",
+    "Shi You",
+    "Kjetil Uhlen"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T10:02:54+00:00",
+   "excerpt": "The main contribution of this work is to identify model parameters for an Anion Exchange Membrane (AEM) system directly from measured operational data, enabling their use in power system studies. Due to the relatively…",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "9e676d97cb1c70db",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.18638v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A Closed-Loop Model of an Anion Exchange Membrane Electrolyser Based on Operational Data"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-09-17T04:12:23+00:00",
@@ -342,6 +362,192 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Ultralong cycling stability of a Mg-Ni-Si-Na hydrogen storage alloy enabled by the synergistic promotion effect from Mg2Si phase and Na"
+  },
+  {
+   "authors": [
+    "Paul Alexander Comet"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Journal of Global Warming and Climate Change",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "cc263aa5648e56e3",
+   "lang": "en",
+   "link": "https://doi.org/10.47363/jgwcc/2026(2)147",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "The Social Superorganism: A Biological Systems Model for Sustainable Human Communities"
+  },
+  {
+   "authors": [
+    "Dmitrii A. Syrtsov",
+    "Dmitriy V. Alimov",
+    "Kristina A. Aidakova",
+    "Artem S. Bogomyakov",
+    "Ramis Zhitkeyev",
+    "Artem S. Poryvaev"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "7edbcb0f5016689c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124607",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ortho-para hydrogen conversion by highly scalable metal-organic frameworks"
+  },
+  {
+   "authors": [
+    "Yunyuan Lu",
+    "Meng‐Hiot Lim",
+    "Jicheng Liu",
+    "Yongzhuo Feng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Iranian Journal of Science and Technology Transactions of Electrical Engineering",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "497984d1881868b4",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s40998-026-01245-6",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Research on Risk-State-Dependent Dispatch Optimization of Heterogeneous Power Systems: An IGDT-Based Multi-Scheme Decision Framework"
+  },
+  {
+   "authors": [
+    "O. A. Kirichenko",
+    "Elena V. Shuvalova",
+    "Е. А. Редина",
+    "Inna I. Ivanova",
+    "Gennady Kapustin",
+    "L. M. Kustov"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Catalysts",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "2b08d6597ee6d3cb",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/catal16090835",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solvent-Free Dehydrogenation of Decahydroquinoline over Palladium Nanoparticles Supported on Modified Ceria-Based Structures"
+  },
+  {
+   "authors": [
+    "Wasif Abu Dujana",
+    "Md Saiduzzaman",
+    "Mohammad Shahariar Kabir",
+    "Hanan Al-Ghamdi",
+    "Hesham Enshasy",
+    "Shima Sadaf"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Modern Physics Letters B",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "fd4c255f3874f579",
+   "lang": "en",
+   "link": "https://doi.org/10.1142/s0217984926502313",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Computational Investigation of Perovskite Hydrides XLiH 3 (X = Fe, Co, Ni) for Solid-State Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Zhaoqian Wang",
+    "Song Lu",
+    "Heping Zhang",
+    "Dianming Wang",
+    "Xinghua Wang",
+    "Daheng Yu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "65408575ebb28fdc",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117486",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Grain refinement control strategy for Mg-based hydrogen storage materials: Severe plastic deformation"
+  },
+  {
+   "authors": [
+    "Debiao Meng",
+    "Muhammad Umar Khan",
+    "Huaxi Wu",
+    "Lu-Kai Song",
+    "Shiyuan Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Surface Review and Letters",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "24e8a2df0c4fbbfd",
+   "lang": "en",
+   "link": "https://doi.org/10.1142/s0218625x26430018",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Assessment Of Fatigue Crack Propagation Life Based On Physics-Informed Neural Networks Under Ensemble Learning In Hydrogen Environments"
+  },
+  {
+   "authors": [
+    "Tian Peiyi",
+    "Dong Ying",
+    "Duan Jiaying",
+    "Cheng Qinyang",
+    "Sun Jing",
+    "Bangdi Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Frontiers in Sustainable Food Systems",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "f6e4b0698dc6c0a9",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fsufs.2026.1877440",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable postharvest preservation of mangoes using antagonistic bacterial pellets through regulation of reactive oxygen species metabolism"
+  },
+  {
+   "authors": [
+    "Hamed Haggi",
+    "Chinmay Morankar"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T19:11:05+00:00",
+   "excerpt": "This paper proposes a high-fidelity hyperscale data center load modeling framework that disaggregates facility demand into IT and non-IT components and represents load behavior at second- and minute-level resolutions…",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "e72084e43932ed92",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.19342v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Resilient Design and Optimal Operation of Battery Energy Storage Systems for Behind-the-Meter Data Center Microgrids"
   },
   {
    "authors": [],
@@ -1096,6 +1302,48 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Bifunctional Electrolyte Additive Enables In Situ Solid Electrolyte Interphase Formation and Restrains Polyiodides Shuttling for High-Efficiency Zinc–Iodine Batteries"
+  },
+  {
+   "authors": [
+    "Wenjing Li",
+    "Yangfeng Cui",
+    "Haobin Song",
+    "Mingyue Wang",
+    "Han Sheng Wong",
+    "Cong Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Advanced Energy Materials",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "b5bdd8f620321264",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aenm.71594",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent Progress Toward Practical Aqueous Zn‐I2 Batteries: From Lab to Practical"
+  },
+  {
+   "authors": [
+    "Ke Wang",
+    "Nikhil Arya",
+    "Sadia Shahid",
+    "Montaha Anjass"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-16T00:00:00+00:00",
+   "excerpt": "Advanced Science",
+   "first_seen": "2026-09-18T04:34:17+00:00",
+   "id": "3fd8b615628f93e4",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/advs.77673",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Potential‐Controlled Ammonium‐Assisted Reversible Electrodeposition of Polyoxometalates for Hybrid Redox Flow Batteries"
   },
   {
    "authors": [],
@@ -17022,6 +17270,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-17T21:17:38+00:00",
+ "updated": "2026-09-18T04:34:17+00:00",
  "version": 2
 }
