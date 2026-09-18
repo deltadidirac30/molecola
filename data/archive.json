@@ -1,6 +1,36 @@
 {
- "count": 986,
+ "count": 988,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-18T11:01:07+00:00",
+   "excerpt": "[vc_row][vc_column][vc_column_text] DEF Italia è la filiale italiana di Réseau DEF, gruppo internazionale specializzato nelle tecnologie per la sicurezza antincendio, la rivelazione gas e la protezione di persone e…",
+   "first_seen": "2026-09-18T11:05:53+00:00",
+   "id": "7edc6c7ba5b8ccfe",
+   "lang": "it",
+   "link": "https://www.h2it.it/def-italia/",
+   "manual": null,
+   "paywall": false,
+   "source": "H2IT",
+   "source_slug": "h2it",
+   "title": "DEF Italia"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-18T09:59:22+00:00",
+   "excerpt": "Moeve has begun construction of the Andalusian Green Hydrogen Valley, a €3 billion project featuring up to 2 GW of electrolyzer capacity across hubs in Huelva and Cádiz. The complex is expected to produce up to 300,000…",
+   "first_seen": "2026-09-18T11:05:53+00:00",
+   "id": "f0c968022eae7572",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/09/18/construction-begins-on-2-gw-green-hydrogen-plant-in-spain/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "Construction begins on 2 GW green hydrogen plant in Spain"
+  },
   {
    "authors": [],
    "category": "politica",
@@ -17270,6 +17300,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-18T04:34:17+00:00",
+ "updated": "2026-09-18T11:05:53+00:00",
  "version": 2
 }

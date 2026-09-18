@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 04:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:05:36 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>DEF Italia</title>
+      <link>https://www.h2it.it/def-italia/</link>
+      <guid isPermaLink="false">molecola-7edc6c7ba5b8ccfe</guid>
+      <pubDate>Fri, 18 Sep 2026 11:01:07 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">H2IT</source>
+      <description>[vc_row][vc_column][vc_column_text] DEF Italia è la filiale italiana di Réseau DEF, gruppo internazionale specializzato nelle tecnologie per la sicurezza antincendio, la rivelazione gas e la protezione di persone e… — H2IT</description>
+    </item>
+    <item>
+      <title>Construction begins on 2 GW green hydrogen plant in Spain</title>
+      <link>https://www.pv-magazine.com/2026/09/18/construction-begins-on-2-gw-green-hydrogen-plant-in-spain/</link>
+      <guid isPermaLink="false">molecola-f0c968022eae7572</guid>
+      <pubDate>Fri, 18 Sep 2026 09:59:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Moeve has begun construction of the Andalusian Green Hydrogen Valley, a €3 billion project featuring up to 2 GW of electrolyzer capacity across hubs in Huelva and Cádiz. The complex is expected to produce up to 300,000… — PV Magazine</description>
+    </item>
     <item>
       <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
       <link>https://hydrogeneurope.eu/moeve-launches-construction-of-the-first-phase-of-europes-largest-green-hydrogen-project/</link>
@@ -431,22 +447,6 @@
       <pubDate>Wed, 16 Sep 2026 02:20:07 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>voestalpine AG has begun constructing the Hy4Smelt demonstration plant at its Linz site, combining HYFOR hydrogen direct reduction with electric smelting to produce green steel at industrial scale, with first output… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Production: Air Products Secures Renewable PPA with RWE to Power Rotterdam Liquefier</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-production-air-products-secures-renewable-ppa-with-rwe-to-power-rotterd/8576675/</link>
-      <guid isPermaLink="false">molecola-a68a29616632769e</guid>
-      <pubDate>Wed, 16 Sep 2026 02:13:37 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Air Products and RWE signed a long-term PPA to provide 75 GWh of Dutch wind and solar power for Rotterdam hydrogen production and a new liquid hydrogen liquefier, aligning with EU renewable hydrogen criteria. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>GenH2 Leverages Sale-and-Leaseback to Boost Hydrogen Infrastructure Growth</title>
-      <link>http://www.hydrogenfuelnews.com/genh2-leverages-sale-and-leaseback-to-boost-hydrogen-infrastructure-growth/8576673/</link>
-      <guid isPermaLink="false">molecola-4bb2194591d5d7c2</guid>
-      <pubDate>Wed, 16 Sep 2026 02:10:25 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>GenH2 Corp. has sold and leased back its Titusville facility, securing mid single-digit millions to fund hydrogen infrastructure growth and R&amp;D. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
