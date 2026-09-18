@@ -6,15 +6,23 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:19:25 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater</title>
+      <link>https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/</link>
+      <guid isPermaLink="false">molecola-5c4b456a2c662ce0</guid>
+      <pubDate>Fri, 18 Sep 2026 12:30:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>In other news, Power to Hydrogen started green hydrogen production in Antwerp, while Dongfeng unveiled three hydrogen-powered commercial vehicles in Hannover. Moreover, Denmark opened the EU’s first full-scale CO₂… — PV Magazine</description>
+    </item>
     <item>
       <title>DEF Italia</title>
       <link>https://www.h2it.it/def-italia/</link>
       <guid isPermaLink="false">molecola-7edc6c7ba5b8ccfe</guid>
       <pubDate>Fri, 18 Sep 2026 11:01:07 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">H2IT</source>
-      <description>[vc_row][vc_column][vc_column_text] DEF Italia è la filiale italiana di Réseau DEF, gruppo internazionale specializzato nelle tecnologie per la sicurezza antincendio, la rivelazione gas e la protezione di persone e… — H2IT</description>
+      <description>Con sede alle porte di Milano, siamo la filiale italiana di Réseau DEF SA, realtà francese con oltre 65 aziende internazionali, indipendenti e specializzate nella produzione di prodotti per la rivelazione e lo… — H2IT</description>
     </item>
     <item>
       <title>Construction begins on 2 GW green hydrogen plant in Spain</title>
@@ -23,6 +31,22 @@
       <pubDate>Fri, 18 Sep 2026 09:59:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Moeve has begun construction of the Andalusian Green Hydrogen Valley, a €3 billion project featuring up to 2 GW of electrolyzer capacity across hubs in Huelva and Cádiz. The complex is expected to produce up to 300,000… — PV Magazine</description>
+    </item>
+    <item>
+      <title>A novel risk assessment framework for renewable energy-integrated zero-carbon salt cavern hydrogen storage systems: Integrating spherical fuzzy sets, C-OWA, and CPT-GRA-VIKOR</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157410</link>
+      <guid isPermaLink="false">molecola-c514688ad361b389</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Research on the risk analysis of leakage in hydrogen refueling stations under cryo-compressed hydrogen storage conditions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157611</link>
+      <guid isPermaLink="false">molecola-833d25ec09bbce43</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
       <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
@@ -249,22 +273,6 @@
       <description>Modern Physics Letters B — OpenAlex</description>
     </item>
     <item>
-      <title>Grain refinement control strategy for Mg-based hydrogen storage materials: Severe plastic deformation</title>
-      <link>https://doi.org/10.1016/j.rser.2026.117486</link>
-      <guid isPermaLink="false">molecola-65408575ebb28fdc</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Assessment Of Fatigue Crack Propagation Life Based On Physics-Informed Neural Networks Under Ensemble Learning In Hydrogen Environments</title>
-      <link>https://doi.org/10.1142/s0218625x26430018</link>
-      <guid isPermaLink="false">molecola-24e8a2df0c4fbbfd</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Surface Review and Letters — OpenAlex</description>
-    </item>
-    <item>
       <title>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs</title>
       <link>https://fuelcellsworks.com/2026/09/15/electric/lisbon-adds-29-electric-buses-as-carris-fleet-passes-100-evs</link>
       <guid isPermaLink="false">molecola-cca4059205b5a787</guid>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 16 Sep 2026 12:48:26 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>KIER Palladium Membrane Enables Ammonia Synthesis Using Water as Proton Source — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen News: voestalpine Begins Construction of Hy4Smelt Steel Demo in Linz</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-voestalpine-begins-construction-of-hy4smelt-steel-demo-in-linz/8576677/</link>
-      <guid isPermaLink="false">molecola-7646acc2e13344fa</guid>
-      <pubDate>Wed, 16 Sep 2026 02:20:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>voestalpine AG has begun constructing the Hy4Smelt demonstration plant at its Linz site, combining HYFOR hydrogen direct reduction with electric smelting to produce green steel at industrial scale, with first output… — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

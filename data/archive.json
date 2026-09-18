@@ -1,11 +1,26 @@
 {
- "count": 988,
+ "count": 998,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-18T12:30:12+00:00",
+   "excerpt": "In other news, Power to Hydrogen started green hydrogen production in Antwerp, while Dongfeng unveiled three hydrogen-powered commercial vehicles in Hannover. Moreover, Denmark opened the EU’s first full-scale CO₂…",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "5c4b456a2c662ce0",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater"
+  },
   {
    "authors": [],
    "category": "politica",
    "date": "2026-09-18T11:01:07+00:00",
-   "excerpt": "[vc_row][vc_column][vc_column_text] DEF Italia è la filiale italiana di Réseau DEF, gruppo internazionale specializzato nelle tecnologie per la sicurezza antincendio, la rivelazione gas e la protezione di persone e…",
+   "excerpt": "Con sede alle porte di Milano, siamo la filiale italiana di Réseau DEF SA, realtà francese con oltre 65 aziende internazionali, indipendenti e specializzate nella produzione di prodotti per la rivelazione e lo…",
    "first_seen": "2026-09-18T11:05:53+00:00",
    "id": "7edc6c7ba5b8ccfe",
    "lang": "it",
@@ -30,6 +45,47 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Construction begins on 2 GW green hydrogen plant in Spain"
+  },
+  {
+   "authors": [
+    "Hui Zhao",
+    "Guorui Dong",
+    "Xinyu Dong"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "c514688ad361b389",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157410",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A novel risk assessment framework for renewable energy-integrated zero-carbon salt cavern hydrogen storage systems: Integrating spherical fuzzy sets, C-OWA, and CPT-GRA-VIKOR"
+  },
+  {
+   "authors": [
+    "Changfan Ma",
+    "Xinyu Wang",
+    "Xinyuan Cui",
+    "Menghao Zhuo",
+    "Tianjiao Bi",
+    "Bin Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "833d25ec09bbce43",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157611",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Research on the risk analysis of leakage in hydrogen refueling stations under cryo-compressed hydrogen storage conditions"
   },
   {
    "authors": [],
@@ -560,6 +616,151 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Sustainable postharvest preservation of mangoes using antagonistic bacterial pellets through regulation of reactive oxygen species metabolism"
+  },
+  {
+   "authors": [
+    "Abdelhak Lekbir",
+    "Putri Nor Liyana Mohamad Radzi",
+    "Abdullahi Mohamed Samatar",
+    "Saad Mekhilef",
+    "Kok Soon Tey",
+    "Abdulaziz Alateeq"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "2a762a21d11081df",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241519",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integrated electrochemical modelling, spatial site selection, and multi-objective optimization of renewable-powered alkaline water electrolysis for green hydrogen production"
+  },
+  {
+   "authors": [
+    "А. Д. Киверин",
+    "А. Е. Смыгалина"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "6ff296c696ebf8b0",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157586",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "On the similarity and scaling for pulsed hydrogen release under high pressure into the unconfined space"
+  },
+  {
+   "authors": [
+    "Yanfang Zhu",
+    "Junyi Yang",
+    "Peng Liu",
+    "Hong Pu",
+    "Chao Yuwen",
+    "Bingguo Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Metallurgical and Materials Transactions B",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "c3af5de4f20280fd",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11663-026-04281-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "From First-Principles Molecular Simulations to Macroscopic Dynamics: Multiscale Simulations and Thermogravimetric Kinetic Analysis of Dehydrogenation of Titanium Hydrides"
+  },
+  {
+   "authors": [
+    "Michael J. Rix",
+    "Jannik T. Lüthje",
+    "Jan Beles",
+    "Timo Köppen",
+    "Alexander Mitsos"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "ac6a7581577cf586",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157482",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Off-grid electrochemical nitrogen reduction to ammonia II: Energy storage utilizing process streams"
+  },
+  {
+   "authors": [
+    "Nagendra P. Yadav",
+    "Mohamed Abu Shuheil",
+    "Narinderjit Singh Sawaran Singh",
+    "Pradeep Kumar Singh",
+    "Mustafa Mudhafar",
+    "Ali Ahmadi Peyghan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "6e97a39fe63617cc",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141087",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Unlocking reversible hydrogen storage in penta-hexa-hepta graphene through lithium functionalization"
+  },
+  {
+   "authors": [
+    "Feng Ren",
+    "Tiantian Wei"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Engineering Research Express",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "054008eebb5fca1b",
+   "lang": "en",
+   "link": "https://doi.org/10.1088/2631-8695/aea953",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Carbon-Responsibility-Oriented Source-Load Coordinated Low-Carbon Dispatch Framework for Integrated Energy Systems with Dynamic Hydrogen Blending"
+  },
+  {
+   "authors": [
+    "Ying Wang",
+    "Li Zhang",
+    "Zixin Wang",
+    "Huan Li",
+    "Taosen Li",
+    "Shuaiwei Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "ChemSusChem",
+   "first_seen": "2026-09-18T16:19:43+00:00",
+   "id": "f32bd9d0241643df",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cssc.71067",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "TNO Heterostructure as Multifunctional Regulating Interfacial Layers for Stable Zinc‐Ion Batteries"
   },
   {
    "authors": [
@@ -17300,6 +17501,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-18T11:05:53+00:00",
+ "updated": "2026-09-18T16:19:43+00:00",
  "version": 2
 }
