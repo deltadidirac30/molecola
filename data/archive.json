@@ -1,5 +1,5 @@
 {
- "count": 1025,
+ "count": 1026,
  "items": [
   {
    "authors": [],
@@ -90,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Hyvolution 2026: Hitachi Energy Highlights Energy Planning for Green Hydrogen Growth in Chile"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-18T15:45:55+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-19T20:33:22+00:00",
+   "id": "6a61b8a23bfe1709",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/18/electric/xpeng-launches-its-next-gen-ai-flagship-suv-g9l-in-china-with-global-launch-set-for-oct-12-at-the-paris-motor-show",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "XPENG Launches Its Next-Gen AI Flagship SUV G9L in China, with Global Launch Set for Oct 12 at the Paris Motor Show"
   },
   {
    "authors": [],
@@ -17973,6 +17988,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-19T15:49:40+00:00",
+ "updated": "2026-09-19T20:33:22+00:00",
  "version": 2
 }
