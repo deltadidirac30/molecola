@@ -1,5 +1,5 @@
 {
- "count": 1014,
+ "count": 1024,
  "items": [
   {
    "authors": [],
@@ -326,6 +326,175 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Research on the risk analysis of leakage in hydrogen refueling stations under cryo-compressed hydrogen storage conditions"
+  },
+  {
+   "authors": [
+    "Xiuquan Chen",
+    "Yuhua Zhao",
+    "Simin Hong",
+    "Xiaodong Rang",
+    "Xiang Cui",
+    "Kostya S. Novoselov"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "ACS Energy Letters",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "c310d03232a14f48",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsenergylett.6c01803",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Configurational-Entropy-Engineered Prussian Blue Analogue Cathodes for Low-Temperature Semi-solid-state H2 Batteries"
+  },
+  {
+   "authors": [
+    "Xinrui Zhou",
+    "Junjie Yu",
+    "Yibing Li",
+    "Dongyu Chen",
+    "Hongdu He",
+    "Gengrui Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "df1f9d2ba739305b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241559",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "In-situ construction of a multifunctional Sb/ZnF2 hybrid coating via displacement reaction for highly stable aqueous zinc-ion batteries"
+  },
+  {
+   "authors": [
+    "Hao Wang",
+    "Ting Han",
+    "Hui Yong",
+    "Shuai Wang",
+    "Yanghuan Zhang",
+    "Minyan Yan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "d745dfed030d2e84",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157643",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic catalytic effect of (La, Sm)2O3@C on the hydrogen storage kinetics of Mg-Ce-Ni alloy"
+  },
+  {
+   "authors": [
+    "Wei Huang",
+    "Yizhou Yang",
+    "Zhixia He",
+    "Shengnan Zhang",
+    "Lian Duan",
+    "Genmiao Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "2ea36d4d6ef0e110",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141319",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Visualization experimental study on transient cavitating flow and spray characteristics of methanol high-pressure direct injector nozzles"
+  },
+  {
+   "authors": [
+    "Yilin Wang",
+    "Yingjie Guo",
+    "Jian Song",
+    "Wanning Qian",
+    "Zhihai Cao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "ACS Applied Polymer Materials",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "782a6103953213c8",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsapm.6c02091",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Fluorine-Free Transparent Antifouling Polymer Coatings for Consumer Electronics via Double Latent Post-Crosslinking Strategy"
+  },
+  {
+   "authors": [
+    "Zohreh Salmani Khankahdani",
+    "Mohammad Sadegh Ghazizadeh",
+    "Vahid Vahidinasab"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "c4d913c6cc16b368",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124695",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mobile and swappable battery and hydrogen storage with centralized logistics: A capsule-based network for resilience enhancement"
+  },
+  {
+   "authors": [
+    "Sadegh Kaviani",
+    "Satyendra Kumar Satyarthi",
+    "Mkrtich Yeranosyan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "f9f85661f3424628",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157651",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Machine learning-guided design of engineered metal-organic frameworks for sustainable hydrogen storage and production"
+  },
+  {
+   "authors": [
+    "Ashish Sharma",
+    "Shivani Agarwal",
+    "Iram Sehar",
+    "Peter R. Makgwane",
+    "Hiroki Miyaoka",
+    "Takayuki Ichikawa"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T00:00:00+00:00",
+   "excerpt": "Journal of Environmental Engineering and Science",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "3760b8785180a22b",
+   "lang": "en",
+   "link": "https://doi.org/10.1680/jenes.26.00108",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Deciphering decomposition pathways in Na2CrO4-catalysed Mg(AlH4)2 and Mg(BH4)2 systems"
   },
   {
    "authors": [],
@@ -1001,6 +1170,47 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "TNO Heterostructure as Multifunctional Regulating Interfacial Layers for Stable Zinc‐Ion Batteries"
+  },
+  {
+   "authors": [
+    "Ke Hu",
+    "Ang Liu",
+    "Ruijin Li",
+    "Rong Zheng",
+    "Chengwei Liu",
+    "Muhammad Ali"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "2144a7413ae6adb0",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124540",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "H2 adsorption on coal considering the nanopore size distribution: Insight from the lattice density functional theory"
+  },
+  {
+   "authors": [
+    "Ali Hosin naseri",
+    "Fulong Zhao",
+    "Shamsuddeen Lawal"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T00:00:00+00:00",
+   "excerpt": "Annals of Nuclear Energy",
+   "first_seen": "2026-09-19T04:30:40+00:00",
+   "id": "7a5ebb24f4976482",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.anucene.2026.112838",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Small modular reactors in future energy systems: A study of grid support, distributed energy systems, non-electric applications, and economic drivers"
   },
   {
    "authors": [
@@ -17741,6 +17951,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-18T23:14:29+00:00",
+ "updated": "2026-09-19T04:30:40+00:00",
  "version": 2
 }
