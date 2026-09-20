@@ -6,8 +6,88 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 20 Sep 2026 04:47:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:14:30 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>mnemorphics</title>
+      <link>https://doi.org/10.5281/zenodo.18371320</link>
+      <guid isPermaLink="false">molecola-3279f0b8f65f5173</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>From single Ni atom to tetranuclear Ni clusters on graphdiyne: Unraveling size-dependent catalysis toward formic acid dehydrogenation</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157640</link>
+      <guid isPermaLink="false">molecola-b2ceaadb90e9023d</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Bio‐Inspired Bidirectional Proton Regulatory Mechanisms by Anhydride‐Based Hydrogel Electrolytes for High‐Performance Aqueous Zinc‐Ion Batteries</title>
+      <link>https://doi.org/10.1002/ange.2735155</link>
+      <guid isPermaLink="false">molecola-7cbb5428f7fb0d04</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie — OpenAlex</description>
+    </item>
+    <item>
+      <title>Flexible and Anti-freezing Cu@Fe3O4-PANI/Polyvinyl Alcohol/Phytic Acid/LiCl Hydrogel Electrolytes in High-Performance All-Solid-State Supercapacitors</title>
+      <link>https://doi.org/10.1021/acsaelm.6c01645</link>
+      <guid isPermaLink="false">molecola-ba7ef4126dfc7587</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Electronic Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Experimental investigation of jet flame behavior of the vertical liquid hydrogen storage tank in fire scenarios</title>
+      <link>https://doi.org/10.1016/j.est.2026.124751</link>
+      <guid isPermaLink="false">molecola-b7d17b8d1fb90641</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Structural optimization of vapor-cooled shields using a three-dimensional heat transfer model for enhancing storage efficiency</title>
+      <link>https://doi.org/10.1016/j.est.2026.124736</link>
+      <guid isPermaLink="false">molecola-89d0790cd496b14b</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Industrial thermal energy supply options: A multifactor evaluation framework</title>
+      <link>https://doi.org/10.1016/j.jclepro.2026.149299</link>
+      <guid isPermaLink="false">molecola-f4bdf6e58f318013</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Cleaner Production — OpenAlex</description>
+    </item>
+    <item>
+      <title>Improved Postharvest Quality and Reduced Chilling-Related Oxidative Damage in ‘Gros Michel’ Banana by Methyl Jasmonate-Loaded Liposome Treatment During Cold Storage</title>
+      <link>https://doi.org/10.1007/s00344-026-12472-w</link>
+      <guid isPermaLink="false">molecola-90908d5119389431</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Plant Growth Regulation — OpenAlex</description>
+    </item>
+    <item>
+      <title>Weakening conjugation of organic cyclic additives towards advanced aqueous zinc-ion batteries</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2026.241553</link>
+      <guid isPermaLink="false">molecola-8af08f1d26b4d301</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Power Sources — OpenAlex</description>
+    </item>
+    <item>
+      <title>Harnessing Nepal's surplus hydropower: Comparative economics of green hydrogen and other energy storage options</title>
+      <link>https://doi.org/10.1016/j.esr.2026.102364</link>
+      <guid isPermaLink="false">molecola-0cda866b050e28a4</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Strategy Reviews — OpenAlex</description>
+    </item>
     <item>
       <title>Europe's Hydrogen Plane Push Hits a Milestone: Honeywell Integrates a Megawatt-Class Fuel-Cell Power Source for Aircraft</title>
       <link>https://fuelcellsworks.com/2026/09/17/fuel-cells/europe-s-hydrogen-plane-push-hits-a-milestone-honeywell-integrates-a-megawatt-class-fuel-cell-power-source-for-aircraft</link>
@@ -71,6 +151,14 @@
       <pubDate>Fri, 18 Sep 2026 15:45:01 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>GS Yuasa, Toho Gas and Hokkaido University Start Hydrogen-Pumping CO2 Capture Research — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>200,000Th Zeekr 7X Rolls Off the Production Line, Marking a New Global Milestone</title>
+      <link>https://fuelcellsworks.com/2026/09/18/electric/200-000th-zeekr-7x-rolls-off-the-production-line-marking-a-new-global-milestone</link>
+      <guid isPermaLink="false">molecola-c462f9a54be03e28</guid>
+      <pubDate>Fri, 18 Sep 2026 15:35:01 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>200,000Th Zeekr 7X Rolls Off the Production Line, Marking a New Global Milestone — Fuel Cells Works</description>
     </item>
     <item>
       <title>Azane Secures Ammonia Supply Agreement with Yara</title>
@@ -167,86 +255,6 @@
       <pubDate>Fri, 18 Sep 2026 09:59:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Moeve has begun construction of the Andalusian Green Hydrogen Valley, a €3 billion project featuring up to 2 GW of electrolyzer capacity across hubs in Huelva and Cádiz. The complex is expected to produce up to 300,000… — PV Magazine</description>
-    </item>
-    <item>
-      <title>A novel risk assessment framework for renewable energy-integrated zero-carbon salt cavern hydrogen storage systems: Integrating spherical fuzzy sets, C-OWA, and CPT-GRA-VIKOR</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157410</link>
-      <guid isPermaLink="false">molecola-c514688ad361b389</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Research on the risk analysis of leakage in hydrogen refueling stations under cryo-compressed hydrogen storage conditions</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157611</link>
-      <guid isPermaLink="false">molecola-833d25ec09bbce43</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Configurational-Entropy-Engineered Prussian Blue Analogue Cathodes for Low-Temperature Semi-solid-state H2 Batteries</title>
-      <link>https://doi.org/10.1021/acsenergylett.6c01803</link>
-      <guid isPermaLink="false">molecola-c310d03232a14f48</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Energy Letters — OpenAlex</description>
-    </item>
-    <item>
-      <title>In-situ construction of a multifunctional Sb/ZnF2 hybrid coating via displacement reaction for highly stable aqueous zinc-ion batteries</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2026.241559</link>
-      <guid isPermaLink="false">molecola-df1f9d2ba739305b</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Power Sources — OpenAlex</description>
-    </item>
-    <item>
-      <title>Synergistic catalytic effect of (La, Sm)2O3@C on the hydrogen storage kinetics of Mg-Ce-Ni alloy</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157643</link>
-      <guid isPermaLink="false">molecola-d745dfed030d2e84</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Visualization experimental study on transient cavitating flow and spray characteristics of methanol high-pressure direct injector nozzles</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141319</link>
-      <guid isPermaLink="false">molecola-2ea36d4d6ef0e110</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
-      <title>Fluorine-Free Transparent Antifouling Polymer Coatings for Consumer Electronics via Double Latent Post-Crosslinking Strategy</title>
-      <link>https://doi.org/10.1021/acsapm.6c02091</link>
-      <guid isPermaLink="false">molecola-782a6103953213c8</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Polymer Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Mobile and swappable battery and hydrogen storage with centralized logistics: A capsule-based network for resilience enhancement</title>
-      <link>https://doi.org/10.1016/j.est.2026.124695</link>
-      <guid isPermaLink="false">molecola-c4d913c6cc16b368</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Machine learning-guided design of engineered metal-organic frameworks for sustainable hydrogen storage and production</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157651</link>
-      <guid isPermaLink="false">molecola-f9f85661f3424628</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Deciphering decomposition pathways in Na2CrO4-catalysed Mg(AlH4)2 and Mg(BH4)2 systems</title>
-      <link>https://doi.org/10.1680/jenes.26.00108</link>
-      <guid isPermaLink="false">molecola-3760b8785180a22b</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Environmental Engineering and Science — OpenAlex</description>
     </item>
     <item>
       <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 16 Sep 2026 16:17:26 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Toll and BlueScope Launch Two Hydrogen B-Double Prime Movers on Hastings-Geelong Steel Route — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ABS Joins Korean Initiative to Advance Standards for Next-Generation Ships and Shipyards</title>
-      <link>https://fuelcellsworks.com/2026/09/15/h2/abs-joins-korean-initiative-to-advance-standards-for-next-generation-ships-and-shipyards</link>
-      <guid isPermaLink="false">molecola-981388c8d476d75f</guid>
-      <pubDate>Wed, 16 Sep 2026 16:06:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>ABS Joins Korean Initiative to Advance Standards for Next-Generation Ships and Shipyards — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
