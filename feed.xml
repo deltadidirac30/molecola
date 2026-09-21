@@ -6,8 +6,64 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 21 Sep 2026 04:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:40:35 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Università Politecnica delle Marche</title>
+      <link>https://www.h2it.it/univpm/</link>
+      <guid isPermaLink="false">molecola-3cae2e900b360bc7</guid>
+      <pubDate>Mon, 21 Sep 2026 11:18:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">H2IT</source>
+      <description>L’Università Politecnica delle Marche (UNIVPM) è un ateneo pubblico con sede ad Ancona. Il Gruppo Sistemi Energetici, afferente al Dipartimento di Ingegneria Industriale e Scienze Matematiche (DIISM), svolge attività… — H2IT</description>
+    </item>
+    <item>
+      <title>Paju Eco Green Fuel Cell Power Plant Powers 81,000 Homes and Expands Distributed Generation</title>
+      <link>http://www.hydrogenfuelnews.com/paju-eco-green-fuel-cell-power-plant-powers-81-000-homes-and-expands-distributed/8576703/</link>
+      <guid isPermaLink="false">molecola-b5be52489a19c39e</guid>
+      <pubDate>Sun, 20 Sep 2026 23:06:55 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>SK Eternix and Bloom Energy have brought the 31 MW Paju Eco Green fuel cell plant into commercial operation in South Korea, using 94 solid oxide fuel cell modules to deliver 258 GWh per year and power 81,000 homes. The… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Coumarin-Linked COF Boosts Hydrogen Production in Photocatalytic Water Splitting</title>
+      <link>http://www.hydrogenfuelnews.com/coumarin-linked-cof-boosts-hydrogen-production-in-photocatalytic-water-splitting/8576702/</link>
+      <guid isPermaLink="false">molecola-36ed6de8babd88a3</guid>
+      <pubDate>Sun, 20 Sep 2026 10:09:59 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>CAS researchers unveil a coumarin-linked COF that prolongs charge separation by ~1,000× and achieves up to 531 mmol g⁻¹ h⁻¹ hydrogen evolution, pointing to new routes in solar hydrogen production. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production and Metals Recycling Projects Advance in Huelva</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-and-metals-recycling-projects-advance-in-huelva/8576700/</link>
+      <guid isPermaLink="false">molecola-0600577a5694a642</guid>
+      <pubDate>Sun, 20 Sep 2026 10:08:20 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Moeve’s Onuba green hydrogen project and Atlantic Copper’s CirCular metals recycling plant have mobilized about €1.55 billion in Huelva, combining renewable hydrogen production with critical-metals recovery to bolster… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Cochin International Airport advances green hydrogen production with on-site plant and hydrogen fuel cell buses</title>
+      <link>http://www.hydrogenfuelnews.com/cochin-international-airport-advances-green-hydrogen-production-with-on-site-pla/8576699/</link>
+      <guid isPermaLink="false">molecola-1e53eee0e6c4367a</guid>
+      <pubDate>Sat, 19 Sep 2026 21:13:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Cochin International Airport Ltd has launched a 1,000 kW pilot green hydrogen plant and signed on for three hydrogen fuel cell buses, marking India’s first airport-based hydrogen bus fleet. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen infrastructure: Amogy and LOTTE Fine Chemical sign MOU on ammonia-to-hydrogen and ammonia-to-power solutions in South Korea</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-amogy-and-lotte-fine-chemical-sign-mou-on-ammonia-to-hyd/8576697/</link>
+      <guid isPermaLink="false">molecola-78bb7801650ef8b8</guid>
+      <pubDate>Sat, 19 Sep 2026 08:15:01 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Amogy and LOTTE Fine Chemical have signed an MOU to develop ammonia-to-hydrogen and ammonia-to-power infrastructure in South Korea, covering on-site hydrogen refueling, distributed power and marine bunkering. The… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Finland’s Hydrogen Sauna Boat Demonstrates Clean Marine Mobility</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-finland-s-hydrogen-sauna-boat-demonstrates-clean-marine-mobility/8576696/</link>
+      <guid isPermaLink="false">molecola-07061c3511cdb756</guid>
+      <pubDate>Sat, 19 Sep 2026 08:12:51 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Central Finland Mobility Foundation and Yamaha Motor unveiled a modular Hydrogen Sauna Boat integrating fuel cell propulsion, direct heating, and swappable cartridges, advancing remote marine hydrogen infrastructure. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>mnemorphics</title>
       <link>https://doi.org/10.5281/zenodo.18371320</link>
@@ -87,6 +143,14 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Energy Strategy Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Germany and UAE Seal €40 Billion Energy and Clean Hydrogen Infrastructure Deal</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-germany-and-uae-seal-40-billion-energy-and-clean-hydrogen-infrastr/8576694/</link>
+      <guid isPermaLink="false">molecola-8604a1419009bbcb</guid>
+      <pubDate>Fri, 18 Sep 2026 19:24:33 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Germany and the UAE prepared around forty energy and technology agreements worth about €40 billion during a Berlin state visit, spanning LNG, clean hydrogen, offshore wind, battery storage and AI-driven data centers. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Europe's Hydrogen Plane Push Hits a Milestone: Honeywell Integrates a Megawatt-Class Fuel-Cell Power Source for Aircraft</title>
@@ -257,6 +321,30 @@
       <description>Moeve has begun construction of the Andalusian Green Hydrogen Valley, a €3 billion project featuring up to 2 GW of electrolyzer capacity across hubs in Huelva and Cádiz. The complex is expected to produce up to 300,000… — PV Magazine</description>
     </item>
     <item>
+      <title>Plug Power’s Cash-Flow Countdown Amid Green Hydrogen Build-Out</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-plug-power-s-cash-flow-countdown-amid-green-hydrogen-build-out/8576692/</link>
+      <guid isPermaLink="false">molecola-304027e94eb42917</guid>
+      <pubDate>Fri, 18 Sep 2026 06:18:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Plug Power’s stock slump reflects investor concerns over cash burn as its green hydrogen plants ramp capacity but delay revenue. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>CFE Announces Hybrid Solar, Battery and Green Hydrogen Infrastructure to Stabilize Mulegé's Isolated Grid</title>
+      <link>http://www.hydrogenfuelnews.com/cfe-announces-hybrid-solar-battery-and-green-hydrogen-infrastructure-to-stabiliz/8576690/</link>
+      <guid isPermaLink="false">molecola-470b52dac6e0602c</guid>
+      <pubDate>Fri, 18 Sep 2026 06:12:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>CFE announced a hybrid solar, battery and green hydrogen scheme in Mulegé to bolster its isolated grid and cut diesel use. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>BIT’s New Acid–Base Interface Quadruples PEMFC Power</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-bit-s-new-acid-base-interface-quadruples-pemfc-power/8576689/</link>
+      <guid isPermaLink="false">molecola-72e9ecd89d34ad15</guid>
+      <pubDate>Thu, 17 Sep 2026 17:17:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>BIT researchers have created a proton-exchange membrane fuel cell embedding a Brønsted acid–Lewis base interface that boosts power density fourfold, improves platinum utilization and durability, and could reduce costs… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Moeve launches construction of the first phase of Europe’s largest green hydrogen project</title>
       <link>https://hydrogeneurope.eu/moeve-launches-construction-of-the-first-phase-of-europes-largest-green-hydrogen-project/</link>
       <guid isPermaLink="false">molecola-51892d2f3340e7f9</guid>
@@ -359,94 +447,6 @@
       <pubDate>Thu, 17 Sep 2026 14:32:30 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hydrogen Pipelines and Plasma Pyrolysis: Fraunhofer Presents Solutions for a Reliable Hydrogen Economy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Idema Licenses Second Large-Scale Green Hydrogen and Ammonia Project in Rio Grande Do Norte</title>
-      <link>https://fuelcellsworks.com/2026/09/15/green-hydrogen/idema-licenses-second-large-scale-green-hydrogen-and-ammonia-project-in-rio-grande-do-norte</link>
-      <guid isPermaLink="false">molecola-bb98cf10ca02562c</guid>
-      <pubDate>Thu, 17 Sep 2026 14:27:10 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Idema Licenses Second Large-Scale Green Hydrogen and Ammonia Project in Rio Grande Do Norte — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Brookfield to Invest Up to $600 Million in ACME Cleantech Ventures for Green Hydrogen and Ammonia Projects</title>
-      <link>https://fuelcellsworks.com/2026/09/17/green-hydrogen/brookfield-to-invest-up-to-600-million-in-acme-cleantech-ventures-for-green-hydrogen-and-ammonia-projects</link>
-      <guid isPermaLink="false">molecola-e3a49374e87e615e</guid>
-      <pubDate>Thu, 17 Sep 2026 14:26:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Brookfield to Invest Up to $600 Million in ACME Cleantech Ventures for Green Hydrogen and Ammonia Projects — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>CWP Global Signs First Development Agreement Under Mauritania's Hydrogen Law for 1.2 Million-Tonne AMAN Project</title>
-      <link>https://fuelcellsworks.com/2026/09/17/green-hydrogen/cwp-global-signs-first-development-agreement-under-mauritania-s-hydrogen-law-for-1-2-million-tonne-aman-project</link>
-      <guid isPermaLink="false">molecola-835af9731dba2f43</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>CWP Global Signs First Development Agreement Under Mauritania's Hydrogen Law for 1.2 Million-Tonne AMAN Project — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Korea Petroleum Management Agency Trains Hydrogen Tube Trailer Operators in Wanju</title>
-      <link>https://fuelcellsworks.com/2026/09/15/education/korea-petroleum-management-agency-trains-hydrogen-tube-trailer-operators-in-wanju</link>
-      <guid isPermaLink="false">molecola-a7e81e6db4e1d51a</guid>
-      <pubDate>Thu, 17 Sep 2026 12:51:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Korea Petroleum Management Agency Trains Hydrogen Tube Trailer Operators in Wanju — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Stevens Researchers Discover Ways to Boost Performance in Hydrogen Fuel Cell Membranes with Big Implications for Improving This Clean Energy Tech’s Performance</title>
-      <link>https://fuelcellsworks.com/2026/09/10/h2/stevens-researchers-discover-ways-to-boost-performance-in-hydrogen-fuel-cell-membranes-with-big-implications-for-improving-this-clean-energy-tech-s-performance</link>
-      <guid isPermaLink="false">molecola-61efffe429d017ed</guid>
-      <pubDate>Thu, 17 Sep 2026 12:40:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Stevens Researchers Discover Ways to Boost Performance in Hydrogen Fuel Cell Membranes with Big Implications for Improving This Clean Energy Tech’s Performance — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Daimler Truck Invests Hundreds of Millions in NextGenH2 Hydrogen Fuel-Cell Trucks</title>
-      <link>http://www.hydrogenfuelnews.com/daimler-truck-invests-hundreds-of-millions-in-nextgenh2-hydrogen-fuel-cell-truck/8576685/</link>
-      <guid isPermaLink="false">molecola-5db832321ab56168</guid>
-      <pubDate>Thu, 17 Sep 2026 04:12:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Daimler Truck Holding AG will invest several hundred million euros in hydrogen fuel-cell trucks, launching a 100-unit NextGenH2 series supported by €226 million of public funding and aligned with EU decarbonisation… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Global investment tops $130 billion as energy security drives growth</title>
-      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-global-investment-tops-130-billion-as-energy-security-drives/8576683/</link>
-      <guid isPermaLink="false">molecola-bd13569c9f3280f4</guid>
-      <pubDate>Thu, 17 Sep 2026 04:09:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Global committed investment in clean hydrogen projects has reached USD 130 billion across over 570 projects, driven by energy security and decarbonization goals, but a policy execution gap must close to realize full… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs</title>
-      <link>https://fuelcellsworks.com/2026/09/15/electric/lisbon-adds-29-electric-buses-as-carris-fleet-passes-100-evs</link>
-      <guid isPermaLink="false">molecola-cca4059205b5a787</guid>
-      <pubDate>Wed, 16 Sep 2026 16:24:05 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Lisbon Adds 29 Electric Buses as Carris Fleet Passes 100 EVs — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Volvo Trucks Unveils New Electric Truck for Gross Combination Weights of up to 80 Tonnes with a Longer Range</title>
-      <link>https://fuelcellsworks.com/2026/09/15/electric/volvo-trucks-unveils-new-electric-truck-for-gross-combination-weights-of-up-to-80-tonnes-with-a-longer-range</link>
-      <guid isPermaLink="false">molecola-701bc040db017cf0</guid>
-      <pubDate>Wed, 16 Sep 2026 16:19:04 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Volvo Trucks Unveils New Electric Truck for Gross Combination Weights of up to 80 Tonnes with a Longer Range — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Depotcharge Lands €2.7M and BGL Partnership to Scale Electric Truck Charging</title>
-      <link>https://fuelcellsworks.com/2026/09/15/electric/depotcharge-lands-2-7m-and-bgl-partnership-to-scale-electric-truck-charging</link>
-      <guid isPermaLink="false">molecola-9cf60275397f0599</guid>
-      <pubDate>Wed, 16 Sep 2026 16:18:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Depotcharge Lands €2.7M and BGL Partnership to Scale Electric Truck Charging — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Toll and BlueScope Launch Two Hydrogen B-Double Prime Movers on Hastings-Geelong Steel Route</title>
-      <link>https://fuelcellsworks.com/2026/09/08/fuel-cells/toll-and-bluescope-launch-two-hydrogen-b-double-prime-movers-on-hastings-geelong-steel-route</link>
-      <guid isPermaLink="false">molecola-28de9d515772901c</guid>
-      <pubDate>Wed, 16 Sep 2026 16:17:26 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Toll and BlueScope Launch Two Hydrogen B-Double Prime Movers on Hastings-Geelong Steel Route — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
