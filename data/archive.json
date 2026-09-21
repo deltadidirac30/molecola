@@ -1,5 +1,5 @@
 {
- "count": 1046,
+ "count": 1048,
  "items": [
   {
    "authors": [
@@ -649,6 +649,45 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Construction begins on 2 GW green hydrogen plant in Spain"
+  },
+  {
+   "authors": [
+    "Andrei Kulikovsky"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T07:58:32+00:00",
+   "excerpt": "We extend a recent physics-based matrix model for calculating PEM fuel cell impedance (doi:10.1149/2754-2734/ad6ce8) to cases of low air flow stoichiometry and functionally graded cathode catalyst layers (CCLs). We…",
+   "first_seen": "2026-09-21T04:47:36+00:00",
+   "id": "47c238e6230d0a65",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.21446v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A fast physics-based matrix model for the impedance of a PEM fuel cell: Incorporating functionally graded catalyst layer and channel impedances"
+  },
+  {
+   "authors": [
+    "Alexandre Sac-Morane",
+    "Maria Olarte-Garzon",
+    "Philipp Braun",
+    "Jean-Michel Pereira",
+    "Manolis Veveakis",
+    "Hadrien Rattez"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-18T07:19:23+00:00",
+   "excerpt": "While underground reservoirs emerge as essential elements to face global warming, these systems represent complex multi-physical and multiscale problems. The considered injection of fluids during hydrogen storage…",
+   "first_seen": "2026-09-21T04:47:36+00:00",
+   "id": "4f79c96c86d81316",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.21410v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Predicting the Elastic Properties of a Cemented Granular Material during Chemical Damage (Debonding)"
   },
   {
    "authors": [
@@ -18405,6 +18444,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-20T23:10:57+00:00",
+ "updated": "2026-09-21T04:47:36+00:00",
  "version": 2
 }
