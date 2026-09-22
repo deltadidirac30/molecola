@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:50:41 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Hydrogen corrosion mechanism and multi-field coupled constitutive model for wellbore cement sheath in salt cavern hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.conbuildmat.2026.148219</link>
+      <guid isPermaLink="false">molecola-8c5e162dba8a6c8c</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Construction and Building Materials — OpenAlex</description>
+    </item>
     <item>
       <title>STRABAG to Build Fast-Charging Network for Electric Heavy Goods Vehicles in Germany</title>
       <link>https://fuelcellsworks.com/2026/09/20/electric/strabag-to-build-fast-charging-network-for-electric-heavy-goods-vehicles-in-germany</link>
@@ -225,6 +233,70 @@
       <description>CEAS Space Journal — OpenAlex</description>
     </item>
     <item>
+      <title>Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems</title>
+      <link>https://doi.org/10.1080/21642583.2026.2728376</link>
+      <guid isPermaLink="false">molecola-babf01847c427641</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Systems Science &amp; Control Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Development of an Olfactory Receptor (OR5K1)-Based Biosensor for Pyrazine Detection in Foods</title>
+      <link>https://doi.org/10.3390/foods15183355</link>
+      <guid isPermaLink="false">molecola-14720ba119ef2643</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Foods — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Focused Review on Zinc‐Anode Protection for Durable Aqueous Zinc–Iodine Soft‐Gel Electrode Batteries</title>
+      <link>https://doi.org/10.1002/smll.75795</link>
+      <guid isPermaLink="false">molecola-99bdeb8f562db288</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Small — OpenAlex</description>
+    </item>
+    <item>
+      <title>Photogenerated Radical-Based Dual-Wavelength Responsive Photochromic Ionic Hydrogen-Bonded Organic Frameworks for Multiform Advanced Information Storage and Encryption</title>
+      <link>https://doi.org/10.1021/acsami.6c15435</link>
+      <guid isPermaLink="false">molecola-e1c4be4bf85898e8</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
+      <title>Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems</title>
+      <link>https://doi.org/10.6084/m9.figshare.33954946.v1</link>
+      <guid isPermaLink="false">molecola-9a41c498736344eb</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Figshare — OpenAlex</description>
+    </item>
+    <item>
+      <title>Numerical analysis of high temperature RHC (2Li_RHC) + 1TiO2 based hydrogen storage elliptical reactor</title>
+      <link>https://doi.org/10.1007/s12046-026-03325-z</link>
+      <guid isPermaLink="false">molecola-c645467c73580f80</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Sadhana — OpenAlex</description>
+    </item>
+    <item>
+      <title>Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems</title>
+      <link>https://doi.org/10.6084/m9.figshare.33954946</link>
+      <guid isPermaLink="false">molecola-74102220943e6db5</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Figshare — OpenAlex</description>
+    </item>
+    <item>
+      <title>Sustainable collaborative planning of green hydrogen refueling networks in urban agglomerations: A three-stage framework integrating geospatially explicit screening, fuzzy MCDM, and stochastic optimization</title>
+      <link>https://doi.org/10.1016/j.jclepro.2026.149497</link>
+      <guid isPermaLink="false">molecola-e86545472c4ecbb0</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Cleaner Production — OpenAlex</description>
+    </item>
+    <item>
       <title>Paju Eco Green Fuel Cell Power Plant Powers 81,000 Homes and Expands Distributed Generation</title>
       <link>http://www.hydrogenfuelnews.com/paju-eco-green-fuel-cell-power-plant-powers-81-000-homes-and-expands-distributed/8576703/</link>
       <guid isPermaLink="false">molecola-b5be52489a19c39e</guid>
@@ -249,62 +321,6 @@
       <description>Moeve’s Onuba green hydrogen project and Atlantic Copper’s CirCular metals recycling plant have mobilized about €1.55 billion in Huelva, combining renewable hydrogen production with critical-metals recovery to bolster… — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.18371320</link>
-      <guid isPermaLink="false">molecola-3279f0b8f65f5173</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Quantitative risk assessment of a hydrogen-electric coupling system in a compact confined space</title>
-      <link>https://doi.org/10.6084/m9.figshare.33944461.v1</link>
-      <guid isPermaLink="false">molecola-fb6229c8d514c072</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Figshare — OpenAlex</description>
-    </item>
-    <item>
-      <title>Expansion planning of an existing grid-connected microgrid via coordinated solar and hybrid storage: A study on Deakin University township toward net-zero target</title>
-      <link>https://doi.org/10.1016/j.est.2026.124635</link>
-      <guid isPermaLink="false">molecola-6c58d0458e308eeb</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.22862344</link>
-      <guid isPermaLink="false">molecola-aa36e5dbb8450a82</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Quantitative risk assessment of a hydrogen-electric coupling system in a compact confined space</title>
-      <link>https://doi.org/10.6084/m9.figshare.33944461</link>
-      <guid isPermaLink="false">molecola-8610368e76b33a9d</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Figshare — OpenAlex</description>
-    </item>
-    <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.22862245</link>
-      <guid isPermaLink="false">molecola-cb1887318831f311</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>mnemorphics</title>
-      <link>https://doi.org/10.5281/zenodo.22862114</link>
-      <guid isPermaLink="false">molecola-7b4a7bf426c6ee50</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
       <title>Cochin International Airport advances green hydrogen production with on-site plant and hydrogen fuel cell buses</title>
       <link>http://www.hydrogenfuelnews.com/cochin-international-airport-advances-green-hydrogen-production-with-on-site-pla/8576699/</link>
       <guid isPermaLink="false">molecola-1e53eee0e6c4367a</guid>
@@ -327,22 +343,6 @@
       <pubDate>Sat, 19 Sep 2026 08:12:51 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Central Finland Mobility Foundation and Yamaha Motor unveiled a modular Hydrogen Sauna Boat integrating fuel cell propulsion, direct heating, and swappable cartridges, advancing remote marine hydrogen infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>From single Ni atom to tetranuclear Ni clusters on graphdiyne: Unraveling size-dependent catalysis toward formic acid dehydrogenation</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157640</link>
-      <guid isPermaLink="false">molecola-b2ceaadb90e9023d</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Bio‐Inspired Bidirectional Proton Regulatory Mechanisms by Anhydride‐Based Hydrogel Electrolytes for High‐Performance Aqueous Zinc‐Ion Batteries</title>
-      <link>https://doi.org/10.1002/ange.2735155</link>
-      <guid isPermaLink="false">molecola-7cbb5428f7fb0d04</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie — OpenAlex</description>
     </item>
     <item>
       <title>Germany and UAE Seal €40 Billion Energy and Clean Hydrogen Infrastructure Deal</title>

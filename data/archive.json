@@ -1,6 +1,28 @@
 {
- "count": 1095,
+ "count": 1119,
  "items": [
+  {
+   "authors": [
+    "Tongtao Wang",
+    "Tao He",
+    "Jiqin Liu",
+    "Chunhe Yang",
+    "Xianlong Ma",
+    "Youqiang Liao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Construction and Building Materials",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "8c5e162dba8a6c8c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.conbuildmat.2026.148219",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen corrosion mechanism and multi-field coupled constitutive model for wellbore cement sheath in salt cavern hydrogen storage"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -414,6 +436,368 @@
    "title": "Propulsion and attitude control for Foresail-2: harnessing water electrolysis propulsion in a 6U CubeSat mission"
   },
   {
+   "authors": [
+    "Mohammed Bou-Rabee",
+    "Fajer M. Alelaj",
+    "Mustafa Fadel",
+    "Hussain Alsairfi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Systems Science & Control Engineering",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "babf01847c427641",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/21642583.2026.2728376",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems"
+  },
+  {
+   "authors": [
+    "Lele Zhang",
+    "Yan Ping Chen",
+    "Suet Yee Tan",
+    "Zhiping Xie",
+    "Xichang Wang",
+    "Yuan Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "14720ba119ef2643",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15183355",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development of an Olfactory Receptor (OR5K1)-Based Biosensor for Pyrazine Detection in Foods"
+  },
+  {
+   "authors": [
+    "Kaiqiang Zhang",
+    "Haoning Xi",
+    "Shengtao Yang",
+    "Yuping Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "99bdeb8f562db288",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.75795",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Focused Review on Zinc‐Anode Protection for Durable Aqueous Zinc–Iodine Soft‐Gel Electrode Batteries"
+  },
+  {
+   "authors": [
+    "Dan Zhao",
+    "Yu-Ying Dai",
+    "Bin Zhou",
+    "Cheng Liu",
+    "Wenmin Zhang",
+    "Li‐Hui Cao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "ACS Applied Materials & Interfaces",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "e1c4be4bf85898e8",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsami.6c15435",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Photogenerated Radical-Based Dual-Wavelength Responsive Photochromic Ionic Hydrogen-Bonded Organic Frameworks for Multiform Advanced Information Storage and Encryption"
+  },
+  {
+   "authors": [
+    "Mohammed Bou-Rabee",
+    "Fajer M. Alelaj",
+    "Mustafa Fadel",
+    "Hussain Al-Sairfi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "9a41c498736344eb",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.33954946.v1",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems"
+  },
+  {
+   "authors": [
+    "Pradip Kharat",
+    "Sharad Dattatray Patil"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Sadhana",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "c645467c73580f80",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s12046-026-03325-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Numerical analysis of high temperature RHC (2Li_RHC) + 1TiO2 based hydrogen storage elliptical reactor"
+  },
+  {
+   "authors": [
+    "Mohammed Bou-Rabee",
+    "Fajer M. Alelaj",
+    "Mustafa Fadel",
+    "Hussain Al-Sairfi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "74102220943e6db5",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.33954946",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Closing the loop: experimental validation of a predictive multi-timescale controller for hybrid battery-hydrogen storage systems"
+  },
+  {
+   "authors": [
+    "Jianli Zhou",
+    "Yiran Ma",
+    "Jiayi Ren",
+    "Zhemei Ma",
+    "Cheng Yang",
+    "Xinya Sun"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Journal of Cleaner Production",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "e86545472c4ecbb0",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jclepro.2026.149497",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable collaborative planning of green hydrogen refueling networks in urban agglomerations: A three-stage framework integrating geospatially explicit screening, fuzzy MCDM, and stochastic optimization"
+  },
+  {
+   "authors": [
+    "Huixian Yang",
+    "Wei Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "b0e72a8b23320d3e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157696",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multi-aspect design and multi-objective optimization of an integrated solar-driven solid oxide electrolysis system for simultaneous hydrogen and ammonia production"
+  },
+  {
+   "authors": [
+    "Akeem Babatunde Akinwola",
+    "Abdulaziz A. Alkuhayli"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Electronics",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "72675ba1c0b09a86",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/electronics15184323",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-Economic Optimization of Hydrogen-Integrated Hybrid Microgrids for Rural Electrification Using the Hippopotamus Optimization Algorithm"
+  },
+  {
+   "authors": [
+    "Junwen Yang",
+    "Zhi Xu",
+    "Min Ren",
+    "He Jiang",
+    "Xinze Xi",
+    "Risheng Qin"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Processes",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "d75fb32b4767108b",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/pr14183019",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal Capacity Configuration and Multi-Factor Sensitivity Analysis of a Rural Integrated Energy System Incorporating Hydrogen Energy Storage and Carbon Cycling"
+  },
+  {
+   "authors": [
+    "Kailu Liu",
+    "Xu Zhang",
+    "Xuejiao Hu",
+    "Xiangyang He",
+    "Jin Bai",
+    "Yuyuan Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Materials Science and Engineering B",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "5faed6cb44b67580",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.mseb.2026.119878",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen storage behavior and capacity degradation mechanism of single-phase A5B19-type La-Y-Ni-based alloy"
+  },
+  {
+   "authors": [
+    "Hae-Seong Hwang",
+    "Jin-Sik Oh",
+    "Jeong-Hwan Yoon"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Journal of the Korean Society of Manufacturing Process Engineers",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "57cc0e247995caa3",
+   "lang": "en",
+   "link": "https://doi.org/10.14775/ksmpe.2026.25.9.116",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Numerical Study on the Thermal Behavior of Liquid Hydrogen Storage Tanks Regarding Scale"
+  },
+  {
+   "authors": [
+    "Enaam Elsomadi",
+    "Boutheina Ben Akacha",
+    "Wirginia Kukula‐Koch",
+    "Narjes Baazaoui",
+    "Monika Michalak",
+    "Miroslava Kačániová"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "eFood",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "2cddb50f72e036b0",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/efd2.70208",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Natural Preservation of Refrigerated Chicken Meat Using Asphodelus microcarpus Root Extract With Machine‐Learning‐Based Shelf‐Life Prediction"
+  },
+  {
+   "authors": [
+    "Oluwafemi Ezekiel Ige",
+    "Musasa Kabeya"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Science Engineering and Technology",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "f6bfc1a958b599e6",
+   "lang": "en",
+   "link": "https://doi.org/10.54327/set2026/v6.i2.351",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Computational Sustainability for Climate-Resilient Materials: AI-Driven Decarbonization Pathways for Cement and Industrial Systems"
+  },
+  {
+   "authors": [
+    "Athira Thekkath",
+    "Michelle Ji Yeon Yoo"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "Molecules",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "9f058809bc86efb8",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/molecules31183347",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development of Orange Peel-Derived Alginate-Pectin Edible Coatings with Chitosan and Clove Essential Oil for Postharvest Preservation of Cherry Tomatoes"
+  },
+  {
+   "authors": [
+    "Dazhong Zhong",
+    "Runxin Du",
+    "Tan Li",
+    "Jianjun Ma",
+    "Yuhui Zhang",
+    "Qiang Fang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "ACS Catalysis",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "7a87e317f7a405e8",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acscatal.6c03118",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Electrochemical CO Reduction to n-Propanol on Cu via Dual Weakening of CO Adsorption and C≡O Bond Strength"
+  },
+  {
+   "authors": [
+    "Owais Ahmad",
+    "Curran Crawford",
+    "Haris Ishaq"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "359b05fad2e91bb7",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157530",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Nonlinear operability thresholds in offshore green hydrogen production: Multi-objective system design under metocean uncertainty"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-09-20T23:06:55+00:00",
@@ -502,7 +886,7 @@
     "Hossein G. Sahebi",
     "Moslem Mohammadi",
     "Felipe Bastarrica",
-    "Saman A. Gorji",
+    "Saman Asghari Gorji",
     "Asef Nazari"
    ],
    "category": "ricerca",
@@ -590,6 +974,115 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "Qingchao Gao",
+    "Xinyu Tan",
+    "Jiapeng Ye",
+    "Yuhan Zhu",
+    "Xueyan Ren",
+    "Qingjun Kong"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-20T00:00:00+00:00",
+   "excerpt": "Food Chemistry",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "03a149ae574dfac6",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.foodchem.2026.151246",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mung bean protein isolate/cationic guar gum-based composite aerogel with sustained-release of thyme essential oil for preservation of kiwifruit"
+  },
+  {
+   "authors": [
+    "Shuyue Li",
+    "Zhenghui Leng",
+    "Qian Wang",
+    "Juan Wang",
+    "Fei Du"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-20T00:00:00+00:00",
+   "excerpt": "ChemSusChem",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "c6c8f2d0630e54a0",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cssc.71055",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Zincophilic Copper‐Based Architectures for Stable Zinc Anodes: Mechanisms, Progress, and Perspectives"
+  },
+  {
+   "authors": [
+    "Qi Wang",
+    "Yuqi Yao",
+    "Zhilu Xu",
+    "Ben Fan",
+    "Xiaopeng Xu",
+    "Yihui Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-20T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "89c68a37ea27dbda",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.78582",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Self‐Sustaining Redox Molecular Regulation Stabilizes and Enables Low‐Dimensional Metal Halide/Organic Interdigitated Heterojunction Solar Cells"
+  },
+  {
+   "authors": [
+    "Passakorn Kingwascharapong",
+    "Jaksuma Pongsetkul",
+    "Supatra Karnjanapratum",
+    "Pittaya Chaikham",
+    "Saroat Rawdkuen",
+    "Sani Jirasatid"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-20T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "b1ac909e6614f1e4",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15183336",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multifunctional Effects of Peach Palm (Bactris gasipaes) Heart Powder on the Printability, Structural Properties, Probiotic Viability, and Gastrointestinal Digestion of Soy Protein-Based 3D-Printed Foods"
+  },
+  {
+   "authors": [
+    "Xin Li",
+    "Meijuan Xu",
+    "Min Li",
+    "Xinming Yin",
+    "Huang Zhang",
+    "Xueqin Gao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-20T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-09-22T16:50:57+00:00",
+   "id": "4206463cb0d83321",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15183332",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interaction Mechanism of Bovine Myosin Oxidation Inhibition by Epicatechin Gallate: Insights from Molecular Docking and Thermodynamic Analysis"
   },
   {
    "authors": [],
@@ -19206,6 +19699,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-22T11:28:23+00:00",
+ "updated": "2026-09-22T16:50:57+00:00",
  "version": 2
 }
