@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 04:45:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:28:02 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>STRABAG to Build Fast-Charging Network for Electric Heavy Goods Vehicles in Germany</title>
@@ -183,6 +183,30 @@
       <pubDate>Mon, 21 Sep 2026 13:12:30 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Corsica Sole has commissioned a 150 kW green hydrogen facility at its 12 MW Folelli solar plant in Corsica to convert otherwise-curtailed solar power into hydrogen. The facility can produce around 20 kg of hydrogen per… — PV Magazine</description>
+    </item>
+    <item>
+      <title>Hydrogen infrastructure: Delgaz Grid validates 30% hydrogen blending in existing networks</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-delgaz-grid-validates-30-hydrogen-blending-in-existing-n/8576709/</link>
+      <guid isPermaLink="false">molecola-2ee5e4c854864ce6</guid>
+      <pubDate>Mon, 21 Sep 2026 12:24:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Delgaz Grid’s 30HyGrid pilot confirms safe integration of 30% hydrogen blends in existing low-pressure gas infrastructure. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Clean Hydrogen News: Plug Power Launches Midwest Investor Engagement Project to Drive Green Hydrogen Adoption</title>
+      <link>http://www.hydrogenfuelnews.com/clean-hydrogen-news-plug-power-launches-midwest-investor-engagement-project-to-d/8576708/</link>
+      <guid isPermaLink="false">molecola-e252161f42d8ab25</guid>
+      <pubDate>Mon, 21 Sep 2026 12:24:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Plug Power and Craig-Hallum are engaging Midwest investors through a non-deal roadshow to showcase PEM electrolyzers, GenDrive fuel cells and hydrogen infrastructure, aiming to secure capital for scaling green hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>GH Power Secures 1,000 kg/Day Hydrogen Offtake from Hamilton Facility</title>
+      <link>http://www.hydrogenfuelnews.com/gh-power-secures-1-000-kg-day-hydrogen-offtake-from-hamilton-facility/8576707/</link>
+      <guid isPermaLink="false">molecola-cb047893d512cc72</guid>
+      <pubDate>Mon, 21 Sep 2026 12:21:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>GH Power has secured its first hydrogen offtake deal, agreeing to supply up to 1,000 kg per day from its Hamilton facility to Hone Inc. through Change Energy Engineering, marking a key commercialization milestone for… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Università Politecnica delle Marche</title>
@@ -423,30 +447,6 @@
       <pubDate>Fri, 18 Sep 2026 15:17:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Researchers Turn Solar Heat Into Green Hydrogen in East Midlands Freeport Design and Build Challenge — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>South Korea Tests Hydrogen Production Using Wave Energy</title>
-      <link>https://fuelcellsworks.com/2026/09/18/h2/south-korea-tests-hydrogen-production-using-wave-energy</link>
-      <guid isPermaLink="false">molecola-6a40c6d23005193d</guid>
-      <pubDate>Fri, 18 Sep 2026 15:09:15 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>South Korea Tests Hydrogen Production Using Wave Energy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>EnviroFALK Scales Ultrapure Water Systems to Support 100MW Electrolysers</title>
-      <link>https://fuelcellsworks.com/2026/09/16/h2/envirofalk-scales-ultrapure-water-systems-to-support-100mw-electrolysers</link>
-      <guid isPermaLink="false">molecola-e4037b283dbd7b39</guid>
-      <pubDate>Fri, 18 Sep 2026 15:05:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>EnviroFALK Scales Ultrapure Water Systems to Support 100MW Electrolysers — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>EU Crete Valley Partners Review Energy Projects Across Crete</title>
-      <link>https://fuelcellsworks.com/2026/09/18/h2/eu-crete-valley-partners-review-energy-projects-across-crete</link>
-      <guid isPermaLink="false">molecola-084bd098cdc268aa</guid>
-      <pubDate>Fri, 18 Sep 2026 14:57:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>EU Crete Valley Partners Review Energy Projects Across Crete — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

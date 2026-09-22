@@ -1,5 +1,5 @@
 {
- "count": 1092,
+ "count": 1095,
  "items": [
   {
    "authors": [],
@@ -330,6 +330,51 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Corsica Sole switches on 150 kW electrolyzer at 12 MW solar plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-21T12:24:02+00:00",
+   "excerpt": "Delgaz Grid’s 30HyGrid pilot confirms safe integration of 30% hydrogen blends in existing low-pressure gas infrastructure.",
+   "first_seen": "2026-09-22T11:28:23+00:00",
+   "id": "2ee5e4c854864ce6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-delgaz-grid-validates-30-hydrogen-blending-in-existing-n/8576709/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen infrastructure: Delgaz Grid validates 30% hydrogen blending in existing networks"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-21T12:24:02+00:00",
+   "excerpt": "Plug Power and Craig-Hallum are engaging Midwest investors through a non-deal roadshow to showcase PEM electrolyzers, GenDrive fuel cells and hydrogen infrastructure, aiming to secure capital for scaling green hydrogen…",
+   "first_seen": "2026-09-22T11:28:23+00:00",
+   "id": "e252161f42d8ab25",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/clean-hydrogen-news-plug-power-launches-midwest-investor-engagement-project-to-d/8576708/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Clean Hydrogen News: Plug Power Launches Midwest Investor Engagement Project to Drive Green Hydrogen Adoption"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-21T12:21:50+00:00",
+   "excerpt": "GH Power has secured its first hydrogen offtake deal, agreeing to supply up to 1,000 kg per day from its Hamilton facility to Hone Inc. through Change Energy Engineering, marking a key commercialization milestone for…",
+   "first_seen": "2026-09-22T11:28:23+00:00",
+   "id": "cb047893d512cc72",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/gh-power-secures-1-000-kg-day-hydrogen-offtake-from-hamilton-facility/8576707/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "GH Power Secures 1,000 kg/Day Hydrogen Offtake from Hamilton Facility"
   },
   {
    "authors": [],
@@ -19161,6 +19206,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-22T04:46:11+00:00",
+ "updated": "2026-09-22T11:28:23+00:00",
  "version": 2
 }
