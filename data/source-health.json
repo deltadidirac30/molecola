@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-21T19:57:23+00:00",
- "productive": 11,
+ "checked": "2026-09-22T00:03:12+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -28,6 +36,14 @@
    "newest": null
   },
   {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -42,14 +58,6 @@
    "error": null,
    "count": 0,
    "newest": null
-  },
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-09-18T07:58:32+00:00"
   },
   {
    "slug": "energy-storage-news",
@@ -106,14 +114,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-04-24T11:09:07+00:00"
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": true,
-   "error": null,
-   "count": 39,
-   "newest": "2026-09-21T00:00:00+00:00"
   },
   {
    "slug": "power",
