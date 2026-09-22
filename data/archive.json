@@ -1,6 +1,21 @@
 {
- "count": 1088,
+ "count": 1092,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-21T16:17:26+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-22T04:46:11+00:00",
+   "id": "a4ebf4ad4f9566cf",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/20/electric/strabag-to-build-fast-charging-network-for-electric-heavy-goods-vehicles-in-germany",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "STRABAG to Build Fast-Charging Network for Electric Heavy Goods Vehicles in Germany"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -105,6 +120,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "HyOrc Completes Off-Site Modular Build of First Commercial Waste-to-Methanol Plant Bound for Porto"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-21T15:39:20+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-22T04:46:11+00:00",
+   "id": "165985a9702e6934",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/20/electric/the-city-of-helsinki-passenger-cars-and-vans-will-be-purchased-as-fully-electric-vehicles-in-the-future",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "The City of Helsinki Passenger Cars and Vans Will Be Purchased as Fully Electric Vehicles in the Future"
   },
   {
    "authors": [],
@@ -1617,6 +1647,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Hydrodynamic cavitation-enabled process intensification for sustainable renewable energy production: Advances and perspectives"
+  },
+  {
+   "authors": [
+    "H. Dong",
+    "S. D. M. Jacques",
+    "M. Q. Hlatshwayo",
+    "E. Papoutsellis",
+    "K. Georgopoulos",
+    "A. M. Beale"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-17T20:48:20+00:00",
+   "excerpt": "Quantitative analysis of experimental powder X-ray diffraction data remains challenging when evaluating complex multiphase materials and noisy measurements. We introduce a hybrid quantum neural network framework…",
+   "first_seen": "2026-09-22T04:46:11+00:00",
+   "id": "4aa6bdb91bd2e499",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.22376v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A Hybrid Quantum Neural Network to Analyse Big Experimental Powder X-ray Diffraction Data"
   },
   {
    "authors": [],
@@ -11306,6 +11358,24 @@
    "title": "Quantifying natural hydrogen prospectivity in Italy"
   },
   {
+   "authors": [
+    "Kuan Huang",
+    "Bo Bai"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-03T04:56:19+00:00",
+   "excerpt": "Energy systems face converging pressures for security, affordability, resilience, and sustainability, creating a need for faster discovery of deployable energy materials. Here we introduce SCALE (Simulation-Calibrated…",
+   "first_seen": "2026-09-22T04:46:11+00:00",
+   "id": "a8faa133adb054f6",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.22233v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "SCALE: Simulation-Calibrated Amortized Learning for Energy Materials (A hybrid architecture connecting deterministic modeling, real-world data, and transformer-scale inference for accelerated energy-materials discovery)"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-09-03T00:19:49+00:00",
@@ -19091,6 +19161,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-22T00:03:12+00:00",
+ "updated": "2026-09-22T04:46:11+00:00",
  "version": 2
 }

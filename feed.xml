@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 22 Sep 2026 00:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:45:25 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>STRABAG to Build Fast-Charging Network for Electric Heavy Goods Vehicles in Germany</title>
+      <link>https://fuelcellsworks.com/2026/09/20/electric/strabag-to-build-fast-charging-network-for-electric-heavy-goods-vehicles-in-germany</link>
+      <guid isPermaLink="false">molecola-a4ebf4ad4f9566cf</guid>
+      <pubDate>Mon, 21 Sep 2026 16:17:26 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>STRABAG to Build Fast-Charging Network for Electric Heavy Goods Vehicles in Germany — Fuel Cells Works</description>
+    </item>
     <item>
       <title>Lower Saxony Approves 20Km Wilhelmshaven Hydrogen Pipeline</title>
       <link>https://fuelcellsworks.com/2026/09/17/h2/lower-saxony-approves-20km-wilhelmshaven-hydrogen-pipeline</link>
@@ -63,6 +71,14 @@
       <pubDate>Mon, 21 Sep 2026 15:40:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>HyOrc Completes Off-Site Modular Build of First Commercial Waste-to-Methanol Plant Bound for Porto — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>The City of Helsinki Passenger Cars and Vans Will Be Purchased as Fully Electric Vehicles in the Future</title>
+      <link>https://fuelcellsworks.com/2026/09/20/electric/the-city-of-helsinki-passenger-cars-and-vans-will-be-purchased-as-fully-electric-vehicles-in-the-future</link>
+      <guid isPermaLink="false">molecola-165985a9702e6934</guid>
+      <pubDate>Mon, 21 Sep 2026 15:39:20 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>The City of Helsinki Passenger Cars and Vans Will Be Purchased as Fully Electric Vehicles in the Future — Fuel Cells Works</description>
     </item>
     <item>
       <title>Enagás CEO Arturo Gonzalo: Spain Needs at Least 79 Hydrogen Stations by 2030 Under EU Targets</title>
@@ -431,22 +447,6 @@
       <pubDate>Fri, 18 Sep 2026 14:57:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>EU Crete Valley Partners Review Energy Projects Across Crete — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Técnicas Reunidas Enters the South African Market with an Engineering Services Contract for a Large Green Hydrogen and Ammonia Plant</title>
-      <link>https://fuelcellsworks.com/2026/09/16/h2/tecnicas-reunidas-enters-the-south-african-market-with-an-engineering-services-contract-for-a-large-green-hydrogen-and-ammonia-plant</link>
-      <guid isPermaLink="false">molecola-3a02ea44c89c6fa5</guid>
-      <pubDate>Fri, 18 Sep 2026 14:50:27 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Técnicas Reunidas Enters the South African Market with an Engineering Services Contract for a Large Green Hydrogen and Ammonia Plant — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Korean Researchers Build a Water-Electrolysis Electrode That Costs 99% Less Than Precious Metals — and Works Better</title>
-      <link>https://fuelcellsworks.com/2026/09/17/h2/korean-researchers-build-a-water-electrolysis-electrode-that-costs-99-percent-less-than-precious-metals-and-works-better</link>
-      <guid isPermaLink="false">molecola-f873b2ac06943d6c</guid>
-      <pubDate>Fri, 18 Sep 2026 13:45:57 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Korean Researchers Build a Water-Electrolysis Electrode That Costs 99% Less Than Precious Metals — and Works Better — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
