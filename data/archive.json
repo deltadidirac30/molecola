@@ -1,6 +1,51 @@
 {
- "count": 1146,
+ "count": 1155,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T08:22:42+00:00",
+   "excerpt": "Siltrax has launched its C2 Series, a 2 kW to 6 kW air-cooled hydrogen fuel cell platform for UAVs, portable power and off-grid applications. The system combines a closed-cathode architecture, dead-end anode…",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "c79fa6ae5f9d6800",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/09/23/siltrax-launches-2-6-kw-air-cooled-fuel-cell-system-for-off-grid-applications/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "Siltrax launches 2–6 kW air-cooled fuel cell system for off-grid applications"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T03:09:18+00:00",
+   "excerpt": "H2APEX and Lhyfe have extended their German partnership for clean hydrogen, securing up to 100 tonnes per year of RFNBO-certified supply for two years.",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "72c0b1219a057412",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/h2apex-and-lhyfe-expand-clean-hydrogen-offtake-agreement-in-germany/8576717/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "H2APEX and Lhyfe Expand Clean Hydrogen Offtake Agreement in Germany"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T03:08:50+00:00",
+   "excerpt": "KRISO is demonstrating offshore green hydrogen production at its Jeju wave energy test site, using wave-powered electrolysis to store renewable energy as hydrogen.",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "9b113f3d6bc64e32",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-demonstration-advances-at-kriso-s-offshore-wave-energy/8576716/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Demonstration Advances at KRISO’s Offshore Wave Energy Test Site"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -109,6 +154,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-22T15:26:33+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "b34fd168f54bef6a",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/21/electric/green-sm-indonesia-launches-premium-6-seat-electric-taxi-service-and-attractive-new-vehicle-rental-program",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Green SM Indonesia Launches Premium 6-Seat Electric Taxi Service and Attractive New Vehicle Rental Program"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-22T15:23:28+00:00",
    "excerpt": "",
    "first_seen": "2026-09-22T21:13:42+00:00",
@@ -184,6 +244,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-22T14:19:56+00:00",
+   "excerpt": "Stargate Hydrogen secured a €20.6 million EU Innovation Fund grant to expand its Tallinn electrolyser manufacturing, targeting 250 MW electrodes, 150 MW pressurised stacks and 66 MW complete systems annually, aiming to…",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "4fccd3545938590d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-capacity-to-rise-after-eu-innovation-fund-grant-to-sta/8576715/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Capacity to Rise After EU Innovation Fund Grant to Stargate Hydrogen"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-22T14:18:41+00:00",
    "excerpt": "",
    "first_seen": "2026-09-22T21:13:42+00:00",
@@ -214,6 +289,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-22T14:15:12+00:00",
+   "excerpt": "Symbio unveiled a compact third-generation PEM fuel-cell stack at IAA Transportation 2026, targeting heavy-duty mobility with an 80 litre, 90 kg design integrated into a 150 kW StackPack and planning customer tests in…",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "b3ec14a32cafb054",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/symbio-unveils-third-generation-hydrogen-fuel-cell-stack-for-heavy-duty-mobility/8576714/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Symbio Unveils Third-Generation Hydrogen Fuel-Cell Stack for Heavy-Duty Mobility at IAA Transportation"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-22T14:12:05+00:00",
    "excerpt": "",
    "first_seen": "2026-09-22T21:13:42+00:00",
@@ -225,6 +315,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Tata Steel Gives Final Acceptance to PyroGenesis Hydrogen Recovery System in India"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-22T14:08:06+00:00",
+   "excerpt": "EBL secured 3.55 million euros to build a 1 MW PEM electrolyzer at the Niemark waste site, integrating solar PV, hydrogen storage and refueling infrastructure for heavy-duty vehicles.",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "ac9d45326dda2bfc",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-at-l-beck-waste-facility-backed-by-/8576710/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production and Infrastructure at Lübeck Waste Facility Backed by State Funding"
   },
   {
    "authors": [],
@@ -1253,6 +1358,36 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Titanium doped magnesium clusters for hydrogen storage"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-20T23:27:09+00:00",
+   "excerpt": "Fraunhofer ISE finds that round-the-clock green hydrogen delivery from off-grid renewables can increase LCOH by €1–2.5/kg and in some regions nearly double costs, highlighting the infrastructure trade-off between…",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "c2537cd044534059",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-costs-could-nearly-double-under-round-the-clock-off-gr/8576705/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Costs Could Nearly Double Under Round-the-Clock Off-Grid Supply, Fraunhofer ISE Analysis Finds"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-20T23:18:31+00:00",
+   "excerpt": "Uniper SE has agreed to sell its 20% OPAL pipeline stake to Hy24, fulfilling EU state aid obligations and boosting Germany’s hydrogen infrastructure.",
+   "first_seen": "2026-09-23T11:26:02+00:00",
+   "id": "159d03faa5f39dbf",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/uniper-divests-opal-stake-to-hy24-driving-germany-s-hydrogen-infrastructure/8576704/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Uniper Divests OPAL Stake to Hy24, Driving Germany’s Hydrogen Infrastructure"
   },
   {
    "authors": [],
@@ -20156,6 +20291,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-23T04:38:09+00:00",
+ "updated": "2026-09-23T11:26:02+00:00",
  "version": 2
 }

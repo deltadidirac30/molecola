@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-22T21:13:42+00:00",
- "productive": 11,
+ "checked": "2026-09-23T11:26:02+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
   {
@@ -24,6 +24,14 @@
    "name": "Agenzia europea dell'ambiente",
    "ok": true,
    "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "count": 0,
    "newest": null
   },
@@ -97,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-21T12:24:02+00:00"
+   "newest": "2026-09-23T03:09:18+00:00"
   },
   {
    "slug": "offshore-energy",
@@ -106,14 +114,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-04-24T11:09:07+00:00"
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": true,
-   "error": null,
-   "count": 39,
-   "newest": "2026-09-22T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-21T13:12:30+00:00"
+   "newest": "2026-09-23T08:22:42+00:00"
   }
  ]
 }
