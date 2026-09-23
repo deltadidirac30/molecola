@@ -1,5 +1,5 @@
 {
- "count": 1155,
+ "count": 1173,
  "items": [
   {
    "authors": [],
@@ -546,6 +546,382 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Highly Efficient Au 1 Pd Single‐Atom Alloy Catalyzing Reversible Formate/Bicarbonate Interconversion: Proof‐of‐Concept for Formate‐Salt Cavern Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-06T20:20:51+00:00",
+   "id": "3279f0b8f65f5173",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.18371320",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "Jeslin Jebish G P"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Discover Chemistry.",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "7f65820d240630ad",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s44371-026-00985-y",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integration of density functional theory and machine learning for materials discovery in energy applications"
+  },
+  {
+   "authors": [
+    "Shuang Liu",
+    "Juan Ma",
+    "Yiwen Zhang",
+    "Wei Chang",
+    "Siyu Chen",
+    "Zhao Meng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Journal of Food Science and Technology",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "5f5ace6042641f6d",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s13197-026-06738-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Postharvest preservation techniques to prevent water loss in Rosa roxburghii Tratt"
+  },
+  {
+   "authors": [
+    "Jordie Pettit",
+    "Jaqueline Pinto",
+    "Tina Soliman Hunter",
+    "Madeline Taylor",
+    "Ruven Fleming"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Journal of Energy & Natural Resources Law",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "34e6a5eda49eeaf4",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/02646811.2026.2720023",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A regulatory framework for financing common user infrastructure in hydrogen hubs and valleys in the EU and Australia"
+  },
+  {
+   "authors": [
+    "Dexin Xu",
+    "Lanjun Zhang",
+    "Xuyao Qi",
+    "Ying Wang",
+    "Dingqiang Shao",
+    "Ye Yao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "ba10ff9c6737bdf3",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141406",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ultraviolet-enhanced oxidative activation of pre-oxidized coal during storage: radical evolution and mechanistic insights into low-temperature oxidation"
+  },
+  {
+   "authors": [
+    "Lining Yang",
+    "Jian Yang",
+    "Zhe Liu",
+    "Jie Yin",
+    "Wenfeng Lin",
+    "Minchao Ding"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "5f17231ef0852cdd",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157608",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Coupled characteristics and operational optimization of a high-pressure hydrogen cascade fast refueling system"
+  },
+  {
+   "authors": [
+    "Qiangang Qi",
+    "Dan Luo",
+    "Diangui Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "e28f93c44c2d6acf",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157411",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Performance optimization and comparative analysis of a DME-fueled chemically recuperated gas turbine"
+  },
+  {
+   "authors": [
+    "Kartik Kothalkar"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "e81bcfed565525c9",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22900267",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solid-State Lithium-Glass Batteries: Suppressing Dendrite Formation via Nanoscale Atomic Layer Deposition"
+  },
+  {
+   "authors": [
+    "Muhammad Umar",
+    "Taslima Khanam",
+    "Luis Herrera Diaz",
+    "A. M. Mabrur Ahmad Rashedi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Sustainability",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "4ceef84de3c55c47",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/su18199719",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Environmental Life Cycle Assessment of Hydrogen Energy Production for Fuel Cell Buses: A Review"
+  },
+  {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "7ffbf685d0395665",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22905267",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "Yaru Li",
+    "Long Kuang",
+    "Kang Ao",
+    "Jiajiao Zhe",
+    "Wei Gan",
+    "Zongsheng Tao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "NANO",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "87f09d6b71d113c9",
+   "lang": "en",
+   "link": "https://doi.org/10.1142/s1793292026300264",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Research Progress on Cerium-Based Catalysts for Mg-Based Hydrogen Storage Materials: Structural Regulation and Catalytic Mechanisms"
+  },
+  {
+   "authors": [
+    "Luca Brunelli",
+    "Mahima Mishra",
+    "Francesco Vinti",
+    "Laura Carbini",
+    "Francesco Ragonese",
+    "Giorgio Rocchi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Applied Sciences",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "1d1a47529b330890",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/app16199434",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Towards Life Cycle Assessment of Clathrate Hydrate Technologies: Insights from Bibliometric Analysis"
+  },
+  {
+   "authors": [
+    "Kartik Kothalkar"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "3b37ac85a77a46b2",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22900268",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solid-State Lithium-Glass Batteries: Suppressing Dendrite Formation via Nanoscale Atomic Layer Deposition"
+  },
+  {
+   "authors": [
+    "Zulkipli Nor Akhlisah",
+    "Pin Jern Ker",
+    "Muhammad Faris Roslan",
+    "M. A. Hannan",
+    "Nan Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "136bfd5d142f9404",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157615",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Renewables-integrated microgrids for low-carbon ammonia production: Technologies, economic and environmental perspectives"
+  },
+  {
+   "authors": [
+    "Xiaofang Xiang",
+    "Hongbo Zhang",
+    "Lianghuan Zhou",
+    "Ningbo Kang",
+    "Gaojun Zhao",
+    "冯民安"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Journal of Food Engineering",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "80a58758f22d0608",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jfoodeng.2026.113342",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Vacuum precooling delays softening in fresh goji berries (Lycium barbarum L.): Associations between mechanical properties and antioxidant responses"
+  },
+  {
+   "authors": [
+    "Lei Guo",
+    "Ankang Su",
+    "Jiali Hua",
+    "Qing Zhang",
+    "Wei Shi",
+    "Haiming Lv"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "564e3ebeba8e4d6c",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c09807",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic Coupling of Mn3O4-N-C Cathode and Additive-Mediated Anode Stabilization for High-Utilization Alkaline Al-Air Batteries"
+  },
+  {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "a634696622eb7bfe",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22897176",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "francis lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "9b3a93cf2088abf5",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22904896",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "mnemorphics"
+  },
+  {
+   "authors": [
+    "Fons Dingenen",
+    "Manu Donders",
+    "Rajeshreddy Ninakanti",
+    "Christine Vantomme",
+    "Daniel Arenas Esteban",
+    "Rituraj Borah"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "ChemSusChem",
+   "first_seen": "2026-09-23T16:49:20+00:00",
+   "id": "7472df48077a1519",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cssc.71072",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen From Simulated Seawater Using Long‐Term Stable and Cost‐Effective Plasmonic Photocatalysts"
   },
   {
    "authors": [],
@@ -1433,23 +1809,6 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Green Hydrogen Production and Metals Recycling Projects Advance in Huelva"
-  },
-  {
-   "authors": [
-    "francis lee"
-   ],
-   "category": "ricerca",
-   "date": "2026-09-20T00:00:00+00:00",
-   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
-   "first_seen": "2026-09-06T20:20:51+00:00",
-   "id": "3279f0b8f65f5173",
-   "lang": "en",
-   "link": "https://doi.org/10.5281/zenodo.18371320",
-   "manual": null,
-   "paywall": false,
-   "source": "OpenAlex",
-   "source_slug": "openalex",
-   "title": "mnemorphics"
   },
   {
    "authors": [
@@ -20291,6 +20650,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-23T11:26:02+00:00",
+ "updated": "2026-09-23T16:49:20+00:00",
  "version": 2
 }
