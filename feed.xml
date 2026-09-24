@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:37:39 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Changan UK Announces Ohme as Its Home EV Charging Partner</title>
@@ -57,6 +57,14 @@
       <description>HysetCo Calls for Hydrogen to Remain Part of France’s Mobility Electrification Plan — Fuel Cells Works</description>
     </item>
     <item>
+      <title>ACEA Proposal on EU Electric Vehicle Exports to the United Kingdom</title>
+      <link>https://fuelcellsworks.com/2026/09/22/electric/acea-auto</link>
+      <guid isPermaLink="false">molecola-7c88b38d8f8e4ab1</guid>
+      <pubDate>Wed, 23 Sep 2026 15:40:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>ACEA Proposal on EU Electric Vehicle Exports to the United Kingdom — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>HK Opens First Hydrogen Fuel Testing Lab as Commercial Rollout Remains in Early Stages</title>
       <link>https://fuelcellsworks.com/2026/09/23/h2/hk-opens-first-hydrogen-fuel-testing-lab-as-commercial-rollout-remains-in-early-stages</link>
       <guid isPermaLink="false">molecola-6acbb140dc2e8b98</guid>
@@ -79,6 +87,14 @@
       <pubDate>Wed, 23 Sep 2026 15:26:39 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>H2AccelerateTRUCKS Launches Its Fuel Cell Electric End User Group — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Fraunhofer IIS Develops Automated X-Ray Analysis for Electric Vehicle Batteries</title>
+      <link>https://fuelcellsworks.com/2026/09/22/battery/fraunhofer-iis-develops-automated-x-ray-analysis-for-electric-vehicle-batteries</link>
+      <guid isPermaLink="false">molecola-46c35f8fd325df2b</guid>
+      <pubDate>Wed, 23 Sep 2026 15:20:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Fraunhofer IIS Develops Automated X-Ray Analysis for Electric Vehicle Batteries — Fuel Cells Works</description>
     </item>
     <item>
       <title>Arkema Inaugurates Its New Hydrogen Production Unit in Jarrie</title>
@@ -431,22 +447,6 @@
       <pubDate>Mon, 21 Sep 2026 15:59:54 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Fuel Cell and Hydrogen News Highlights From China: Sept. 14-Sept. 18, 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Cefmof Hydrogen and Reduciner Deepen Cooperation to Develop New Applications for Hydrogen</title>
-      <link>https://fuelcellsworks.com/2026/09/21/h2/cefmof-hydrogen-and-reduciner-deepen-cooperation-to-develop-new-applications-for-hydrogen</link>
-      <guid isPermaLink="false">molecola-5baf8cde5a46ee0e</guid>
-      <pubDate>Mon, 21 Sep 2026 15:56:41 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Cefmof Hydrogen and Reduciner Deepen Cooperation to Develop New Applications for Hydrogen — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Dutch Trio Unveils What They Say Is the First Fuel Cell Vehicle Purpose-Built for Infrastructure Work at IAA</title>
-      <link>https://fuelcellsworks.com/2026/09/14/fuel-cells/dutch-trio-unveils-what-they-say-is-the-first-fuel-cell-vehicle-purpose-built-for-infrastructure-work-at-iaa</link>
-      <guid isPermaLink="false">molecola-88c5a33748dcf6d6</guid>
-      <pubDate>Mon, 21 Sep 2026 15:50:41 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Dutch Trio Unveils What They Say Is the First Fuel Cell Vehicle Purpose-Built for Infrastructure Work at IAA — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
