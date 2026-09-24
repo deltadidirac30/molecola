@@ -1,6 +1,56 @@
 {
- "count": 1191,
+ "count": 1209,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-24T06:00:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "ce599ea1cfd48b0c",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/industry-calls-to-keep-binding-rfnbo-hydrogen-targets/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Industry calls to keep binding RFNBO hydrogen targets"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T05:26:14+00:00",
+   "excerpt": "Gas Malaysia Berhad and Air Liquide Engineering & Construction signed an MoU at Gastech 2026 to explore low-carbon hydrogen, Bio-LNG and CO₂ off-take projects in Malaysia. The agreement sets a framework for feasibility…",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "d9cdc9baeb30b9ad",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/gas-malaysia-and-air-liquide-to-explore-low-carbon-hydrogen-bio-lng-and-co2-off-/8576724/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Gas Malaysia and Air Liquide to Explore Low-Carbon Hydrogen, Bio-LNG and CO2 Off-Take in Malaysia"
+  },
+  {
+   "authors": [
+    "Adham Sarhan",
+    "Pavlos Rompokos",
+    "Ioannis Roumeliotis",
+    "Pericles Pilidis"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-24T00:00:00+00:00",
+   "excerpt": "The Aeronautical Journal",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "64bfce64216b93e1",
+   "lang": "en",
+   "link": "https://doi.org/10.1017/aer.2026.10232",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Assessing technologies towards sustainable aviation: a scenario-based analysis using AeroMAPS"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -30,6 +80,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Tesla Picked as Primary Supplier for 2,500-Truck U.S. Electric Fleet Orde"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T16:14:56+00:00",
+   "excerpt": "CRRC has unveiled its 2,000 kW VELFORCE hydrogen fuel-cell hybrid locomotive at InnoTrans in Berlin, pairing a 400 kW dual-stack fuel-cell with traction batteries to deliver zero-tailpipe-emission freight power on…",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "0c56ad7ecafc08cf",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-crrc-unveils-2-000-kw-velforce-hydrogen-fuel-cell-hybrid-locomotiv/8576720/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: CRRC Unveils 2,000 kW VELFORCE Hydrogen Fuel-Cell Hybrid Locomotive"
   },
   {
    "authors": [],
@@ -315,6 +380,283 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Green Hydrogen Production Demonstration Advances at KRISO’s Offshore Wave Energy Test Site"
+  },
+  {
+   "authors": [
+    "Dongyue Cao",
+    "Ran Wei",
+    "Eugene Yin Cheung Wong",
+    "Akbar Maleki"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "3facc4cd97034515",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157394",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimization and design of a hybrid solar-diesel-hydrogen system for sustainable RO desalination using an advanced dynamic metaheuristic algorithm"
+  },
+  {
+   "authors": [
+    "Xilin Shi",
+    "Chenxi Wang",
+    "Hao Tian",
+    "Shijie Zhu",
+    "Xinxing Wei",
+    "Si Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "3238be03af6a02cb",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117529",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Deep underground energy storage solutions for data centers driven by artificial intelligence energy consumption"
+  },
+  {
+   "authors": [
+    "Yu Liang",
+    "Mengtian Huo",
+    "Xingzhe Guo",
+    "Wei Liu",
+    "Xiaowen Gu",
+    "Xinye Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Chinese Journal of Chemistry",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "4afb099700503a6c",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cjoc.70801",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ultrastable and High‐Capacity Aqueous Ammonium‐Ion Storage in {Mo 7 }@ CNTs via a Pseudocapacitive Hydrogen‐Bonding Network"
+  },
+  {
+   "authors": [
+    "Zhen Li",
+    "Yan-Yan Gao",
+    "LIU Qi",
+    "Bo-Xiang Xu",
+    "Pin Qian",
+    "Weiqiang Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Inorganic Chemistry",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "48c14a1f25eb0ba0",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.inorgchem.6c04209",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Atomically Precise Copper Nanoclusters for CO2-to-C2 Electroreduction: Coupling-Site Topology, Reaction Pathways, and Active-State Evolution"
+  },
+  {
+   "authors": [
+    "Sima Afrashteh",
+    "Fatemeh Nazoori",
+    "Seyed Hossein Mirdehghan"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Applied Fruit Science",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "e8b44e259612e30c",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10341-026-02044-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimizing the Postharvest Storage of ‘Akbari’ Pistachios: The Role of Chitosan, CMC, and CaO"
+  },
+  {
+   "authors": [
+    "Zhijie Yan",
+    "Xinrong Chen",
+    "Chunpeng Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "JACS Au",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "1233042cde5fc515",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/jacsau.6c01152",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Asymmetric Zinc–Nitrate/Hydrogen Battery Chemistry Coupling Electrochemical Hydrogen Charge and Energy Storage"
+  },
+  {
+   "authors": [
+    "Massoud Momeni",
+    "Seyyed Arash Haddadi",
+    "Salman Soltanian",
+    "Sajad Mohammad Zamani",
+    "Tizazu H. Mekonnen",
+    "Aicheng Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Journal of Environmental Management",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "fc7f9e745ac45687",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jenvman.2026.131011",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effect of hydrothermal and deep eutectic solvent solvothermal pretreatments on the structural evolution of corncob-derived activated carbons for enhanced hydrogen storage and CO2 capture"
+  },
+  {
+   "authors": [
+    "LI Zhong-zheng",
+    "Mengke Liao",
+    "Yan Wang",
+    "Ruixuan Zhang",
+    "Jiawen Sun",
+    "Hua Zheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "PLoS ONE",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "caec181770b33351",
+   "lang": "en",
+   "link": "https://doi.org/10.1371/journal.pone.0350884",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Distributed electricity–carbon co-optimization of hydrogen energy storage microgrids with dynamic laplace perturbation and model predictive control"
+  },
+  {
+   "authors": [
+    "Pengcheng Li",
+    "Chenglin Pua",
+    "Zehao Dong",
+    "Zhengxiong Su",
+    "Tao Liu",
+    "Chao Cai"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Science Advances",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "230abb3c6535d720",
+   "lang": "en",
+   "link": "https://doi.org/10.1126/sciadv.aed5872",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Atomic-scale quantification of hydrogen in metal hydrides by electron ptychography"
+  },
+  {
+   "authors": [
+    "Qiuhong Wang",
+    "Qiuhong Wang",
+    "Wenzhe Mao",
+    "Zhenmin Luo",
+    "Wei Gao",
+    "Qingfeng Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "ac93bb3198fc61de",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117512",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent advances in combustion/explosion hazards and suppression strategies for metal hydride hydrogen storage materials"
+  },
+  {
+   "authors": [
+    "El Houcine Lahrar",
+    "Abdelali El Omrani",
+    "Othman El Kssiri",
+    "Abdechafik El harrak",
+    "Omaima Bourzgui",
+    "Imane Nadi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "Intermetallics",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "4d47996c3c2bec93",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.intermet.2026.109574",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tailoring hydrogen storage and release in Ti2-xSixCrV alloys through silicon substitution: Experimental and first-principles insights"
+  },
+  {
+   "authors": [
+    "Long Kuang",
+    "Wei Gan",
+    "Jiajiao Zhe",
+    "Yaru Li",
+    "Kang Ao",
+    "Zongsheng Tao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "ACS Omega",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "c16b1ba369a797bb",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsomega.5c13393",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-Principles Insights of Cr-Decorated BeN4 Monolayer for Promising Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Nolla Todorović",
+    "Ivana Jovanović",
+    "Ailong Fan",
+    "Danilo Nikolić",
+    "Nikola Vladimir"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "947a91195b58a589",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157729",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen for marine applications: A critical review across production pathways, onboard technologies, and operational sectors"
   },
   {
    "authors": [],
@@ -1192,6 +1534,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Hydrogen From Simulated Seawater Using Long‐Term Stable and Cost‐Effective Plasmonic Photocatalysts"
+  },
+  {
+   "authors": [
+    "Qinfang Li",
+    "Pei Yao",
+    "Yaqi Cheng",
+    "Jincheng Ji",
+    "Jinyu Yang",
+    "Huaxin Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-22T00:00:00+00:00",
+   "excerpt": "Inorganic Chemistry Communications",
+   "first_seen": "2026-09-24T11:37:51+00:00",
+   "id": "f4058f23726c85e1",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.inoche.2026.117625",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Electrochemical nitrate reduction to ammonia over oxygen-vacancy-rich CoWO4 catalysts: Balancing activity and stability"
   },
   {
    "authors": [],
@@ -20920,6 +21284,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-24T04:37:58+00:00",
+ "updated": "2026-09-24T11:37:51+00:00",
  "version": 2
 }
