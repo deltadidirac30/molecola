@@ -1,6 +1,21 @@
 {
- "count": 1255,
+ "count": 1260,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T12:30:32+00:00",
+   "excerpt": "Nasce in Trentino un polo industriale di eccellenza interamente dedicato alle tecnologie dell’idrogeno e dell’elettrochimica. A Serravalle di Ala (Trento) è stato inaugurato oggi – 25 settembre 2026 – il nuovo sito di…",
+   "first_seen": "2026-09-25T17:04:42+00:00",
+   "id": "7b9938593788a236",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/green-economy/ufi-hydrogen-inaugura-in-trentino-il-nuovo-polo-per-le-tecnologie-dellidrogeno/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "UFI Hydrogen inaugura in Trentino il nuovo polo per le tecnologie dell’idrogeno"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -15,6 +30,36 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-25T10:45:16+00:00",
+   "excerpt": "La parziale marcia indietro ventilata dalla Commissione europea sugli obiettivi vincolanti dopo il 2030 per l’idrogeno non convince le aziende del settore energetico. Il 23 settembre, 170 compagnie, tra cui l’italiana…",
+   "first_seen": "2026-09-25T17:04:42+00:00",
+   "id": "f2e58a00f7194ad2",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/pro/articoli-pro/idrogeno-pressing-ue-mantenere-obiettivi-post-2030/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Idrogeno, pressing sull’Ue per mantenere gli obiettivi post 2030"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T02:50:03+00:00",
+   "excerpt": "On September 9, 2026, the Yongli Hydrogen Plant at the Ningdong Energy and Chemical Industry Base achieved full-load hydrogen production of 5,000 Nm³/h, with all hydrogen produced supplied to external customers…",
+   "first_seen": "2026-09-25T17:04:42+00:00",
+   "id": "206d481f42be6f54",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/verde-hydrogen-s-world-first-5-000-nm-h-class-asymmetric-five-to-one-water-elect/8576727/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "VERDE HYDROGEN’s World-First 5,000 Nm³/h-Class Asymmetric “Five-to- One” Water Electrolysis System Surpasses 760 Days of Safe Operation"
   },
   {
    "authors": [
@@ -185,6 +230,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-24T15:31:58+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-25T17:04:42+00:00",
+   "id": "981f429e011f38cd",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/24/battery/bye-aerospace-advances-eflyer-program-with-first-successful-flight-of-eflyer-2",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Bye Aerospace Advances eFlyer Program with First Successful Flight of eFlyer 2"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-24T15:23:06+00:00",
    "excerpt": "",
    "first_seen": "2026-09-24T21:27:36+00:00",
@@ -196,6 +256,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose."
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T15:22:05+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-25T17:04:42+00:00",
+   "id": "3a57bcc571bef78d",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/22/electric/iveco-bus-enters-the-electric-compact-minibus-segment-with-eflexy-line-and-eflexy-city",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "IVECO BUS Enters the Electric Compact Minibus Segment with eFLEXY Line and eFLEXY City"
   },
   {
    "authors": [],
@@ -22112,6 +22187,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-25T11:43:44+00:00",
+ "updated": "2026-09-25T17:04:42+00:00",
  "version": 2
 }

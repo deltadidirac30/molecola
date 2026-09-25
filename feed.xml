@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 25 Sep 2026 11:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:04:22 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>UFI Hydrogen inaugura in Trentino il nuovo polo per le tecnologie dell’idrogeno</title>
+      <link>https://www.canaleenergia.com/rubriche/green-economy/ufi-hydrogen-inaugura-in-trentino-il-nuovo-polo-per-le-tecnologie-dellidrogeno/</link>
+      <guid isPermaLink="false">molecola-7b9938593788a236</guid>
+      <pubDate>Fri, 25 Sep 2026 12:30:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>Nasce in Trentino un polo industriale di eccellenza interamente dedicato alle tecnologie dell’idrogeno e dell’elettrochimica. A Serravalle di Ala (Trento) è stato inaugurato oggi – 25 settembre 2026 – il nuovo sito di… — Canale Energia</description>
+    </item>
     <item>
       <title>The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel</title>
       <link>https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/</link>
@@ -15,6 +23,22 @@
       <pubDate>Fri, 25 Sep 2026 11:40:12 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>In other news, African green hydrogen projects secure new funding and Mauritania advances the Aman project. Moreover, Ansaldo Green Tech is expands electrolyzer manufacturing, as Toyota, Iveco and Hyster advances… — PV Magazine</description>
+    </item>
+    <item>
+      <title>Idrogeno, pressing sull’Ue per mantenere gli obiettivi post 2030</title>
+      <link>https://www.qualenergia.it/pro/articoli-pro/idrogeno-pressing-ue-mantenere-obiettivi-post-2030/</link>
+      <guid isPermaLink="false">molecola-f2e58a00f7194ad2</guid>
+      <pubDate>Fri, 25 Sep 2026 10:45:16 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>La parziale marcia indietro ventilata dalla Commissione europea sugli obiettivi vincolanti dopo il 2030 per l’idrogeno non convince le aziende del settore energetico. Il 23 settembre, 170 compagnie, tra cui l’italiana… — QualEnergia</description>
+    </item>
+    <item>
+      <title>VERDE HYDROGEN’s World-First 5,000 Nm³/h-Class Asymmetric “Five-to- One” Water Electrolysis System Surpasses 760 Days of Safe Operation</title>
+      <link>http://www.hydrogenfuelnews.com/verde-hydrogen-s-world-first-5-000-nm-h-class-asymmetric-five-to-one-water-elect/8576727/</link>
+      <guid isPermaLink="false">molecola-206d481f42be6f54</guid>
+      <pubDate>Fri, 25 Sep 2026 02:50:03 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>On September 9, 2026, the Yongli Hydrogen Plant at the Ningdong Energy and Chemical Industry Base achieved full-load hydrogen production of 5,000 Nm³/h, with all hydrogen produced supplied to external customers… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>An efficiency-oriented hierarchical energy management strategy for renewable electric-hydrogen systems with adaptive multi-stack PEMFC activation</title>
@@ -97,12 +121,28 @@
       <description>Super73 and Oracle Red Bull Racing Supercharge E-Bike Lineup with Limited-Run Super73-M1d Special Edition — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Bye Aerospace Advances eFlyer Program with First Successful Flight of eFlyer 2</title>
+      <link>https://fuelcellsworks.com/2026/09/24/battery/bye-aerospace-advances-eflyer-program-with-first-successful-flight-of-eflyer-2</link>
+      <guid isPermaLink="false">molecola-981f429e011f38cd</guid>
+      <pubDate>Thu, 24 Sep 2026 15:31:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Bye Aerospace Advances eFlyer Program with First Successful Flight of eFlyer 2 — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose.</title>
       <link>https://fuelcellsworks.com/2026/09/22/h2/moselle-sits-on-two-energy-futures-fossil-gas-now-or-the-world-s-biggest-natural-hydrogen-deposit-later-france-just-got-asked-to-choose</link>
       <guid isPermaLink="false">molecola-87e414e4ea95eb4f</guid>
       <pubDate>Thu, 24 Sep 2026 15:23:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose. — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>IVECO BUS Enters the Electric Compact Minibus Segment with eFLEXY Line and eFLEXY City</title>
+      <link>https://fuelcellsworks.com/2026/09/22/electric/iveco-bus-enters-the-electric-compact-minibus-segment-with-eflexy-line-and-eflexy-city</link>
+      <guid isPermaLink="false">molecola-3a57bcc571bef78d</guid>
+      <pubDate>Thu, 24 Sep 2026 15:22:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>IVECO BUS Enters the Electric Compact Minibus Segment with eFLEXY Line and eFLEXY City — Fuel Cells Works</description>
     </item>
     <item>
       <title>BNamericas: Hydrogen Council CEO Talks State of Play, Outlook, Energy Shocks</title>
@@ -407,46 +447,6 @@
       <pubDate>Wed, 23 Sep 2026 14:44:59 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>TOTO Becomes First Sanitaryware Maker to Use Green Hydrogen in Commercial Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Uniper Signs 10-Year-Plus Deal for 40,000 Tonnes of Green Hydrogen-Based E-SAF a Year</title>
-      <link>https://fuelcellsworks.com/2026/09/23/green-hydrogen/uniper-signs-10-year-plus-deal-for-40-000-tonnes-of-green-hydrogen-based-e-saf-a-year</link>
-      <guid isPermaLink="false">molecola-fb1b3e0a64bf38e7</guid>
-      <pubDate>Wed, 23 Sep 2026 14:37:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Uniper Signs 10-Year-Plus Deal for 40,000 Tonnes of Green Hydrogen-Based E-SAF a Year — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Q8 Aviation Signs Long-Term E-SAF Supply Agreement with Verso Energy's DEZiR Project in Normandy</title>
-      <link>https://fuelcellsworks.com/2026/09/23/clean-energy/q8-aviation-signs-long-term-e-saf-supply-agreement-with-verso-energy-s-dezir-project-in-normandy</link>
-      <guid isPermaLink="false">molecola-3eece46862d6ac95</guid>
-      <pubDate>Wed, 23 Sep 2026 13:32:57 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Q8 Aviation Signs Long-Term E-SAF Supply Agreement with Verso Energy's DEZiR Project in Normandy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Siltrax launches 2–6 kW air-cooled fuel cell system for off-grid applications</title>
-      <link>https://www.pv-magazine.com/2026/09/23/siltrax-launches-2-6-kw-air-cooled-fuel-cell-system-for-off-grid-applications/</link>
-      <guid isPermaLink="false">molecola-c79fa6ae5f9d6800</guid>
-      <pubDate>Wed, 23 Sep 2026 08:22:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Siltrax has launched its C2 Series, a 2 kW to 6 kW air-cooled hydrogen fuel cell platform for UAVs, portable power and off-grid applications. The system combines a closed-cathode architecture, dead-end anode… — PV Magazine</description>
-    </item>
-    <item>
-      <title>H2APEX and Lhyfe Expand Clean Hydrogen Offtake Agreement in Germany</title>
-      <link>http://www.hydrogenfuelnews.com/h2apex-and-lhyfe-expand-clean-hydrogen-offtake-agreement-in-germany/8576717/</link>
-      <guid isPermaLink="false">molecola-72c0b1219a057412</guid>
-      <pubDate>Wed, 23 Sep 2026 03:09:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>H2APEX and Lhyfe have extended their German partnership for clean hydrogen, securing up to 100 tonnes per year of RFNBO-certified supply for two years. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production Demonstration Advances at KRISO’s Offshore Wave Energy Test Site</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-demonstration-advances-at-kriso-s-offshore-wave-energy/8576716/</link>
-      <guid isPermaLink="false">molecola-9b113f3d6bc64e32</guid>
-      <pubDate>Wed, 23 Sep 2026 03:08:50 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>KRISO is demonstrating offshore green hydrogen production at its Jeju wave energy test site, using wave-powered electrolysis to store renewable energy as hydrogen. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
