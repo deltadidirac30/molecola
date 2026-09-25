@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 24 Sep 2026 21:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 04:47:38 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>YPP Corporation and Kazakhstan Explore Green Hydrogen Production and Ammonia Complex in East Kazakhstan</title>
+      <link>http://www.hydrogenfuelnews.com/ypp-corporation-and-kazakhstan-explore-green-hydrogen-production-and-ammonia-com/8576725/</link>
+      <guid isPermaLink="false">molecola-31ddf3033cf2f683</guid>
+      <pubDate>Thu, 24 Sep 2026 18:15:44 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>YPP Corporation, alongside Kazakhstan’s Ministry of Energy and regional authorities, has unveiled an exploratory memorandum for a $2 billion green hydrogen and ammonia complex in East Kazakhstan. The planned 1 GW wind… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Renault to Invest €600 Million in Spain, Start EV Production</title>
       <link>https://fuelcellsworks.com/2026/09/24/electric/renault-to-invest-600-million-in-spain-start-ev-production</link>
@@ -15,6 +23,14 @@
       <pubDate>Thu, 24 Sep 2026 18:12:31 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Renault to Invest €600 Million in Spain, Start EV Production — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</title>
+      <link>https://arxiv.org/abs/2609.30133v1</link>
+      <guid isPermaLink="false">molecola-9d278efcf0463a95</guid>
+      <pubDate>Thu, 24 Sep 2026 17:04:37 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale… — arXiv</description>
     </item>
     <item>
       <title>Haffner Energy Brings the Cost of Renewable Diesel and SAF Closer to that of Fossil Fuels with SB-HEFA</title>
@@ -143,6 +159,30 @@
       <pubDate>Thu, 24 Sep 2026 05:26:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Gas Malaysia Berhad and Air Liquide Engineering &amp; Construction signed an MoU at Gastech 2026 to explore low-carbon hydrogen, Bio-LNG and CO₂ off-take projects in Malaysia. The agreement sets a framework for feasibility… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Toyota Hilux FCEV drives Europe’s hydrogen infrastructure forward</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-toyota-hilux-fcev-drives-europe-s-hydrogen-infrastructur/8576723/</link>
+      <guid isPermaLink="false">molecola-398eb16e42750456</guid>
+      <pubDate>Thu, 24 Sep 2026 05:12:44 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Toyota Motor Europe plans to launch a hydrogen fuel-cell Hilux in Europe by 2028 with targets of over 400 km range and 2,500 kg towing, boosting clean hydrogen infrastructure. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>EnergyPathways and Hycamite Collaborate on Methane-Splitting Hydrogen Production and Graphite Facility at Port of Barrow</title>
+      <link>http://www.hydrogenfuelnews.com/energypathways-and-hycamite-collaborate-on-methane-splitting-hydrogen-production/8576722/</link>
+      <guid isPermaLink="false">molecola-86e1fbb5e2a26924</guid>
+      <pubDate>Thu, 24 Sep 2026 05:10:55 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>EnergyPathways has teamed up with Hycamite to evaluate methane-splitting hydrogen and graphite production at Port of Barrow, as part of its MESH energy-storage hub. Targets: 20,000 t/yr H2, 60,000 t/yr graphite under… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Ebara Elliott Energy to supply liquid-hydrogen pump for Chart Ferox trailer</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-boost-as-ebara-elliott-energy-supplies-liquid-hydrogen-p/8576721/</link>
+      <guid isPermaLink="false">molecola-de04b99589bf8147</guid>
+      <pubDate>Thu, 24 Sep 2026 05:10:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Ebara Elliott Energy will supply a liquid-hydrogen pump to Chart Ferox for a GOLIAT hydrogen refueling trailer, with tests planned in Bristol. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Assessing technologies towards sustainable aviation: a scenario-based analysis using AeroMAPS</title>
@@ -393,14 +433,6 @@
       <description>PLoS ONE — OpenAlex</description>
     </item>
     <item>
-      <title>Atomic-scale quantification of hydrogen in metal hydrides by electron ptychography</title>
-      <link>https://doi.org/10.1126/sciadv.aed5872</link>
-      <guid isPermaLink="false">molecola-230abb3c6535d720</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Science Advances — OpenAlex</description>
-    </item>
-    <item>
       <title>Chinese Researchers Build 250kW System that Produces Hydrogen and Fresh Water From Seawater</title>
       <link>https://fuelcellsworks.com/2026/09/21/h2/chinese-researchers-build-250kw-system-that-produces-hydrogen-and-fresh-water-from-seawater</link>
       <guid isPermaLink="false">molecola-23efe28dbb958681</guid>
@@ -415,38 +447,6 @@
       <pubDate>Tue, 22 Sep 2026 16:05:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Autel Energy Opens New North American Experience Center in Fremont, Hosts Annual Partner Summit and Showcases Offering with Modal — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>VERDE HYDROGEN’s World-First 5,000 Nm³/H Asymmetric 'Five-to-One' Water Electrolysis System Runs Safely for 760+ Days</title>
-      <link>https://fuelcellsworks.com/2026/09/21/electrolyzer/verde-hydrogen-s-world-first-5-000-nm-h-asymmetric-five-to-one-water-electrolysis-system-runs-safely-for-760-days</link>
-      <guid isPermaLink="false">molecola-d77e15b90914e9b2</guid>
-      <pubDate>Tue, 22 Sep 2026 15:55:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>VERDE HYDROGEN’s World-First 5,000 Nm³/H Asymmetric 'Five-to-One' Water Electrolysis System Runs Safely for 760+ Days — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Saudi Arabia's CEER Unveils Exobot Flagship Sedan and SUV — First Models From PIF-Foxconn Joint Venture</title>
-      <link>https://fuelcellsworks.com/2026/09/21/electric/saudi-arabia-s-ceer-unveils-exobot-flagship-sedan-and-suv-first-models-from-pif-foxconn-joint-venture</link>
-      <guid isPermaLink="false">molecola-5751feb8114ed536</guid>
-      <pubDate>Tue, 22 Sep 2026 15:51:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Saudi Arabia's CEER Unveils Exobot Flagship Sedan and SUV — First Models From PIF-Foxconn Joint Venture — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Italy: Abruzzo Points to CNR Hydrogen Study as Region Pushes Vasto Green Hydrogen Project</title>
-      <link>https://fuelcellsworks.com/2026/09/20/h2/italy-abruzzo-points-to-cnr-hydrogen-study-as-region-pushes-vasto-green-hydrogen-project</link>
-      <guid isPermaLink="false">molecola-93cf07b561f984ca</guid>
-      <pubDate>Tue, 22 Sep 2026 15:51:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Italy: Abruzzo Points to CNR Hydrogen Study as Region Pushes Vasto Green Hydrogen Project — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Eclipse Energy and Wood Validate Pathway to Low-Cost, Ultra-Low-Carbon Hydrogen From Depleted Oil Reservoirs</title>
-      <link>https://fuelcellsworks.com/2026/09/22/h2/eclipse-energy-and-wood-validate-pathway-to-low-cost-ultra-low-carbon-hydrogen-from-depleted-oil-reservoirs</link>
-      <guid isPermaLink="false">molecola-5d76b67dbf8b3682</guid>
-      <pubDate>Tue, 22 Sep 2026 15:46:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Eclipse Energy and Wood Validate Pathway to Low-Cost, Ultra-Low-Carbon Hydrogen From Depleted Oil Reservoirs — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

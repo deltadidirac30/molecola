@@ -1,6 +1,21 @@
 {
- "count": 1224,
+ "count": 1229,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T18:15:44+00:00",
+   "excerpt": "YPP Corporation, alongside Kazakhstan’s Ministry of Energy and regional authorities, has unveiled an exploratory memorandum for a $2 billion green hydrogen and ammonia complex in East Kazakhstan. The planned 1 GW wind…",
+   "first_seen": "2026-09-25T04:47:54+00:00",
+   "id": "31ddf3033cf2f683",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ypp-corporation-and-kazakhstan-explore-green-hydrogen-production-and-ammonia-com/8576725/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "YPP Corporation and Kazakhstan Explore Green Hydrogen Production and Ammonia Complex in East Kazakhstan"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -15,6 +30,28 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Renault to Invest €600 Million in Spain, Start EV Production"
+  },
+  {
+   "authors": [
+    "Ken J. Jenewein",
+    "Faezeh Habib Zadeh",
+    "Xiaoxiao Wang",
+    "Gustavo Malkomes",
+    "Huafan Zhang",
+    "Natalie Page"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-24T17:04:37+00:00",
+   "excerpt": "Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale…",
+   "first_seen": "2026-09-25T04:47:54+00:00",
+   "id": "9d278efcf0463a95",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.30133v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution"
   },
   {
    "authors": [],
@@ -255,6 +292,51 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Gas Malaysia and Air Liquide to Explore Low-Carbon Hydrogen, Bio-LNG and CO2 Off-Take in Malaysia"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T05:12:44+00:00",
+   "excerpt": "Toyota Motor Europe plans to launch a hydrogen fuel-cell Hilux in Europe by 2028 with targets of over 400 km range and 2,500 kg towing, boosting clean hydrogen infrastructure.",
+   "first_seen": "2026-09-25T04:47:54+00:00",
+   "id": "398eb16e42750456",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-toyota-hilux-fcev-drives-europe-s-hydrogen-infrastructur/8576723/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Toyota Hilux FCEV drives Europe’s hydrogen infrastructure forward"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T05:10:55+00:00",
+   "excerpt": "EnergyPathways has teamed up with Hycamite to evaluate methane-splitting hydrogen and graphite production at Port of Barrow, as part of its MESH energy-storage hub. Targets: 20,000 t/yr H2, 60,000 t/yr graphite under…",
+   "first_seen": "2026-09-25T04:47:54+00:00",
+   "id": "86e1fbb5e2a26924",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/energypathways-and-hycamite-collaborate-on-methane-splitting-hydrogen-production/8576722/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EnergyPathways and Hycamite Collaborate on Methane-Splitting Hydrogen Production and Graphite Facility at Port of Barrow"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-24T05:10:41+00:00",
+   "excerpt": "Ebara Elliott Energy will supply a liquid-hydrogen pump to Chart Ferox for a GOLIAT hydrogen refueling trailer, with tests planned in Bristol.",
+   "first_seen": "2026-09-25T04:47:54+00:00",
+   "id": "de04b99589bf8147",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-boost-as-ebara-elliott-energy-supplies-liquid-hydrogen-p/8576721/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Ebara Elliott Energy to supply liquid-hydrogen pump for Chart Ferox trailer"
   },
   {
    "authors": [
@@ -21509,6 +21591,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-24T21:27:36+00:00",
+ "updated": "2026-09-25T04:47:54+00:00",
  "version": 2
 }
