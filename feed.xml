@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 25 Sep 2026 04:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:43:27 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel</title>
+      <link>https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/</link>
+      <guid isPermaLink="false">molecola-582c5a43ef6b1e38</guid>
+      <pubDate>Fri, 25 Sep 2026 11:40:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>In other news, African green hydrogen projects secure new funding and Mauritania advances the Aman project. Moreover, Ansaldo Green Tech is expands electrolyzer manufacturing, as Toyota, Iveco and Hyster advances… — PV Magazine</description>
+    </item>
+    <item>
+      <title>An efficiency-oriented hierarchical energy management strategy for renewable electric-hydrogen systems with adaptive multi-stack PEMFC activation</title>
+      <link>https://doi.org/10.1038/s41598-026-72072-2</link>
+      <guid isPermaLink="false">molecola-7e04d3401b80bce2</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>A 3D Metal–Organic Framework Protective Layer with Size-Selective Channels and Zincophilic Sites for Highly Stable Zinc Metal Anodes</title>
+      <link>https://doi.org/10.1021/acsami.6c11214</link>
+      <guid isPermaLink="false">molecola-52897bd8a8a4b672</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
     <item>
       <title>YPP Corporation and Kazakhstan Explore Green Hydrogen Production and Ammonia Complex in East Kazakhstan</title>
       <link>http://www.hydrogenfuelnews.com/ypp-corporation-and-kazakhstan-explore-green-hydrogen-production-and-ammonia-com/8576725/</link>
@@ -31,6 +55,14 @@
       <pubDate>Thu, 24 Sep 2026 17:04:37 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
       <description>Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale… — arXiv</description>
+    </item>
+    <item>
+      <title>Germany leads €2.1bn push to unlock e-SAF investment</title>
+      <link>https://hydrogeneurope.eu/germany-leads-e2-1bn-push-to-unlock-e-saf-investment/</link>
+      <guid isPermaLink="false">molecola-e5b43d9c6bde6e01</guid>
+      <pubDate>Thu, 24 Sep 2026 16:07:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Germany leads €2.1bn push to unlock e-SAF investment — Hydrogen Europe</description>
     </item>
     <item>
       <title>Haffner Energy Brings the Cost of Renewable Diesel and SAF Closer to that of Fossil Fuels with SB-HEFA</title>
@@ -191,6 +223,54 @@
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>The Aeronautical Journal — OpenAlex</description>
+    </item>
+    <item>
+      <title>Phase change material-based thermal management systems for PEM fuel cell/battery hybrid electric vehicles: A comprehensive review</title>
+      <link>https://doi.org/10.1016/j.rser.2026.117510</link>
+      <guid isPermaLink="false">molecola-71e25ec97fb7d1c6</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Stretchable, Wide-Temperature Gel Electrolytes Integrating Ionic Conduction and Heat Buffering for Flexible Supercapacitors</title>
+      <link>https://doi.org/10.1021/acsami.6c13229</link>
+      <guid isPermaLink="false">molecola-ab84c0def69c7103</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
+      <title>Phase‐Engineered V‐Mo‐La Alloying Enables Room‐Temperature Activation and Highly Reversible Hydrogen Storage in TiFe‐Based Alloys</title>
+      <link>https://doi.org/10.1002/adfm.78614</link>
+      <guid isPermaLink="false">molecola-66ef2908911f54d4</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Functional Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Pre-combustion fuel reforming in gas turbines: Hydrocarbon and carbon-neutral fuel pathways</title>
+      <link>https://doi.org/10.1016/j.pecs.2026.101311</link>
+      <guid isPermaLink="false">molecola-48874c3b09ae4753</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Progress in Energy and Combustion Science — OpenAlex</description>
+    </item>
+    <item>
+      <title>Exploring efficient Pd-based single-atom catalyst on Sc2CO2 MXene by strain engineering</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157781</link>
+      <guid isPermaLink="false">molecola-ecab84444e981c01</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>High-performance aqueous zinc-ion batteries with highly oriented MFI zeolite nanosheet separators</title>
+      <link>https://doi.org/10.20517/microstructures.2026.79</link>
+      <guid isPermaLink="false">molecola-d2070e99e20fe9f2</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Microstructures — OpenAlex</description>
     </item>
     <item>
       <title>Changan UK Announces Ohme as Its Home EV Charging Partner</title>
@@ -367,86 +447,6 @@
       <pubDate>Wed, 23 Sep 2026 03:08:50 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>KRISO is demonstrating offshore green hydrogen production at its Jeju wave energy test site, using wave-powered electrolysis to store renewable energy as hydrogen. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Optimization and design of a hybrid solar-diesel-hydrogen system for sustainable RO desalination using an advanced dynamic metaheuristic algorithm</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157394</link>
-      <guid isPermaLink="false">molecola-3facc4cd97034515</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Deep underground energy storage solutions for data centers driven by artificial intelligence energy consumption</title>
-      <link>https://doi.org/10.1016/j.rser.2026.117529</link>
-      <guid isPermaLink="false">molecola-3238be03af6a02cb</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ultrastable and High‐Capacity Aqueous Ammonium‐Ion Storage in {Mo 7 }@ CNTs via a Pseudocapacitive Hydrogen‐Bonding Network</title>
-      <link>https://doi.org/10.1002/cjoc.70801</link>
-      <guid isPermaLink="false">molecola-4afb099700503a6c</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Chinese Journal of Chemistry — OpenAlex</description>
-    </item>
-    <item>
-      <title>Atomically Precise Copper Nanoclusters for CO2-to-C2 Electroreduction: Coupling-Site Topology, Reaction Pathways, and Active-State Evolution</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.6c04209</link>
-      <guid isPermaLink="false">molecola-48c14a1f25eb0ba0</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Inorganic Chemistry — OpenAlex</description>
-    </item>
-    <item>
-      <title>Optimizing the Postharvest Storage of ‘Akbari’ Pistachios: The Role of Chitosan, CMC, and CaO</title>
-      <link>https://doi.org/10.1007/s10341-026-02044-3</link>
-      <guid isPermaLink="false">molecola-e8b44e259612e30c</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Fruit Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Asymmetric Zinc–Nitrate/Hydrogen Battery Chemistry Coupling Electrochemical Hydrogen Charge and Energy Storage</title>
-      <link>https://doi.org/10.1021/jacsau.6c01152</link>
-      <guid isPermaLink="false">molecola-1233042cde5fc515</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>JACS Au — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effect of hydrothermal and deep eutectic solvent solvothermal pretreatments on the structural evolution of corncob-derived activated carbons for enhanced hydrogen storage and CO2 capture</title>
-      <link>https://doi.org/10.1016/j.jenvman.2026.131011</link>
-      <guid isPermaLink="false">molecola-fc7f9e745ac45687</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Environmental Management — OpenAlex</description>
-    </item>
-    <item>
-      <title>Distributed electricity–carbon co-optimization of hydrogen energy storage microgrids with dynamic laplace perturbation and model predictive control</title>
-      <link>https://doi.org/10.1371/journal.pone.0350884</link>
-      <guid isPermaLink="false">molecola-caec181770b33351</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>PLoS ONE — OpenAlex</description>
-    </item>
-    <item>
-      <title>Chinese Researchers Build 250kW System that Produces Hydrogen and Fresh Water From Seawater</title>
-      <link>https://fuelcellsworks.com/2026/09/21/h2/chinese-researchers-build-250kw-system-that-produces-hydrogen-and-fresh-water-from-seawater</link>
-      <guid isPermaLink="false">molecola-23efe28dbb958681</guid>
-      <pubDate>Tue, 22 Sep 2026 16:06:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Chinese Researchers Build 250kW System that Produces Hydrogen and Fresh Water From Seawater — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Autel Energy Opens New North American Experience Center in Fremont, Hosts Annual Partner Summit and Showcases Offering with Modal</title>
-      <link>https://fuelcellsworks.com/2026/09/22/electric/autel-energy-opens-new-north-american-experience-center-in-fremont-hosts-annual-partner-summit-and-showcases-offering-with-modal</link>
-      <guid isPermaLink="false">molecola-75fd6f924c89e1ae</guid>
-      <pubDate>Tue, 22 Sep 2026 16:05:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Autel Energy Opens New North American Experience Center in Fremont, Hosts Annual Partner Summit and Showcases Offering with Modal — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
