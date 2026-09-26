@@ -1,5 +1,5 @@
 {
- "count": 1280,
+ "count": 1282,
  "items": [
   {
    "authors": [],
@@ -1531,6 +1531,36 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Siltrax launches 2–6 kW air-cooled fuel cell system for off-grid applications"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T03:10:37+00:00",
+   "excerpt": "AEP Ohio’s 72.9 MW solid oxide fuel-cell project for an AWS campus in Hilliard moves forward after the city withdraws its permit appeal, highlighting shifts in data-center power strategy.",
+   "first_seen": "2026-09-26T11:16:35+00:00",
+   "id": "72a12c6732fba605",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-aep-ohio-s-72-9-mw-solid-oxide-fuel-cell-for-aws-clears-/8576719/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell News: AEP Ohio’s 72.9 MW Solid Oxide Fuel Cell for AWS Clears Local Appeal"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-23T03:09:59+00:00",
+   "excerpt": "MODEC and Eld Energy completed feasibility and concept verification for a 40 kW SOFC module under ABS NTQ, clearing the way for prototype validation on an FPSO using produced gas.",
+   "first_seen": "2026-09-26T11:16:35+00:00",
+   "id": "1abeca9838079ae7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-modec-and-eld-energy-advance-sofc-qualification-for-fpso/8576718/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "MODEC and Eld Energy advance SOFC qualification for FPSO power"
   },
   {
    "authors": [],
@@ -22487,6 +22517,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-26T04:49:21+00:00",
+ "updated": "2026-09-26T11:16:35+00:00",
  "version": 2
 }
