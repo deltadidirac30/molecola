@@ -1,5 +1,5 @@
 {
- "count": 1308,
+ "count": 1309,
  "items": [
   {
    "authors": [],
@@ -45,6 +45,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Hyundai IONIQ 9 Trialled by National Highways as All-Electric Traffic Officer Vehicle"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T15:44:04+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-26T21:03:16+00:00",
+   "id": "3dab6cd0af0ef92e",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/24/electric/nacfe-research-business-economics-drive-ev-terminal-truck-adoption-over-sustainability-goals",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "NACFE Research: Business Economics Drive EV Terminal Truck Adoption over Sustainability Goals"
   },
   {
    "authors": [],
@@ -23049,6 +23064,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-26T16:17:42+00:00",
+ "updated": "2026-09-26T21:03:16+00:00",
  "version": 2
 }

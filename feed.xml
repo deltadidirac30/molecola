@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 26 Sep 2026 16:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:02:59 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem</title>
@@ -31,6 +31,14 @@
       <pubDate>Fri, 25 Sep 2026 16:10:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai IONIQ 9 Trialled by National Highways as All-Electric Traffic Officer Vehicle — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>NACFE Research: Business Economics Drive EV Terminal Truck Adoption over Sustainability Goals</title>
+      <link>https://fuelcellsworks.com/2026/09/24/electric/nacfe-research-business-economics-drive-ev-terminal-truck-adoption-over-sustainability-goals</link>
+      <guid isPermaLink="false">molecola-3dab6cd0af0ef92e</guid>
+      <pubDate>Fri, 25 Sep 2026 15:44:04 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>NACFE Research: Business Economics Drive EV Terminal Truck Adoption over Sustainability Goals — Fuel Cells Works</description>
     </item>
     <item>
       <title>170 Companies Urge Brussels to Keep Binding RFNBO Hydrogen Targets Beyond 2030</title>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 24 Sep 2026 14:15:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>HYDROGEN OF FRANCE: HDF Energy Continues Its Industrial Project and Improves Its Operational Efficiency — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Industry calls to keep binding RFNBO hydrogen targets</title>
-      <link>https://hydrogeneurope.eu/industry-calls-to-keep-binding-rfnbo-hydrogen-targets/</link>
-      <guid isPermaLink="false">molecola-ce599ea1cfd48b0c</guid>
-      <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Industry calls to keep binding RFNBO hydrogen targets — Hydrogen Europe</description>
     </item>
   </channel>
 </rss>
