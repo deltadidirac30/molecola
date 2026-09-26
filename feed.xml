@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:16:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:17:22 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem</title>
@@ -217,6 +217,78 @@
       <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
     </item>
     <item>
+      <title>A critical examination of the City of Sydney's foreclosure of future hydrogen pathways through the ban on natural gas in new residential buildings</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157774</link>
+      <guid isPermaLink="false">molecola-9ee024975953c529</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Environmental performance of hydrogen production via eucalyptus biomass gasification and natural gas steam reforming: A life cycle assessment approach</title>
+      <link>https://doi.org/10.1016/j.fuel.2026.141478</link>
+      <guid isPermaLink="false">molecola-497043692cf66d01</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Fuel — OpenAlex</description>
+    </item>
+    <item>
+      <title>Structural design and performance of a large-capacity solid-state hydrogen storage tank incorporating internal honeycomb fins and an external thermal management jacket</title>
+      <link>https://doi.org/10.1016/j.csite.2026.108571</link>
+      <guid isPermaLink="false">molecola-76d8d79d3af3c069</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Case Studies in Thermal Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen-Enhanced Cavitation Erosion Resistance of 316L Stainless Steel</title>
+      <link>https://doi.org/10.3390/hydrogen7040140</link>
+      <guid isPermaLink="false">molecola-79d3748e2f9051cc</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Hydrogen — OpenAlex</description>
+    </item>
+    <item>
+      <title>Capacity configuration method for hybrid electro-hydrogen storage in islanded energy systems based on quantum-inspired optimization</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157644</link>
+      <guid isPermaLink="false">molecola-259da9878c0f54ea</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Piperine-mediated regulation of intermolecular interactions and network architecture in citric acid-crosslinked chitosan biofilms</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2026.141939</link>
+      <guid isPermaLink="false">molecola-19d666e82034507e</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Colloids and Surfaces A Physicochemical and Engineering Aspects — OpenAlex</description>
+    </item>
+    <item>
+      <title>Regulating Solvation Structures for Wide Voltage Window Chloride Electrolytes toward Low-Temperature Energy Storage</title>
+      <link>https://doi.org/10.1021/acsaem.6c02168</link>
+      <guid isPermaLink="false">molecola-69c4d4214928159b</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>The Crystallization of Methane Hydrates within Nanoconfined Spaces</title>
+      <link>https://doi.org/10.1021/acs.cgd.6c01085</link>
+      <guid isPermaLink="false">molecola-712f8bc5a459fd41</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Crystal Growth &amp; Design — OpenAlex</description>
+    </item>
+    <item>
+      <title>Spain Advances Hydrogen Infrastructure with Initial Backbone Permitting</title>
+      <link>http://www.hydrogenfuelnews.com/spain-advances-hydrogen-infrastructure-with-initial-backbone-permitting/8576726/</link>
+      <guid isPermaLink="false">molecola-5222bf67e5697a33</guid>
+      <pubDate>Thu, 24 Sep 2026 18:22:37 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Spain’s government and Enagás have begun formal permitting for the first sections of a 2,600 km renewable hydrogen backbone, marking a move from planning to regulated infrastructure development in support of green… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>YPP Corporation and Kazakhstan Explore Green Hydrogen Production and Ammonia Complex in East Kazakhstan</title>
       <link>http://www.hydrogenfuelnews.com/ypp-corporation-and-kazakhstan-explore-green-hydrogen-production-and-ammonia-com/8576725/</link>
       <guid isPermaLink="false">molecola-31ddf3033cf2f683</guid>
@@ -231,14 +303,6 @@
       <pubDate>Thu, 24 Sep 2026 18:12:31 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Renault to Invest €600 Million in Spain, Start EV Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution</title>
-      <link>https://arxiv.org/abs/2609.30133v1</link>
-      <guid isPermaLink="false">molecola-9d278efcf0463a95</guid>
-      <pubDate>Thu, 24 Sep 2026 17:04:37 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale… — arXiv</description>
     </item>
     <item>
       <title>Germany leads €2.1bn push to unlock e-SAF investment</title>
@@ -383,70 +447,6 @@
       <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Industry calls to keep binding RFNBO hydrogen targets — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Gas Malaysia and Air Liquide to Explore Low-Carbon Hydrogen, Bio-LNG and CO2 Off-Take in Malaysia</title>
-      <link>http://www.hydrogenfuelnews.com/gas-malaysia-and-air-liquide-to-explore-low-carbon-hydrogen-bio-lng-and-co2-off-/8576724/</link>
-      <guid isPermaLink="false">molecola-d9cdc9baeb30b9ad</guid>
-      <pubDate>Thu, 24 Sep 2026 05:26:14 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Gas Malaysia Berhad and Air Liquide Engineering &amp; Construction signed an MoU at Gastech 2026 to explore low-carbon hydrogen, Bio-LNG and CO₂ off-take projects in Malaysia. The agreement sets a framework for feasibility… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Assessing technologies towards sustainable aviation: a scenario-based analysis using AeroMAPS</title>
-      <link>https://doi.org/10.1017/aer.2026.10232</link>
-      <guid isPermaLink="false">molecola-64bfce64216b93e1</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>The Aeronautical Journal — OpenAlex</description>
-    </item>
-    <item>
-      <title>Phase change material-based thermal management systems for PEM fuel cell/battery hybrid electric vehicles: A comprehensive review</title>
-      <link>https://doi.org/10.1016/j.rser.2026.117510</link>
-      <guid isPermaLink="false">molecola-71e25ec97fb7d1c6</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Renewable and Sustainable Energy Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Stretchable, Wide-Temperature Gel Electrolytes Integrating Ionic Conduction and Heat Buffering for Flexible Supercapacitors</title>
-      <link>https://doi.org/10.1021/acsami.6c13229</link>
-      <guid isPermaLink="false">molecola-ab84c0def69c7103</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
-    </item>
-    <item>
-      <title>Phase‐Engineered V‐Mo‐La Alloying Enables Room‐Temperature Activation and Highly Reversible Hydrogen Storage in TiFe‐Based Alloys</title>
-      <link>https://doi.org/10.1002/adfm.78614</link>
-      <guid isPermaLink="false">molecola-66ef2908911f54d4</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Functional Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Pre-combustion fuel reforming in gas turbines: Hydrocarbon and carbon-neutral fuel pathways</title>
-      <link>https://doi.org/10.1016/j.pecs.2026.101311</link>
-      <guid isPermaLink="false">molecola-48874c3b09ae4753</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Progress in Energy and Combustion Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Exploring efficient Pd-based single-atom catalyst on Sc2CO2 MXene by strain engineering</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157781</link>
-      <guid isPermaLink="false">molecola-ecab84444e981c01</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>High-performance aqueous zinc-ion batteries with highly oriented MFI zeolite nanosheet separators</title>
-      <link>https://doi.org/10.20517/microstructures.2026.79</link>
-      <guid isPermaLink="false">molecola-d2070e99e20fe9f2</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Microstructures — OpenAlex</description>
     </item>
   </channel>
 </rss>
