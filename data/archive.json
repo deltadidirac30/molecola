@@ -1,6 +1,249 @@
 {
- "count": 1309,
+ "count": 1331,
  "items": [
+  {
+   "authors": [
+    "Yangming Wen",
+    "Junjie Yang",
+    "Wei Jiang",
+    "Yinxuan Zhu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Electrical Engineering",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "7f8af5845b105b91",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s00202-026-03731-w",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Electrical–hydrogen–carbon synergy-driven energy scheduling optimization with eco-economic low-carbon coordinated optimization trade-offs for bus charging stations"
+  },
+  {
+   "authors": [
+    "Guanjie Zhu",
+    "Shanshan Jin",
+    "Huanhuan Shan",
+    "Xin Zhou",
+    "Feng Cao",
+    "Changxi Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Food and Bioprocess Technology",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "b9186174b0deeeac",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11947-026-04596-4",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "H2 MAP Extends the Shelf Life of Juicy Peach by Delaying Softening and Maintaining Antioxidant Capacity"
+  },
+  {
+   "authors": [
+    "Kaur Jashandeep",
+    "Chauhan Parul"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "ACR North American Advances",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "312e4b7db5777e64",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22976251",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Analysis of Funds Allocated and Spent on Environmentally Sustainable Technology in India (2017–18 to 2025–26) and Structural Transformation through 2026"
+  },
+  {
+   "authors": [
+    "Hung Vo Thanh"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "0e24080d2e41503a",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22983166",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sharing the subsurface: global viability frontiers, symbiosis value and policy sufficiency for coupled carbon capture and underground hydrogen storage"
+  },
+  {
+   "authors": [
+    "Hanxin Xing",
+    "Siya Jia",
+    "Yongliang Yong",
+    "Zhiyong Liu",
+    "Shaofeng Zhang",
+    "Xinxin Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "1a541b32b1e15b5e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157842",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Charge modulation-driven high-performance reversible hydrogen storage of Be4C3 monolayers near room temperature: A first-principles study"
+  },
+  {
+   "authors": [
+    "Di Zhang",
+    "Chaoyue Shi",
+    "Haoran Gan",
+    "Yibin Wang",
+    "Shaolong Zhu",
+    "Guoyou Shi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "a52804055c893123",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157757",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental investigation of hydrogen liquefaction performance and ortho-para hydrogen conversion kinetics in a small-scale hydrogen liquefier"
+  },
+  {
+   "authors": [
+    "Kaur Jashandeep",
+    "Chauhan Parul"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "ACR North American Advances",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "016d31ece4da1348",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22976250",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Analysis of Funds Allocated and Spent on Environmentally Sustainable Technology in India (2017–18 to 2025–26) and Structural Transformation through 2026"
+  },
+  {
+   "authors": [
+    "Hung Vo Thanh"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "1b6f50d5fb93c0a5",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22983167",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sharing the subsurface: global viability frontiers, symbiosis value and policy sufficiency for coupled carbon capture and underground hydrogen storage"
+  },
+  {
+   "authors": [
+    "William Forshaw",
+    "Timothy Mays",
+    "Alfred Hill",
+    "Tom Fletcher"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "iScience",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "eb73de513ebe5f82",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.isci.2026.117655",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Swappable hydrogen storage for road vehicles"
+  },
+  {
+   "authors": [
+    "Adeola Oketola",
+    "Adesola T. Adegbola",
+    "Tamba Jamiru",
+    "Olugbenga Ogunbiyi",
+    "Smith Salifu",
+    "Azeez Lawan Rominiyi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "baf26b6500006a4e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157620",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mechanism-informed design of high-entropy alloy hydrides for reversible solid-state hydrogen storage"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T20:17:31+00:00",
+   "excerpt": "AfDB selects four green-hydrogen projects in Egypt, Morocco, Namibia and South Africa for proposed $20M grants via SEFA to fund feasibility and bankability work.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "4c480a388a23d0c1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-project-financing-afdb-catalyzes-20m-in-green-hydrogen-grants-across-af/8576736/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T20:13:40+00:00",
+   "excerpt": "A team at NTU has developed an artificial leaf that uses sunlight to produce hydrogen from seawater and simultaneously degrades toxic hydrazine using a perovskite photocathode and oxide catalyst.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "2d95e92ceab82b22",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ntu-artificial-leaf-advances-green-hydrogen-production-from-seawater-while-tackl/8576735/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "NTU artificial leaf advances green hydrogen production from seawater while tackling hydrazine contamination"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T20:13:16+00:00",
+   "excerpt": "Hyster and Briggs Equipment UK have deployed a hydrogen fuel-cell ReachStacker at Port of Tilbury as a pre-production trial. Powered by a 60 kW Nuvera fuel cell and supported by GeoPura’s on-site electrolyser, the…",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "6ac7f60c79578664",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hyster-and-briggs-deliver-hydrogen-fuel-cell-reachstacker-to-port-of-tilbury/8576734/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hyster and Briggs Deliver Hydrogen Fuel-Cell ReachStacker to Port of Tilbury"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -360,6 +603,66 @@
    "source": "QualEnergia",
    "source_slug": "qualenergia",
    "title": "Idrogeno, pressing sull’Ue per mantenere gli obiettivi post 2030"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T07:10:56+00:00",
+   "excerpt": "Honeywell International SRO integrates hydrogen fuel-cell subsystems at ÚJV Řež, setting up a TRL 4 ground demo before moving to Italy for full integration with batteries and a megawatt-class electric motor.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "e0697c87f9aadf96",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-honeywell-advances-ground-integration-of-aircraft-power-/8576731/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Honeywell Advances Ground Integration of Aircraft Power System"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T07:08:45+00:00",
+   "excerpt": "OMV will proceed solo on its 140 MW green hydrogen project in Austria after Masdar’s exit, backed by EIB and Austrian financing.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "b627d6d92d9023fa",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-omv-pushes-ahead-with-140-mw-electrolysis-plant-in-aus/8576730/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production: OMV Pushes Ahead with 140 MW Electrolysis Plant in Austria After Masdar Exit"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T07:08:27+00:00",
+   "excerpt": "Spain’s energy agency IDAE has reportedly committed €44 million to support the eM Numancia green hydrogen and methanol plant in Garray, pending final design confirmation.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "4cbc9cbe88b756ca",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-spain-allocates-44m-to-em-numancia-renewable-hydrogen-and-me/8576729/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Spain Allocates €44M to eM Numancia Renewable Hydrogen and Methanol Project in Garray"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-25T07:07:11+00:00",
+   "excerpt": "Quantron China joint venture unites German vehicle integration, Chinese autonomous-driving expertise, and Foxconn manufacturing to develop dual battery-electric and hydrogen fuel-cell trucks and buses.",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "4af567c5b1e275a1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/quantron-china-jv-unites-german-and-chinese-expertise-for-dual-powertrain-trucks/8576728/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Quantron China JV Unites German and Chinese Expertise for Dual Powertrain Trucks"
   },
   {
    "authors": [],
@@ -887,6 +1190,113 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Experimental and Numerical Investigation of Hydrogen Sorption–Desorption Behavior in SPS-Synthesized Pd–Ti–Mg Alloys"
+  },
+  {
+   "authors": [
+    "Zelin Tong",
+    "Jinshui Su",
+    "Ziwu Liu",
+    "Ziting Wang",
+    "Hao Yan",
+    "Kuo Shi"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "c422cb24845b8d37",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124856",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Chemical decoupling strategy reveals the distinct contributions of microporous structure and oxygen functionalities to charge storage in porous carbon electrodes"
+  },
+  {
+   "authors": [
+    "Meisam Mahdavi",
+    "Abdullah G. Alharbi",
+    "Amal Baqais",
+    "Francisco Jurado"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "0f2e01c86d858060",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157783",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Transactive energy management for hydrogen-enabled community microgrids: A hierarchical Stackelberg game approach"
+  },
+  {
+   "authors": [
+    "Renu Kamboj",
+    "Aarti Bains",
+    "Sanju Bala Dhull",
+    "Pardeep Kumar Sadh",
+    "Mohammad Rashid Khan",
+    "Abdullah F. AlAsmari"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "Journal of Stored Products Research",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "9a2c4097c2249862",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jspr.2026.103226",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reinforced biopolymer network formation and functional performance of nanocellulose–alginate–Aloe vera mucilage films for bread preservation"
+  },
+  {
+   "authors": [
+    "Yang Ye",
+    "Yutong Wu",
+    "Weilong Wang",
+    "Jingjing Liu",
+    "Kai Yan",
+    "Honghui Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "ebc2420b43d24b6c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133369",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Structural design and thermal management optimization of a tapered concentric tube metal hydride reactor incorporating phase change material"
+  },
+  {
+   "authors": [
+    "Xiaogang Liu",
+    "Shuangying Li",
+    "Huiyi Ge",
+    "Jiang Yong",
+    "Jin An Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-27T11:55:57+00:00",
+   "id": "e241d504fa61969f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157743",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Unraveling the interfacial synergy between CuPd alloy and reduced graphene oxide: A mechanistic study on enhanced hydrogen production from formaldehyde solution"
   },
   {
    "authors": [],
@@ -23064,6 +23474,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-27T05:11:09+00:00",
+ "updated": "2026-09-27T11:55:57+00:00",
  "version": 2
 }
