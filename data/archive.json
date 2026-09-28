@@ -1,6 +1,55 @@
 {
- "count": 1331,
+ "count": 1335,
  "items": [
+  {
+   "authors": [
+    "Prasad Laxman Pagdhare"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-28T05:14:40+00:00",
+   "id": "84a048762fc7adfe",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22915467",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development"
+  },
+  {
+   "authors": [
+    "Prasad Laxman Pagdhare"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-30T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-09-28T05:14:40+00:00",
+   "id": "a152079c7990a865",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.22915466",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-26T09:08:45+00:00",
+   "excerpt": "REFIRE proposes reallocating RMB50 million of R&D funds to drive commercialization and operational capabilities, subject to shareholder approval in October.",
+   "first_seen": "2026-09-28T05:14:40+00:00",
+   "id": "b2f8aba82324a523",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-shanghai-refire-proposes-rmb50m-shift-to-commercial-and-/8576738/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Shanghai REFIRE Proposes RMB50M Shift to Commercial and Operational Capabilities"
+  },
   {
    "authors": [
     "Yangming Wen",
@@ -423,6 +472,28 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Construction Starts on Kenya Green Hydrogen Centre to Supply Coffee Farm With Fertiliser and Hospital With Oxygen"
+  },
+  {
+   "authors": [
+    "Ken J. Jenewein",
+    "Faezeh Habib Zadeh",
+    "Xiaoxiao Wang",
+    "Gustavo Malkomes",
+    "Huafan Zhang",
+    "Natalie Page"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-25T14:56:33+00:00",
+   "excerpt": "Catalyzing acidic oxygen evolution at the proton-exchange-membrane water electrolysis (PEMWE) anode relies almost entirely on iridium or ruthenium, drawn from concentrated supply chains that constrain gigawatt-scale…",
+   "first_seen": "2026-09-28T05:14:40+00:00",
+   "id": "6f1577421c909589",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.30133v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution"
   },
   {
    "authors": [],
@@ -23474,6 +23545,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-27T21:17:13+00:00",
+ "updated": "2026-09-28T05:14:40+00:00",
  "version": 2
 }

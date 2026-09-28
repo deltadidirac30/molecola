@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 27 Sep 2026 21:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:14:21 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
+      <link>https://doi.org/10.5281/zenodo.22915467</link>
+      <guid isPermaLink="false">molecola-84a048762fc7adfe</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
+      <link>https://doi.org/10.5281/zenodo.22915466</link>
+      <guid isPermaLink="false">molecola-a152079c7990a865</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Shanghai REFIRE Proposes RMB50M Shift to Commercial and Operational Capabilities</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-shanghai-refire-proposes-rmb50m-shift-to-commercial-and-/8576738/</link>
+      <guid isPermaLink="false">molecola-b2f8aba82324a523</guid>
+      <pubDate>Sat, 26 Sep 2026 09:08:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>REFIRE proposes reallocating RMB50 million of R&amp;D funds to drive commercialization and operational capabilities, subject to shareholder approval in October. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Electrical–hydrogen–carbon synergy-driven energy scheduling optimization with eco-economic low-carbon coordinated optimization trade-offs for bus charging stations</title>
       <link>https://doi.org/10.1007/s00202-026-03731-w</link>
@@ -71,22 +95,6 @@
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Swappable hydrogen storage for road vehicles</title>
-      <link>https://doi.org/10.1016/j.isci.2026.117655</link>
-      <guid isPermaLink="false">molecola-eb73de513ebe5f82</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>iScience — OpenAlex</description>
-    </item>
-    <item>
-      <title>Mechanism-informed design of high-entropy alloy hydrides for reversible solid-state hydrogen storage</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157620</link>
-      <guid isPermaLink="false">molecola-baf26b6500006a4e</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa</title>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 24 Sep 2026 15:20:20 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>BNamericas: Hydrogen Council CEO Talks State of Play, Outlook, Energy Shocks — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Weichai Brings 710Hp Hydrogen Hybrid and Second Engine to IAA — Two Months After China VI Certification</title>
-      <link>https://fuelcellsworks.com/2026/09/22/h2/outstanding-university-of-leicester-researchers-secure-uk-government-s-prestigious-leadership-fellowship</link>
-      <guid isPermaLink="false">molecola-d9cf3b8a5c0febe2</guid>
-      <pubDate>Thu, 24 Sep 2026 15:15:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Weichai Brings 710Hp Hydrogen Hybrid and Second Engine to IAA — Two Months After China VI Certification — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
