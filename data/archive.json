@@ -1,5 +1,5 @@
 {
- "count": 1335,
+ "count": 1355,
  "items": [
   {
    "authors": [
@@ -34,6 +34,234 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-28T00:12:17+00:00",
+   "excerpt": "Bloom Energy’s new 800 VDC-native fuel-cell architecture aims to simplify power delivery and cut billions in costs for high-density AI data centers by generating direct current on site and reducing conversion stages.",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "4caaca38d2fe3afc",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "800 VDC Data Center Power: Bloom Energy’s Direct DC Fuel Cell Architecture"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-28T00:07:35+00:00",
+   "excerpt": "EWE GASSPEICHER has commissioned Bilfinger to deliver its H2Dry hydrogen-drying system at the Huntorf salt-cavern storage site, converting one cavern to provide 16 million Nm³ of working gas capacity. This first…",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "bddb448d6b0c2621",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-storage-innovation-ewe-gasspeicher-and-bilfinger-leading-the-charge-in-/8576749/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Storage Innovation: EWE GASSPEICHER and Bilfinger Leading the Charge in Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-28T00:05:13+00:00",
+   "excerpt": "The Dutch government has cut its 2030 green hydrogen electrolyser forecast to 1.2–1.5 GW from 3–4 GW, citing higher costs, network fees and uncertain demand, marking a shift in strategy.",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "6a38206781bad4ae",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/netherlands-lowers-green-hydrogen-electrolyser-capacity-forecast-for-2030-amid-c/8576748/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Netherlands Lowers Green Hydrogen Electrolyser Capacity Forecast for 2030 amid Cost and Demand Pressures"
+  },
+  {
+   "authors": [
+    "Wei Gan",
+    "Long Kuang",
+    "Kang Ao",
+    "Yaru Li",
+    "Jiajiao Zhe",
+    "Zongsheng Tao"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-28T00:00:00+00:00",
+   "excerpt": "International Journal of Modern Physics B",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "1302fd0a83490f98",
+   "lang": "en",
+   "link": "https://doi.org/10.1142/s0217979226300124",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Two-Dimensional Materials for Electrochemical Energy Storage, Thermal Energy Storage and Management, and Hydrogen Production and Storage"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-27T11:14:54+00:00",
+   "excerpt": "DLR has launched the hull of its MODULARIS floating lab in Flensburg, a 48 × 11.5 m vessel to test hydrogen propulsion, batteries and alternative marine fuels under real-world conditions, with final outfitting in…",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "bd6d7361b78f76ab",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-propulsion-news-dlr-launches-modularis-floating-laboratory-for-maritime/8576745/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Propulsion News: DLR Launches MODULARIS Floating Laboratory for Maritime Research"
+  },
+  {
+   "authors": [
+    "Juanjuan Zhang",
+    "Zihao Zhong",
+    "Yang Wang",
+    "Yu Zhang",
+    "Kuan Hu",
+    "Shaojie Qu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-27T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "4690f90c44848a73",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.76007",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Extremophile‐Inspired Hydroxyectoine Reconstructs Water Networks and Stabilizes Zinc Interfaces in Aqueous Zinc Batteries"
+  },
+  {
+   "authors": [
+    "Xijun Liu",
+    "Shuyu Bi",
+    "Le Zhang",
+    "Qiangchao Sun",
+    "Xionggang Lu",
+    "Hongwei Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-27T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "afeebb2ff5e63c84",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.75954",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic Texture Engineering and Grain‐Boundary Stabilization for Aqueous Zinc‐Ion Batteries With Ultralong Cycling Life Under Extreme Conditions"
+  },
+  {
+   "authors": [
+    "Zhenshuai Wang",
+    "Peifeng Zuo",
+    "Ruoyu Hong",
+    "Minquan Tian"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-27T00:00:00+00:00",
+   "excerpt": "ACS Applied Energy Materials",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "2bb708d6aab47ef6",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsaem.6c01765",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Additive-Mediated Disruption of Al3+ Hydration Shells Stabilizes Reversible Aqueous Aluminum Batteries"
+  },
+  {
+   "authors": [
+    "Jiamin Zhao",
+    "Bin Luo",
+    "Tao Liu",
+    "Chenchen Cai",
+    "Xiangjiang Meng",
+    "Song Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-27T00:00:00+00:00",
+   "excerpt": "Nano Letters",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "3ae0c875220aac88",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.nanolett.6c03710",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-26T22:20:14+00:00",
+   "excerpt": "Dongfeng Motor has commissioned a containerized solar-hydrogen-electric smart energy station in rural Xinjiang, combining PV, battery, electrolysis, solid-state storage and fuel-cell technologies, aligning with China’s…",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "515d87aac962d680",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/dongfeng-launches-integrated-solar-hydrogen-electric-station-in-rural-xinjiang/8576743/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Dongfeng Launches Integrated Solar-Hydrogen-Electric Station in Rural Xinjiang"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-26T22:13:18+00:00",
+   "excerpt": "Folell’Hy, Corsica Sole’s pilot green hydrogen facility at the Folelli solar plant, uses 60 Enapter electrolyzers to convert surplus PV into 230 kg of H₂ storage, distributed via Clément’Hyne.",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "28db8268010fb401",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/folell-hy-corsica-sole-launches-pilot-green-hydrogen-hub-at-folelli-solar-plant/8576742/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Folell’Hy: Corsica Sole Launches Pilot Green Hydrogen Hub at Folelli Solar Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-26T22:06:45+00:00",
+   "excerpt": "Allied Biofuels plans a US$6.1 billion clean-fuels complex in Uzbekistan’s Khorezm Region with up to 2.4 GW of Plug Power GenEco electrolyzers for SAF and green diesel.",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "a0fe931e109f4354",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-planned-for-6-1b-uzbekistan-e-saf-c/8576740/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production and Infrastructure Planned for $6.1B Uzbekistan e-SAF Complex"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-26T22:06:32+00:00",
+   "excerpt": "Air Liquide has joined the IRU to channel its hydrogen expertise into the Green Compact, aiming to align production, distribution and refuelling infrastructure with heavy-vehicle decarbonisation under new EU CO₂…",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "78f682a0c55e6914",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-air-liquide-joins-iru-to-accelerate-road-transport-decar/8576739/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Air Liquide Joins IRU to Accelerate Road Transport Decarbonisation"
   },
   {
    "authors": [],
@@ -247,6 +475,151 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Mechanism-informed design of high-entropy alloy hydrides for reversible solid-state hydrogen storage"
+  },
+  {
+   "authors": [
+    "Samal Syrlybekkyzy",
+    "Akhmetov Berik Bakytzhanovich",
+    "Baimbetov Dinmukhambet",
+    "Askar Seidaliyev",
+    "Mohammad Hossein Ahmadi",
+    "Habib Forootan Fard"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "ee0ec88fc32c6033",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157704",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable development goal-driven MCDM for HRES configuration selection: Prioritizing hydrogen production from excess electricity via integrated objective and subjective weighting methods"
+  },
+  {
+   "authors": [
+    "Li Xu",
+    "Junyu Chen",
+    "Meng Xie",
+    "Chenghua Zhang",
+    "Xinjian Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Journal of Colloid and Interface Science",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "1f815580755e20ab",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jcis.2026.141697",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Molecular confinement within ammonium bis(biureto)borate nanosheets enables ultrastable room-temperature phosphorescence"
+  },
+  {
+   "authors": [
+    "Cleydson T.F. Rufino",
+    "Eduardo José Cidade Cavalcanti",
+    "Álvaro Augusto Soares Lima",
+    "Jonathan L.B. Azevedo",
+    "Francisco A.S. Mota",
+    "Monica Carvalho"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "2760d74dc5c9a2e2",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157678",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Green hydrogen production: Energy, exergy, exergoeconomic and exergoenvironmental perspectives using solid oxide electrolysis cells"
+  },
+  {
+   "authors": [
+    "Zijian Deng",
+    "Jing Dang",
+    "Yi Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "691b29cb9dc558ab",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157681",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multi-objective optimization of a photovoltaic-electrolysis-based hydrogen cogeneration system considering inherent safety and economic performance"
+  },
+  {
+   "authors": [
+    "Wei Zhang",
+    "Wei Liang Hong"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "7b4998f9d33db580",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141450",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Biomass-derived N-doped hollow carbon nanospheres anchored PdAu nanoparticles for efficient hydrogen generation via formic acid decomposition"
+  },
+  {
+   "authors": [
+    "Yifan Niu",
+    "Yawen Wang",
+    "Junyan Wang",
+    "Haohao Li",
+    "Yanan Qin"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "LWT",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "a8205b35f28cfed2",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.lwt.2026.119876",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic improvement of mare milk yogurt gel properties by ultrasound and whey protein isolate: Multi-Scale analysis and molecular dynamics simulations"
+  },
+  {
+   "authors": [
+    "Dawei Sun",
+    "Jinxue Cui",
+    "Hao Zhou",
+    "Zhihui Liang",
+    "Chunzhi Li",
+    "Xinjun Ma"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-26T00:00:00+00:00",
+   "excerpt": "Computational and Theoretical Chemistry",
+   "first_seen": "2026-09-28T13:44:38+00:00",
+   "id": "61e9e885e9beabc5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.comptc.2026.116072",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles study on the physical properties of magnesium-based hydrides Mg3XH8 (X = Re, Os) for hydrogen storage"
   },
   {
    "authors": [],
@@ -23545,6 +23918,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-28T05:14:40+00:00",
+ "updated": "2026-09-28T13:44:38+00:00",
  "version": 2
 }

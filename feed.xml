@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Sep 2026 05:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:44:17 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
@@ -23,6 +23,110 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>800 VDC Data Center Power: Bloom Energy’s Direct DC Fuel Cell Architecture</title>
+      <link>http://www.hydrogenfuelnews.com/800-vdc-data-center-power-bloom-energy-s-direct-dc-fuel-cell-architecture/8576750/</link>
+      <guid isPermaLink="false">molecola-4caaca38d2fe3afc</guid>
+      <pubDate>Mon, 28 Sep 2026 00:12:17 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Bloom Energy’s new 800 VDC-native fuel-cell architecture aims to simplify power delivery and cut billions in costs for high-density AI data centers by generating direct current on site and reducing conversion stages. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Storage Innovation: EWE GASSPEICHER and Bilfinger Leading the Charge in Hydrogen Infrastructure</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-storage-innovation-ewe-gasspeicher-and-bilfinger-leading-the-charge-in-/8576749/</link>
+      <guid isPermaLink="false">molecola-bddb448d6b0c2621</guid>
+      <pubDate>Mon, 28 Sep 2026 00:07:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>EWE GASSPEICHER has commissioned Bilfinger to deliver its H2Dry hydrogen-drying system at the Huntorf salt-cavern storage site, converting one cavern to provide 16 million Nm³ of working gas capacity. This first… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Netherlands Lowers Green Hydrogen Electrolyser Capacity Forecast for 2030 amid Cost and Demand Pressures</title>
+      <link>http://www.hydrogenfuelnews.com/netherlands-lowers-green-hydrogen-electrolyser-capacity-forecast-for-2030-amid-c/8576748/</link>
+      <guid isPermaLink="false">molecola-6a38206781bad4ae</guid>
+      <pubDate>Mon, 28 Sep 2026 00:05:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The Dutch government has cut its 2030 green hydrogen electrolyser forecast to 1.2–1.5 GW from 3–4 GW, citing higher costs, network fees and uncertain demand, marking a shift in strategy. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Two-Dimensional Materials for Electrochemical Energy Storage, Thermal Energy Storage and Management, and Hydrogen Production and Storage</title>
+      <link>https://doi.org/10.1142/s0217979226300124</link>
+      <guid isPermaLink="false">molecola-1302fd0a83490f98</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Modern Physics B — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen Propulsion News: DLR Launches MODULARIS Floating Laboratory for Maritime Research</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-propulsion-news-dlr-launches-modularis-floating-laboratory-for-maritime/8576745/</link>
+      <guid isPermaLink="false">molecola-bd6d7361b78f76ab</guid>
+      <pubDate>Sun, 27 Sep 2026 11:14:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>DLR has launched the hull of its MODULARIS floating lab in Flensburg, a 48 × 11.5 m vessel to test hydrogen propulsion, batteries and alternative marine fuels under real-world conditions, with final outfitting in… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Extremophile‐Inspired Hydroxyectoine Reconstructs Water Networks and Stabilizes Zinc Interfaces in Aqueous Zinc Batteries</title>
+      <link>https://doi.org/10.1002/smll.76007</link>
+      <guid isPermaLink="false">molecola-4690f90c44848a73</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Small — OpenAlex</description>
+    </item>
+    <item>
+      <title>Synergistic Texture Engineering and Grain‐Boundary Stabilization for Aqueous Zinc‐Ion Batteries With Ultralong Cycling Life Under Extreme Conditions</title>
+      <link>https://doi.org/10.1002/smll.75954</link>
+      <guid isPermaLink="false">molecola-afeebb2ff5e63c84</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Small — OpenAlex</description>
+    </item>
+    <item>
+      <title>Additive-Mediated Disruption of Al3+ Hydration Shells Stabilizes Reversible Aqueous Aluminum Batteries</title>
+      <link>https://doi.org/10.1021/acsaem.6c01765</link>
+      <guid isPermaLink="false">molecola-2bb708d6aab47ef6</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03710</link>
+      <guid isPermaLink="false">molecola-3ae0c875220aac88</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Nano Letters — OpenAlex</description>
+    </item>
+    <item>
+      <title>Dongfeng Launches Integrated Solar-Hydrogen-Electric Station in Rural Xinjiang</title>
+      <link>http://www.hydrogenfuelnews.com/dongfeng-launches-integrated-solar-hydrogen-electric-station-in-rural-xinjiang/8576743/</link>
+      <guid isPermaLink="false">molecola-515d87aac962d680</guid>
+      <pubDate>Sat, 26 Sep 2026 22:20:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Dongfeng Motor has commissioned a containerized solar-hydrogen-electric smart energy station in rural Xinjiang, combining PV, battery, electrolysis, solid-state storage and fuel-cell technologies, aligning with China’s… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Folell’Hy: Corsica Sole Launches Pilot Green Hydrogen Hub at Folelli Solar Plant</title>
+      <link>http://www.hydrogenfuelnews.com/folell-hy-corsica-sole-launches-pilot-green-hydrogen-hub-at-folelli-solar-plant/8576742/</link>
+      <guid isPermaLink="false">molecola-28db8268010fb401</guid>
+      <pubDate>Sat, 26 Sep 2026 22:13:18 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Folell’Hy, Corsica Sole’s pilot green hydrogen facility at the Folelli solar plant, uses 60 Enapter electrolyzers to convert surplus PV into 230 kg of H₂ storage, distributed via Clément’Hyne. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production and Infrastructure Planned for $6.1B Uzbekistan e-SAF Complex</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-planned-for-6-1b-uzbekistan-e-saf-c/8576740/</link>
+      <guid isPermaLink="false">molecola-a0fe931e109f4354</guid>
+      <pubDate>Sat, 26 Sep 2026 22:06:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Allied Biofuels plans a US$6.1 billion clean-fuels complex in Uzbekistan’s Khorezm Region with up to 2.4 GW of Plug Power GenEco electrolyzers for SAF and green diesel. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Air Liquide Joins IRU to Accelerate Road Transport Decarbonisation</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-air-liquide-joins-iru-to-accelerate-road-transport-decar/8576739/</link>
+      <guid isPermaLink="false">molecola-78f682a0c55e6914</guid>
+      <pubDate>Sat, 26 Sep 2026 22:06:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Air Liquide has joined the IRU to channel its hydrogen expertise into the Green Compact, aiming to align production, distribution and refuelling infrastructure with heavy-vehicle decarbonisation under new EU CO₂… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Shanghai REFIRE Proposes RMB50M Shift to Commercial and Operational Capabilities</title>
@@ -55,46 +159,6 @@
       <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>ACR North American Advances — OpenAlex</description>
-    </item>
-    <item>
-      <title>Sharing the subsurface: global viability frontiers, symbiosis value and policy sufficiency for coupled carbon capture and underground hydrogen storage</title>
-      <link>https://doi.org/10.5281/zenodo.22983166</link>
-      <guid isPermaLink="false">molecola-0e24080d2e41503a</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Charge modulation-driven high-performance reversible hydrogen storage of Be4C3 monolayers near room temperature: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157842</link>
-      <guid isPermaLink="false">molecola-1a541b32b1e15b5e</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Experimental investigation of hydrogen liquefaction performance and ortho-para hydrogen conversion kinetics in a small-scale hydrogen liquefier</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157757</link>
-      <guid isPermaLink="false">molecola-a52804055c893123</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Analysis of Funds Allocated and Spent on Environmentally Sustainable Technology in India (2017–18 to 2025–26) and Structural Transformation through 2026</title>
-      <link>https://doi.org/10.5281/zenodo.22976250</link>
-      <guid isPermaLink="false">molecola-016d31ece4da1348</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACR North American Advances — OpenAlex</description>
-    </item>
-    <item>
-      <title>Sharing the subsurface: global viability frontiers, symbiosis value and policy sufficiency for coupled carbon capture and underground hydrogen storage</title>
-      <link>https://doi.org/10.5281/zenodo.22983167</link>
-      <guid isPermaLink="false">molecola-1b6f50d5fb93c0a5</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa</title>
@@ -383,70 +447,6 @@
       <pubDate>Thu, 24 Sep 2026 16:07:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Germany leads €2.1bn push to unlock e-SAF investment — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Haffner Energy Brings the Cost of Renewable Diesel and SAF Closer to that of Fossil Fuels with SB-HEFA</title>
-      <link>https://fuelcellsworks.com/2026/09/24/clean-energy/haffner-energy-brings-the-cost-of-renewable-diesel-and-saf-closer-to-that-of-fossil-fuels-with-sb-hefa</link>
-      <guid isPermaLink="false">molecola-c234b9f145fbd928</guid>
-      <pubDate>Thu, 24 Sep 2026 15:59:27 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Haffner Energy Brings the Cost of Renewable Diesel and SAF Closer to that of Fossil Fuels with SB-HEFA — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Floating Testbed Moves Closer to Sea Trials for Next-Generation Marine Power</title>
-      <link>https://fuelcellsworks.com/2026/09/21/h2/dlr-launches-modularis-research-vessel-to-test-hydrogen-batteries-and-ammonia-at-sea</link>
-      <guid isPermaLink="false">molecola-e12afe78fa4e01ca</guid>
-      <pubDate>Thu, 24 Sep 2026 15:49:13 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Floating Testbed Moves Closer to Sea Trials for Next-Generation Marine Power — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hyundai E&amp;C Sets Out to Secure Core Technology for Next-Generation Hydrogen Production via Water Electrolysis</title>
-      <link>https://fuelcellsworks.com/2026/09/24/h2/hyundai-e-and-c-sets-out-to-secure-core-technology-for-next-generation-hydrogen-production-via-water-electrolysis</link>
-      <guid isPermaLink="false">molecola-3007a5c6014d1785</guid>
-      <pubDate>Thu, 24 Sep 2026 15:40:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hyundai E&amp;C Sets Out to Secure Core Technology for Next-Generation Hydrogen Production via Water Electrolysis — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Super73 and Oracle Red Bull Racing Supercharge E-Bike Lineup with Limited-Run Super73-M1d Special Edition</title>
-      <link>https://fuelcellsworks.com/2026/09/24/battery/super73-and-oracle-red-bull-racing-supercharge-e-bike-lineup-with-limited-run-super73-m1d-special-edition</link>
-      <guid isPermaLink="false">molecola-e467290d21e95875</guid>
-      <pubDate>Thu, 24 Sep 2026 15:37:33 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Super73 and Oracle Red Bull Racing Supercharge E-Bike Lineup with Limited-Run Super73-M1d Special Edition — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Bye Aerospace Advances eFlyer Program with First Successful Flight of eFlyer 2</title>
-      <link>https://fuelcellsworks.com/2026/09/24/battery/bye-aerospace-advances-eflyer-program-with-first-successful-flight-of-eflyer-2</link>
-      <guid isPermaLink="false">molecola-981f429e011f38cd</guid>
-      <pubDate>Thu, 24 Sep 2026 15:31:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Bye Aerospace Advances eFlyer Program with First Successful Flight of eFlyer 2 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose.</title>
-      <link>https://fuelcellsworks.com/2026/09/22/h2/moselle-sits-on-two-energy-futures-fossil-gas-now-or-the-world-s-biggest-natural-hydrogen-deposit-later-france-just-got-asked-to-choose</link>
-      <guid isPermaLink="false">molecola-87e414e4ea95eb4f</guid>
-      <pubDate>Thu, 24 Sep 2026 15:23:06 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Moselle Sits on Two Energy Futures — Fossil Gas Now, or the World's Biggest Natural Hydrogen Deposit Later. France Just Got Asked to Choose. — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>IVECO BUS Enters the Electric Compact Minibus Segment with eFLEXY Line and eFLEXY City</title>
-      <link>https://fuelcellsworks.com/2026/09/22/electric/iveco-bus-enters-the-electric-compact-minibus-segment-with-eflexy-line-and-eflexy-city</link>
-      <guid isPermaLink="false">molecola-3a57bcc571bef78d</guid>
-      <pubDate>Thu, 24 Sep 2026 15:22:05 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>IVECO BUS Enters the Electric Compact Minibus Segment with eFLEXY Line and eFLEXY City — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>BNamericas: Hydrogen Council CEO Talks State of Play, Outlook, Energy Shocks</title>
-      <link>https://fuelcellsworks.com/2026/09/24/h2/bnamericas-hydrogen-council-ceo-talks-state-of-play-outlook-energy-shocks</link>
-      <guid isPermaLink="false">molecola-c7fbc68bd7278000</guid>
-      <pubDate>Thu, 24 Sep 2026 15:20:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>BNamericas: Hydrogen Council CEO Talks State of Play, Outlook, Energy Shocks — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
