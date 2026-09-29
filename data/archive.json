@@ -1,6 +1,71 @@
 {
- "count": 1368,
+ "count": 1375,
  "items": [
+  {
+   "authors": [
+    "Minhao ZHANG",
+    "Yudie Feng",
+    "Sun Zhenkai",
+    "Lichun Ma",
+    "Jia Wei",
+    "Bin WU"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "2e041c64eac07614",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2025110023",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes"
+  },
+  {
+   "authors": [
+    "Hongshan YANG",
+    "Xinyan ZHANG",
+    "Shanlin LI",
+    "Lei ZHU",
+    "Xingxing HE",
+    "Xuan WANG"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "82429410cf66c250",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2025090243",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of Citronella Essential Oil and Citronellal on the Storage and Preservation of Potatoes"
+  },
+  {
+   "authors": [
+    "Rongrong FANG",
+    "Fuwang Guan",
+    "Zhuli Yang",
+    "Qiang Yujie",
+    "Saitaer Xiakeer"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "8116d5a47dc36ffd",
+   "lang": "en",
+   "link": "https://doi.org/10.13374/j.issn2095-9389.2026.02.26.001",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Research progress on modification strategies of composite separators for aqueous zinc-ion batteries"
+  },
   {
    "authors": [
     "Prasad Laxman Pagdhare"
@@ -38,6 +103,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-29T02:09:54+00:00",
+   "excerpt": "H2SITE secures Enova grant for HydraNord Power to validate a 700 kW onboard ammonia-to-hydrogen fuel cell system at Energy House, advancing maritime hydrogen production and storage solutions.",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "ac6f39a3abb8d464",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-at-sea-hydranord-power-wins-enova-grant-for-onboard-ammonia-/8576755/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production at Sea: HydraNord Power Wins Enova Grant for Onboard Ammonia-to-Hydrogen Fuel Cell System"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-28T16:44:58+00:00",
    "excerpt": "",
    "first_seen": "2026-09-28T21:12:27+00:00",
@@ -64,6 +144,25 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026"
+  },
+  {
+   "authors": [
+    "Md Abrar Rafid Siddique",
+    "Bibek Aryal",
+    "Qiugang Lu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-28T16:03:00+00:00",
+   "excerpt": "As the world moves towards sustainable energy sources, hydrogen (H2) can be treated as an eco-friendly alternative to fossil fuels due to its high energy density and zero carbon emissions. The water-gas shift (WGS)…",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "074ce97e8cc36fce",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.35499v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction"
   },
   {
    "authors": [],
@@ -214,6 +313,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "India Moves Green Hydrogen Hub Plans Toward Implementation With Detailed Project Reports"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-28T13:12:29+00:00",
+   "excerpt": "IIT Gandhinagar researchers combined DFT and machine-learned potentials to screen monolayer amorphous carbon for HER, finding ~15% of sites match favorable adsorption energies for potential metal-free hydrogen…",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "0abcab2b2a35bad9",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/monolayer-amorphous-carbon-emerges-as-a-metal-free-catalyst-candidate-for-hydrog/8576752/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Monolayer Amorphous Carbon Emerges as a Metal-Free Catalyst Candidate for Hydrogen Production"
   },
   {
    "authors": [],
@@ -3187,6 +3301,24 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Green Hydrogen Production Demonstration Advances at KRISO’s Offshore Wave Energy Test Site"
+  },
+  {
+   "authors": [
+    "Mohammad R. Razavi",
+    "Ömer L. Gülder"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-23T01:27:09+00:00",
+   "excerpt": "Methane pyrolysis experiments were performed in a micro flow reactor to investigate the chemical mechanism sensitivities at elevated pressures and temperatures. The micro flow reactor used in this study provides…",
+   "first_seen": "2026-09-29T05:36:39+00:00",
+   "id": "875cb99720feacc3",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.31741v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Pressure and temperature dependence of methane pyrolysis and hydrogen production in a micro flow reactor"
   },
   {
    "authors": [
@@ -24113,6 +24245,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-28T21:12:27+00:00",
+ "updated": "2026-09-29T05:36:39+00:00",
  "version": 2
 }

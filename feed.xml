@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:36:23 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2025110023</link>
+      <guid isPermaLink="false">molecola-2e041c64eac07614</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effects of Citronella Essential Oil and Citronellal on the Storage and Preservation of Potatoes</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2025090243</link>
+      <guid isPermaLink="false">molecola-82429410cf66c250</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Research progress on modification strategies of composite separators for aqueous zinc-ion batteries</title>
+      <link>https://doi.org/10.13374/j.issn2095-9389.2026.02.26.001</link>
+      <guid isPermaLink="false">molecola-8116d5a47dc36ffd</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
     <item>
       <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
       <link>https://doi.org/10.5281/zenodo.22915467</link>
@@ -25,6 +49,14 @@
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
+      <title>Hydrogen Production at Sea: HydraNord Power Wins Enova Grant for Onboard Ammonia-to-Hydrogen Fuel Cell System</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-at-sea-hydranord-power-wins-enova-grant-for-onboard-ammonia-/8576755/</link>
+      <guid isPermaLink="false">molecola-ac6f39a3abb8d464</guid>
+      <pubDate>Tue, 29 Sep 2026 02:09:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>H2SITE secures Enova grant for HydraNord Power to validate a 700 kW onboard ammonia-to-hydrogen fuel cell system at Energy House, advancing maritime hydrogen production and storage solutions. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says</title>
       <link>https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says</link>
       <guid isPermaLink="false">molecola-c95eea751db276ce</guid>
@@ -39,6 +71,14 @@
       <pubDate>Mon, 28 Sep 2026 16:28:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction</title>
+      <link>https://arxiv.org/abs/2609.35499v1</link>
+      <guid isPermaLink="false">molecola-074ce97e8cc36fce</guid>
+      <pubDate>Mon, 28 Sep 2026 16:03:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>As the world moves towards sustainable energy sources, hydrogen (H2) can be treated as an eco-friendly alternative to fossil fuels due to its high energy density and zero carbon emissions. The water-gas shift (WGS)… — arXiv</description>
     </item>
     <item>
       <title>Fuel-Cell Components Hub Opens with Production and Testing Under One Roof</title>
@@ -121,6 +161,14 @@
       <description>India Moves Green Hydrogen Hub Plans Toward Implementation With Detailed Project Reports — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Monolayer Amorphous Carbon Emerges as a Metal-Free Catalyst Candidate for Hydrogen Production</title>
+      <link>http://www.hydrogenfuelnews.com/monolayer-amorphous-carbon-emerges-as-a-metal-free-catalyst-candidate-for-hydrog/8576752/</link>
+      <guid isPermaLink="false">molecola-0abcab2b2a35bad9</guid>
+      <pubDate>Mon, 28 Sep 2026 13:12:29 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>IIT Gandhinagar researchers combined DFT and machine-learned potentials to screen monolayer amorphous carbon for HER, finding ~15% of sites match favorable adsorption energies for potential metal-free hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Germany Puts €212.5M [$241.7M] Into Green Hydrogen-Based E-Fuel Technologies</title>
       <link>https://fuelcellsworks.com/2026/09/28/clean-energy/germany-puts-212-5m-241-7m-into-green-hydrogen-based-e-fuel-technologies</link>
       <guid isPermaLink="false">molecola-75587e58f77a04da</guid>
@@ -193,14 +241,6 @@
       <description>ACS Applied Energy Materials — OpenAlex</description>
     </item>
     <item>
-      <title>Triboelectric Topological Ion Effect for Highly Sensitive Tactile Sensing</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c03710</link>
-      <guid isPermaLink="false">molecola-3ae0c875220aac88</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nano Letters — OpenAlex</description>
-    </item>
-    <item>
       <title>Dongfeng Launches Integrated Solar-Hydrogen-Electric Station in Rural Xinjiang</title>
       <link>http://www.hydrogenfuelnews.com/dongfeng-launches-integrated-solar-hydrogen-electric-station-in-rural-xinjiang/8576743/</link>
       <guid isPermaLink="false">molecola-515d87aac962d680</guid>
@@ -239,30 +279,6 @@
       <pubDate>Sat, 26 Sep 2026 09:08:45 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>REFIRE proposes reallocating RMB50 million of R&amp;D funds to drive commercialization and operational capabilities, subject to shareholder approval in October. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Electrical–hydrogen–carbon synergy-driven energy scheduling optimization with eco-economic low-carbon coordinated optimization trade-offs for bus charging stations</title>
-      <link>https://doi.org/10.1007/s00202-026-03731-w</link>
-      <guid isPermaLink="false">molecola-7f8af5845b105b91</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Electrical Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>H2 MAP Extends the Shelf Life of Juicy Peach by Delaying Softening and Maintaining Antioxidant Capacity</title>
-      <link>https://doi.org/10.1007/s11947-026-04596-4</link>
-      <guid isPermaLink="false">molecola-b9186174b0deeeac</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Food and Bioprocess Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Analysis of Funds Allocated and Spent on Environmentally Sustainable Technology in India (2017–18 to 2025–26) and Structural Transformation through 2026</title>
-      <link>https://doi.org/10.5281/zenodo.22976251</link>
-      <guid isPermaLink="false">molecola-312e4b7db5777e64</guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACR North American Advances — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa</title>
@@ -431,22 +447,6 @@
       <pubDate>Fri, 25 Sep 2026 13:52:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Pioneering Hydrogen Technology with Global Potential — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Bekaert Launches Currento® Microporous Layer to Enable Lower-Cost, Industrial-Scale Hydrogen Production</title>
-      <link>https://fuelcellsworks.com/2026/09/25/fuel-cells/bekaert-launches-currento-microporous-layer-to-enable-lower-cost-industrial-scale-hydrogen-production</link>
-      <guid isPermaLink="false">molecola-87089828fa862236</guid>
-      <pubDate>Fri, 25 Sep 2026 13:50:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Bekaert Launches Currento® Microporous Layer to Enable Lower-Cost, Industrial-Scale Hydrogen Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Athens Bus Operator Launches First Hydrogen Bus Tender</title>
-      <link>https://fuelcellsworks.com/2026/09/24/fuel-cells/first-hydrogen-bus-tender-launches-as-operator-eyes-50-vehicle-fleet</link>
-      <guid isPermaLink="false">molecola-c085792b28669b21</guid>
-      <pubDate>Fri, 25 Sep 2026 13:41:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Athens Bus Operator Launches First Hydrogen Bus Tender — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

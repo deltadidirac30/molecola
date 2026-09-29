@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-28T21:12:27+00:00",
+ "checked": "2026-09-29T05:36:39+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-09-25T14:56:33+00:00"
+   "newest": "2026-09-28T16:03:00+00:00"
   },
   {
    "slug": "fchea",
@@ -105,15 +105,15 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-28T00:12:17+00:00"
+   "newest": "2026-09-29T02:09:54+00:00"
   },
   {
    "slug": "openalex",
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 37,
-   "newest": "2026-09-30T00:00:00+00:00"
+   "count": 40,
+   "newest": "2026-10-01T00:00:00+00:00"
   },
   {
    "slug": "power",
