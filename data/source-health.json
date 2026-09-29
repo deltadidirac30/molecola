@@ -1,5 +1,5 @@
 {
- "checked": "2026-09-29T05:36:39+00:00",
+ "checked": "2026-09-29T12:42:56+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-24T16:07:00+00:00"
+   "newest": "2026-09-29T12:34:22+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -121,7 +121,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-01T11:05:38+00:00"
+   "newest": "2026-09-29T08:30:14+00:00"
   },
   {
    "slug": "pv-magazine",

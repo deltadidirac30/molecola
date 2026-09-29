@@ -1,5 +1,5 @@
 {
- "count": 1375,
+ "count": 1377,
  "items": [
   {
    "authors": [
@@ -99,6 +99,36 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-09-29T12:34:22+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-29T12:42:56+00:00",
+   "id": "a270fb3f1cd1f225",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/gen-h-plans-200-300-mw-zero-emission-balancing-power-facility-in-finland-based-on-hycamite-methane-pyrolysis-technology/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "GEN-H plans 200-300 MW zero-emission balancing power facility in Finland based on Hycamite methane pyrolysis technology"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T08:30:14+00:00",
+   "excerpt": "The DeBary Hydrogen Production Storage System, part of the DeBary power plant complex, is the winner of POWER's Top Plant Award for hydrogen. It is the first facility in the U.S. to produce, store, and burn 100% green…",
+   "first_seen": "2026-09-29T12:42:56+00:00",
+   "id": "4e52d3e3c2a5861e",
+   "lang": "en",
+   "link": "https://www.powermag.com/a-greener-grid-florida-facility-turning-hydrogen-into-power/",
+   "manual": null,
+   "paywall": false,
+   "source": "POWER",
+   "source_slug": "power",
+   "title": "A Greener Grid: Florida Facility Turning Hydrogen into Power"
   },
   {
    "authors": [],
@@ -24245,6 +24275,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-29T05:36:39+00:00",
+ "updated": "2026-09-29T12:42:56+00:00",
  "version": 2
 }

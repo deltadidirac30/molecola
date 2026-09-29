@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:42:35 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
@@ -47,6 +47,22 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>GEN-H plans 200-300 MW zero-emission balancing power facility in Finland based on Hycamite methane pyrolysis technology</title>
+      <link>https://hydrogeneurope.eu/gen-h-plans-200-300-mw-zero-emission-balancing-power-facility-in-finland-based-on-hycamite-methane-pyrolysis-technology/</link>
+      <guid isPermaLink="false">molecola-a270fb3f1cd1f225</guid>
+      <pubDate>Tue, 29 Sep 2026 12:34:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>GEN-H plans 200-300 MW zero-emission balancing power facility in Finland based on Hycamite methane pyrolysis technology — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>A Greener Grid: Florida Facility Turning Hydrogen into Power</title>
+      <link>https://www.powermag.com/a-greener-grid-florida-facility-turning-hydrogen-into-power/</link>
+      <guid isPermaLink="false">molecola-4e52d3e3c2a5861e</guid>
+      <pubDate>Tue, 29 Sep 2026 08:30:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
+      <description>The DeBary Hydrogen Production Storage System, part of the DeBary power plant complex, is the winner of POWER's Top Plant Award for hydrogen. It is the first facility in the U.S. to produce, store, and burn 100% green… — POWER</description>
     </item>
     <item>
       <title>Hydrogen Production at Sea: HydraNord Power Wins Enova Grant for Onboard Ammonia-to-Hydrogen Fuel Cell System</title>
@@ -431,22 +447,6 @@
       <pubDate>Fri, 25 Sep 2026 14:20:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hydrogen Engines Face a Materials Problem — Researchers Have Four Years to Tackle It — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>NASA Selects Teledyne Hydrogen Fuel Cell System for Next Stage of Lunar Power Development</title>
-      <link>https://fuelcellsworks.com/2026/09/25/fuel-cells/nasa-selects-teledyne-hydrogen-fuel-cell-system-for-next-stage-of-lunar-power-development</link>
-      <guid isPermaLink="false">molecola-e15c669809fd26f8</guid>
-      <pubDate>Fri, 25 Sep 2026 14:12:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>NASA Selects Teledyne Hydrogen Fuel Cell System for Next Stage of Lunar Power Development — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Pioneering Hydrogen Technology with Global Potential</title>
-      <link>https://fuelcellsworks.com/2026/09/23/h2/pioneering-hydrogen-technology-with-global-potential</link>
-      <guid isPermaLink="false">molecola-f54a3362709f9f1b</guid>
-      <pubDate>Fri, 25 Sep 2026 13:52:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Pioneering Hydrogen Technology with Global Potential — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
