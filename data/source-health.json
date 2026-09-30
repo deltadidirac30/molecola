@@ -1,8 +1,16 @@
 {
- "checked": "2026-09-30T09:35:40+00:00",
- "productive": 9,
+ "checked": "2026-09-30T17:58:52+00:00",
+ "productive": 8,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -60,14 +68,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-09-29T16:21:15+00:00"
-  },
-  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-29T15:07:04+00:00"
+   "newest": "2026-09-30T13:19:10+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-30T07:18:19+00:00"
+   "newest": "2026-09-30T11:37:01+00:00"
   }
  ]
 }

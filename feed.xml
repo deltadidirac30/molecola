@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:58:08 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
@@ -33,6 +33,22 @@
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
     </item>
     <item>
+      <title>Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold</title>
+      <link>https://hydrogeneurope.eu/reverion-raises-175m-series-b-to-scale-production-of-its-dispatchable-carbon-negative-power-plants-tenfold/</link>
+      <guid isPermaLink="false">molecola-98b6cc2f5c17001c</guid>
+      <pubDate>Wed, 30 Sep 2026 13:19:10 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage</title>
+      <link>https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/</link>
+      <guid isPermaLink="false">molecola-4c412228e134f284</guid>
+      <pubDate>Wed, 30 Sep 2026 11:37:01 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Chinese researchers have modeled a heating system combining PEM fuel cells, a CO₂ heat pump and phase-change thermal storage, assessing the impact of different thermal boundary conditions. The results show that cathode… — PV Magazine</description>
+    </item>
+    <item>
       <title>Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house</title>
       <link>https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/</link>
       <guid isPermaLink="false">molecola-a9dc9184ff15c1eb</guid>
@@ -55,6 +71,14 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Alkali metal ion-decorated cyclo[18]carbon molecular wheels for enhanced hydrogen storage: A DFT study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157829</link>
+      <guid isPermaLink="false">molecola-c9519aaa4cd55b6e</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility</title>
@@ -249,6 +273,30 @@
       <description>H2SITE secures Enova grant for HydraNord Power to validate a 700 kW onboard ammonia-to-hydrogen fuel cell system at Energy House, advancing maritime hydrogen production and storage solutions. — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>Spatio-temporal optimisation of hydrogen supply chains in the United Kingdom: An RTN-based assessment of infrastructure, cost, and deployment pathways</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157816</link>
+      <guid isPermaLink="false">molecola-90b4aed1fdf8506e</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>An integrated Weibull–multi-criteria framework for the techno-economic assessment of green hydrogen: application to alkaline and PEM electrolysers across operational and emerging sites</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157788</link>
+      <guid isPermaLink="false">molecola-239a3bd404ed4e59</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Study on the explosion suppression efficiency and mechanism of modified dry water material in ammonia-hydrogen-air mixture</title>
+      <link>https://doi.org/10.1016/j.fuel.2026.141535</link>
+      <guid isPermaLink="false">molecola-77317222d10bf0f7</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Fuel — OpenAlex</description>
+    </item>
+    <item>
       <title>India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says</title>
       <link>https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says</link>
       <guid isPermaLink="false">molecola-c95eea751db276ce</guid>
@@ -263,14 +311,6 @@
       <pubDate>Mon, 28 Sep 2026 16:28:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Physics-Guided Conditional Diffusion Model for Rare Event Synthesis and Diagnosis for the Water-Gas Shift Reaction</title>
-      <link>https://arxiv.org/abs/2609.35499v1</link>
-      <guid isPermaLink="false">molecola-074ce97e8cc36fce</guid>
-      <pubDate>Mon, 28 Sep 2026 16:03:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>As the world moves towards sustainable energy sources, hydrogen (H2) can be treated as an eco-friendly alternative to fossil fuels due to its high energy density and zero carbon emissions. The water-gas shift (WGS)… — arXiv</description>
     </item>
     <item>
       <title>Fuel-Cell Components Hub Opens with Production and Testing Under One Roof</title>
@@ -393,30 +433,6 @@
       <description>The Dutch government has cut its 2030 green hydrogen electrolyser forecast to 1.2–1.5 GW from 3–4 GW, citing higher costs, network fees and uncertain demand, marking a shift in strategy. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>Two-Dimensional Materials for Electrochemical Energy Storage, Thermal Energy Storage and Management, and Hydrogen Production and Storage</title>
-      <link>https://doi.org/10.1142/s0217979226300124</link>
-      <guid isPermaLink="false">molecola-1302fd0a83490f98</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Modern Physics B — OpenAlex</description>
-    </item>
-    <item>
-      <title>Cell-derived lactate triggers local hydrogelation and phenotype remodelling</title>
-      <link>https://doi.org/10.1038/s41467-026-77702-x</link>
-      <guid isPermaLink="false">molecola-86f887d46caa2cb3</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nature Communications — OpenAlex</description>
-    </item>
-    <item>
-      <title>Enhancing Hydrogen Adsorption Ability of MOF-5 with Metal Node Exchange and Linker Functionalisation</title>
-      <link>https://doi.org/10.1088/2515-7639/aead29</link>
-      <guid isPermaLink="false">molecola-f018e01498e2c468</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Physics Materials — OpenAlex</description>
-    </item>
-    <item>
       <title>Hydrogen Propulsion News: DLR Launches MODULARIS Floating Laboratory for Maritime Research</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-propulsion-news-dlr-launches-modularis-floating-laboratory-for-maritime/8576745/</link>
       <guid isPermaLink="false">molecola-bd6d7361b78f76ab</guid>
@@ -431,22 +447,6 @@
       <pubDate>Sat, 26 Sep 2026 22:20:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Dongfeng Motor has commissioned a containerized solar-hydrogen-electric smart energy station in rural Xinjiang, combining PV, battery, electrolysis, solid-state storage and fuel-cell technologies, aligning with China’s… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Folell’Hy: Corsica Sole Launches Pilot Green Hydrogen Hub at Folelli Solar Plant</title>
-      <link>http://www.hydrogenfuelnews.com/folell-hy-corsica-sole-launches-pilot-green-hydrogen-hub-at-folelli-solar-plant/8576742/</link>
-      <guid isPermaLink="false">molecola-28db8268010fb401</guid>
-      <pubDate>Sat, 26 Sep 2026 22:13:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Folell’Hy, Corsica Sole’s pilot green hydrogen facility at the Folelli solar plant, uses 60 Enapter electrolyzers to convert surplus PV into 230 kg of H₂ storage, distributed via Clément’Hyne. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production and Infrastructure Planned for $6.1B Uzbekistan e-SAF Complex</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-and-infrastructure-planned-for-6-1b-uzbekistan-e-saf-c/8576740/</link>
-      <guid isPermaLink="false">molecola-a0fe931e109f4354</guid>
-      <pubDate>Sat, 26 Sep 2026 22:06:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Allied Biofuels plans a US$6.1 billion clean-fuels complex in Uzbekistan’s Khorezm Region with up to 2.4 GW of Plug Power GenEco electrolyzers for SAF and green diesel. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
