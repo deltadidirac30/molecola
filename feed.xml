@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:35:21 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
@@ -31,6 +31,14 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house</title>
+      <link>https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/</link>
+      <guid isPermaLink="false">molecola-a9dc9184ff15c1eb</guid>
+      <pubDate>Wed, 30 Sep 2026 07:18:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Panasonic has deployed a 10 kW pure hydrogen fuel cell and a 9 kW air-to-water heat pump at Finland’s Hydrogen House, which features rooftop PV and up to 90 kg of hydrogen storage. The integrated system uses… — PV Magazine</description>
     </item>
     <item>
       <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
@@ -65,6 +73,30 @@
       <description>Story You May Have Missed: VEICHI Begins Rectifier Production for Sinopec Green Hydrogen Project — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Milepost Acquires KG Knutsson’s Charging Stations in Sandviken</title>
+      <link>https://fuelcellsworks.com/2026/09/29/electric/milepost-acquires-kg-knutsson-s-charging-stations-in-sandviken</link>
+      <guid isPermaLink="false">molecola-a7226df7d61b6112</guid>
+      <pubDate>Tue, 29 Sep 2026 16:55:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Milepost Acquires KG Knutsson’s Charging Stations in Sandviken — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Scania and Prinoth in Partnership to Electrify Snow Groomers</title>
+      <link>https://fuelcellsworks.com/2026/09/28/battery/scania-and-prinoth-in-partnership-to-electrify-snow-groomers</link>
+      <guid isPermaLink="false">molecola-574eaa5b8542b2e8</guid>
+      <pubDate>Tue, 29 Sep 2026 16:40:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Scania and Prinoth in Partnership to Electrify Snow Groomers — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>An Efficient Machine Learning Approach for Degradation Forecasting in AEM Water Electrolysis</title>
+      <link>https://arxiv.org/abs/2609.37941v1</link>
+      <guid isPermaLink="false">molecola-90f545523cd8a4ff</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:15 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>This study provides a data-driven analysis of a novel dataset of single-cell Anion Exchange Membrane water electrolyzers (AEMWE), operated under constant current load across multiple heterogeneous experimental… — arXiv</description>
+    </item>
+    <item>
       <title>Denmark Adds $850M to Hydrogen Pipeline Support as Booking Rules Are Eased</title>
       <link>https://fuelcellsworks.com/2026/09/29/h2/denmark-adds-850m-to-hydrogen-pipeline-support-as-booking-rules-are-eased</link>
       <guid isPermaLink="false">molecola-80c22265614464a4</guid>
@@ -79,6 +111,14 @@
       <pubDate>Tue, 29 Sep 2026 15:50:55 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>HYDS Awards FEED Contract to Moreld Apply for 10MW Green Hydrogen Project at Port of Gothenburg — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Arval UK Surpasses 63,000 Electric Vehicles as Sustainability Report Highlights Fleet Electrification and Decarbonisation Progress</title>
+      <link>https://fuelcellsworks.com/2026/09/28/electric/arval-uk-surpasses-63-000-electric-vehicles-as-sustainability-report-highlights-fleet-electrification-and-decarbonisation-progress</link>
+      <guid isPermaLink="false">molecola-fae7ba7351bf8b4a</guid>
+      <pubDate>Tue, 29 Sep 2026 15:41:25 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Arval UK Surpasses 63,000 Electric Vehicles as Sustainability Report Highlights Fleet Electrification and Decarbonisation Progress — Fuel Cells Works</description>
     </item>
     <item>
       <title>Liquid Hydrogen Drones to Patrol 120Km Pipeline in Real-World Trial</title>
@@ -97,12 +137,36 @@
       <description>SunHydrogen Extends Joint Development Agreement with Honda R&amp;D — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Green Hydrogen News: H2Pro’s Decoupled Water Electrolysis Moves from Israeli Pilot to Spanish Demonstrations</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-h2pro-s-decoupled-water-electrolysis-moves-from-israeli-pilo/8576760/</link>
+      <guid isPermaLink="false">molecola-d14928665a3437d1</guid>
+      <pubDate>Tue, 29 Sep 2026 15:29:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>H2Pro is transitioning its membrane-less Decoupled Water Electrolysis technology from a 0.5 MW Israeli pilot to planned 5 MW and 25 MW demonstrations in Spain, aiming to prove flexible, low-cost green hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Thyssenkrupp Nucera Secures New Chlor-Alkali Order From Hongniu Lanzhou in China</title>
       <link>https://fuelcellsworks.com/2026/09/29/fuel-cells/thyssenkrupp-nucera-secures-new-chlor-alkali-order-from-hongniu-lanzhou-in-china</link>
       <guid isPermaLink="false">molecola-5f17340880038afc</guid>
       <pubDate>Tue, 29 Sep 2026 15:19:29 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Thyssenkrupp Nucera Secures New Chlor-Alkali Order From Hongniu Lanzhou in China — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Plug Power Delivers 1 MW PEM Electrolyzer to Boost Invercargill Hydrogen Infrastructure</title>
+      <link>http://www.hydrogenfuelnews.com/plug-power-delivers-1-mw-pem-electrolyzer-to-boost-invercargill-hydrogen-infrast/8576758/</link>
+      <guid isPermaLink="false">molecola-289ec3797f59ce70</guid>
+      <pubDate>Tue, 29 Sep 2026 15:15:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Plug Power shipped a 1 MW GenEco PEM electrolyzer to HWR Hydrogen’s Invercargill station, paving the way for on-site hydrogen production to fuel dual-fuel heavy trucks in Southland. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Production Methods: Wood Models $0.56/kg Cost for Eclipse Energy’s Subsurface Route</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-methods-wood-models-0-56-kg-cost-for-eclipse-energy-s-subsur/8576756/</link>
+      <guid isPermaLink="false">molecola-51dd7d2c364711c4</guid>
+      <pubDate>Tue, 29 Sep 2026 15:12:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>An independent Wood assessment finds Eclipse Energy’s RenovaStrata H2 could produce hydrogen at $0.56/kg with 0.076 kgCO2e/kgH2, leveraging depleted oil reservoirs and existing wells. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>H2Accelerate sets out Member State policy package to unlock TCO parity for hydrogen trucks</title>
@@ -353,14 +417,6 @@
       <description>Journal of Physics Materials — OpenAlex</description>
     </item>
     <item>
-      <title>A Study on the Derivation of Safety Requirements for Hydrogen Systems in Railway Vehicles Based on Hazard Analysis</title>
-      <link>https://doi.org/10.5370/kiee.2026.75.9.2274</link>
-      <guid isPermaLink="false">molecola-0af47075c7aa3ca9</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>The Transactions of The Korean Institute of Electrical Engineers — OpenAlex</description>
-    </item>
-    <item>
       <title>Hydrogen Propulsion News: DLR Launches MODULARIS Floating Laboratory for Maritime Research</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-propulsion-news-dlr-launches-modularis-floating-laboratory-for-maritime/8576745/</link>
       <guid isPermaLink="false">molecola-bd6d7361b78f76ab</guid>
@@ -391,62 +447,6 @@
       <pubDate>Sat, 26 Sep 2026 22:06:45 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Allied Biofuels plans a US$6.1 billion clean-fuels complex in Uzbekistan’s Khorezm Region with up to 2.4 GW of Plug Power GenEco electrolyzers for SAF and green diesel. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Air Liquide Joins IRU to Accelerate Road Transport Decarbonisation</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-air-liquide-joins-iru-to-accelerate-road-transport-decar/8576739/</link>
-      <guid isPermaLink="false">molecola-78f682a0c55e6914</guid>
-      <pubDate>Sat, 26 Sep 2026 22:06:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Air Liquide has joined the IRU to channel its hydrogen expertise into the Green Compact, aiming to align production, distribution and refuelling infrastructure with heavy-vehicle decarbonisation under new EU CO₂… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Shanghai REFIRE Proposes RMB50M Shift to Commercial and Operational Capabilities</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-shanghai-refire-proposes-rmb50m-shift-to-commercial-and-/8576738/</link>
-      <guid isPermaLink="false">molecola-b2f8aba82324a523</guid>
-      <pubDate>Sat, 26 Sep 2026 09:08:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>REFIRE proposes reallocating RMB50 million of R&amp;D funds to drive commercialization and operational capabilities, subject to shareholder approval in October. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Project Financing: AfDB Catalyzes $20M in Green Hydrogen Grants Across Africa</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-project-financing-afdb-catalyzes-20m-in-green-hydrogen-grants-across-af/8576736/</link>
-      <guid isPermaLink="false">molecola-4c480a388a23d0c1</guid>
-      <pubDate>Fri, 25 Sep 2026 20:17:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>AfDB selects four green-hydrogen projects in Egypt, Morocco, Namibia and South Africa for proposed $20M grants via SEFA to fund feasibility and bankability work. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>NTU artificial leaf advances green hydrogen production from seawater while tackling hydrazine contamination</title>
-      <link>http://www.hydrogenfuelnews.com/ntu-artificial-leaf-advances-green-hydrogen-production-from-seawater-while-tackl/8576735/</link>
-      <guid isPermaLink="false">molecola-2d95e92ceab82b22</guid>
-      <pubDate>Fri, 25 Sep 2026 20:13:40 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>A team at NTU has developed an artificial leaf that uses sunlight to produce hydrogen from seawater and simultaneously degrades toxic hydrazine using a perovskite photocathode and oxide catalyst. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hyster and Briggs Deliver Hydrogen Fuel-Cell ReachStacker to Port of Tilbury</title>
-      <link>http://www.hydrogenfuelnews.com/hyster-and-briggs-deliver-hydrogen-fuel-cell-reachstacker-to-port-of-tilbury/8576734/</link>
-      <guid isPermaLink="false">molecola-6ac7f60c79578664</guid>
-      <pubDate>Fri, 25 Sep 2026 20:13:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Hyster and Briggs Equipment UK have deployed a hydrogen fuel-cell ReachStacker at Port of Tilbury as a pre-production trial. Powered by a 60 kW Nuvera fuel cell and supported by GeoPura’s on-site electrolyser, the… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem</title>
-      <link>https://fuelcellsworks.com/2026/09/25/green-hydrogen/how-an-ai-run-lab-cracked-open-green-hydrogen-s-catalyst-problem</link>
-      <guid isPermaLink="false">molecola-e1b1d90f54383070</guid>
-      <pubDate>Fri, 25 Sep 2026 16:14:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>How an AI-Run Lab Cracked Open Green Hydrogen's Catalyst Problem — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>GAC Introduces AION UT in Denmark and Norway Alongside Austrian Test Drives</title>
-      <link>https://fuelcellsworks.com/2026/09/24/electric/gac-introduces-aion-ut-in-denmark-and-norway-alongside-austrian-test-drives</link>
-      <guid isPermaLink="false">molecola-94f12a8ee168e511</guid>
-      <pubDate>Fri, 25 Sep 2026 16:10:59 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>GAC Introduces AION UT in Denmark and Norway Alongside Austrian Test Drives — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

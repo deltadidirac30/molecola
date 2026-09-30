@@ -1,5 +1,5 @@
 {
- "count": 1417,
+ "count": 1425,
  "items": [
   {
    "authors": [
@@ -65,6 +65,21 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Research progress on modification strategies of composite separators for aqueous zinc-ion batteries"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-30T07:18:19+00:00",
+   "excerpt": "Panasonic has deployed a 10 kW pure hydrogen fuel cell and a 9 kW air-to-water heat pump at Finland’s Hydrogen House, which features rooftop PV and up to 90 kg of hydrogen storage. The integrated system uses…",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "a9dc9184ff15c1eb",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "Panasonic deploys fuel cell, heat pump at PV-powered hydrogen house"
   },
   {
    "authors": [
@@ -133,6 +148,58 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-29T16:55:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "a7226df7d61b6112",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/29/electric/milepost-acquires-kg-knutsson-s-charging-stations-in-sandviken",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Milepost Acquires KG Knutsson’s Charging Stations in Sandviken"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T16:40:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "574eaa5b8542b2e8",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/28/battery/scania-and-prinoth-in-partnership-to-electrify-snow-groomers",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Scania and Prinoth in Partnership to Electrify Snow Groomers"
+  },
+  {
+   "authors": [
+    "Marco Veneriano",
+    "Ani Gjergji",
+    "Sebastiano Bellani",
+    "Andrea Riva",
+    "Vito Paolo Pastore",
+    "Matteo Santacesaria"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-29T16:21:15+00:00",
+   "excerpt": "This study provides a data-driven analysis of a novel dataset of single-cell Anion Exchange Membrane water electrolyzers (AEMWE), operated under constant current load across multiple heterogeneous experimental…",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "90f545523cd8a4ff",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.37941v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "An Efficient Machine Learning Approach for Degradation Forecasting in AEM Water Electrolysis"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-29T16:09:11+00:00",
    "excerpt": "",
    "first_seen": "2026-09-29T19:57:11+00:00",
@@ -159,6 +226,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "HYDS Awards FEED Contract to Moreld Apply for 10MW Green Hydrogen Project at Port of Gothenburg"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T15:41:25+00:00",
+   "excerpt": "",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "fae7ba7351bf8b4a",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/28/electric/arval-uk-surpasses-63-000-electric-vehicles-as-sustainability-report-highlights-fleet-electrification-and-decarbonisation-progress",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Arval UK Surpasses 63,000 Electric Vehicles as Sustainability Report Highlights Fleet Electrification and Decarbonisation Progress"
   },
   {
    "authors": [],
@@ -193,6 +275,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-09-29T15:29:58+00:00",
+   "excerpt": "H2Pro is transitioning its membrane-less Decoupled Water Electrolysis technology from a 0.5 MW Israeli pilot to planned 5 MW and 25 MW demonstrations in Spain, aiming to prove flexible, low-cost green hydrogen…",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "d14928665a3437d1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-h2pro-s-decoupled-water-electrolysis-moves-from-israeli-pilo/8576760/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: H2Pro’s Decoupled Water Electrolysis Moves from Israeli Pilot to Spanish Demonstrations"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-09-29T15:19:29+00:00",
    "excerpt": "",
    "first_seen": "2026-09-29T19:57:11+00:00",
@@ -204,6 +301,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Thyssenkrupp Nucera Secures New Chlor-Alkali Order From Hongniu Lanzhou in China"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T15:15:12+00:00",
+   "excerpt": "Plug Power shipped a 1 MW GenEco PEM electrolyzer to HWR Hydrogen’s Invercargill station, paving the way for on-site hydrogen production to fuel dual-fuel heavy trucks in Southland.",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "289ec3797f59ce70",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/plug-power-delivers-1-mw-pem-electrolyzer-to-boost-invercargill-hydrogen-infrast/8576758/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Plug Power Delivers 1 MW PEM Electrolyzer to Boost Invercargill Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T15:12:38+00:00",
+   "excerpt": "An independent Wood assessment finds Eclipse Energy’s RenovaStrata H2 could produce hydrogen at $0.56/kg with 0.076 kgCO2e/kgH2, leveraging depleted oil reservoirs and existing wells.",
+   "first_seen": "2026-09-30T09:35:40+00:00",
+   "id": "51dd7d2c364711c4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-methods-wood-models-0-56-kg-cost-for-eclipse-energy-s-subsur/8576756/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production Methods: Wood Models $0.56/kg Cost for Eclipse Energy’s Subsurface Route"
   },
   {
    "authors": [],
@@ -25016,6 +25143,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-30T00:21:08+00:00",
+ "updated": "2026-09-30T09:35:40+00:00",
  "version": 2
 }
