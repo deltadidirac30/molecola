@@ -1,5 +1,5 @@
 {
- "count": 1416,
+ "count": 1417,
  "items": [
   {
    "authors": [
@@ -99,6 +99,21 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-09-29T21:30:53+00:00",
+   "excerpt": "Late in construction of Total Hydrogen Solutions’ new hydrogen plant in Katy, Texas, someone cut and stole the incoming high-voltage cable. The theft forced a complete replacement of the affected run just as the team…",
+   "first_seen": "2026-09-30T00:21:08+00:00",
+   "id": "a4ae0ad48f0aec48",
+   "lang": "en",
+   "link": "https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/",
+   "manual": null,
+   "paywall": false,
+   "source": "POWER",
+   "source_slug": "power",
+   "title": "Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility"
   },
   {
    "authors": [],
@@ -25001,6 +25016,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-09-29T19:57:11+00:00",
+ "updated": "2026-09-30T00:21:08+00:00",
  "version": 2
 }

@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 29 Sep 2026 19:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:20:52 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
@@ -47,6 +47,14 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility</title>
+      <link>https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/</link>
+      <guid isPermaLink="false">molecola-a4ae0ad48f0aec48</guid>
+      <pubDate>Tue, 29 Sep 2026 21:30:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
+      <description>Late in construction of Total Hydrogen Solutions’ new hydrogen plant in Katy, Texas, someone cut and stole the incoming high-voltage cable. The theft forced a complete replacement of the affected run just as the team… — POWER</description>
     </item>
     <item>
       <title>Story You May Have Missed: VEICHI Begins Rectifier Production for Sinopec Green Hydrogen Project</title>
@@ -439,14 +447,6 @@
       <pubDate>Fri, 25 Sep 2026 16:10:59 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>GAC Introduces AION UT in Denmark and Norway Alongside Austrian Test Drives — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hyundai IONIQ 9 Trialled by National Highways as All-Electric Traffic Officer Vehicle</title>
-      <link>https://fuelcellsworks.com/2026/09/22/electric/hyundai-ioniq-9-trialled-by-national-highways-as-all-electric-traffic-officer-vehicle</link>
-      <guid isPermaLink="false">molecola-37c0ece29b6ba67c</guid>
-      <pubDate>Fri, 25 Sep 2026 16:10:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hyundai IONIQ 9 Trialled by National Highways as All-Electric Traffic Officer Vehicle — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
