@@ -1,16 +1,8 @@
 {
- "checked": "2026-09-30T17:58:52+00:00",
- "productive": 8,
+ "checked": "2026-09-30T22:10:37+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -68,6 +60,14 @@
    "newest": null
   },
   {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-09-29T16:21:15+00:00"
+  },
+  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-09-29T17:01:31+00:00"
+   "newest": "2026-09-30T18:47:03+00:00"
   },
   {
    "slug": "h2it",
