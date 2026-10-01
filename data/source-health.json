@@ -1,6 +1,6 @@
 {
- "checked": "2026-09-30T22:10:37+00:00",
- "productive": 9,
+ "checked": "2026-10-01T05:42:06+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
   {
@@ -44,14 +44,6 @@
    "newest": null
   },
   {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
-   "count": 0,
-   "newest": null
-  },
-  {
    "slug": "us-doe",
    "name": "US DOE — Energy",
    "ok": true,
@@ -65,7 +57,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-09-29T16:21:15+00:00"
+   "newest": "2026-09-30T05:51:08+00:00"
   },
   {
    "slug": "fchea",
@@ -130,6 +122,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-09-30T11:37:01+00:00"
+  },
+  {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 1,
+   "newest": "2026-10-01T04:30:27+00:00"
   }
  ]
 }

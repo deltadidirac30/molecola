@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:41:52 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Assessing the future cost of hydrogen in a fully decarbonised Italian energy system: a comparison of myopic and perfect foresight optimisation approaches</title>
+      <link>https://www.qualenergia.it/pro/documenti/assessing-the-future-cost-of-hydrogen-in-a-fully-decarbonised-italian-energy-system-a-comparison-of-myopic-and-perfect-foresight-optimisation-approaches/</link>
+      <guid isPermaLink="false">molecola-a15199f04a0a231a</guid>
+      <pubDate>Thu, 01 Oct 2026 04:30:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Studio sul costo di produzione dell’idrogeno verde in Italia, che potrebbe scendere dai 2,37 €/kg stimati per il 2030 a 1,49-2,05 €/kg nel 2050, in un sistema energetico interamente rinnovabile. Ma il risultato dipende… — QualEnergia</description>
+    </item>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
       <link>https://doi.org/10.13386/j.issn1002-0306.2025110023</link>
@@ -175,6 +183,14 @@
       <pubDate>Wed, 30 Sep 2026 07:18:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Panasonic has deployed a 10 kW pure hydrogen fuel cell and a 9 kW air-to-water heat pump at Finland’s Hydrogen House, which features rooftop PV and up to 90 kg of hydrogen storage. The integrated system uses… — PV Magazine</description>
+    </item>
+    <item>
+      <title>The Ganglion Network Model: Evolving Trapped Phases in Porous Media</title>
+      <link>https://arxiv.org/abs/2609.39041v1</link>
+      <guid isPermaLink="false">molecola-8d6a9189af2d0598</guid>
+      <pubDate>Wed, 30 Sep 2026 05:51:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Partially miscible ganglia trapped within porous media, spanning one or multiple pores and evolving through diffusive mass transfer, are common in subsurface (e.g., CO$_2$ and H$_2$ storage) and manufacturing (e.g… — arXiv</description>
     </item>
     <item>
       <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
@@ -409,14 +425,6 @@
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
-      <title>Study on the explosion suppression efficiency and mechanism of modified dry water material in ammonia-hydrogen-air mixture</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141535</link>
-      <guid isPermaLink="false">molecola-77317222d10bf0f7</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
       <title>India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says</title>
       <link>https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says</link>
       <guid isPermaLink="false">molecola-c95eea751db276ce</guid>
@@ -439,14 +447,6 @@
       <pubDate>Mon, 28 Sep 2026 15:59:20 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Fuel-Cell Components Hub Opens with Production and Testing Under One Roof — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen's First Kilometers on a Greek Motorway</title>
-      <link>https://fuelcellsworks.com/2026/09/27/fuel-cells/hydrogen-s-first-kilometers-on-a-greek-motorway</link>
-      <guid isPermaLink="false">molecola-d1e1cb8249fee5fd</guid>
-      <pubDate>Mon, 28 Sep 2026 15:54:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hydrogen's First Kilometers on a Greek Motorway — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
