@@ -6,15 +6,23 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:03:00 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
-      <title>Assessing the future cost of hydrogen in a fully decarbonised Italian energy system: a comparison of myopic and perfect foresight optimisation approaches</title>
+      <title>Idrogeno verde in Italia: pianificare male può far salire i costi del 25%</title>
+      <link>https://www.qualenergia.it/pro/articoli-pro/idrogeno-verde-italia-pianificare-male-fa-salire-costo-25-percento/</link>
+      <guid isPermaLink="false">molecola-517663ad87a67f2c</guid>
+      <pubDate>Thu, 01 Oct 2026 08:45:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Il costo di produzione dell’idrogeno verde in Italia potrebbe scendere dai 2,37 €/kg stimati per il 2030 a 1,49-2,05 €/kg nel 2050, in un sistema energetico interamente rinnovabile. Ma il risultato dipende non solo dal… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Assessing the future cost of hydrogen in a fully decarbonised Italian energy system</title>
       <link>https://www.qualenergia.it/pro/documenti/assessing-the-future-cost-of-hydrogen-in-a-fully-decarbonised-italian-energy-system-a-comparison-of-myopic-and-perfect-foresight-optimisation-approaches/</link>
       <guid isPermaLink="false">molecola-a15199f04a0a231a</guid>
-      <pubDate>Thu, 01 Oct 2026 04:30:27 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:00:27 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
-      <description>Studio sul costo di produzione dell’idrogeno verde in Italia, che potrebbe scendere dai 2,37 €/kg stimati per il 2030 a 1,49-2,05 €/kg nel 2050, in un sistema energetico interamente rinnovabile. Ma il risultato dipende… — QualEnergia</description>
+      <description>Titolo completo: Assessing the future cost of hydrogen in a fully decarbonised Italian energy system: a comparison of myopic and perfect foresight optimisation approaches Studio sul costo di produzione dell’idrogeno… — QualEnergia</description>
     </item>
     <item>
       <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
@@ -41,12 +49,36 @@
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
     </item>
     <item>
+      <title>Technology Focus: Emissions Management (October 2026)</title>
+      <link>https://doi.org/10.2118/1026-0017-jpt</link>
+      <guid isPermaLink="false">molecola-fab906087a64c7be</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Petroleum Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Cost-Efficient Solution Separates Gas and Captures CO2 Offshore</title>
+      <link>https://doi.org/10.2118/1026-0018-jpt</link>
+      <guid isPermaLink="false">molecola-c18ae37e7ba1751d</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Petroleum Technology — OpenAlex</description>
+    </item>
+    <item>
       <title>Harbinger Receives Order for 2,000 Electric Trucks From FedEx Valued at over $300 Million</title>
       <link>https://fuelcellsworks.com/2026/09/30/electric/harbinger-receives-order-for-2-000-electric-trucks-from-fedex-valued-at-over-300-million</link>
       <guid isPermaLink="false">molecola-b19d8abc146f8b63</guid>
       <pubDate>Wed, 30 Sep 2026 18:47:03 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Harbinger Receives Order for 2,000 Electric Trucks From FedEx Valued at over $300 Million — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Toyota Files U.S. Patent for Hydrogen Series-Hybrid Powertrain</title>
+      <link>http://www.hydrogenfuelnews.com/toyota-files-u-s-patent-for-hydrogen-series-hybrid-powertrain/8576765/</link>
+      <guid isPermaLink="false">molecola-b090082347194a92</guid>
+      <pubDate>Wed, 30 Sep 2026 17:09:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Toyota’s U.S. patent filing for a hydrogen-combustion series hybrid powertrain highlights a path to blend engine know-how with electric propulsion, yet real-world success hinges on hydrogen production, storage and… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>3KW Direct Ammonia Fuel Cell Completes 100-Hour Continuous Operation</title>
@@ -63,6 +95,14 @@
       <pubDate>Wed, 30 Sep 2026 15:05:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Construction of the Hydrogen Pipeline: BMW Group Connects the Leipzig Plant to Hydrogen Core Network. — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Henkel and CALB Establish Joint Battery Innovation Center to Bring Next-Generation Batteries to Market Faster</title>
+      <link>https://fuelcellsworks.com/2026/09/29/battery/henkel-and-calb-establish-joint-battery-innovation-center-to-bring-next-generation-batteries-to-market-faster</link>
+      <guid isPermaLink="false">molecola-a2592aa74eac067f</guid>
+      <pubDate>Wed, 30 Sep 2026 15:03:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Henkel and CALB Establish Joint Battery Innovation Center to Bring Next-Generation Batteries to Market Faster — Fuel Cells Works</description>
     </item>
     <item>
       <title>Stegra Needs More Money to Finish 740MW Hydrogen-Based Steel Plant After €1.4Bn Funding Round</title>
@@ -217,6 +257,14 @@
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
+      <title>Design, Quantum/Kinetic Demonstration, and Advanced Applications of a Non-Organic Artificial Life System with Intrinsic Environmental Containment, Rapid Replication, and Proton-Tunneling Driven Evolutionary Capability</title>
+      <link>https://doi.org/10.5281/zenodo.23050084</link>
+      <guid isPermaLink="false">molecola-c7d93f979c5afa30</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
       <title>Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility</title>
       <link>https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/</link>
       <guid isPermaLink="false">molecola-a4ae0ad48f0aec48</guid>
@@ -247,14 +295,6 @@
       <pubDate>Tue, 29 Sep 2026 16:40:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Scania and Prinoth in Partnership to Electrify Snow Groomers — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>An Efficient Machine Learning Approach for Degradation Forecasting in AEM Water Electrolysis</title>
-      <link>https://arxiv.org/abs/2609.37941v1</link>
-      <guid isPermaLink="false">molecola-90f545523cd8a4ff</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:15 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>This study provides a data-driven analysis of a novel dataset of single-cell Anion Exchange Membrane water electrolyzers (AEMWE), operated under constant current load across multiple heterogeneous experimental… — arXiv</description>
     </item>
     <item>
       <title>Denmark Adds $850M to Hydrogen Pipeline Support as Booking Rules Are Eased</title>
@@ -407,46 +447,6 @@
       <pubDate>Tue, 29 Sep 2026 02:09:54 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>H2SITE secures Enova grant for HydraNord Power to validate a 700 kW onboard ammonia-to-hydrogen fuel cell system at Energy House, advancing maritime hydrogen production and storage solutions. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Spatio-temporal optimisation of hydrogen supply chains in the United Kingdom: An RTN-based assessment of infrastructure, cost, and deployment pathways</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157816</link>
-      <guid isPermaLink="false">molecola-90b4aed1fdf8506e</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>An integrated Weibull–multi-criteria framework for the techno-economic assessment of green hydrogen: application to alkaline and PEM electrolysers across operational and emerging sites</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157788</link>
-      <guid isPermaLink="false">molecola-239a3bd404ed4e59</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says</title>
-      <link>https://fuelcellsworks.com/2026/09/27/fuel-cells/india-expects-400-500-hydrogen-buses-and-trucks-on-roads-by-2030-nghm-chief-says</link>
-      <guid isPermaLink="false">molecola-c95eea751db276ce</guid>
-      <pubDate>Mon, 28 Sep 2026 16:44:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>India Expects 400-500 Hydrogen Buses and Trucks on Roads by 2030, NGHM Chief Says — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026</title>
-      <link>https://fuelcellsworks.com/2026/09/26/electrolyzer/fuel-cell-and-hydrogen-news-highlights-from-china-sept-21-sep-t-18-2026</link>
-      <guid isPermaLink="false">molecola-bdf53b4422e849d2</guid>
-      <pubDate>Mon, 28 Sep 2026 16:28:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Fuel Cell and Hydrogen News Highlights From China: Sept. 21-Sept. 26, 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Fuel-Cell Components Hub Opens with Production and Testing Under One Roof</title>
-      <link>https://fuelcellsworks.com/2026/09/28/electrolyzer/ufi-hydrogen-inaugurates-mea-production-hub-in-trentino-50-million-investment-plan-by-2029</link>
-      <guid isPermaLink="false">molecola-02f2badb760f4ed5</guid>
-      <pubDate>Mon, 28 Sep 2026 15:59:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Fuel-Cell Components Hub Opens with Production and Testing Under One Roof — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
