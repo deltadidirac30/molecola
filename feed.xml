@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 01 Oct 2026 20:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:42:10 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Evolved Boxy Design: All-New iCAUR V25 Appears at the International User Summit</title>
@@ -33,12 +33,28 @@
       <description>VIVIFY Technology Signs Letter of Intent to Power Evolution Metals &amp; Technologies' Rare Earth Magnet Operations with Behind-the-Meter Hydrogen Energy — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Princeton NuEnergy and SK Battery America Expand Collaboration on U.S. Closed-Loop Battery Recycling</title>
+      <link>https://fuelcellsworks.com/2026/09/30/battery/princeton-nuenergy-and-sk-battery-america-expand-collaboration-on-u-s-closed-loop-battery-recycling</link>
+      <guid isPermaLink="false">molecola-6c7fddc9082490a9</guid>
+      <pubDate>Thu, 01 Oct 2026 15:48:43 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Princeton NuEnergy and SK Battery America Expand Collaboration on U.S. Closed-Loop Battery Recycling — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Story You May Have Missed: Spain Fast-Tracks Permitting for First 234 Km of National Hydrogen Pipeline Network</title>
       <link>https://fuelcellsworks.com/2026/10/01/h2/story-you-may-have-missed-spain-fast-tracks-permitting-for-first-234-km-of-national-hydrogen-pipeline-network</link>
       <guid isPermaLink="false">molecola-8d7904bfd8a21650</guid>
       <pubDate>Thu, 01 Oct 2026 15:48:32 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Story You May Have Missed: Spain Fast-Tracks Permitting for First 234 Km of National Hydrogen Pipeline Network — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales</title>
+      <link>https://fuelcellsworks.com/2026/09/29/electric/switch-mobility-bags-840-bus-delhi-order-under-pm-e-drive-after-record-fy2026-sales</link>
+      <guid isPermaLink="false">molecola-f622d49d50660d8b</guid>
+      <pubDate>Thu, 01 Oct 2026 15:12:49 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales — Fuel Cells Works</description>
     </item>
     <item>
       <title>Austria Steps In With National Hydrogen Funds as EU Projects Fall Away</title>
@@ -401,14 +417,6 @@
       <description>HKPC and APAS have inaugurated Hong Kong’s first hydrogen fuel testing laboratory at the HKPC Building, offering local gas chromatography and ISO 14687-based analysis to bolster hydrogen infrastructure, reduce reliance… — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>Hydrogen regulation advances as New Zealand frames white and orange hydrogen under new environmental framework</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-regulation-advances-as-new-zealand-frames-white-and-orange-hydrogen-und/8576763/</link>
-      <guid isPermaLink="false">molecola-2bdc95d43ce80843</guid>
-      <pubDate>Wed, 30 Sep 2026 04:13:41 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Cabinet has agreed in principle to regulate white and orange hydrogen under the Natural Environment Act framework, using a geothermal-style model where the Crown manages access and amends the Crown Minerals Act to… — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
       <link>https://doi.org/10.5281/zenodo.22915467</link>
       <guid isPermaLink="false">molecola-84a048762fc7adfe</guid>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydrogen Award Finalist: Total Hydrogen Solutions’ Texas Production Facility</title>
-      <link>https://www.powermag.com/hydrogen-award-finalist-total-hydrogen-solutions-texas-production-facility/</link>
-      <guid isPermaLink="false">molecola-a4ae0ad48f0aec48</guid>
-      <pubDate>Tue, 29 Sep 2026 21:30:53 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
-      <description>Late in construction of Total Hydrogen Solutions’ new hydrogen plant in Katy, Texas, someone cut and stole the incoming high-voltage cable. The theft forced a complete replacement of the affected run just as the team… — POWER</description>
     </item>
   </channel>
 </rss>

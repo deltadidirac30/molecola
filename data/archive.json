@@ -1,5 +1,5 @@
 {
- "count": 1519,
+ "count": 1521,
  "items": [
   {
    "authors": [],
@@ -49,6 +49,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-01T15:48:43+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-02T00:42:25+00:00",
+   "id": "6c7fddc9082490a9",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/30/battery/princeton-nuenergy-and-sk-battery-america-expand-collaboration-on-u-s-closed-loop-battery-recycling",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Princeton NuEnergy and SK Battery America Expand Collaboration on U.S. Closed-Loop Battery Recycling"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-01T15:48:32+00:00",
    "excerpt": "",
    "first_seen": "2026-10-01T20:19:15+00:00",
@@ -60,6 +75,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Story You May Have Missed: Spain Fast-Tracks Permitting for First 234 Km of National Hydrogen Pipeline Network"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-01T15:12:49+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-02T00:42:25+00:00",
+   "id": "f622d49d50660d8b",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/09/29/electric/switch-mobility-bags-840-bus-delhi-order-under-pm-e-drive-after-record-fy2026-sales",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales"
   },
   {
    "authors": [],
@@ -26814,6 +26844,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-01T20:19:15+00:00",
+ "updated": "2026-10-02T00:42:25+00:00",
  "version": 2
 }
