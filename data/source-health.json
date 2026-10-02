@@ -1,8 +1,16 @@
 {
- "checked": "2026-10-02T00:42:25+00:00",
- "productive": 10,
+ "checked": "2026-10-02T09:40:10+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -52,14 +60,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-09-30T05:51:08+00:00"
-  },
-  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-01T15:50:10+00:00"
+   "newest": "2026-10-01T16:01:31+00:00"
   },
   {
    "slug": "h2it",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-01T06:12:31+00:00"
+   "newest": "2026-10-01T19:48:30+00:00"
   },
   {
    "slug": "openalex",
@@ -128,7 +128,7 @@
    "name": "QualEnergia",
    "ok": true,
    "error": null,
-   "count": 2,
+   "count": 1,
    "newest": "2026-10-01T08:45:48+00:00"
   }
  ]

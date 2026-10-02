@@ -1,6 +1,36 @@
 {
- "count": 1521,
+ "count": 1525,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-01T19:48:30+00:00",
+   "excerpt": "India has expanded its green hydrogen transport pilots from 37 to 70 vehicles and nine to 16 refuelling stations across multiple highway corridors, targeting 45–50 trial vehicles by 2026 and 400–500 in operation by…",
+   "first_seen": "2026-10-02T09:40:10+00:00",
+   "id": "7846bd35abdf5209",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-vehicles-india-ramps-up-green-hydrogen-infrastructure-for-buses-and-tru/8576776/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen vehicles: India ramps up green hydrogen infrastructure for buses and trucks"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-01T19:15:15+00:00",
+   "excerpt": "HyShip has chosen two Samskip SeaShuttle vessels for an 18-month liquid hydrogen demo on the Rotterdam–Oslofjord route, pairing 6.4 MW of Ballard FCwave fuel cells with cryogenic storage and shore-side bunkering.",
+   "first_seen": "2026-10-02T09:40:10+00:00",
+   "id": "5f304aa10651e37d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hyship-pushes-hydrogen-infrastructure-with-seashuttle-vessels/8576775/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "HyShip pushes hydrogen infrastructure with SeaShuttle vessels"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -315,6 +345,36 @@
    "source": "QualEnergia",
    "source_slug": "qualenergia",
    "title": "Idrogeno verde in Italia: pianificare male può far salire i costi del 25%"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-01T06:28:59+00:00",
+   "excerpt": "Dhamma Blue’s DHB-P01 boat received green hydrogen at Alcudia port this month in a closed-loop test of production, distribution and marine refueling. The trial linked Lloseta’s solar-powered electrolysis plant with a…",
+   "first_seen": "2026-10-02T09:40:10+00:00",
+   "id": "25e5f74d5596632c",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-refueling-demonstration-in-alcudia-validates-maritime-hydrogen-in/8576773/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Refueling Demonstration in Alcudia Validates Maritime Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-01T06:28:21+00:00",
+   "excerpt": "Moeve streamlined its leadership to better execute the Onuba green hydrogen project, aligning operations and commercial functions to deliver 300 MW of electrolysis capacity near Huelva.",
+   "first_seen": "2026-10-02T09:40:10+00:00",
+   "id": "a52c11c342a1e952",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/moeve-reorganizes-leadership-to-accelerate-green-hydrogen-production-at-onuba-in/8576772/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Moeve Reorganizes Leadership to Accelerate Green Hydrogen Production at Onuba in Huelva"
   },
   {
    "authors": [],
@@ -26844,6 +26904,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-02T00:42:25+00:00",
+ "updated": "2026-10-02T09:40:10+00:00",
  "version": 2
 }
