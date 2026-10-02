@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:49:27 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply</title>
+      <link>https://hydrogeneurope.eu/pichetto-in-algeria-south2-is-a-cornerstone-of-italys-strategy-for-future-hydrogen-supply/</link>
+      <guid isPermaLink="false">molecola-0e463de8393ebff4</guid>
+      <pubDate>Fri, 02 Oct 2026 16:20:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy</title>
+      <link>https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/</link>
+      <guid isPermaLink="false">molecola-fc5c3d0546baff89</guid>
+      <pubDate>Fri, 02 Oct 2026 10:46:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>In other news, Oregon State University researchers demonstrated photocatalytic hydrogen production without a cocatalyst, while Spain and Germany advanced hydrogen infrastructure and funding programs. Plug Power signed… — PV Magazine</description>
+    </item>
     <item>
       <title>Hydrogen vehicles: India ramps up green hydrogen infrastructure for buses and trucks</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-vehicles-india-ramps-up-green-hydrogen-infrastructure-for-buses-and-tru/8576776/</link>
@@ -23,6 +39,14 @@
       <pubDate>Thu, 01 Oct 2026 19:15:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>HyShip has chosen two Samskip SeaShuttle vessels for an 18-month liquid hydrogen demo on the Rotterdam–Oslofjord route, pairing 6.4 MW of Ballard FCwave fuel cells with cryogenic storage and shore-side bunkering. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Global Fuel-Cell Truck Sales Plunge 55% as Battery-Electric Trucks Surge</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-global-fuel-cell-truck-sales-plunge-55-as-battery-electr/8576774/</link>
+      <guid isPermaLink="false">molecola-aefd0f54c3c6a68c</guid>
+      <pubDate>Thu, 01 Oct 2026 19:14:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Global hydrogen fuel-cell truck sales fell 55% to about 530 units in H1, with China accounting for 95%, while battery-electric truck sales surged to 158,000—a clear split in zero-emission freight. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Evolved Boxy Design: All-New iCAUR V25 Appears at the International User Summit</title>
@@ -63,6 +87,14 @@
       <pubDate>Thu, 01 Oct 2026 15:48:32 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Story You May Have Missed: Spain Fast-Tracks Permitting for First 234 Km of National Hydrogen Pipeline Network — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Flow-rate controls on trapped hydrogen redistribution in a heterogeneous sandstone: a synchrotron X-ray micro-CT study</title>
+      <link>https://arxiv.org/abs/2610.01886v1</link>
+      <guid isPermaLink="false">molecola-7100e5e71108c347</guid>
+      <pubDate>Thu, 01 Oct 2026 15:37:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Subsurface hydrogen storage in porous geological formations is a promising strategy for balancing temporal mismatches between renewable energy generation and demand. The viability of large-scale hydrogen storage… — arXiv</description>
     </item>
     <item>
       <title>Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales</title>
@@ -265,6 +297,38 @@
       <description>Journal of Petroleum Technology — OpenAlex</description>
     </item>
     <item>
+      <title>Ferrocene-functionalized covalent organic framework exceeding the ultimate hydrogen storage targets: a first-principles multiscale computational study</title>
+      <link>https://doi.org/10.1038/s44456-026-00019-z</link>
+      <guid isPermaLink="false">molecola-3ef75ed1f0fc8a2d</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>npj Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>DFT Investigations of Kubas-Type Hydrogen Storage in C₁₉X Heterofullerenes: d-Orbital Preservation Under Substitutional Transition Metal Doping</title>
+      <link>https://doi.org/10.1016/j.surfin.2026.110854</link>
+      <guid isPermaLink="false">molecola-55dd7988e10adc16</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Surfaces and Interfaces — OpenAlex</description>
+    </item>
+    <item>
+      <title>Improved low-temperature dehydrogenation kinetics and cyclic stability of Mg(NH2)2-2LiH catalyzed by K2TiF6 additive</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157798</link>
+      <guid isPermaLink="false">molecola-66a3a8841cc84b2f</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>CFD modeling of flash evaporation occurring inside a liquid hydrogen pipe leak and its consequences on the conditions at the breach</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157699</link>
+      <guid isPermaLink="false">molecola-98e28c4497eb5e54</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
       <title>Harbinger Receives Order for 2,000 Electric Trucks From FedEx Valued at over $300 Million</title>
       <link>https://fuelcellsworks.com/2026/09/30/electric/harbinger-receives-order-for-2-000-electric-trucks-from-fedex-valued-at-over-300-million</link>
       <guid isPermaLink="false">molecola-b19d8abc146f8b63</guid>
@@ -383,70 +447,6 @@
       <pubDate>Wed, 30 Sep 2026 14:05:22 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>EIB, Backed by InvestEU and SACE, Provides EUR 80 Million Financing to the FNM Group for Hydrogen Mobility — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Italy: Funding Call Opens for New Green Hydrogen Projects</title>
-      <link>https://fuelcellsworks.com/2026/09/29/h2/italy-funding-call-opens-for-new-green-hydrogen-projects</link>
-      <guid isPermaLink="false">molecola-2cdf8aa5b5c678ab</guid>
-      <pubDate>Wed, 30 Sep 2026 13:55:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Italy: Funding Call Opens for New Green Hydrogen Projects — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold</title>
-      <link>https://hydrogeneurope.eu/reverion-raises-175m-series-b-to-scale-production-of-its-dispatchable-carbon-negative-power-plants-tenfold/</link>
-      <guid isPermaLink="false">molecola-98b6cc2f5c17001c</guid>
-      <pubDate>Wed, 30 Sep 2026 13:19:10 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Reverion Raises $175M Series B to Scale Production of its Dispatchable, Carbon-Negative Power Plants Tenfold — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Researchers Report Threefold Increase in Liquid Hydrogen Storage Time Using Metal-Organic Frameworks</title>
-      <link>https://fuelcellsworks.com/2026/09/29/h2/researchers-report-threefold-increase-in-liquid-hydrogen-storage-time-using-metal-organic-frameworks</link>
-      <guid isPermaLink="false">molecola-5cca290f436a1df6</guid>
-      <pubDate>Wed, 30 Sep 2026 13:02:49 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Researchers Report Threefold Increase in Liquid Hydrogen Storage Time Using Metal-Organic Frameworks — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>The Ganglion Network Model: Evolving Trapped Phases in Porous Media</title>
-      <link>https://arxiv.org/abs/2609.39041v1</link>
-      <guid isPermaLink="false">molecola-8d6a9189af2d0598</guid>
-      <pubDate>Wed, 30 Sep 2026 05:51:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Partially miscible ganglia trapped within porous media, spanning one or multiple pores and evolving through diffusive mass transfer, are common in subsurface (e.g., CO$_2$ and H$_2$ storage) and manufacturing (e.g… — arXiv</description>
-    </item>
-    <item>
-      <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
-      <link>https://doi.org/10.5281/zenodo.22915467</link>
-      <guid isPermaLink="false">molecola-84a048762fc7adfe</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Renewable Energy Innovation: Emerging Technologies, Challenges, Opportunities and Its Role in Sustainable Development</title>
-      <link>https://doi.org/10.5281/zenodo.22915466</link>
-      <guid isPermaLink="false">molecola-a152079c7990a865</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Alkali metal ion-decorated cyclo[18]carbon molecular wheels for enhanced hydrogen storage: A DFT study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157829</link>
-      <guid isPermaLink="false">molecola-c9519aaa4cd55b6e</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Design, Quantum/Kinetic Demonstration, and Advanced Applications of a Non-Organic Artificial Life System with Intrinsic Environmental Containment, Rapid Replication, and Proton-Tunneling Driven Evolutionary Capability</title>
-      <link>https://doi.org/10.5281/zenodo.23050084</link>
-      <guid isPermaLink="false">molecola-c7d93f979c5afa30</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
   </channel>
 </rss>
