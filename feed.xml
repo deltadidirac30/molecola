@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:10:17 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply</title>
@@ -209,6 +209,70 @@
       <description>Calix Limited has engaged Perdaman Group to engineer the hydrogen supply solution for its ZESTY Green Iron Demonstration Project in Kwinana, designing a value chain to support a 30,000 t/y H-DRI plant and inform a… — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>Study on the Hydrogen Storage Properties of LaNi5 Framework Materials</title>
+      <link>https://doi.org/10.3390/met16101095</link>
+      <guid isPermaLink="false">molecola-514322b61ed79e4a</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Metals — OpenAlex</description>
+    </item>
+    <item>
+      <title>Accelerated Electrolyte Engineering by Deep Learning: A Quaternary Ammonium Additive Enables Ultra-Stable Zinc Anodes</title>
+      <link>https://doi.org/10.1021/acsnano.6c10344</link>
+      <guid isPermaLink="false">molecola-a6aa0f81224e80ef</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Nano — OpenAlex</description>
+    </item>
+    <item>
+      <title>First-principles investigation of structural, hydrogen storage, and physical properties of M2CaZnH6 (M = K, Rb, Cs) double perovskite hydrides</title>
+      <link>https://doi.org/10.31577/km.2026.4.185</link>
+      <guid isPermaLink="false">molecola-d0e7ff066081c6e5</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Kovove Materialy-Metallic Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Engineering Biomass-Derived Carbon Nanomaterial Interfaces for Green Hydrogen Technologies</title>
+      <link>https://doi.org/10.1021/acsaem.6c02124</link>
+      <guid isPermaLink="false">molecola-e81f8da9b060ba8d</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Adsorption-dominated interfacial regulation by sarcosine via hydrogen-bond water modulation for stable Zn metal anodes</title>
+      <link>https://doi.org/10.3389/fchem.2026.1986660</link>
+      <guid isPermaLink="false">molecola-8fbe4bdab9ac0ccc</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Frontiers in Chemistry — OpenAlex</description>
+    </item>
+    <item>
+      <title>Competitive Adsorption and Diffusion Behavior of H2 and CH4 in Anthracite: Insights from Experiment and Molecular Simulation</title>
+      <link>https://doi.org/10.1021/acs.langmuir.6c04303</link>
+      <guid isPermaLink="false">molecola-4afa32a7bd722091</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Langmuir — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen storage and diffusion in shale nanopores: molecular dynamics effects of pressure, temperature, confinement, and wall chemistry</title>
+      <link>https://doi.org/10.3389/feart.2026.1989592</link>
+      <guid isPermaLink="false">molecola-728ac2bb00c50609</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Frontiers in Earth Science — OpenAlex</description>
+    </item>
+    <item>
+      <title>Design of Hybrid Off-Grid Power Supply Systems Based on Renewable Energy Sources</title>
+      <link>https://doi.org/10.24160/0013-5380-2026-9-36-45</link>
+      <guid isPermaLink="false">molecola-f7cfb4d113857b38</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Elektrichestvo — OpenAlex</description>
+    </item>
+    <item>
       <title>Hydrogen vehicles: India ramps up green hydrogen infrastructure for buses and trucks</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-vehicles-india-ramps-up-green-hydrogen-infrastructure-for-buses-and-tru/8576776/</link>
       <guid isPermaLink="false">molecola-7846bd35abdf5209</guid>
@@ -383,70 +447,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effects of Citronella Essential Oil and Citronellal on the Storage and Preservation of Potatoes</title>
-      <link>https://doi.org/10.13386/j.issn1002-0306.2025090243</link>
-      <guid isPermaLink="false">molecola-82429410cf66c250</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Research progress on modification strategies of composite separators for aqueous zinc-ion batteries</title>
-      <link>https://doi.org/10.13374/j.issn2095-9389.2026.02.26.001</link>
-      <guid isPermaLink="false">molecola-8116d5a47dc36ffd</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Technology Focus: Emissions Management (October 2026)</title>
-      <link>https://doi.org/10.2118/1026-0017-jpt</link>
-      <guid isPermaLink="false">molecola-fab906087a64c7be</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Petroleum Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Cost-Efficient Solution Separates Gas and Captures CO2 Offshore</title>
-      <link>https://doi.org/10.2118/1026-0018-jpt</link>
-      <guid isPermaLink="false">molecola-c18ae37e7ba1751d</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Petroleum Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ferrocene-functionalized covalent organic framework exceeding the ultimate hydrogen storage targets: a first-principles multiscale computational study</title>
-      <link>https://doi.org/10.1038/s44456-026-00019-z</link>
-      <guid isPermaLink="false">molecola-3ef75ed1f0fc8a2d</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>npj Energy Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>DFT Investigations of Kubas-Type Hydrogen Storage in C₁₉X Heterofullerenes: d-Orbital Preservation Under Substitutional Transition Metal Doping</title>
-      <link>https://doi.org/10.1016/j.surfin.2026.110854</link>
-      <guid isPermaLink="false">molecola-55dd7988e10adc16</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Surfaces and Interfaces — OpenAlex</description>
-    </item>
-    <item>
-      <title>Improved low-temperature dehydrogenation kinetics and cyclic stability of Mg(NH2)2-2LiH catalyzed by K2TiF6 additive</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157798</link>
-      <guid isPermaLink="false">molecola-66a3a8841cc84b2f</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>CFD modeling of flash evaporation occurring inside a liquid hydrogen pipe leak and its consequences on the conditions at the breach</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157699</link>
-      <guid isPermaLink="false">molecola-98e28c4497eb5e54</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
   </channel>
 </rss>

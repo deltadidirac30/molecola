@@ -1,5 +1,5 @@
 {
- "count": 1578,
+ "count": 1591,
  "items": [
   {
    "authors": [],
@@ -375,6 +375,170 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Calix and Perdaman partner on supply solution for ZESTY Green Iron Demo in Kwinana"
+  },
+  {
+   "authors": [
+    "Hang Lu",
+    "Wenjiao Zhou",
+    "Xiping Song"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Metals",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "514322b61ed79e4a",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/met16101095",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Study on the Hydrogen Storage Properties of LaNi5 Framework Materials"
+  },
+  {
+   "authors": [
+    "Yaoyu Chen",
+    "Zhijie Xu",
+    "Jiaxuan Wang",
+    "Jun Ren",
+    "Kun Han",
+    "Junfeng Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "ACS Nano",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "a6aa0f81224e80ef",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsnano.6c10344",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Accelerated Electrolyte Engineering by Deep Learning: A Quaternary Ammonium Additive Enables Ultra-Stable Zinc Anodes"
+  },
+  {
+   "authors": [
+    "Xue Jiang",
+    "Jian Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Kovove Materialy-Metallic Materials",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "d0e7ff066081c6e5",
+   "lang": "en",
+   "link": "https://doi.org/10.31577/km.2026.4.185",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles investigation of structural, hydrogen storage, and physical properties of M2CaZnH6 (M = K, Rb, Cs) double perovskite hydrides"
+  },
+  {
+   "authors": [
+    "Kiran Bijapur",
+    "Gaurav Sharma",
+    "Nahid Tyagi",
+    "Gaurav Gupta",
+    "Ranjith Krishna Pai"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "ACS Applied Energy Materials",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "e81f8da9b060ba8d",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsaem.6c02124",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Engineering Biomass-Derived Carbon Nanomaterial Interfaces for Green Hydrogen Technologies"
+  },
+  {
+   "authors": [
+    "Zijing Wang",
+    "Haolin Ju",
+    "Hao Zhang",
+    "Yiqian Yang",
+    "Huan Liu",
+    "Bin Cao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Frontiers in Chemistry",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "8fbe4bdab9ac0ccc",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fchem.2026.1986660",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Adsorption-dominated interfacial regulation by sarcosine via hydrogen-bond water modulation for stable Zn metal anodes"
+  },
+  {
+   "authors": [
+    "发定 周",
+    "Xidong Du",
+    "Junping Zhou",
+    "Guangjin Wang",
+    "Yugang Cheng",
+    "Mengru Zeng"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Langmuir",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "4afa32a7bd722091",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.langmuir.6c04303",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Competitive Adsorption and Diffusion Behavior of H2 and CH4 in Anthracite: Insights from Experiment and Molecular Simulation"
+  },
+  {
+   "authors": [
+    "Yang Xu",
+    "Xin Zhang",
+    "Hao Wang",
+    "Jingyi Wang",
+    "Yungang Chi",
+    "Jing Gao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Frontiers in Earth Science",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "728ac2bb00c50609",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/feart.2026.1989592",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen storage and diffusion in shale nanopores: molecular dynamics effects of pressure, temperature, confinement, and wall chemistry"
+  },
+  {
+   "authors": [
+    "Viktor Elistratov",
+    "Evgeniy TEREKHOV"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-02T00:00:00+00:00",
+   "excerpt": "Elektrichestvo",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "f7cfb4d113857b38",
+   "lang": "en",
+   "link": "https://doi.org/10.24160/0013-5380-2026-9-36-45",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design of Hybrid Off-Grid Power Supply Systems Based on Renewable Energy Sources"
   },
   {
    "authors": [],
@@ -1449,6 +1613,108 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "First-principles insights into the structural, electronic, optical, thermodynamic, and hydrogen-storage properties of Cs2LiInH6 and Rb2LiInH6 perovskite hydrides"
+  },
+  {
+   "authors": [
+    "Hyewon Kim",
+    "Hansang Kim"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "International Journal of Pressure Vessels and Piping",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "981cba1927f8d134",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijpvp.2026.105969",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Surrogate-Assisted Structural Optimization of Filament-Wound Type IV Composite Overwrapped Pressure Vessels Using Deep Learning and Genetic Algorithms"
+  },
+  {
+   "authors": [
+    "Laurie Besognet",
+    "B.P.R. Debret",
+    "Marcus Rohnke",
+    "Imène Esteve",
+    "Alexandre Corgne",
+    "Julien Siebert"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Earth and Planetary Science Letters",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "efd255393c82d03f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.epsl.2026.120365",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental investigation of a deep organic carbon cycling promoted by carbonate reduction in subduction zones"
+  },
+  {
+   "authors": [
+    "Wenqi Song",
+    "Jingtao Liu",
+    "Zhihua Ren",
+    "Chunyang Lan",
+    "Zongcheng Miao",
+    "Yuzhen Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Journal",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "c0cd182f7dce74d6",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.cej.2026.182633",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Molecularly integrated ionic liquids enable smart packaging for visual monitoring and active preservation of shrimp freshness"
+  },
+  {
+   "authors": [
+    "Kuanrong Qiu",
+    "Evgueniy Entchev"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Energy",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "582d39f2da254f0b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.energy.2026.142606",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimizing Hybrid SMR–Renewable Energy Systems for Remote and Climate-Vulnerable Communities: A Techno-Economic Framework"
+  },
+  {
+   "authors": [
+    "Juhyun Kim",
+    "Muthu Thiruvengadam",
+    "Bum-Su Jung",
+    "Dagyeom Jeon",
+    "Seung-Hyun Kim",
+    "Mi-Jung Choi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-01T00:00:00+00:00",
+   "excerpt": "Food Chemistry",
+   "first_seen": "2026-10-03T16:10:36+00:00",
+   "id": "6df79a86d1f767af",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.foodchem.2026.151341",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Composition-dependent amorphous matrix formation controls vitamin C stability in reconstituted freeze-dried lactose–whey protein isolate systems"
   },
   {
    "authors": [],
@@ -27849,6 +28115,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-03T11:34:04+00:00",
+ "updated": "2026-10-03T16:10:36+00:00",
  "version": 2
 }
