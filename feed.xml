@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 04 Oct 2026 05:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:14:57 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Optimization and sustainability assessment of hybrid PV-powered EV charging and hydrogen refueling systems for low-carbon transport</title>
+      <link>https://doi.org/10.1038/s41598-026-73762-7</link>
+      <guid isPermaLink="false">molecola-d8c418a32b01039e</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>Tailoring Alkyl Chain Length to Customize Dual‐Electrode Interface for Reversible Four‐Electron Iodine Chemistry in Zn–I 2 Pouch Batteries</title>
+      <link>https://doi.org/10.1002/adma.75298</link>
+      <guid isPermaLink="false">molecola-b3b6b58deb4b4893</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Materials — OpenAlex</description>
+    </item>
     <item>
       <title>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply</title>
       <link>https://hydrogeneurope.eu/pichetto-in-algeria-south2-is-a-cornerstone-of-italys-strategy-for-future-hydrogen-supply/</link>
@@ -209,6 +225,14 @@
       <description>Calix Limited has engaged Perdaman Group to engineer the hydrogen supply solution for its ZESTY Green Iron Demonstration Project in Kwinana, designing a value chain to support a 30,000 t/y H-DRI plant and inform a… — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>EU Sends Formal Notices to 26 States Over Directive Transposition</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-eu-sends-formal-notices-to-26-states-over-directive-tran/8576781/</link>
+      <guid isPermaLink="false">molecola-5bf293f685e3f4fe</guid>
+      <pubDate>Fri, 02 Oct 2026 08:23:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The European Commission has opened infringement proceedings against 26 Member States for missing the hydrogen and decarbonised-gas directive transposition deadline, signaling enforcement of EU energy rules and raising… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Study on the Hydrogen Storage Properties of LaNi5 Framework Materials</title>
       <link>https://doi.org/10.3390/met16101095</link>
       <guid isPermaLink="false">molecola-514322b61ed79e4a</guid>
@@ -337,14 +361,6 @@
       <description>Story You May Have Missed: Spain Fast-Tracks Permitting for First 234 Km of National Hydrogen Pipeline Network — Fuel Cells Works</description>
     </item>
     <item>
-      <title>Flow-rate controls on trapped hydrogen redistribution in a heterogeneous sandstone: a synchrotron X-ray micro-CT study</title>
-      <link>https://arxiv.org/abs/2610.01886v1</link>
-      <guid isPermaLink="false">molecola-7100e5e71108c347</guid>
-      <pubDate>Thu, 01 Oct 2026 15:37:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Subsurface hydrogen storage in porous geological formations is a promising strategy for balancing temporal mismatches between renewable energy generation and demand. The viability of large-scale hydrogen storage… — arXiv</description>
-    </item>
-    <item>
       <title>Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales</title>
       <link>https://fuelcellsworks.com/2026/09/29/electric/switch-mobility-bags-840-bus-delhi-order-under-pm-e-drive-after-record-fy2026-sales</link>
       <guid isPermaLink="false">molecola-f622d49d50660d8b</guid>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 01 Oct 2026 13:46:43 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Denmark Takes on More Risk to Get Esbjerg-Germany Hydrogen Pipeline Built — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Amber Grid Plans €1.2Bn Investment in Lithuania’s Hydrogen Network</title>
-      <link>https://fuelcellsworks.com/2026/10/01/h2/amber-grid-plans-1-2bn-investment-in-lithuania-s-hydrogen-network</link>
-      <guid isPermaLink="false">molecola-48398e8d9275afe2</guid>
-      <pubDate>Thu, 01 Oct 2026 13:37:36 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Amber Grid Plans €1.2Bn Investment in Lithuania’s Hydrogen Network — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Effects of Ozone Hypobaric Fumigation on the Storage Quality and Reactive Oxygen Metabolism of Prunes</title>
-      <link>https://doi.org/10.13386/j.issn1002-0306.2025110023</link>
-      <guid isPermaLink="false">molecola-2e041c64eac07614</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
     </item>
   </channel>
 </rss>

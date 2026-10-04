@@ -1,6 +1,48 @@
 {
- "count": 1591,
+ "count": 1594,
  "items": [
+  {
+   "authors": [
+    "Abdelhak Lekbir",
+    "Abdullahi Mohamed Samatar",
+    "Saad Mekhilef",
+    "Kok Soon Tey"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-03T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-04T12:15:14+00:00",
+   "id": "d8c418a32b01039e",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-73762-7",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimization and sustainability assessment of hybrid PV-powered EV charging and hydrogen refueling systems for low-carbon transport"
+  },
+  {
+   "authors": [
+    "Fei Huang",
+    "Yu Xie",
+    "Jiajun Wan",
+    "Jujing Chai",
+    "Yixin Zhang",
+    "Yi Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-03T00:00:00+00:00",
+   "excerpt": "Advanced Materials",
+   "first_seen": "2026-10-04T12:15:14+00:00",
+   "id": "b3b6b58deb4b4893",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adma.75298",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tailoring Alkyl Chain Length to Customize Dual‐Electrode Interface for Reversible Four‐Electron Iodine Chemistry in Zn–I 2 Pouch Batteries"
+  },
   {
    "authors": [],
    "category": "politica",
@@ -375,6 +417,21 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Calix and Perdaman partner on supply solution for ZESTY Green Iron Demo in Kwinana"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T08:23:57+00:00",
+   "excerpt": "The European Commission has opened infringement proceedings against 26 Member States for missing the hydrogen and decarbonised-gas directive transposition deadline, signaling enforcement of EU energy rules and raising…",
+   "first_seen": "2026-10-04T12:15:14+00:00",
+   "id": "5bf293f685e3f4fe",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-eu-sends-formal-notices-to-26-states-over-directive-tran/8576781/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EU Sends Formal Notices to 26 States Over Directive Transposition"
   },
   {
    "authors": [
@@ -28115,6 +28172,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-04T05:43:10+00:00",
+ "updated": "2026-10-04T12:15:14+00:00",
  "version": 2
 }
