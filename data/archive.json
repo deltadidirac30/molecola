@@ -1,6 +1,21 @@
 {
- "count": 1604,
+ "count": 1610,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-05T14:22:36+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "c0fe2c22238022c7",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/french-hydrogen-sector-welcomes-budget-draft-incl-esaf-auction-mechanism/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "French hydrogen sector welcomes budget draft incl eSAF auction mechanism"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -15,6 +30,28 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Spain Opens Public Consultation for Tivissa–Tarragona Hydrogen Infrastructure Segment"
+  },
+  {
+   "authors": [
+    "Muhammad Huzaifa",
+    "Muhammad Shafiq",
+    "RAZZAQ AFSHEEN",
+    "Shengwen Yang",
+    "Mohammad Nur-E-Alam",
+    "Tawfeq AlHowiriny"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "6d87a95afa242733",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-73819-7",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles investigation of hydrogen storage in pristine AlN nanosheets with a biphenylene framework"
   },
   {
    "authors": [],
@@ -45,6 +82,44 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Hydrogen Energy News: South Korea Turns to Hydrogen for Long-Term Energy Security"
+  },
+  {
+   "authors": [
+    "Петкова Ани Петровна",
+    "V. A. Zlotin",
+    "V. S. Borisova"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-04T00:00:00+00:00",
+   "excerpt": "International Journal of Engineering",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "0f9cb91598544390",
+   "lang": "en",
+   "link": "https://doi.org/10.5829/ije.2027.40.04a.22",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reducing Hydrogen Diffusion Losses by Modification of Fluoroplastic Barrier Coatings for Increasing Efficiency and Safety of Hydrogen Transportation"
+  },
+  {
+   "authors": [
+    "Kazem Emdadi",
+    "Majid Gandomkar",
+    "Javad Nikoukar"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-04T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "20f0bbcd2e1d15fb",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-74360-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Adaptive multi-objective energy management and coordination of EV and FECV stations with power-to-hydrogen/hydrogen-to-power integration using a UT-ARO framework"
   },
   {
    "authors": [],
@@ -117,6 +192,46 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Tailoring Alkyl Chain Length to Customize Dual‐Electrode Interface for Reversible Four‐Electron Iodine Chemistry in Zn–I 2 Pouch Batteries"
+  },
+  {
+   "authors": [
+    "Yuqi Song",
+    "P. G. Ranjith",
+    "Decheng Zhang",
+    "Yuxin Huang",
+    "Bailin Wu",
+    "Tanghan Jiang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-03T00:00:00+00:00",
+   "excerpt": "Geomechanics and Geophysics for Geo-Energy and Geo-Resources",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "bbec3ab1ae42d5e8",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s40948-026-01185-9",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A machine-learning model for predicting sand production onset under true triaxial stresses based on CFD-DEM simulation dataset"
+  },
+  {
+   "authors": [
+    " Satish Kannuru",
+    "Prof. P. Uma Maheswari Devi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-03T00:00:00+00:00",
+   "excerpt": "IntelliMindEd",
+   "first_seen": "2026-10-05T14:26:33+00:00",
+   "id": "8c81793687881058",
+   "lang": "en",
+   "link": "https://doi.org/10.69687/ime.nseeepsd.2026.1.39",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "The Evolution of Green Products: Anticipating 2025"
   },
   {
    "authors": [],
@@ -28322,6 +28437,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-05T05:27:20+00:00",
+ "updated": "2026-10-05T14:26:33+00:00",
  "version": 2
 }
