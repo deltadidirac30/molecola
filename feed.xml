@@ -6,8 +6,48 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:55:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:27:03 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Spain Opens Public Consultation for Tivissa–Tarragona Hydrogen Infrastructure Segment</title>
+      <link>http://www.hydrogenfuelnews.com/spain-opens-public-consultation-for-tivissa-tarragona-hydrogen-infrastructure-se/8576802/</link>
+      <guid isPermaLink="false">molecola-866edf587871c9f4</guid>
+      <pubDate>Mon, 05 Oct 2026 01:22:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Spain’s BOE launched a 15-day public consultation for the 62 km Tivissa–Tarragona hydrogen pipeline segment, part of PCI 9.1.3, covering project authorization, public utility and environmental review. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: Swiss-Moroccan Collaboration On Renewable Hydrogen Strengthens Energy Security</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-swiss-moroccan-collaboration-on-renewable-hydrogen-strengthe/8576799/</link>
+      <guid isPermaLink="false">molecola-e8d5c0e287946800</guid>
+      <pubDate>Sun, 04 Oct 2026 12:11:07 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Switzerland is exploring technical cooperation with Morocco on renewable hydrogen and synthetic fuels, including Synhelion’s planned 100 000 t/year plant in Tan-Tan. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Energy News: South Korea Turns to Hydrogen for Long-Term Energy Security</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-energy-news-south-korea-turns-to-hydrogen-for-long-term-energy-security/8576798/</link>
+      <guid isPermaLink="false">molecola-c348543ca3f10ebe</guid>
+      <pubDate>Sun, 04 Oct 2026 12:09:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>South Korea’s 93.7% energy-import dependence in 2024 has spurred interest in hydrogen for long-term resilience, as the IEA warns of supply-chain risks and industry calls for policy support. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure Update: Jacobs Extends Role on Duisburg Direct-Reduction Plant</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-update-jacobs-extends-role-on-duisburg-direct-reduction-/8576796/</link>
+      <guid isPermaLink="false">molecola-b6dc57da903601c9</guid>
+      <pubDate>Sat, 03 Oct 2026 23:10:52 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Jacobs Solutions extends its program and construction management role on thyssenkrupp Steel’s hydrogen DRI plant in Duisburg, a 2.5 Mt/y facility backed by €2 billion in public funding to advance Europe’s industrial… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>India’s National Green Hydrogen Mission Could Leverage ₹8–10 Lakh Crore for Green Hydrogen Production by 2030</title>
+      <link>http://www.hydrogenfuelnews.com/india-s-national-green-hydrogen-mission-could-leverage-8-10-lakh-crore-for-green/8576795/</link>
+      <guid isPermaLink="false">molecola-7aa871c995b9848d</guid>
+      <pubDate>Sat, 03 Oct 2026 23:08:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>India’s National Green Hydrogen Mission targets 5 mtpa production by 2030 with ₹19,744 crore in public funding and could attract up to ₹10 lakh crore in private investment, says Mission Director Abhay Bakre. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Optimization and sustainability assessment of hybrid PV-powered EV charging and hydrogen refueling systems for low-carbon transport</title>
       <link>https://doi.org/10.1038/s41598-026-73762-7</link>
@@ -25,12 +65,44 @@
       <description>Advanced Materials — OpenAlex</description>
     </item>
     <item>
+      <title>NYK Line Unveils AMANE Hydrogen Fuel-Cell Dining Cruise for Tokyo Bay</title>
+      <link>http://www.hydrogenfuelnews.com/nyk-line-unveils-amane-hydrogen-fuel-cell-dining-cruise-for-tokyo-bay/8576787/</link>
+      <guid isPermaLink="false">molecola-43a3531922584932</guid>
+      <pubDate>Fri, 02 Oct 2026 21:22:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>NYK Line’s upcoming hydrogen fuel-cell dining cruise ship AMANE is set for Tokyo Bay service around May 2027, featuring Yanmar-designed fuel cells, Toyota storage modules and ENEOS-supported bunkering under MLIT safety… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hyundai Rotem Showcases 400 km/h High-Speed Concept and Hydrogen Fuel Cell Trains at InnoTrans</title>
+      <link>http://www.hydrogenfuelnews.com/hyundai-rotem-showcases-400-km-h-high-speed-concept-and-hydrogen-fuel-cell-train/8576786/</link>
+      <guid isPermaLink="false">molecola-e6b976fc71193442</guid>
+      <pubDate>Fri, 02 Oct 2026 21:20:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hyundai Rotem showcased a 400 km/h high-speed concept, a 220 km/h hydrogen multiple unit and a 3 MW hydrogen freight locomotive prototype at InnoTrans. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production Facility Breaks Ground at Kenyan Coffee Farm</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-facility-breaks-ground-at-kenyan-coffee-farm/8576785/</link>
+      <guid isPermaLink="false">molecola-c7621e7bda021df7</guid>
+      <pubDate>Fri, 02 Oct 2026 21:14:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Nyeri Hill Farm broke ground on a solar-powered green hydrogen facility in Kenya to produce green ammonia fertilizer for its coffee crops and medical oxygen for Consolata Hospital Mathari, backed by UNIDO, GIZ and… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply</title>
       <link>https://hydrogeneurope.eu/pichetto-in-algeria-south2-is-a-cornerstone-of-italys-strategy-for-future-hydrogen-supply/</link>
       <guid isPermaLink="false">molecola-0e463de8393ebff4</guid>
       <pubDate>Fri, 02 Oct 2026 16:20:30 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Revision Talks Underway – Volkswagen AG to Terminate Several Collective Agreements at Year-End</title>
+      <link>https://fuelcellsworks.com/2026/10/01/electric/revision-talks-underway-volkswagen-ag-to-terminate-several-collective-agreements-at-year-end</link>
+      <guid isPermaLink="false">molecola-0dbfb888e2a06b0e</guid>
+      <pubDate>Fri, 02 Oct 2026 16:04:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Revision Talks Underway – Volkswagen AG to Terminate Several Collective Agreements at Year-End — Fuel Cells Works</description>
     </item>
     <item>
       <title>Everfuel CEO Relieved by Danish Pipeline Deal: "Totally Essential"</title>
@@ -217,6 +289,14 @@
       <description>In other news, Oregon State University researchers demonstrated photocatalytic hydrogen production without a cocatalyst, while Spain and Germany advanced hydrogen infrastructure and funding programs. Plug Power signed… — PV Magazine</description>
     </item>
     <item>
+      <title>Green hydrogen infrastructure: H2 MOBILITY cuts prices at 15 German refuelling stations</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-infrastructure-h2-mobility-cuts-prices-at-15-german-refuelling-st/8576783/</link>
+      <guid isPermaLink="false">molecola-4417a91ff501192f</guid>
+      <pubDate>Fri, 02 Oct 2026 08:35:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>H2 MOBILITY will cut gross hydrogen prices by 12%–16% at 15 German refuelling stations starting in October, leveraging green hydrogen production and greenhouse-gas reduction quota credits to support a mixed-use network… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Calix and Perdaman partner on supply solution for ZESTY Green Iron Demo in Kwinana</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-calix-and-perdaman-partner-on-supply-solution-for-zesty-/8576782/</link>
       <guid isPermaLink="false">molecola-ecb6b28a94be9066</guid>
@@ -367,86 +447,6 @@
       <pubDate>Thu, 01 Oct 2026 15:12:49 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Switch Mobility Bags 840-Bus Delhi Order Under PM E-Drive After Record FY2026 Sales — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Austria Steps In With National Hydrogen Funds as EU Projects Fall Away</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/austria-steps-in-with-national-hydrogen-funds-as-eu-projects-fall-away</link>
-      <guid isPermaLink="false">molecola-7ba5bb6da9e978e5</guid>
-      <pubDate>Thu, 01 Oct 2026 15:12:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Austria Steps In With National Hydrogen Funds as EU Projects Fall Away — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Electra Opens 600 kW Ultra-Fast Charging Station in Madrid with €3 Million Investment</title>
-      <link>https://fuelcellsworks.com/2026/09/30/electric/electra-opens-600-kw-ultra-fast-charging-station-in-madrid-with-3-million-investment</link>
-      <guid isPermaLink="false">molecola-522b5ef1fce1c483</guid>
-      <pubDate>Thu, 01 Oct 2026 15:05:49 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Electra Opens 600 kW Ultra-Fast Charging Station in Madrid with €3 Million Investment — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Japan’s KIKOU MARU Completes 33Km Voyage Using Hydrogen-Only Marine Engine</title>
-      <link>https://fuelcellsworks.com/2026/10/01/clean-hydrogen/japan-s-kikou-maru-completes-33km-voyage-using-hydrogen-only-marine-engine</link>
-      <guid isPermaLink="false">molecola-43e37ecc00053bf5</guid>
-      <pubDate>Thu, 01 Oct 2026 14:44:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Japan’s KIKOU MARU Completes 33Km Voyage Using Hydrogen-Only Marine Engine — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Green Hydrogen and Bioplastics Startup Furanova Sets Up Pilot Plant in Bavaria's Gendorf Chemical Park</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/green-hydrogen-and-bioplastics-startup-furanova-sets-up-pilot-plant-in-bavaria-s-gendorf-chemical-park</link>
-      <guid isPermaLink="false">molecola-a75b595d65a79e77</guid>
-      <pubDate>Thu, 01 Oct 2026 14:29:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Green Hydrogen and Bioplastics Startup Furanova Sets Up Pilot Plant in Bavaria's Gendorf Chemical Park — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Noble Helium Completes Acquisition of Earth Source Hydrogen Limited with 100% Acceptances</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/noble-helium-completes-acquisition-of-earth-source-hydrogen-limited-with-100-percent-acceptances</link>
-      <guid isPermaLink="false">molecola-b8d0352fe86a9d6a</guid>
-      <pubDate>Thu, 01 Oct 2026 14:24:15 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Noble Helium Completes Acquisition of Earth Source Hydrogen Limited with 100% Acceptances — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Indonesia Says More Clean Power Is Needed to Develop Green Hydrogen and Ammonia</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/indonesia-says-more-clean-power-is-needed-to-develop-green-hydrogen-and-ammonia</link>
-      <guid isPermaLink="false">molecola-790d7ec441062145</guid>
-      <pubDate>Thu, 01 Oct 2026 14:20:27 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Indonesia Says More Clean Power Is Needed to Develop Green Hydrogen and Ammonia — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>JCB Steps up Investment as Hydrogen Machines Enter Production After 406Mph Hydromax Record</title>
-      <link>https://fuelcellsworks.com/2026/10/01/h2/jcb-steps-up-investment-as-hydrogen-machines-enter-production-after-406mph-hydromax-record</link>
-      <guid isPermaLink="false">molecola-c980ae6a283bd553</guid>
-      <pubDate>Thu, 01 Oct 2026 14:13:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>JCB Steps up Investment as Hydrogen Machines Enter Production After 406Mph Hydromax Record — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>European Commission Says It Has No Plans to Change 2030 E-SAF Mandates</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/european-commission-says-it-has-no-plans-to-change-2030-e-saf-mandates</link>
-      <guid isPermaLink="false">molecola-25ac0220b10d0139</guid>
-      <pubDate>Thu, 01 Oct 2026 14:04:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>European Commission Says It Has No Plans to Change 2030 E-SAF Mandates — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>REMOTE Propane Fuel Cell Generators Provide Reliable Off-Grid Power for Microwave Communication Stations</title>
-      <link>https://fuelcellsworks.com/2026/10/01/clean-energy/remote-propane-fuel-cell-generators-provide-reliable-off-grid-power-for-microwave-communication-stations</link>
-      <guid isPermaLink="false">molecola-ff50956ef7a280c5</guid>
-      <pubDate>Thu, 01 Oct 2026 13:56:49 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>REMOTE Propane Fuel Cell Generators Provide Reliable Off-Grid Power for Microwave Communication Stations — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Denmark Takes on More Risk to Get Esbjerg-Germany Hydrogen Pipeline Built</title>
-      <link>https://fuelcellsworks.com/2026/09/30/h2/denmark-takes-on-more-risk-to-get-esbjerg-germany-hydrogen-pipeline-built</link>
-      <guid isPermaLink="false">molecola-5cf610e54aee1043</guid>
-      <pubDate>Thu, 01 Oct 2026 13:46:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Denmark Takes on More Risk to Get Esbjerg-Germany Hydrogen Pipeline Built — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

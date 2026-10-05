@@ -1,6 +1,81 @@
 {
- "count": 1594,
+ "count": 1604,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-05T01:22:19+00:00",
+   "excerpt": "Spain’s BOE launched a 15-day public consultation for the 62 km Tivissa–Tarragona hydrogen pipeline segment, part of PCI 9.1.3, covering project authorization, public utility and environmental review.",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "866edf587871c9f4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/spain-opens-public-consultation-for-tivissa-tarragona-hydrogen-infrastructure-se/8576802/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Spain Opens Public Consultation for Tivissa–Tarragona Hydrogen Infrastructure Segment"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-04T12:11:07+00:00",
+   "excerpt": "Switzerland is exploring technical cooperation with Morocco on renewable hydrogen and synthetic fuels, including Synhelion’s planned 100 000 t/year plant in Tan-Tan.",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "e8d5c0e287946800",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-swiss-moroccan-collaboration-on-renewable-hydrogen-strengthe/8576799/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: Swiss-Moroccan Collaboration On Renewable Hydrogen Strengthens Energy Security"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-04T12:09:12+00:00",
+   "excerpt": "South Korea’s 93.7% energy-import dependence in 2024 has spurred interest in hydrogen for long-term resilience, as the IEA warns of supply-chain risks and industry calls for policy support.",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "c348543ca3f10ebe",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-energy-news-south-korea-turns-to-hydrogen-for-long-term-energy-security/8576798/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Energy News: South Korea Turns to Hydrogen for Long-Term Energy Security"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-03T23:10:52+00:00",
+   "excerpt": "Jacobs Solutions extends its program and construction management role on thyssenkrupp Steel’s hydrogen DRI plant in Duisburg, a 2.5 Mt/y facility backed by €2 billion in public funding to advance Europe’s industrial…",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "b6dc57da903601c9",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-update-jacobs-extends-role-on-duisburg-direct-reduction-/8576796/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure Update: Jacobs Extends Role on Duisburg Direct-Reduction Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-03T23:08:56+00:00",
+   "excerpt": "India’s National Green Hydrogen Mission targets 5 mtpa production by 2030 with ₹19,744 crore in public funding and could attract up to ₹10 lakh crore in private investment, says Mission Director Abhay Bakre.",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "7aa871c995b9848d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/india-s-national-green-hydrogen-mission-could-leverage-8-10-lakh-crore-for-green/8576795/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "India’s National Green Hydrogen Mission Could Leverage ₹8–10 Lakh Crore for Green Hydrogen Production by 2030"
+  },
   {
    "authors": [
     "Abdelhak Lekbir",
@@ -45,6 +120,51 @@
   },
   {
    "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T21:22:38+00:00",
+   "excerpt": "NYK Line’s upcoming hydrogen fuel-cell dining cruise ship AMANE is set for Tokyo Bay service around May 2027, featuring Yanmar-designed fuel cells, Toyota storage modules and ENEOS-supported bunkering under MLIT safety…",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "43a3531922584932",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/nyk-line-unveils-amane-hydrogen-fuel-cell-dining-cruise-for-tokyo-bay/8576787/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "NYK Line Unveils AMANE Hydrogen Fuel-Cell Dining Cruise for Tokyo Bay"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T21:20:09+00:00",
+   "excerpt": "Hyundai Rotem showcased a 400 km/h high-speed concept, a 220 km/h hydrogen multiple unit and a 3 MW hydrogen freight locomotive prototype at InnoTrans.",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "e6b976fc71193442",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hyundai-rotem-showcases-400-km-h-high-speed-concept-and-hydrogen-fuel-cell-train/8576786/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hyundai Rotem Showcases 400 km/h High-Speed Concept and Hydrogen Fuel Cell Trains at InnoTrans"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T21:14:06+00:00",
+   "excerpt": "Nyeri Hill Farm broke ground on a solar-powered green hydrogen facility in Kenya to produce green ammonia fertilizer for its coffee crops and medical oxygen for Consolata Hospital Mathari, backed by UNIDO, GIZ and…",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "c7621e7bda021df7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-facility-breaks-ground-at-kenyan-coffee-farm/8576785/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Facility Breaks Ground at Kenyan Coffee Farm"
+  },
+  {
+   "authors": [],
    "category": "politica",
    "date": "2026-10-02T16:20:30+00:00",
    "excerpt": "",
@@ -57,6 +177,21 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "Pichetto in Algeria: SoutH2 is a cornerstone of Italy’s strategy for future hydrogen supply"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T16:04:56+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "0dbfb888e2a06b0e",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/01/electric/revision-talks-underway-volkswagen-ag-to-terminate-several-collective-agreements-at-year-end",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Revision Talks Underway – Volkswagen AG to Terminate Several Collective Agreements at Year-End"
   },
   {
    "authors": [],
@@ -402,6 +537,21 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-02T08:35:24+00:00",
+   "excerpt": "H2 MOBILITY will cut gross hydrogen prices by 12%–16% at 15 German refuelling stations starting in October, leveraging green hydrogen production and greenhouse-gas reduction quota credits to support a mixed-use network…",
+   "first_seen": "2026-10-05T05:27:20+00:00",
+   "id": "4417a91ff501192f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-infrastructure-h2-mobility-cuts-prices-at-15-german-refuelling-st/8576783/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green hydrogen infrastructure: H2 MOBILITY cuts prices at 15 German refuelling stations"
   },
   {
    "authors": [],
@@ -28172,6 +28322,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-04T23:56:11+00:00",
+ "updated": "2026-10-05T05:27:20+00:00",
  "version": 2
 }
