@@ -1,5 +1,5 @@
 {
- "count": 1627,
+ "count": 1629,
  "items": [
   {
    "authors": [],
@@ -375,6 +375,21 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Adaptive multi-objective energy management and coordination of EV and FECV stations with power-to-hydrogen/hydrogen-to-power integration using a UT-ARO framework"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-03T23:43:28+00:00",
+   "excerpt": "Chubut’s provincial government has unveiled a strategic roadmap targeting 13,000 MW of wind generation linked to 632,000 tonnes of green hydrogen production by 2035, emphasizing a planning scenario rather than…",
+   "first_seen": "2026-10-06T06:11:46+00:00",
+   "id": "8904d865a6758e50",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-chubut-s-2035-roadmap-eyes-13-000-mw-wind-and-632-000-tonne-/8576797/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Chubut’s 2035 Roadmap Eyes 13,000 MW Wind and 632,000 Tonne Production"
   },
   {
    "authors": [],
@@ -2592,6 +2607,24 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Chinese scientists develop hydrogen-powered CO₂ heat pump with PCM storage"
+  },
+  {
+   "authors": [
+    "Farkhondeh Khodabandeh",
+    "Zhengmao Lu"
+   ],
+   "category": "ricerca",
+   "date": "2026-09-30T10:35:32+00:00",
+   "excerpt": "Gas bubbles impose large penalties in water electrolysis at industrially relevant rates. Capillary-fed electrolyzers greatly mitigate them by wicking electrolyte to electrodes and venting gas from the backside, but…",
+   "first_seen": "2026-10-06T06:11:46+00:00",
+   "id": "1861a7e022b201e4",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.03782v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Predicting and extending the bubble-free operating limit of capillary-fed water electrolysis"
   },
   {
    "authors": [],
@@ -28692,6 +28725,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-05T21:58:13+00:00",
+ "updated": "2026-10-06T06:11:46+00:00",
  "version": 2
 }

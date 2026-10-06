@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 05 Oct 2026 21:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:11:27 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Renault Scenic E-Tech Electric Enhanced for My27 with up to 392 Miles of Range and Prices From £33,245 Otr After Electric Car Grant</title>
@@ -199,6 +199,14 @@
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Scientific Reports — OpenAlex</description>
+    </item>
+    <item>
+      <title>Chubut’s 2035 Roadmap Eyes 13,000 MW Wind and 632,000 Tonne Production</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-chubut-s-2035-roadmap-eyes-13-000-mw-wind-and-632-000-tonne-/8576797/</link>
+      <guid isPermaLink="false">molecola-8904d865a6758e50</guid>
+      <pubDate>Sat, 03 Oct 2026 23:43:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Chubut’s provincial government has unveiled a strategic roadmap targeting 13,000 MW of wind generation linked to 632,000 tonnes of green hydrogen production by 2035, emphasizing a planning scenario rather than… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Hydrogen Infrastructure Update: Jacobs Extends Role on Duisburg Direct-Reduction Plant</title>
@@ -415,14 +423,6 @@
       <pubDate>Fri, 02 Oct 2026 14:31:36 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Liquid Hydrogen Shipping Takes Another Step Toward Commercial-Scale Cargo Handling — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>MODEC and Eld Energy Advance SOFC Power for FPSOs with ABS New Technology Qualification Milestone</title>
-      <link>https://fuelcellsworks.com/2026/09/15/h2/modec-and-eld-energy-advance-sofc-power-for-fpsos-with-abs-new-technology-qualification-milestone</link>
-      <guid isPermaLink="false">molecola-642dc6f88195f8c1</guid>
-      <pubDate>Fri, 02 Oct 2026 14:25:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>MODEC and Eld Energy Advance SOFC Power for FPSOs with ABS New Technology Qualification Milestone — Fuel Cells Works</description>
     </item>
     <item>
       <title>Study on the Hydrogen Storage Properties of LaNi5 Framework Materials</title>
