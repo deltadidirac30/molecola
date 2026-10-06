@@ -1,6 +1,62 @@
 {
- "count": 1629,
+ "count": 1648,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-06T13:37:29+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "dbc1eb534d2d6ab7",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/the-lego-group-starts-making-selected-lego-elements-using-e-methanol/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "The LEGO Group starts making selected LEGO® elements using e-methanol"
+  },
+  {
+   "authors": [
+    "Isabel Prieto",
+    "Eva Dı́az",
+    "Salvador Ordóñez"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-06T00:00:00+00:00",
+   "excerpt": "Energy & Fuels",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "2ac5adaec8fa6d2d",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.energyfuels.6c03642",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dehydrogenation of 1-Methyldecalin as a Liquid Organic Hydrogen Carrier: Effect of Isomer Composition on Catalyst Performance and Stability"
+  },
+  {
+   "authors": [
+    "Yunpeng Jiang",
+    "Longxiang Zeng",
+    "Lun Yang",
+    "Hong Tan",
+    "Hui Li",
+    "Ying Qiao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-06T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "eda90aa97b7c53b5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.128966",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Coordinated planning of hydrogen refuelling stations and distribution networks considering two-phase hydrogen storage and carbon emission flow"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -154,6 +210,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-05T14:54:28+00:00",
+   "excerpt": "Oregon State University researchers have developed a sulfur-based metal-organic framework, BVR-19, that splits water into hydrogen under illumination without an added metal cocatalyst, presenting a new molecular design…",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "1783bb9cf24644e6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-sulfur-linked-metal-organic-framework-enables-solar-driven-h/8576807/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production: Sulfur-Linked Metal-Organic Framework Enables Solar-Driven Hydrogen Evolution"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-05T14:44:51+00:00",
    "excerpt": "",
    "first_seen": "2026-10-05T21:58:13+00:00",
@@ -165,6 +236,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Maximator Hydrogen — 100Kg Fill in 18 Minutes at Nordhausen"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-05T14:39:04+00:00",
+   "excerpt": "Toyota and Isuzu launched the next-generation Sora hydrogen fuel-cell route bus in Japan, combining Isuzu’s flat-floor electric chassis with Toyota’s PEM fuel-cell system, offering over 300 km range and ten-minute…",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "28b7fc6f76e0b09a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-toyota-and-isuzu-unveil-next-generation-sora-bus-with-30/8576806/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell News: Toyota and Isuzu Unveil Next-Generation Sora Bus with 300 km Range"
   },
   {
    "authors": [],
@@ -195,6 +281,21 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "French hydrogen sector welcomes budget draft incl eSAF auction mechanism"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-05T14:15:50+00:00",
+   "excerpt": "UTEC and Udelar this month inaugurated an academic green-hydrogen pilot plant in Durazno, reproducing key stages from water treatment and electrolysis to compression and fuel-cell testing, aiming to train specialists…",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "6ff78f5f9557d7d5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-pilot-plant-opens-in-durazno-through-utec-udelar-partnership/8576805/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green hydrogen pilot plant opens in Durazno through UTEC–Udelar partnership"
   },
   {
    "authors": [],
@@ -287,6 +388,21 @@
    "title": "Spain Opens Public Consultation for Tivissa–Tarragona Hydrogen Infrastructure Segment"
   },
   {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-05T01:12:04+00:00",
+   "excerpt": "Xi'an 1908 New Energy delivered a 100 kW-class integrated hydrogen energy system to XJ Group in Shaanxi, combining an electrolyzer, solid-state storage and a 300 kW fuel cell, multiple outlets report. Key performance…",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "f5cf2ed80c2cf719",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/xi-an-1908-delivers-100-kw-class-integrated-hydrogen-energy-system-to-xj-group-i/8576801/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Xi'an 1908 Delivers 100 kW-Class Integrated Hydrogen Energy System to XJ Group in Shaanxi"
+  },
+  {
    "authors": [
     "Muhammad Huzaifa",
     "Muhammad Shafiq",
@@ -307,6 +423,207 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "First-principles investigation of hydrogen storage in pristine AlN nanosheets with a biphenylene framework"
+  },
+  {
+   "authors": [
+    "Jie Qi",
+    "David C. Dunand"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Nature Communications",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "9d8bbb8901a2f858",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41467-026-78337-8",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Self-foaming sintering-resistant iron-tungsten powders enable high-cycle thermochemical hydrogen storage"
+  },
+  {
+   "authors": [
+    "Quadri Nasiru",
+    "Taye Stephen Mogaji",
+    "Ayodele Ebenezer Ajayi",
+    "Kolade Babafemi Tuyi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Journal of Energy Research and Reviews",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "5907dffa60638e1e",
+   "lang": "en",
+   "link": "https://doi.org/10.9734/jenrr/2026/v18i10548",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Production of Hydrogen Gas for Cooking"
+  },
+  {
+   "authors": [
+    "Khuram Shahzad Ahmad",
+    "Shaan Bibi Jaffri",
+    "Jehad S. Al‐Hawadi",
+    "Bhumikaben Makawana",
+    "Ram Krishna Gupta",
+    "Ahmed Othman Alsabih"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Journal of Electronic Materials",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "ad831ef38e16e964",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11664-026-13196-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Single-Source Precursor Synthesis of Ni3Sn2S2-Nanocomposites for Energy Conversion and Storage"
+  },
+  {
+   "authors": [
+    "Jacob Cadrin-Aubin",
+    "Mathieu Bouchard",
+    "David Rancourt"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Journal of Aircraft",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "1e5a415d1d52197e",
+   "lang": "en",
+   "link": "https://doi.org/10.2514/1.c039011",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Business Aviation Turbofan Efficiency Improvement by Electrical Assistance During Transient Operations"
+  },
+  {
+   "authors": [
+    "Jiangting Zhao",
+    "Lunqiao Xiong",
+    "Yaxuan Zheng",
+    "Qinxue Nie",
+    "Zuolong Yu",
+    "Junjun Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Nature Sustainability",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "bb5b17d1b5c738f5",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41893-026-01959-9",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Green synthesis of hydrogen and formaldehyde from methanol with enhanced quantum efficiency"
+  },
+  {
+   "authors": [
+    "Xinru Cai",
+    "Changyu Zhang",
+    "Rui Lyu",
+    "Xia Tang",
+    "Aixia Zhang",
+    "Wei Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Journal of the Science of Food and Agriculture",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "184e49207dfd0d74",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/jsfa.71139",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Revealing the modulating role of germinated brown foxtail millet flour in potato starch gels: a cross‐over application from dough ingredient to gel matrix"
+  },
+  {
+   "authors": [
+    "Kartik Sau",
+    "Ikutaro Hamada",
+    "Tamio Ikeshoji",
+    "Yiming Lu",
+    "Susmita Roy",
+    "Shohichi Furukawa"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Physical Review Materials",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "f9e53066636ad81c",
+   "lang": "en",
+   "link": "https://doi.org/10.1103/d5b5-66b6",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hybrid sampling approach to machine-learning potentials for gas adsorption: Hydrogen adsorption in MOF-303"
+  },
+  {
+   "authors": [
+    "Ryota Ozaki",
+    "Yohei Nagatomo",
+    "Mio Sakamoto",
+    "Masahiro Yasutake",
+    "Yuya Tachikawa",
+    "Stephen Matthew Lyth"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Journal of The Electrochemical Society",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "7bb24acaf77b9d89",
+   "lang": "en",
+   "link": "https://doi.org/10.1149/1945-7111/aeb04b",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "DRT Analysis of Ni-GDC Functional Layers for YSZ-based Fuel Electrode Supported Reversible Solid Oxide Cells"
+  },
+  {
+   "authors": [
+    "Armando Manuel Muchimba",
+    "Fabiano Fernandes Bargos",
+    "Estaner Claro Romão"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-05T00:00:00+00:00",
+   "excerpt": "Hydrogen",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "45572f65b7ec7b5c",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/hydrogen7040149",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen in the Energy Transition: Technological Maturity, Challenges and the Expectation–Reality Gap"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-04T12:32:10+00:00",
+   "excerpt": "Germany’s major steelmakers are replacing coal-based blast furnaces with hydrogen direct reduction and electric furnaces in projects backed by billions in public funds. Success hinges on green hydrogen production…",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "9c66b4c6adb6f9bc",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-drives-low-carbon-steelmaking-transformation-in-germany/8576800/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen production drives low-carbon steelmaking transformation in Germany"
   },
   {
    "authors": [],
@@ -375,6 +692,26 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Adaptive multi-objective energy management and coordination of EV and FECV stations with power-to-hydrogen/hydrogen-to-power integration using a UT-ARO framework"
+  },
+  {
+   "authors": [
+    "Temoor Muther",
+    "Amirmasoud Kalantari Dahaghi",
+    "David A. Fowle",
+    "Robert H. Goldstein"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-04T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "67bcdcb631b459a3",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-73200-8",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Geochemical evaluation of subsurface hydrogen-brine-mineral interactions and hydrogen loss"
   },
   {
    "authors": [],
@@ -502,6 +839,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "The Evolution of Green Products: Anticipating 2025"
+  },
+  {
+   "authors": [
+    "Wencheng Wu",
+    "Yimin Wu",
+    "Xinda Shen",
+    "Jin Zhu",
+    "Jiedong Yang",
+    "Yifan Su"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-03T00:00:00+00:00",
+   "excerpt": "Processes",
+   "first_seen": "2026-10-06T15:52:37+00:00",
+   "id": "eab60fdc21c18bf7",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/pr14193177",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multi-Site Planning of Renewable Energy Bases and Green Hydrogen–Ammonia Production Systems: A Stochastic Location and Capacity Optimization Approach"
   },
   {
    "authors": [],
@@ -1708,7 +2067,7 @@
    "paywall": false,
    "source": "OpenAlex",
    "source_slug": "openalex",
-   "title": "DFT Investigations of Kubas-Type Hydrogen Storage in C₁₉X Heterofullerenes: d-Orbital Preservation Under Substitutional Transition Metal Doping"
+   "title": "DFT investigations of kubas-type hydrogen storage in C₁₉X heterofullerenes: D-orbital preservation under substitutional transition metal doping"
   },
   {
    "authors": [
@@ -28725,6 +29084,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-06T06:11:46+00:00",
+ "updated": "2026-10-06T15:52:37+00:00",
  "version": 2
 }
