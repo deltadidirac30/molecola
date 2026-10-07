@@ -1,6 +1,21 @@
 {
- "count": 1666,
+ "count": 1671,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-07T07:36:06+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-07T13:12:31+00:00",
+   "id": "6d5bc875caabd7c8",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/st-engineering-and-university-of-stuttgart-strengthen-collaboration-with-bawue-testing-platform/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -49,6 +64,36 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-06T16:14:09+00:00",
+   "excerpt": "The Hydrogen Council expanded its membership with six new industry players to broaden its global hydrogen production, logistics and policy coordination amid ongoing deployment challenges.",
+   "first_seen": "2026-10-07T13:12:31+00:00",
+   "id": "986a5b0186eb2d41",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-hydrogen-council-adds-six-new-members-to-strengthen-global-hydroge/8576819/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Council Adds Six New Members to Strengthen Global Hydrogen Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-06T16:13:43+00:00",
+   "excerpt": "Total Hydrogen Solutions is nearing initial energization of its integrated hydrogen production and refueling facility in Katy, Texas, featuring a 1-MW HyperCellX electrolyzer, onsite storage, ERCOT grid participation…",
+   "first_seen": "2026-10-07T13:12:31+00:00",
+   "id": "31666335aa7252aa",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/katy-facility-showcases-flexible-hydrogen-production-and-infrastructure/8576818/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Katy Facility Showcases Flexible Hydrogen Production and Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-06T16:10:18+00:00",
    "excerpt": "",
    "first_seen": "2026-10-06T22:36:41+00:00",
@@ -60,6 +105,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Fit Energy to Repurpose Former Mining Lands Into a Fuel Cell Power Generation, Technology & Data Center Project in Newport Township"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-06T16:10:14+00:00",
+   "excerpt": "ORNX advances pre-FEED engineering for a proposed green hydrogen-to-ammonia complex in Morocco’s Laâyoune region with KBR and USTDA support.",
+   "first_seen": "2026-10-07T13:12:31+00:00",
+   "id": "fb00502bb4a95686",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-gathers-pace-at-moroccan-la-youne-ammonia-project/8576817/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Gathers Pace at Moroccan Laâyoune Ammonia Project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-06T16:09:53+00:00",
+   "excerpt": "A multi-institutional team reports a platinum-free iron catalyst reaching 902 mW/cm² in an anion-exchange membrane fuel cell cathode, setting a new performance benchmark for metal-phthalocyanine-based systems…",
+   "first_seen": "2026-10-07T13:12:31+00:00",
+   "id": "d390343b0be30b6d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-blue-pigment-iron-catalyst-reaches-902-mw-cm-peak-in-aem/8576816/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Blue-Pigment Iron Catalyst Reaches 902 mW/cm² Peak in AEMFC Cathode"
   },
   {
    "authors": [],
@@ -29354,6 +29429,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-07T05:47:51+00:00",
+ "updated": "2026-10-07T13:12:31+00:00",
  "version": 2
 }

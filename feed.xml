@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:12:13 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform</title>
+      <link>https://hydrogeneurope.eu/st-engineering-and-university-of-stuttgart-strengthen-collaboration-with-bawue-testing-platform/</link>
+      <guid isPermaLink="false">molecola-6d5bc875caabd7c8</guid>
+      <pubDate>Wed, 07 Oct 2026 07:36:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Honda to Test Wireless EV Charging on Japanese Expressway</title>
       <link>https://fuelcellsworks.com/2026/10/05/electric/honda-to-test-wireless-ev-charging-on-japanese-expressway</link>
@@ -33,12 +41,44 @@
       <description>Qwello Benelux B.V. and Groen-Eco B.V. Join Forces to Grow B2B Charging in the Netherlands — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Hydrogen Council Adds Six New Members to Strengthen Global Hydrogen Infrastructure</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-hydrogen-council-adds-six-new-members-to-strengthen-global-hydroge/8576819/</link>
+      <guid isPermaLink="false">molecola-986a5b0186eb2d41</guid>
+      <pubDate>Tue, 06 Oct 2026 16:14:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The Hydrogen Council expanded its membership with six new industry players to broaden its global hydrogen production, logistics and policy coordination amid ongoing deployment challenges. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Katy Facility Showcases Flexible Hydrogen Production and Infrastructure</title>
+      <link>http://www.hydrogenfuelnews.com/katy-facility-showcases-flexible-hydrogen-production-and-infrastructure/8576818/</link>
+      <guid isPermaLink="false">molecola-31666335aa7252aa</guid>
+      <pubDate>Tue, 06 Oct 2026 16:13:43 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Total Hydrogen Solutions is nearing initial energization of its integrated hydrogen production and refueling facility in Katy, Texas, featuring a 1-MW HyperCellX electrolyzer, onsite storage, ERCOT grid participation… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Fit Energy to Repurpose Former Mining Lands Into a Fuel Cell Power Generation, Technology &amp; Data Center Project in Newport Township</title>
       <link>https://fuelcellsworks.com/2026/10/06/electrolyzer/fit-energy-to-repurpose-former-mining-lands-into-a-fuel-cell-power-generation-technology-and-data-center-project-in-newport-township</link>
       <guid isPermaLink="false">molecola-a9ae354f7e6c27ea</guid>
       <pubDate>Tue, 06 Oct 2026 16:10:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Fit Energy to Repurpose Former Mining Lands Into a Fuel Cell Power Generation, Technology &amp; Data Center Project in Newport Township — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production Gathers Pace at Moroccan Laâyoune Ammonia Project</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-gathers-pace-at-moroccan-la-youne-ammonia-project/8576817/</link>
+      <guid isPermaLink="false">molecola-fb00502bb4a95686</guid>
+      <pubDate>Tue, 06 Oct 2026 16:10:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>ORNX advances pre-FEED engineering for a proposed green hydrogen-to-ammonia complex in Morocco’s Laâyoune region with KBR and USTDA support. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Blue-Pigment Iron Catalyst Reaches 902 mW/cm² Peak in AEMFC Cathode</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-blue-pigment-iron-catalyst-reaches-902-mw-cm-peak-in-aem/8576816/</link>
+      <guid isPermaLink="false">molecola-d390343b0be30b6d</guid>
+      <pubDate>Tue, 06 Oct 2026 16:09:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A multi-institutional team reports a platinum-free iron catalyst reaching 902 mW/cm² in an anion-exchange membrane fuel cell cathode, setting a new performance benchmark for metal-phthalocyanine-based systems… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Kempower and BIBUS MENOS Deliver Charging Infrastructure for Koleje Małopolskie Intercity Bus Project in Poland</title>
@@ -345,22 +385,6 @@
       <description>New Joining Process for the Efficient Production of Fuel Cells — Fuel Cells Works</description>
     </item>
     <item>
-      <title>Spain Opens Public Consultation for Tivissa–Tarragona Hydrogen Infrastructure Segment</title>
-      <link>http://www.hydrogenfuelnews.com/spain-opens-public-consultation-for-tivissa-tarragona-hydrogen-infrastructure-se/8576802/</link>
-      <guid isPermaLink="false">molecola-866edf587871c9f4</guid>
-      <pubDate>Mon, 05 Oct 2026 01:22:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Spain’s BOE launched a 15-day public consultation for the 62 km Tivissa–Tarragona hydrogen pipeline segment, part of PCI 9.1.3, covering project authorization, public utility and environmental review. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Xi'an 1908 Delivers 100 kW-Class Integrated Hydrogen Energy System to XJ Group in Shaanxi</title>
-      <link>http://www.hydrogenfuelnews.com/xi-an-1908-delivers-100-kw-class-integrated-hydrogen-energy-system-to-xj-group-i/8576801/</link>
-      <guid isPermaLink="false">molecola-f5cf2ed80c2cf719</guid>
-      <pubDate>Mon, 05 Oct 2026 01:12:04 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Xi'an 1908 New Energy delivered a 100 kW-class integrated hydrogen energy system to XJ Group in Shaanxi, combining an electrolyzer, solid-state storage and a 300 kW fuel cell, multiple outlets report. Key performance… — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>First-principles investigation of hydrogen storage in pristine AlN nanosheets with a biphenylene framework</title>
       <link>https://doi.org/10.1038/s41598-026-73819-7</link>
       <guid isPermaLink="false">molecola-6d87a95afa242733</guid>
@@ -423,30 +447,6 @@
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Physical Review Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydrogen production drives low-carbon steelmaking transformation in Germany</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-production-drives-low-carbon-steelmaking-transformation-in-germany/8576800/</link>
-      <guid isPermaLink="false">molecola-9c66b4c6adb6f9bc</guid>
-      <pubDate>Sun, 04 Oct 2026 12:32:10 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Germany’s major steelmakers are replacing coal-based blast furnaces with hydrogen direct reduction and electric furnaces in projects backed by billions in public funds. Success hinges on green hydrogen production… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Green Hydrogen News: Swiss-Moroccan Collaboration On Renewable Hydrogen Strengthens Energy Security</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-swiss-moroccan-collaboration-on-renewable-hydrogen-strengthe/8576799/</link>
-      <guid isPermaLink="false">molecola-e8d5c0e287946800</guid>
-      <pubDate>Sun, 04 Oct 2026 12:11:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Switzerland is exploring technical cooperation with Morocco on renewable hydrogen and synthetic fuels, including Synhelion’s planned 100 000 t/year plant in Tan-Tan. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Energy News: South Korea Turns to Hydrogen for Long-Term Energy Security</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-energy-news-south-korea-turns-to-hydrogen-for-long-term-energy-security/8576798/</link>
-      <guid isPermaLink="false">molecola-c348543ca3f10ebe</guid>
-      <pubDate>Sun, 04 Oct 2026 12:09:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>South Korea’s 93.7% energy-import dependence in 2024 has spurred interest in hydrogen for long-term resilience, as the IEA warns of supply-chain risks and industry calls for policy support. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
