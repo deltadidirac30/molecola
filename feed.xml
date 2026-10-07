@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:47:30 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Honda to Test Wireless EV Charging on Japanese Expressway</title>
+      <link>https://fuelcellsworks.com/2026/10/05/electric/honda-to-test-wireless-ev-charging-on-japanese-expressway</link>
+      <guid isPermaLink="false">molecola-d45eeeadaa92a8d3</guid>
+      <pubDate>Tue, 06 Oct 2026 17:11:15 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Honda to Test Wireless EV Charging on Japanese Expressway — Fuel Cells Works</description>
+    </item>
     <item>
       <title>China's First Ammonia-Fuelled Gas Carrier Sets Sail on National Day</title>
       <link>https://fuelcellsworks.com/2026/10/05/h2/china-s-first-ammonia-fuelled-gas-carrier-sets-sail-on-national-day</link>
@@ -15,6 +23,14 @@
       <pubDate>Tue, 06 Oct 2026 16:19:33 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>China's First Ammonia-Fuelled Gas Carrier Sets Sail on National Day — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Qwello Benelux B.V. and Groen-Eco B.V. Join Forces to Grow B2B Charging in the Netherlands</title>
+      <link>https://fuelcellsworks.com/2026/10/05/electric/qwello-benelux-b-v-and-groen-eco-b-v-join-forces-to-grow-b2b-charging-in-the-netherlands</link>
+      <guid isPermaLink="false">molecola-4521a4531bd98d61</guid>
+      <pubDate>Tue, 06 Oct 2026 16:15:03 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Qwello Benelux B.V. and Groen-Eco B.V. Join Forces to Grow B2B Charging in the Netherlands — Fuel Cells Works</description>
     </item>
     <item>
       <title>Fit Energy to Repurpose Former Mining Lands Into a Fuel Cell Power Generation, Technology &amp; Data Center Project in Newport Township</title>
@@ -431,22 +447,6 @@
       <pubDate>Sun, 04 Oct 2026 12:09:12 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>South Korea’s 93.7% energy-import dependence in 2024 has spurred interest in hydrogen for long-term resilience, as the IEA warns of supply-chain risks and industry calls for policy support. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Chubut’s 2035 Roadmap Eyes 13,000 MW Wind and 632,000 Tonne Production</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-chubut-s-2035-roadmap-eyes-13-000-mw-wind-and-632-000-tonne-/8576797/</link>
-      <guid isPermaLink="false">molecola-8904d865a6758e50</guid>
-      <pubDate>Sat, 03 Oct 2026 23:43:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Chubut’s provincial government has unveiled a strategic roadmap targeting 13,000 MW of wind generation linked to 632,000 tonnes of green hydrogen production by 2035, emphasizing a planning scenario rather than… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure Update: Jacobs Extends Role on Duisburg Direct-Reduction Plant</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-update-jacobs-extends-role-on-duisburg-direct-reduction-/8576796/</link>
-      <guid isPermaLink="false">molecola-b6dc57da903601c9</guid>
-      <pubDate>Sat, 03 Oct 2026 23:10:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Jacobs Solutions extends its program and construction management role on thyssenkrupp Steel’s hydrogen DRI plant in Duisburg, a 2.5 Mt/y facility backed by €2 billion in public funding to advance Europe’s industrial… — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
