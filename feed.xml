@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:25:46 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Twelve Years of National Hydrogen &amp; Fuel Cell Day: Where We Came From, Where We are, and Where We are Going</title>
+      <link>https://fchea.org/twelve-years-of-national-hydrogen-fuel-cell-day-where-we-came-from-where-we-are-and-where-we-are-going/</link>
+      <guid isPermaLink="false">molecola-b04f99a34886545c</guid>
+      <pubDate>Thu, 08 Oct 2026 10:08:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">FCHEA</source>
+      <description>Today marks the twelfth annual National Hydrogen &amp; Fuel Cell Day. What began as an idea in a conference room has evolved into an international celebration, showcasing the vast footprint and impact the technologies are… — FCHEA</description>
+    </item>
     <item>
       <title>Walmart Chile and Copec Inaugurate First Hydrogen Station for High-Tonnage Trucks</title>
       <link>https://fuelcellsworks.com/2026/10/01/electrolyzer/walmart-chile-and-copec-inaugurate-first-hydrogen-station-for-high-tonnage-trucks</link>
@@ -23,6 +31,22 @@
       <pubDate>Wed, 07 Oct 2026 18:35:52 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Perkins Tests New Hydrogen Hybridised IOPU — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Guangzhou Proposes Toll Waivers and Subsidies for Fuel Cell Vehicles</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-energy-news-guangzhou-proposes-toll-waivers-and-subsidies-for-fuel-cell/8576833/</link>
+      <guid isPermaLink="false">molecola-6fe86badbfaf512c</guid>
+      <pubDate>Wed, 07 Oct 2026 18:08:39 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Guangzhou’s draft plan would waive expressway tolls and offer subsidies for trailers and stations to accelerate hydrogen fuel cell vehicles. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Pajarito Powder Scales Fuel-Cell Catalyst Production Fourfold in Albuquerque</title>
+      <link>http://www.hydrogenfuelnews.com/pajarito-powder-scales-fuel-cell-catalyst-production-fourfold-in-albuquerque/8576831/</link>
+      <guid isPermaLink="false">molecola-b1437964d736d48a</guid>
+      <pubDate>Wed, 07 Oct 2026 18:07:04 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Pajarito Powder says it has quadrupled its fuel-cell catalyst capacity at its Albuquerque plant and installed 20-kilogram batch equipment to support a new hydrogen fuel-cell vehicle, while reportedly negotiating with a… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>DNV Cuts 2060 Clean Hydrogen Forecast to 210 Million Tonnes — Just Five Months After Previous Outlook</title>
@@ -63,6 +87,14 @@
       <pubDate>Wed, 07 Oct 2026 16:14:13 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>2027 Mitsubishi Eclipse Sportback Priced From $37,745 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media</title>
+      <link>https://arxiv.org/abs/2610.10314v1</link>
+      <guid isPermaLink="false">molecola-613919f5fb223d3d</guid>
+      <pubDate>Wed, 07 Oct 2026 16:08:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Multiphase flow in porous microstructures is central to CO$_2$ storage, fuel-cell operation, and flip-chip packaging. Predicting these flows remains challenging because wettability and complex pore geometry govern the… — arXiv</description>
     </item>
     <item>
       <title>EWE to supply tesa with green hydrogen from Emden project</title>
@@ -177,12 +209,52 @@
       <description>Shaanxi Zhengtai Moves Xi’an Jiaotong University Alkaline Electrolyser Anode Technology Into Production — Fuel Cells Works</description>
     </item>
     <item>
+      <title>A dynamic pore-network model with discrete microbubble transport</title>
+      <link>https://arxiv.org/abs/2610.09888v1</link>
+      <guid isPermaLink="false">molecola-f1c90c4b6d591da9</guid>
+      <pubDate>Wed, 07 Oct 2026 11:47:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>We develop a hybrid pore-network model (PNM) for discrete microbubble transport coupled to connected two-phase flow in porous media. We apply the model to simulate flow in the porous transport layer of a rotating… — arXiv</description>
+    </item>
+    <item>
+      <title>Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction</title>
+      <link>https://arxiv.org/abs/2610.09719v1</link>
+      <guid isPermaLink="false">molecola-4cde301a27e5f5b1</guid>
+      <pubDate>Wed, 07 Oct 2026 09:15:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>In this work, we have systematically investigated the structural stability, electronic properties, and photocatalytic performance of the 2D h-Be3N2 monolayer for water splitting application, utilizing a… — arXiv</description>
+    </item>
+    <item>
       <title>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform</title>
       <link>https://hydrogeneurope.eu/st-engineering-and-university-of-stuttgart-strengthen-collaboration-with-bawue-testing-platform/</link>
       <guid isPermaLink="false">molecola-6d5bc875caabd7c8</guid>
       <pubDate>Wed, 07 Oct 2026 07:36:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Netherlands Injects Over €44M into Hydrogen Mobility Subsidy Scheme</title>
+      <link>http://www.hydrogenfuelnews.com/netherlands-injects-over-44m-into-hydrogen-mobility-subsidy-scheme/8576823/</link>
+      <guid isPermaLink="false">molecola-ecdff64b0ed95595</guid>
+      <pubDate>Wed, 07 Oct 2026 05:08:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The Netherlands’ SWiM programme has allocated over €44 million to hydrogen fuel-cell trucks and stations, testing an integrated subsidy model to overcome infrastructure and vehicle coordination challenges. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>BMW Group starts construction of hydrogen pipeline to connect Leipzig plant</title>
+      <link>http://www.hydrogenfuelnews.com/bmw-group-starts-construction-of-hydrogen-pipeline-to-connect-leipzig-plant/8576822/</link>
+      <guid isPermaLink="false">molecola-298aed5d60c33fd6</guid>
+      <pubDate>Wed, 07 Oct 2026 05:07:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>BMW Group began construction of a two-kilometre hydrogen pipeline connecting its Leipzig plant to Germany’s hydrogen core network, aiming to boost hydrogen use in paint-shop processes and logistics by 2028. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Compostilla Green: Leading the Charge in Green Hydrogen Production and Sustainable Aviation Fuel Synthesis</title>
+      <link>http://www.hydrogenfuelnews.com/compostilla-green-leading-the-charge-in-green-hydrogen-production-and-sustainabl/8576821/</link>
+      <guid isPermaLink="false">molecola-535286cca9879972</guid>
+      <pubDate>Wed, 07 Oct 2026 05:07:18 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Compostilla Green is a proposed integrated complex in Cubillos del Sil (Spain) aiming to produce renewable hydrogen via 250 MW of alkaline electrolysis and synthesize approximately 59,460 tonnes of sustainable aviation… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Honda to Test Wireless EV Charging on Japanese Expressway</title>
@@ -321,54 +393,6 @@
       <description>Enagás Files for Approval on €98M Hydrogen Pipeline That Will Carry Green H2 From Andorra to Tarragona — Fuel Cells Works</description>
     </item>
     <item>
-      <title>University of Malaga Launches First Hydrogen Technologies Microcredential</title>
-      <link>https://fuelcellsworks.com/2026/10/06/education/university-of-malaga-launches-first-hydrogen-technologies-microcredential</link>
-      <guid isPermaLink="false">molecola-98528c5936845663</guid>
-      <pubDate>Tue, 06 Oct 2026 15:04:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>University of Malaga Launches First Hydrogen Technologies Microcredential — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Intelligent Energy Launches Mobile Hydrogen Fuel Cell Power Unit to Replace Diesel Generators</title>
-      <link>https://fuelcellsworks.com/2026/10/06/electrolyzer/intelligent-energy-launches-mobile-hydrogen-fuel-cell-power-unit-to-replace-diesel-generators</link>
-      <guid isPermaLink="false">molecola-0965fbf39f2a7e4d</guid>
-      <pubDate>Tue, 06 Oct 2026 14:55:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Intelligent Energy Launches Mobile Hydrogen Fuel Cell Power Unit to Replace Diesel Generators — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Japan's Hydrogen Tanker Completes World-First Demonstration Voyage in Osaka Bay</title>
-      <link>https://fuelcellsworks.com/2026/10/05/h2/japan-s-hydrogen-tanker-completes-world-first-demonstration-voyage-in-osaka-bay</link>
-      <guid isPermaLink="false">molecola-e296d3663d76878a</guid>
-      <pubDate>Tue, 06 Oct 2026 14:39:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Japan's Hydrogen Tanker Completes World-First Demonstration Voyage in Osaka Bay — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Dynelectro’s 250kW SOEC Electrolyser Completes 1,000 Hours of Operation in Iceland</title>
-      <link>https://fuelcellsworks.com/2026/10/06/electrolyzer/dynelectro-s-250kw-soec-electrolyser-completes-1-000-hours-of-operation-in-iceland</link>
-      <guid isPermaLink="false">molecola-0f1f677f4019e891</guid>
-      <pubDate>Tue, 06 Oct 2026 14:14:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Dynelectro’s 250kW SOEC Electrolyser Completes 1,000 Hours of Operation in Iceland — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>24 Hour Hydrogen Challenge 2026 — D!VERS Wins Woerden Waterstof Edition</title>
-      <link>https://fuelcellsworks.com/2026/10/04/fuel-cells/24-hour-hydrogen-challenge-2026-d-vers-wins-woerden-waterstof-edition</link>
-      <guid isPermaLink="false">molecola-33337614cd02dad4</guid>
-      <pubDate>Tue, 06 Oct 2026 13:48:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>24 Hour Hydrogen Challenge 2026 — D!VERS Wins Woerden Waterstof Edition — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>The LEGO Group starts making selected LEGO® elements using e-methanol</title>
-      <link>https://hydrogeneurope.eu/the-lego-group-starts-making-selected-lego-elements-using-e-methanol/</link>
-      <guid isPermaLink="false">molecola-dbc1eb534d2d6ab7</guid>
-      <pubDate>Tue, 06 Oct 2026 13:37:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>The LEGO Group starts making selected LEGO® elements using e-methanol — Hydrogen Europe</description>
-    </item>
-    <item>
       <title>Dehydrogenation of 1-Methyldecalin as a Liquid Organic Hydrogen Carrier: Effect of Isomer Composition on Catalyst Performance and Stability</title>
       <link>https://doi.org/10.1021/acs.energyfuels.6c03642</link>
       <guid isPermaLink="false">molecola-2ac5adaec8fa6d2d</guid>
@@ -423,30 +447,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
-      <title>How Are Optimization Strategies Shaping the Evolution of Renewable Fuel Resource-Based Thermodynamic Systems? A Structured Critical Review</title>
-      <link>https://doi.org/10.3390/fuels7040070</link>
-      <guid isPermaLink="false">molecola-e8741b65c01080cb</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuels — OpenAlex</description>
-    </item>
-    <item>
-      <title>First-principles investigation of hydrogen storage in pristine AlN nanosheets with a biphenylene framework</title>
-      <link>https://doi.org/10.1038/s41598-026-73819-7</link>
-      <guid isPermaLink="false">molecola-6d87a95afa242733</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
-    </item>
-    <item>
-      <title>Self-foaming sintering-resistant iron-tungsten powders enable high-cycle thermochemical hydrogen storage</title>
-      <link>https://doi.org/10.1038/s41467-026-78337-8</link>
-      <guid isPermaLink="false">molecola-9d8bbb8901a2f858</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nature Communications — OpenAlex</description>
     </item>
   </channel>
 </rss>

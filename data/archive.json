@@ -1,6 +1,21 @@
 {
- "count": 1703,
+ "count": 1712,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-08T10:08:27+00:00",
+   "excerpt": "Today marks the twelfth annual National Hydrogen & Fuel Cell Day. What began as an idea in a conference room has evolved into an international celebration, showcasing the vast footprint and impact the technologies are…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "b04f99a34886545c",
+   "lang": "en",
+   "link": "https://fchea.org/twelve-years-of-national-hydrogen-fuel-cell-day-where-we-came-from-where-we-are-and-where-we-are-going/",
+   "manual": null,
+   "paywall": false,
+   "source": "FCHEA",
+   "source_slug": "fchea",
+   "title": "Twelve Years of National Hydrogen & Fuel Cell Day: Where We Came From, Where We are, and Where We are Going"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -30,6 +45,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Perkins Tests New Hydrogen Hybridised IOPU"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T18:08:39+00:00",
+   "excerpt": "Guangzhou’s draft plan would waive expressway tolls and offer subsidies for trailers and stations to accelerate hydrogen fuel cell vehicles.",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "6fe86badbfaf512c",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-energy-news-guangzhou-proposes-toll-waivers-and-subsidies-for-fuel-cell/8576833/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Guangzhou Proposes Toll Waivers and Subsidies for Fuel Cell Vehicles"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T18:07:04+00:00",
+   "excerpt": "Pajarito Powder says it has quadrupled its fuel-cell catalyst capacity at its Albuquerque plant and installed 20-kilogram batch equipment to support a new hydrogen fuel-cell vehicle, while reportedly negotiating with a…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "b1437964d736d48a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/pajarito-powder-scales-fuel-cell-catalyst-production-fourfold-in-albuquerque/8576831/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Pajarito Powder Scales Fuel-Cell Catalyst Production Fourfold in Albuquerque"
   },
   {
    "authors": [],
@@ -105,6 +150,28 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "2027 Mitsubishi Eclipse Sportback Priced From $37,745"
+  },
+  {
+   "authors": [
+    "Chunyang Wang",
+    "Mingrui Zhang",
+    "Yuyan Zhang",
+    "Linqi Zhu",
+    "Xin Ju",
+    "Edo Sicco Boek"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-07T16:08:35+00:00",
+   "excerpt": "Multiphase flow in porous microstructures is central to CO$_2$ storage, fuel-cell operation, and flip-chip packaging. Predicting these flows remains challenging because wettability and complex pore geometry govern the…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "613919f5fb223d3d",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.10314v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media"
   },
   {
    "authors": [],
@@ -317,6 +384,45 @@
    "title": "Shaanxi Zhengtai Moves Xi’an Jiaotong University Alkaline Electrolyser Anode Technology Into Production"
   },
   {
+   "authors": [
+    "Kristoffer Skjelanger",
+    "Anna Mareike Kostelecky",
+    "Maziar Veyskarami",
+    "Timo Koch"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-07T11:47:09+00:00",
+   "excerpt": "We develop a hybrid pore-network model (PNM) for discrete microbubble transport coupled to connected two-phase flow in porous media. We apply the model to simulate flow in the porous transport layer of a rotating…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "f1c90c4b6d591da9",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.09888v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A dynamic pore-network model with discrete microbubble transport"
+  },
+  {
+   "authors": [
+    "Karan Patel",
+    "Hetvi Jadav",
+    "Himanshu Pandey"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-07T09:15:00+00:00",
+   "excerpt": "In this work, we have systematically investigated the structural stability, electronic properties, and photocatalytic performance of the 2D h-Be3N2 monolayer for water splitting application, utilizing a…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "4cde301a27e5f5b1",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.09719v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction"
+  },
+  {
    "authors": [],
    "category": "politica",
    "date": "2026-10-07T07:36:06+00:00",
@@ -330,6 +436,51 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T05:08:02+00:00",
+   "excerpt": "The Netherlands’ SWiM programme has allocated over €44 million to hydrogen fuel-cell trucks and stations, testing an integrated subsidy model to overcome infrastructure and vehicle coordination challenges.",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "ecdff64b0ed95595",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/netherlands-injects-over-44m-into-hydrogen-mobility-subsidy-scheme/8576823/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Netherlands Injects Over €44M into Hydrogen Mobility Subsidy Scheme"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T05:07:35+00:00",
+   "excerpt": "BMW Group began construction of a two-kilometre hydrogen pipeline connecting its Leipzig plant to Germany’s hydrogen core network, aiming to boost hydrogen use in paint-shop processes and logistics by 2028.",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "298aed5d60c33fd6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/bmw-group-starts-construction-of-hydrogen-pipeline-to-connect-leipzig-plant/8576822/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "BMW Group starts construction of hydrogen pipeline to connect Leipzig plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T05:07:18+00:00",
+   "excerpt": "Compostilla Green is a proposed integrated complex in Cubillos del Sil (Spain) aiming to produce renewable hydrogen via 250 MW of alkaline electrolysis and synthesize approximately 59,460 tonnes of sustainable aviation…",
+   "first_seen": "2026-10-08T10:26:05+00:00",
+   "id": "535286cca9879972",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/compostilla-green-leading-the-charge-in-green-hydrogen-production-and-sustainabl/8576821/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Compostilla Green: Leading the Charge in Green Hydrogen Production and Sustainable Aviation Fuel Synthesis"
   },
   {
    "authors": [],
@@ -29972,6 +30123,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-08T00:56:15+00:00",
+ "updated": "2026-10-08T10:26:05+00:00",
  "version": 2
 }
