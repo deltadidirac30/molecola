@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:55:55 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Walmart Chile and Copec Inaugurate First Hydrogen Station for High-Tonnage Trucks</title>
@@ -33,6 +33,14 @@
       <description>DNV Cuts 2060 Clean Hydrogen Forecast to 210 Million Tonnes — Just Five Months After Previous Outlook — Fuel Cells Works</description>
     </item>
     <item>
+      <title>VinFast Introduces Electric Bus Lineup in the U.S., Doubling Down on Sustainable Mobility Growth</title>
+      <link>https://fuelcellsworks.com/2026/10/06/electric/vinfast-introduces-electric-bus-lineup-in-the-u-s-doubling-down-on-sustainable-mobility-growth</link>
+      <guid isPermaLink="false">molecola-7c8fa2140d26f5a9</guid>
+      <pubDate>Wed, 07 Oct 2026 16:31:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>VinFast Introduces Electric Bus Lineup in the U.S., Doubling Down on Sustainable Mobility Growth — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Germany’s Hydrogen Rollout Risks Falling Out of Sync, Ariadne Warns</title>
       <link>https://fuelcellsworks.com/2026/10/06/h2/germany-s-hydrogen-rollout-risks-falling-out-of-sync-ariadne-warns</link>
       <guid isPermaLink="false">molecola-c0b3ac5b2a735471</guid>
@@ -47,6 +55,14 @@
       <pubDate>Wed, 07 Oct 2026 16:20:24 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Pioneer in Automotive Logistics: BMW Group Uses Trucks with Hydrogen Combustion Engines in Logistics — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>2027 Mitsubishi Eclipse Sportback Priced From $37,745</title>
+      <link>https://fuelcellsworks.com/2026/10/06/electric/2027-mitsubishi-eclipse-sportback-priced-from-37-745</link>
+      <guid isPermaLink="false">molecola-618b4b75b67b1b68</guid>
+      <pubDate>Wed, 07 Oct 2026 16:14:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>2027 Mitsubishi Eclipse Sportback Priced From $37,745 — Fuel Cells Works</description>
     </item>
     <item>
       <title>EWE to supply tesa with green hydrogen from Emden project</title>
@@ -415,22 +431,6 @@
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Fuels — OpenAlex</description>
-    </item>
-    <item>
-      <title>Renault Scenic E-Tech Electric Enhanced for My27 with up to 392 Miles of Range and Prices From £33,245 Otr After Electric Car Grant</title>
-      <link>https://fuelcellsworks.com/2026/10/04/electric/renault-scenic-e-tech-electric-enhanced-for-my27-with-up-to-392-miles-of-range-and-prices-from-33-245-otr-after-electric-car-grant</link>
-      <guid isPermaLink="false">molecola-c6aa80352eae888e</guid>
-      <pubDate>Mon, 05 Oct 2026 16:23:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Renault Scenic E-Tech Electric Enhanced for My27 with up to 392 Miles of Range and Prices From £33,245 Otr After Electric Car Grant — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Perpetual Next and Lhyfe to Explore Renewable Hydrogen Supply for Biomethanol Facility in Delfzijl, the Netherlands</title>
-      <link>https://fuelcellsworks.com/2026/10/05/h2/perpetual-next-and-lhyfe-to-explore-renewable-hydrogen-supply-for-biomethanol-facility-in-delfzijl-the-netherlands</link>
-      <guid isPermaLink="false">molecola-487992cebcbb411e</guid>
-      <pubDate>Mon, 05 Oct 2026 16:22:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Perpetual Next and Lhyfe to Explore Renewable Hydrogen Supply for Biomethanol Facility in Delfzijl, the Netherlands — Fuel Cells Works</description>
     </item>
     <item>
       <title>First-principles investigation of hydrogen storage in pristine AlN nanosheets with a biphenylene framework</title>

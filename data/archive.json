@@ -1,5 +1,5 @@
 {
- "count": 1701,
+ "count": 1703,
  "items": [
   {
    "authors": [],
@@ -49,6 +49,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-07T16:31:57+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-08T00:56:15+00:00",
+   "id": "7c8fa2140d26f5a9",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/06/electric/vinfast-introduces-electric-bus-lineup-in-the-u-s-doubling-down-on-sustainable-mobility-growth",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "VinFast Introduces Electric Bus Lineup in the U.S., Doubling Down on Sustainable Mobility Growth"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-07T16:30:17+00:00",
    "excerpt": "",
    "first_seen": "2026-10-07T20:34:13+00:00",
@@ -75,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Pioneer in Automotive Logistics: BMW Group Uses Trucks with Hydrogen Combustion Engines in Logistics"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-07T16:14:13+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-08T00:56:15+00:00",
+   "id": "618b4b75b67b1b68",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/06/electric/2027-mitsubishi-eclipse-sportback-priced-from-37-745",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "2027 Mitsubishi Eclipse Sportback Priced From $37,745"
   },
   {
    "authors": [],
@@ -29942,6 +29972,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-07T20:34:13+00:00",
+ "updated": "2026-10-08T00:56:15+00:00",
  "version": 2
 }
