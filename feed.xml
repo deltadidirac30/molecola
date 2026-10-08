@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:48:12 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Twelve Years of National Hydrogen &amp; Fuel Cell Day: Where We Came From, Where We are, and Where We are Going</title>
@@ -33,12 +33,28 @@
       <description>Perkins Tests New Hydrogen Hybridised IOPU — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Membrane-Free Electrolysis Boosts Green Hydrogen Production and Sustainable Plastics Precursors</title>
+      <link>http://www.hydrogenfuelnews.com/membrane-free-electrolysis-boosts-green-hydrogen-production-and-sustainable-plas/8576835/</link>
+      <guid isPermaLink="false">molecola-ffac78502641482e</guid>
+      <pubDate>Wed, 07 Oct 2026 18:14:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Keele University researchers have demonstrated a membrane-free alkaline electrolyzer that co-produces hydrogen and FDCA at 0.5 A cm⁻² and below 1.5 V, pointing to integrated power-to-chemicals opportunities. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Guangzhou Proposes Toll Waivers and Subsidies for Fuel Cell Vehicles</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-energy-news-guangzhou-proposes-toll-waivers-and-subsidies-for-fuel-cell/8576833/</link>
       <guid isPermaLink="false">molecola-6fe86badbfaf512c</guid>
       <pubDate>Wed, 07 Oct 2026 18:08:39 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Guangzhou’s draft plan would waive expressway tolls and offer subsidies for trailers and stations to accelerate hydrogen fuel cell vehicles. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>SoutH2 Declaration Advances Hydrogen Infrastructure Linking North Africa and Europe</title>
+      <link>http://www.hydrogenfuelnews.com/south2-declaration-advances-hydrogen-infrastructure-linking-north-africa-and-eur/8576832/</link>
+      <guid isPermaLink="false">molecola-19b7fde9403871a1</guid>
+      <pubDate>Wed, 07 Oct 2026 18:07:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The Algiers declaration establishes a UNIDO-backed technical secretariat to advance the SoutH2 Corridor, a planned 3,300 km renewable hydrogen pipeline from North Africa to Europe, with feasibility, financing and… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Pajarito Powder Scales Fuel-Cell Catalyst Production Fourfold in Albuquerque</title>
@@ -257,6 +273,62 @@
       <description>Compostilla Green is a proposed integrated complex in Cubillos del Sil (Spain) aiming to produce renewable hydrogen via 250 MW of alkaline electrolysis and synthesize approximately 59,460 tonnes of sustainable aviation… — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>Metal nanoparticles incorporated MIL-101(Cr) for enhanced hydrogen storage at room temperature</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157992</link>
+      <guid isPermaLink="false">molecola-eaa8562bc5b6258a</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Zn-Modified MoS2 Catalyst for Efficient CO2 Hydrogenation to CH3OH</title>
+      <link>https://doi.org/10.1021/acscatal.6c06647</link>
+      <guid isPermaLink="false">molecola-449e263f12bced6c</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Catalysis — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes</title>
+      <link>https://doi.org/10.1190/int-2025-1037</link>
+      <guid isPermaLink="false">molecola-81b8c5e60dd4baf0</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Interpretation — OpenAlex</description>
+    </item>
+    <item>
+      <title>A two-layer degradation-aware energy management framework for renewable power grids with battery and hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.epsr.2026.114317</link>
+      <guid isPermaLink="false">molecola-ad19379e1ba772cc</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Electric Power Systems Research — OpenAlex</description>
+    </item>
+    <item>
+      <title>Monopulse electrodeposited nanoflower-like Co-Mo-P/Cu catalyst for efficient hydrogen production from hydrolysis of sodium borohydride: Synergistic mechanism and electrochemical reactivation</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.157924</link>
+      <guid isPermaLink="false">molecola-6d704f9c89095913</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Impact of Large-Scale Porosity Variability on Hydrogen Transport in Porous Reservoirs</title>
+      <link>https://doi.org/10.3390/geotechnics6040101</link>
+      <guid isPermaLink="false">molecola-5bf370997e3a8255</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Geotechnics — OpenAlex</description>
+    </item>
+    <item>
+      <title>Protonated Molecular Bridging of Buried Interfaces for Stable Inverted Perovskite Solar Cells</title>
+      <link>https://doi.org/10.1021/acsami.6c14387</link>
+      <guid isPermaLink="false">molecola-721a6054f32010f6</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
       <title>Honda to Test Wireless EV Charging on Japanese Expressway</title>
       <link>https://fuelcellsworks.com/2026/10/05/electric/honda-to-test-wireless-ev-charging-on-japanese-expressway</link>
       <guid isPermaLink="false">molecola-d45eeeadaa92a8d3</guid>
@@ -375,78 +447,6 @@
       <pubDate>Tue, 06 Oct 2026 15:25:36 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Kanematsu Selected to Run Autonomous Electric Bus Trial in Japan’s Kinosaki Onsen — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Powered to the Festival Tents: EActros 600 Delivers Beer to Germany’s Two Largest Folk Festivals</title>
-      <link>https://fuelcellsworks.com/2026/10/05/ev/powered-to-the-festival-tents-eactros-600-delivers-beer-to-germany-s-two-largest-folk-festivals</link>
-      <guid isPermaLink="false">molecola-af66cb86bf7a2e7d</guid>
-      <pubDate>Tue, 06 Oct 2026 15:17:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Powered to the Festival Tents: EActros 600 Delivers Beer to Germany’s Two Largest Folk Festivals — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Enagás Files for Approval on €98M Hydrogen Pipeline That Will Carry Green H2 From Andorra to Tarragona</title>
-      <link>https://fuelcellsworks.com/2026/10/06/h2/enagas-files-for-approval-on-98m-hydrogen-pipeline-that-will-carry-green-h2-from-andorra-to-tarragona</link>
-      <guid isPermaLink="false">molecola-1b89b6f26befd582</guid>
-      <pubDate>Tue, 06 Oct 2026 15:16:50 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Enagás Files for Approval on €98M Hydrogen Pipeline That Will Carry Green H2 From Andorra to Tarragona — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Dehydrogenation of 1-Methyldecalin as a Liquid Organic Hydrogen Carrier: Effect of Isomer Composition on Catalyst Performance and Stability</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.6c03642</link>
-      <guid isPermaLink="false">molecola-2ac5adaec8fa6d2d</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy &amp; Fuels — OpenAlex</description>
-    </item>
-    <item>
-      <title>Coordinated planning of hydrogen refuelling stations and distribution networks considering two-phase hydrogen storage and carbon emission flow</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.128966</link>
-      <guid isPermaLink="false">molecola-eda90aa97b7c53b5</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>In Situ Hydrogen Utilization in Plastic Waste Recycling and Upcycling</title>
-      <link>https://doi.org/10.1021/acscatal.6c05704</link>
-      <guid isPermaLink="false">molecola-bcfb9d79bc296831</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Catalysis — OpenAlex</description>
-    </item>
-    <item>
-      <title>Green methanol production under carbon constraints: pathways, system integration, and deployment conditions</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141546</link>
-      <guid isPermaLink="false">molecola-728093101867ac39</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
-      <title>Gastrointestinal tract delivery of hydrogen by dynamic gas-releasing frameworks</title>
-      <link>https://doi.org/10.1038/s41467-026-78290-6</link>
-      <guid isPermaLink="false">molecola-e20ea9aaddf107c8</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nature Communications — OpenAlex</description>
-    </item>
-    <item>
-      <title>Experimental Evaluation of Hydrogen Addition in LNG Peak-Shaving Systems: Thermal and Material Response</title>
-      <link>https://doi.org/10.1115/1.4072748</link>
-      <guid isPermaLink="false">molecola-976b5d8ab5a6cb6a</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of energy resources technology. — OpenAlex</description>
-    </item>
-    <item>
-      <title>Engineering metal-functionalized halloysite nanoclay for fundamental insights into H2-surface interactions: Effects of Mg-Ni functionalization, structural-thermodynamic characterization, and molecular interaction analysis</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141621</link>
-      <guid isPermaLink="false">molecola-4b9263e34169e468</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
     </item>
   </channel>
 </rss>
