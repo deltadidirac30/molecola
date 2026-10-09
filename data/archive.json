@@ -1,6 +1,36 @@
 {
- "count": 1776,
+ "count": 1778,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-09T14:05:33+00:00",
+   "excerpt": "Il continente inaugura l'era dell'idrogeno verde: in Namibia la prima infrastruttura integrata",
+   "first_seen": "2026-10-09T18:19:00+00:00",
+   "id": "ebbb8c46d93c3c81",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/transizione-ecologica/rivoluzione-energetica-africana-deserto-namib/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Rivoluzione energetica africana parte dal deserto del Namib"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-09T12:50:49+00:00",
+   "excerpt": "Researchers at the University of Groningen have calculated green hydrogen production costs of €7.2/kg to €7.3/kg using renewable power purchase agreements and hybrid electricity supply configurations, compared with…",
+   "first_seen": "2026-10-09T18:19:00+00:00",
+   "id": "6b5291d08b97a879",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg"
+  },
   {
    "authors": [
     "Wu Zhang",
@@ -31318,6 +31348,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-09T10:25:08+00:00",
+ "updated": "2026-10-09T18:19:00+00:00",
  "version": 2
 }

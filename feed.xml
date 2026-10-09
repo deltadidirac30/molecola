@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:18:27 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Rivoluzione energetica africana parte dal deserto del Namib</title>
+      <link>https://www.canaleenergia.com/rubriche/transizione-ecologica/rivoluzione-energetica-africana-deserto-namib/</link>
+      <guid isPermaLink="false">molecola-ebbb8c46d93c3c81</guid>
+      <pubDate>Fri, 09 Oct 2026 14:05:33 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>Il continente inaugura l'era dell'idrogeno verde: in Namibia la prima infrastruttura integrata — Canale Energia</description>
+    </item>
+    <item>
+      <title>The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg</title>
+      <link>https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/</link>
+      <guid isPermaLink="false">molecola-6b5291d08b97a879</guid>
+      <pubDate>Fri, 09 Oct 2026 12:50:49 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Researchers at the University of Groningen have calculated green hydrogen production costs of €7.2/kg to €7.3/kg using renewable power purchase agreements and hybrid electricity supply configurations, compared with… — PV Magazine</description>
+    </item>
     <item>
       <title>Characterizing concrete lining damage in underground high-pressure hydrogen storage lined rock caverns with validated numerical models</title>
       <link>https://doi.org/10.1016/j.ijhydene.2026.158033</link>
@@ -431,22 +447,6 @@
       <pubDate>Wed, 07 Oct 2026 13:05:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>FuelCell Energy Announces Chief Financial Officer Transition — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Shaanxi Zhengtai Moves Xi’an Jiaotong University Alkaline Electrolyser Anode Technology Into Production</title>
-      <link>https://fuelcellsworks.com/2026/10/04/electrolyzer/shaanxi-zhengtai-and-xi-an-jiaotong-university-industrialize-alkaline-electrolyser-anode-technology</link>
-      <guid isPermaLink="false">molecola-9e5fdffa7e953579</guid>
-      <pubDate>Wed, 07 Oct 2026 13:00:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Shaanxi Zhengtai Moves Xi’an Jiaotong University Alkaline Electrolyser Anode Technology Into Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform</title>
-      <link>https://hydrogeneurope.eu/st-engineering-and-university-of-stuttgart-strengthen-collaboration-with-bawue-testing-platform/</link>
-      <guid isPermaLink="false">molecola-6d5bc875caabd7c8</guid>
-      <pubDate>Wed, 07 Oct 2026 07:36:06 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform — Hydrogen Europe</description>
     </item>
   </channel>
 </rss>
