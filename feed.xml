@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:24:28 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Characterizing concrete lining damage in underground high-pressure hydrogen storage lined rock caverns with validated numerical models</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158033</link>
+      <guid isPermaLink="false">molecola-1c88fa397fe39bd5</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
     <item>
       <title>Ballard Unveils Fleet360 Lifecycle Services for FCmove-HD+ Modules in Chicago</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-ballard-unveils-fleet360-lifecycle-services-for-fcmove-h/8576840/</link>
@@ -15,6 +23,14 @@
       <pubDate>Thu, 08 Oct 2026 20:14:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Ballard Power Systems has launched Fleet360, a comprehensive lifecycle-services package for new FCmove-HD+ fuel-cell modules in North America, combining digital monitoring, parts support, performance guarantees and… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors</title>
+      <link>https://arxiv.org/abs/2610.12297v1</link>
+      <guid isPermaLink="false">molecola-8f0a261f07bccf28</guid>
+      <pubDate>Thu, 08 Oct 2026 16:48:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Polymer electrolyte water electrolysis is considered as a pivotal technology for green hydrogen production. Iridium dioxide (IrO2) serves as the benchmark electrocatalyst for the anodic oxygen evolution reaction (OER)… — arXiv</description>
     </item>
     <item>
       <title>EU Eyes Import Cap on Chinese Hybrids as Trade Dispute Widens Beyond EVs</title>
@@ -153,12 +169,76 @@
       <description>Today marks the twelfth annual National Hydrogen &amp; Fuel Cell Day. What began as an idea in a conference room has evolved into an international celebration, showcasing the vast footprint and impact the technologies are… — FCHEA</description>
     </item>
     <item>
+      <title>A dynamic pore-network model with discrete microbubble transport</title>
+      <link>https://arxiv.org/abs/2610.09888v2</link>
+      <guid isPermaLink="false">molecola-c41cc178351b9d3c</guid>
+      <pubDate>Thu, 08 Oct 2026 07:51:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>We develop a hybrid pore-network model (PNM) for discrete microbubble transport coupled to connected two-phase flow in porous media. We apply the model to simulate flow in the porous transport layer of a rotating… — arXiv</description>
+    </item>
+    <item>
       <title>TEAL Mobility Lowers Public Hydrogen Price to €9.95/kg at Benelux Refuelling Stations</title>
       <link>http://www.hydrogenfuelnews.com/teal-mobility-lowers-public-hydrogen-price-to-9-95-kg-at-benelux-refuelling-stat/8576836/</link>
       <guid isPermaLink="false">molecola-53a3c98ea36407ea</guid>
       <pubDate>Thu, 08 Oct 2026 07:15:38 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>TEAL Mobility will reduce its public hydrogen pump price to €9.95/kg including VAT at nine Benelux stations to stimulate heavy-duty fleet adoption, according to the joint venture. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Magneto‐Ionic Devices With Polymer‐Based Electrolytes</title>
+      <link>https://doi.org/10.1002/adfm.78857</link>
+      <guid isPermaLink="false">molecola-70ca18e685dc413a</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Functional Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>TITAN PLASMA-AM: Antimatter-catalyzed ignition architectures for fusion plasma propulsion</title>
+      <link>https://doi.org/10.5281/zenodo.23248378</link>
+      <guid isPermaLink="false">molecola-c2bedb12d75f6301</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Ion-Electron Diffusion Interphase Enables Fast Kinetics toward Dendrite-Free Zinc Metal Anodes</title>
+      <link>https://doi.org/10.1021/acs.nanolett.6c03750</link>
+      <guid isPermaLink="false">molecola-023f5f383806f1f1</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Nano Letters — OpenAlex</description>
+    </item>
+    <item>
+      <title>Advanced electrolytes for low-temperature zinc-ion batteries</title>
+      <link>https://doi.org/10.1098/rsta.2025.0285</link>
+      <guid isPermaLink="false">molecola-022f6bd402fd35b0</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences — OpenAlex</description>
+    </item>
+    <item>
+      <title>Salt Cavern Hydrogen Storage for Renewable‐Dominated Smart Energy Systems</title>
+      <link>https://doi.org/10.1049/ses2.70039</link>
+      <guid isPermaLink="false">molecola-811b662ea7a463a4</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>IET Smart Energy Systems — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen’s future in Türkiye: Storage, natural gas integration, and energy transition</title>
+      <link>https://doi.org/10.65206/pajes.76360</link>
+      <guid isPermaLink="false">molecola-7405986464667251</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Pamukkale University Journal of Engineering Sciences — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Decision-Making Tool for the Selection of Potential Hydrogen Storage Geological Sites: Application to Salt Caverns</title>
+      <link>https://doi.org/10.3390/hydrogen7040152</link>
+      <guid isPermaLink="false">molecola-6ffb2a52a68414bd</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Hydrogen — OpenAlex</description>
     </item>
     <item>
       <title>Walmart Chile and Copec Inaugurate First Hydrogen Station for High-Tonnage Trucks</title>
@@ -247,14 +327,6 @@
       <pubDate>Wed, 07 Oct 2026 16:14:13 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>2027 Mitsubishi Eclipse Sportback Priced From $37,745 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>PoreML: A Data-Driven Framework for Learning Multiphase Flow in Porous Media</title>
-      <link>https://arxiv.org/abs/2610.10314v1</link>
-      <guid isPermaLink="false">molecola-613919f5fb223d3d</guid>
-      <pubDate>Wed, 07 Oct 2026 16:08:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Multiphase flow in porous microstructures is central to CO$_2$ storage, fuel-cell operation, and flip-chip packaging. Predicting these flows remains challenging because wettability and complex pore geometry govern the… — arXiv</description>
     </item>
     <item>
       <title>EWE to supply tesa with green hydrogen from Emden project</title>
@@ -369,84 +441,12 @@
       <description>Shaanxi Zhengtai Moves Xi’an Jiaotong University Alkaline Electrolyser Anode Technology Into Production — Fuel Cells Works</description>
     </item>
     <item>
-      <title>A dynamic pore-network model with discrete microbubble transport</title>
-      <link>https://arxiv.org/abs/2610.09888v1</link>
-      <guid isPermaLink="false">molecola-f1c90c4b6d591da9</guid>
-      <pubDate>Wed, 07 Oct 2026 11:47:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>We develop a hybrid pore-network model (PNM) for discrete microbubble transport coupled to connected two-phase flow in porous media. We apply the model to simulate flow in the porous transport layer of a rotating… — arXiv</description>
-    </item>
-    <item>
-      <title>Ab-initio Investigation on h-Be3N2 Monolayer for Photocatalytic Hydrogen Evolution Reaction and Oxygen Evolution Reaction</title>
-      <link>https://arxiv.org/abs/2610.09719v1</link>
-      <guid isPermaLink="false">molecola-4cde301a27e5f5b1</guid>
-      <pubDate>Wed, 07 Oct 2026 09:15:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>In this work, we have systematically investigated the structural stability, electronic properties, and photocatalytic performance of the 2D h-Be3N2 monolayer for water splitting application, utilizing a… — arXiv</description>
-    </item>
-    <item>
       <title>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform</title>
       <link>https://hydrogeneurope.eu/st-engineering-and-university-of-stuttgart-strengthen-collaboration-with-bawue-testing-platform/</link>
       <guid isPermaLink="false">molecola-6d5bc875caabd7c8</guid>
       <pubDate>Wed, 07 Oct 2026 07:36:06 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>ST Engineering and University of Stuttgart strengthen collaboration with BaWue testing platform — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Metal nanoparticles incorporated MIL-101(Cr) for enhanced hydrogen storage at room temperature</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157992</link>
-      <guid isPermaLink="false">molecola-eaa8562bc5b6258a</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Zn-Modified MoS2 Catalyst for Efficient CO2 Hydrogenation to CH3OH</title>
-      <link>https://doi.org/10.1021/acscatal.6c06647</link>
-      <guid isPermaLink="false">molecola-449e263f12bced6c</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Catalysis — OpenAlex</description>
-    </item>
-    <item>
-      <title>Multi-Parameter Viscoelastic Full Waveform Inversion (Q-FWI) for CO2 Saturation Monitoring: Leveraging Velocity and Attenuation Attributes</title>
-      <link>https://doi.org/10.1190/int-2025-1037</link>
-      <guid isPermaLink="false">molecola-81b8c5e60dd4baf0</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Interpretation — OpenAlex</description>
-    </item>
-    <item>
-      <title>A two-layer degradation-aware energy management framework for renewable power grids with battery and hydrogen storage</title>
-      <link>https://doi.org/10.1016/j.epsr.2026.114317</link>
-      <guid isPermaLink="false">molecola-ad19379e1ba772cc</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Electric Power Systems Research — OpenAlex</description>
-    </item>
-    <item>
-      <title>Monopulse electrodeposited nanoflower-like Co-Mo-P/Cu catalyst for efficient hydrogen production from hydrolysis of sodium borohydride: Synergistic mechanism and electrochemical reactivation</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157924</link>
-      <guid isPermaLink="false">molecola-6d704f9c89095913</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Impact of Large-Scale Porosity Variability on Hydrogen Transport in Porous Reservoirs</title>
-      <link>https://doi.org/10.3390/geotechnics6040101</link>
-      <guid isPermaLink="false">molecola-5bf370997e3a8255</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Geotechnics — OpenAlex</description>
-    </item>
-    <item>
-      <title>Protonated Molecular Bridging of Buried Interfaces for Stable Inverted Perovskite Solar Cells</title>
-      <link>https://doi.org/10.1021/acsami.6c14387</link>
-      <guid isPermaLink="false">molecola-721a6054f32010f6</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
     </item>
   </channel>
 </rss>
