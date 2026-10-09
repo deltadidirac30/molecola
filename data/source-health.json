@@ -1,8 +1,16 @@
 {
- "checked": "2026-10-08T18:48:35+00:00",
- "productive": 9,
+ "checked": "2026-10-09T01:10:30+00:00",
+ "productive": 8,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Unknown Error",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -60,14 +68,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-10-07T16:08:35+00:00"
-  },
-  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-07T18:44:10+00:00"
+   "newest": "2026-10-08T16:42:27+00:00"
   },
   {
    "slug": "h2it",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-07T18:14:48+00:00"
+   "newest": "2026-10-08T20:14:25+00:00"
   },
   {
    "slug": "openalex",
