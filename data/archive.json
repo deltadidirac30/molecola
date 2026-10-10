@@ -1,5 +1,5 @@
 {
- "count": 1828,
+ "count": 1829,
  "items": [
   {
    "authors": [
@@ -140,6 +140,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Uruguay Opens Its First Green Hydrogen and Electric Mobility Pilot Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-09T15:05:26+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-10T21:35:00+00:00",
+   "id": "aa1780f6b245e725",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/08/electric/brighton-and-hove-to-switch-more-than-500-of-the-city-s-electric-vehicle-chargepoints-to-new-operators",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Brighton & Hove to Switch More than 500 of the City’s Electric Vehicle Chargepoints to New Operators."
   },
   {
    "authors": [],
@@ -32251,6 +32266,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-10T17:18:30+00:00",
+ "updated": "2026-10-10T21:35:00+00:00",
  "version": 2
 }

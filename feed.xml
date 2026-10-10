@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 10 Oct 2026 17:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:34:42 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>New insights of geochemical interactions between h2 and minerals in underground hydrogen storage: Experimental studies and geochemical simulation</title>
@@ -79,6 +79,14 @@
       <pubDate>Fri, 09 Oct 2026 15:08:33 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Uruguay Opens Its First Green Hydrogen and Electric Mobility Pilot Plant — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Brighton &amp; Hove to Switch More than 500 of the City’s Electric Vehicle Chargepoints to New Operators.</title>
+      <link>https://fuelcellsworks.com/2026/10/08/electric/brighton-and-hove-to-switch-more-than-500-of-the-city-s-electric-vehicle-chargepoints-to-new-operators</link>
+      <guid isPermaLink="false">molecola-aa1780f6b245e725</guid>
+      <pubDate>Fri, 09 Oct 2026 15:05:26 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Brighton &amp; Hove to Switch More than 500 of the City’s Electric Vehicle Chargepoints to New Operators. — Fuel Cells Works</description>
     </item>
     <item>
       <title>DESFA Takes FID on 145Km Hydrogen-Ready Pipeline to Patras</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 07 Oct 2026 18:35:52 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Perkins Tests New Hydrogen Hybridised IOPU — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Membrane-Free Electrolysis Boosts Green Hydrogen Production and Sustainable Plastics Precursors</title>
-      <link>http://www.hydrogenfuelnews.com/membrane-free-electrolysis-boosts-green-hydrogen-production-and-sustainable-plas/8576835/</link>
-      <guid isPermaLink="false">molecola-ffac78502641482e</guid>
-      <pubDate>Wed, 07 Oct 2026 18:14:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Keele University researchers have demonstrated a membrane-free alkaline electrolyzer that co-produces hydrogen and FDCA at 0.5 A cm⁻² and below 1.5 V, pointing to integrated power-to-chemicals opportunities. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
