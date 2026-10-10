@@ -1,16 +1,8 @@
 {
- "checked": "2026-10-09T18:19:00+00:00",
- "productive": 9,
+ "checked": "2026-10-10T00:43:57+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -60,6 +52,14 @@
    "newest": null
   },
   {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-10-08T16:48:46+00:00"
+  },
+  {
    "slug": "canale-energia",
    "name": "Canale Energia",
    "ok": true,
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-08T16:42:27+00:00"
+   "newest": "2026-10-09T18:05:20+00:00"
   },
   {
    "slug": "h2it",
