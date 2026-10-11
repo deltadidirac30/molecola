@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:37:03 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>New insights of geochemical interactions between h2 and minerals in underground hydrogen storage: Experimental studies and geochemical simulation</title>
@@ -23,6 +23,14 @@
       <pubDate>Fri, 09 Oct 2026 18:05:20 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Standard Life Anchors €80 Million Financing to Accelerate EZO’s EV Charging Rollout Across the UK and Ireland — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Polestar Posts Slight Q3 Sales Rise as US Market Closes</title>
+      <link>https://fuelcellsworks.com/2026/10/08/electric/polestar-posts-slight-q3-sales-rise-as-us-market-closes</link>
+      <guid isPermaLink="false">molecola-2ea609b351514891</guid>
+      <pubDate>Fri, 09 Oct 2026 16:59:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Polestar Posts Slight Q3 Sales Rise as US Market Closes — Fuel Cells Works</description>
     </item>
     <item>
       <title>Wallbox Launches New Pulsar Max, Bringing Enhanced Connectivity and Future-Ready Charging</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 07 Oct 2026 18:44:10 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Walmart Chile and Copec Inaugurate First Hydrogen Station for High-Tonnage Trucks — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Perkins Tests New Hydrogen Hybridised IOPU</title>
-      <link>https://fuelcellsworks.com/2026/10/05/h2/perkins-tests-new-hydrogen-hybridised-iopu</link>
-      <guid isPermaLink="false">molecola-c9f0694a592b6ff3</guid>
-      <pubDate>Wed, 07 Oct 2026 18:35:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Perkins Tests New Hydrogen Hybridised IOPU — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

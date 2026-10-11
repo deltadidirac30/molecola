@@ -1,5 +1,5 @@
 {
- "count": 1829,
+ "count": 1830,
  "items": [
   {
    "authors": [
@@ -35,6 +35,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Standard Life Anchors €80 Million Financing to Accelerate EZO’s EV Charging Rollout Across the UK and Ireland"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-09T16:59:08+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-11T05:37:22+00:00",
+   "id": "2ea609b351514891",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/08/electric/polestar-posts-slight-q3-sales-rise-as-us-market-closes",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Polestar Posts Slight Q3 Sales Rise as US Market Closes"
   },
   {
    "authors": [],
@@ -32266,6 +32281,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-10T21:35:00+00:00",
+ "updated": "2026-10-11T05:37:22+00:00",
  "version": 2
 }
