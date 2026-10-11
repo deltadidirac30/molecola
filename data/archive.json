@@ -1,5 +1,5 @@
 {
- "count": 1840,
+ "count": 1844,
  "items": [
   {
    "authors": [],
@@ -125,6 +125,67 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "New insights of geochemical interactions between h2 and minerals in underground hydrogen storage: Experimental studies and geochemical simulation"
+  },
+  {
+   "authors": [
+    "Ahmed Rayyan",
+    "Malalai Kiwan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-10T00:00:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-11T19:29:30+00:00",
+   "id": "70174753168a6708",
+   "lang": "en",
+   "link": "https://doi.org/10.66173/jenmas.2026.283",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Delivered Cost and Production-Stage Emissions of Nuclear-Produced Hydrogen for Fuel Cell Vehicles: A Model-Based Case Study"
+  },
+  {
+   "authors": [
+    "Jingxin Yao",
+    "Yufeng Yan",
+    "Di Wang",
+    "Hancheng Lu",
+    "Baoqing Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-10T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-11T19:29:30+00:00",
+   "id": "26c0f6bdf9f91c78",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158040",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Study on the structural optimization of steel ribbon wound hydrogen storage vessels under blast loading"
+  },
+  {
+   "authors": [
+    "Nasiru Salahu Muhammed",
+    "Bashirul Haq",
+    "Dhafer Abdullah Al Shehri",
+    "Abduljamiu Olalekan Amao",
+    "Mohammed Lardhi",
+    "Sulaiman A. Alarifi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-10T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-11T19:29:30+00:00",
+   "id": "6107bb9434a3ff45",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125077",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Geochemical and petrophysical responses of Bandera Grey sandstone to CO2-rich cushion gas and acetic-acidified brine during hydrogen geo-storage"
   },
   {
    "authors": [],
@@ -971,6 +1032,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Carbon Footprint of Hydrogen Production with PEM Water Electrolysis: Effects of Electricity Generation Mix, Load-Shifting Strategies"
+  },
+  {
+   "authors": [
+    "Shixun Wang",
+    "A.S. Portnyagin",
+    "Qingshun Nian",
+    "Zhiquan Wei",
+    "Yeyang Jia",
+    "Zhiqiang Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-09T00:00:00+00:00",
+   "excerpt": "Advanced Materials",
+   "first_seen": "2026-10-11T19:29:30+00:00",
+   "id": "e04f1971bf1c5c1e",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adma.75303",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Successive Redox Mediation Supported by Pnictogen Chalcohalide Enables High‐Performance Zinc–Sulfur Batteries"
   },
   {
    "authors": [],
@@ -32431,6 +32514,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-11T12:40:32+00:00",
+ "updated": "2026-10-11T19:29:30+00:00",
  "version": 2
 }

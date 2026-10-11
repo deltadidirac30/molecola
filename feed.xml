@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:29:08 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Green Hydrogen Production Expands at Wyhlen with New 5 MW Electrolyzer</title>
@@ -68,6 +68,30 @@
       <title>New insights of geochemical interactions between h2 and minerals in underground hydrogen storage: Experimental studies and geochemical simulation</title>
       <link>https://doi.org/10.1016/j.est.2026.125049</link>
       <guid isPermaLink="false">molecola-ca9285ce31d6cb62</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Delivered Cost and Production-Stage Emissions of Nuclear-Produced Hydrogen for Fuel Cell Vehicles: A Model-Based Case Study</title>
+      <link>https://doi.org/10.66173/jenmas.2026.283</link>
+      <guid isPermaLink="false">molecola-70174753168a6708</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Delivered Cost and Production-Stage Emissions of Nuclear-Produced Hydrogen for Fuel Cell Vehicles: A Model-Based Case Study — OpenAlex</description>
+    </item>
+    <item>
+      <title>Study on the structural optimization of steel ribbon wound hydrogen storage vessels under blast loading</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158040</link>
+      <guid isPermaLink="false">molecola-26c0f6bdf9f91c78</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Geochemical and petrophysical responses of Bandera Grey sandstone to CO2-rich cushion gas and acetic-acidified brine during hydrogen geo-storage</title>
+      <link>https://doi.org/10.1016/j.est.2026.125077</link>
+      <guid isPermaLink="false">molecola-6107bb9434a3ff45</guid>
       <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
@@ -343,30 +367,6 @@
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Power Sources — OpenAlex</description>
-    </item>
-    <item>
-      <title>Reinforcement learning-enhanced three-layer hybrid BESS-hydrogen storage in renewable microgrids with adaptive reliability thresholds and degradation awareness</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158029</link>
-      <guid isPermaLink="false">molecola-571a7418072f3a60</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Thermo-mechanical analysis and structural modification of the boss–liner interface in Type IV hydrogen pressure vessels</title>
-      <link>https://doi.org/10.1016/j.est.2026.125050</link>
-      <guid isPermaLink="false">molecola-4a114714c8cd25ee</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effects of MXD6 and MXD10 on the Toughness and Hydrogen Barrier Properties of PA6 / POE ‐ g ‐ MAH Blend for Type IV Hydrogen Storage Vessel Liners</title>
-      <link>https://doi.org/10.1002/pola.70365</link>
-      <guid isPermaLink="false">molecola-f5ff0ff50bd091c6</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Polymer Science — OpenAlex</description>
     </item>
     <item>
       <title>Ballard Unveils Fleet360 Lifecycle Services for FCmove-HD+ Modules in Chicago</title>
