@@ -1,5 +1,5 @@
 {
- "count": 1844,
+ "count": 1845,
  "items": [
   {
    "authors": [],
@@ -381,6 +381,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Brighton & Hove to Switch More than 500 of the City’s Electric Vehicle Chargepoints to New Operators."
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-09T14:56:20+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-12T00:28:29+00:00",
+   "id": "365bd7abc2a04752",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/07/electric/octopus-fleet-launches-fleetboost-to-slash-public-charging-costs-for-commercial-evs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Octopus Fleet Launches FleetBoost to Slash Public Charging Costs for Commercial EVs"
   },
   {
    "authors": [],
@@ -32514,6 +32529,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-11T19:29:30+00:00",
+ "updated": "2026-10-12T00:28:29+00:00",
  "version": 2
 }
