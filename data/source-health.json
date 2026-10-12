@@ -1,6 +1,6 @@
 {
- "checked": "2026-10-12T00:28:29+00:00",
- "productive": 10,
+ "checked": "2026-10-12T10:39:10+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
   {
@@ -28,6 +28,14 @@
    "newest": null
   },
   {
+   "slug": "h2it",
+   "name": "H2IT",
+   "ok": false,
+   "error": "URLError: <urlopen error [Errno 101] Network is unreachable>",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "offshore-energy",
    "name": "Offshore Energy",
    "ok": false,
@@ -38,8 +46,8 @@
   {
    "slug": "qualenergia",
    "name": "QualEnergia",
-   "ok": true,
-   "error": null,
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -82,14 +90,6 @@
    "error": null,
    "count": 64,
    "newest": "2026-10-09T15:52:30+00:00"
-  },
-  {
-   "slug": "h2it",
-   "name": "H2IT",
-   "ok": true,
-   "error": null,
-   "count": 10,
-   "newest": "2026-09-21T11:18:12+00:00"
   },
   {
    "slug": "hydrogen-europe",
