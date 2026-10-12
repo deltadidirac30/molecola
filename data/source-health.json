@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-12T15:44:41+00:00",
+ "checked": "2026-10-12T21:13:56+00:00",
  "productive": 10,
  "total": 16,
  "sources": [
@@ -57,7 +57,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-10-08"
+   "newest": "2026-10-08T16:48:46+00:00"
   },
   {
    "slug": "canale-energia",
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 1,
-   "newest": "2026-10-09"
+   "newest": "2026-10-09T14:05:33+00:00"
   },
   {
    "slug": "fchea",
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-08"
+   "newest": "2026-10-08T10:08:27+00:00"
   },
   {
    "slug": "fuel-cells-works",
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-09"
+   "newest": "2026-10-12T16:11:19+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-21"
+   "newest": "2026-09-21T11:18:12+00:00"
   },
   {
    "slug": "hydrogen-europe",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-09"
+   "newest": "2026-10-09T15:10:00+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-11"
+   "newest": "2026-10-11T00:17:00+00:00"
   },
   {
    "slug": "openalex",
@@ -113,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-10-11"
+   "newest": "2026-10-11T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -121,7 +121,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-29"
+   "newest": "2026-09-29T21:30:53+00:00"
   },
   {
    "slug": "pv-magazine",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-09"
+   "newest": "2026-10-09T12:50:49+00:00"
   }
  ]
 }
