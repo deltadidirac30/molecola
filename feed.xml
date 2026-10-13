@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 12 Oct 2026 21:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:41:24 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>FuelCell Energy Appoints John Dansby to Lead Manufacturing Scale-Up</title>
@@ -55,6 +55,14 @@
       <pubDate>Mon, 12 Oct 2026 15:32:01 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Chile inaugurates first heavy-duty hydrogen refueling station at Quilicura</title>
+      <link>http://www.hydrogenfuelnews.com/chile-inaugurates-first-heavy-duty-hydrogen-refueling-station-at-quilicura/8576863/</link>
+      <guid isPermaLink="false">molecola-bfc3ef5ae742435d</guid>
+      <pubDate>Mon, 12 Oct 2026 15:14:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Walmart Chile and Copec launched Chile’s first heavy-duty hydrogen refueling station at Quilicura, linking onsite green hydrogen production with a two-truck pilot under the Corfo-backed Hidrohaul program. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>After a Year in Service, a Hydrogen Truck and Its Local Ecosystem Head to Technotrans</title>
@@ -135,6 +143,38 @@
       <pubDate>Mon, 12 Oct 2026 14:01:35 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>HRS Cuts Capital Raise to €3.13M After Investor Withdrawal but Extends Cash Runway to February — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Hydrogen storage in focus as EU CEO urges binding targets</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-storage-in-focus-as-eu-ceo-urges-binding-targets/8576860/</link>
+      <guid isPermaLink="false">molecola-3a285f54b405600e</guid>
+      <pubDate>Mon, 12 Oct 2026 02:08:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hydrogen Europe’s CEO urges the EU to adopt binding hydrogen storage targets, arguing that clear signals are needed to develop electrolysers, pipelines and caverns in sync. The proposal builds on the EU Hydrogen… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>France Proposes IRICC to Drive Renewable Hydrogen Demand with €80/GJ Penalty</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-france-proposes-iricc-to-drive-renewable-hydrogen-demand-with-80-g/8576859/</link>
+      <guid isPermaLink="false">molecola-8a47a1a94ed62670</guid>
+      <pubDate>Mon, 12 Oct 2026 02:07:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>France has launched a consultation on a draft IRICC mechanism to replace TIRUERT, setting renewable hydrogen quotas and penalties via a digital registry, aligning with RED III and national hydrogen goals. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Enagás Emprende Invests in digHy’s Renewable-Hydrogen Project Design Software</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-enag-s-emprende-invests-in-dighy-s-renewable-hydrogen-/8576858/</link>
+      <guid isPermaLink="false">molecola-585c3646f7ece1a5</guid>
+      <pubDate>Sun, 11 Oct 2026 13:28:55 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Enagás Emprende has become a shareholder in digHy to support development of its SaaS platform for designing, simulating and certifying renewable-hydrogen and Power-to-X projects, though financial terms remain… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen Production from Waste Wood Demonstrated in Black Forest Pilot</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-from-waste-wood-demonstrated-in-black-forest-pilot/8576857/</link>
+      <guid isPermaLink="false">molecola-9c400047c0c21cb5</guid>
+      <pubDate>Sun, 11 Oct 2026 13:08:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>H2Wood–BlackForest demonstrates a pilot converting waste wood to hydrogen and coproducts at GROHE Technology, guiding Germany’s biohydrogen roadmap. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Green Hydrogen Production Expands at Wyhlen with New 5 MW Electrolyzer</title>
@@ -407,46 +447,6 @@
       <pubDate>Fri, 09 Oct 2026 14:42:16 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hydrogen Truck Just Made Real Cargo Deliveries Inside Malpensa Airport — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>POSTECH and RIST Develop Ferro-H₂ to Crack Hydrogen Supply Problem in Green Steelmaking</title>
-      <link>https://fuelcellsworks.com/2026/10/08/h2/postech-and-rist-develop-ferro-h-to-crack-hydrogen-supply-problem-in-green-steelmaking</link>
-      <guid isPermaLink="false">molecola-b58396450db2a308</guid>
-      <pubDate>Fri, 09 Oct 2026 14:37:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>POSTECH and RIST Develop Ferro-H₂ to Crack Hydrogen Supply Problem in Green Steelmaking — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Process Reaches 98% Efficiency : Technion Researchers Combine Hydrogen Production with the Synthesis of Value-Added Chemicals</title>
-      <link>https://fuelcellsworks.com/2026/10/08/h2/technion-researchers-combine-hydrogen-production-with-the-synthesis-of-value-added-chemicals</link>
-      <guid isPermaLink="false">molecola-56caf7f42d2b20c2</guid>
-      <pubDate>Fri, 09 Oct 2026 14:22:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Green Hydrogen Process Reaches 98% Efficiency : Technion Researchers Combine Hydrogen Production with the Synthesis of Value-Added Chemicals — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>EBARA Opens World-First Full-Scale Liquid Hydrogen Pump Test Centre in Japan</title>
-      <link>https://fuelcellsworks.com/2026/10/05/h2/ebara-opens-world-first-full-scale-liquid-hydrogen-pump-test-centre-in-japan</link>
-      <guid isPermaLink="false">molecola-7e2627e55c3cc015</guid>
-      <pubDate>Fri, 09 Oct 2026 14:12:55 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>EBARA Opens World-First Full-Scale Liquid Hydrogen Pump Test Centre in Japan — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Deloitte Romania Assisted OMV Petrom in Implementing Strategic Green Hydrogen Production Projects at the Petrobrazi Refinery Through NRRP</title>
-      <link>https://fuelcellsworks.com/2026/10/08/h2/deloitte-romania-assisted-omv-petrom-in-implementing-strategic-green-hydrogen-production-projects-at-the-petrobrazi-refinery-through-nrrp</link>
-      <guid isPermaLink="false">molecola-75b21c08cfe9c2eb</guid>
-      <pubDate>Fri, 09 Oct 2026 14:06:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Deloitte Romania Assisted OMV Petrom in Implementing Strategic Green Hydrogen Production Projects at the Petrobrazi Refinery Through NRRP — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Rivoluzione energetica africana parte dal deserto del Namib</title>
-      <link>https://www.canaleenergia.com/rubriche/transizione-ecologica/rivoluzione-energetica-africana-deserto-namib/</link>
-      <guid isPermaLink="false">molecola-ebbb8c46d93c3c81</guid>
-      <pubDate>Fri, 09 Oct 2026 14:05:33 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
-      <description>Il continente inaugura l'era dell'idrogeno verde: in Namibia la prima infrastruttura integrata — Canale Energia</description>
     </item>
   </channel>
 </rss>

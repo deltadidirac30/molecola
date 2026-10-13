@@ -1,5 +1,5 @@
 {
- "count": 1875,
+ "count": 1880,
  "items": [
   {
    "authors": [],
@@ -90,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-12T15:14:35+00:00",
+   "excerpt": "Walmart Chile and Copec launched Chile’s first heavy-duty hydrogen refueling station at Quilicura, linking onsite green hydrogen production with a two-truck pilot under the Corfo-backed Hidrohaul program.",
+   "first_seen": "2026-10-13T06:41:41+00:00",
+   "id": "bfc3ef5ae742435d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/chile-inaugurates-first-heavy-duty-hydrogen-refueling-station-at-quilicura/8576863/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Chile inaugurates first heavy-duty hydrogen refueling station at Quilicura"
   },
   {
    "authors": [],
@@ -240,6 +255,66 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "HRS Cuts Capital Raise to €3.13M After Investor Withdrawal but Extends Cash Runway to February"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-12T02:08:28+00:00",
+   "excerpt": "Hydrogen Europe’s CEO urges the EU to adopt binding hydrogen storage targets, arguing that clear signals are needed to develop electrolysers, pipelines and caverns in sync. The proposal builds on the EU Hydrogen…",
+   "first_seen": "2026-10-13T06:41:41+00:00",
+   "id": "3a285f54b405600e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-storage-in-focus-as-eu-ceo-urges-binding-targets/8576860/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen storage in focus as EU CEO urges binding targets"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-12T02:07:30+00:00",
+   "excerpt": "France has launched a consultation on a draft IRICC mechanism to replace TIRUERT, setting renewable hydrogen quotas and penalties via a digital registry, aligning with RED III and national hydrogen goals.",
+   "first_seen": "2026-10-13T06:41:41+00:00",
+   "id": "8a47a1a94ed62670",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-france-proposes-iricc-to-drive-renewable-hydrogen-demand-with-80-g/8576859/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "France Proposes IRICC to Drive Renewable Hydrogen Demand with €80/GJ Penalty"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-11T13:28:55+00:00",
+   "excerpt": "Enagás Emprende has become a shareholder in digHy to support development of its SaaS platform for designing, simulating and certifying renewable-hydrogen and Power-to-X projects, though financial terms remain…",
+   "first_seen": "2026-10-13T06:41:41+00:00",
+   "id": "585c3646f7ece1a5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-enag-s-emprende-invests-in-dighy-s-renewable-hydrogen-/8576858/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Enagás Emprende Invests in digHy’s Renewable-Hydrogen Project Design Software"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-11T13:08:28+00:00",
+   "excerpt": "H2Wood–BlackForest demonstrates a pilot converting waste wood to hydrogen and coproducts at GROHE Technology, guiding Germany’s biohydrogen roadmap.",
+   "first_seen": "2026-10-13T06:41:41+00:00",
+   "id": "9c400047c0c21cb5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-from-waste-wood-demonstrated-in-black-forest-pilot/8576857/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production from Waste Wood Demonstrated in Black Forest Pilot"
   },
   {
    "authors": [],
@@ -33032,6 +33107,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-12T21:13:57+00:00",
+ "updated": "2026-10-13T06:41:41+00:00",
  "version": 2
 }
