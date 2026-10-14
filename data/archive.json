@@ -1,6 +1,21 @@
 {
- "count": 1923,
+ "count": 1926,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-13T17:16:02+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-14T04:44:47+00:00",
+   "id": "031e7b261eb72460",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/12/electric/leapmotor-international-calls-eu-china-import-cap-deal-an-interesting-alternative-to-tariffs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Leapmotor International Calls EU-China Import Cap Deal an \"Interesting Alternative to Tariffs\""
+  },
   {
    "authors": [],
    "category": "industria",
@@ -564,6 +579,27 @@
    "title": "HRS Cuts Capital Raise to €3.13M After Investor Withdrawal but Extends Cash Runway to February"
   },
   {
+   "authors": [
+    "Jiying Chen",
+    "Min Lin",
+    "Jingwei Wen",
+    "Zhihong Zhang",
+    "Chuixiong Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-12T03:15:29+00:00",
+   "excerpt": "Quantum hardware is beginning to address structured combinatorial optimisation, but two steps still block practical use: mapping real operational models onto hardware-compatible instances, and converting noisy hardware…",
+   "first_seen": "2026-10-14T04:44:47+00:00",
+   "id": "399ab0831c0e48f8",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2609.01248v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A Backend-Agnostic MWIS Kernel for Stochastic Unit Commitment with Neutral-Atom Hardware Validation"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-10-12T02:08:28+00:00",
@@ -959,6 +995,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Addressing the Zinc Corrosion Conundrum: The Vital Role of Resting-State Kinetics"
+  },
+  {
+   "authors": [
+    "Peter M. Piechulla",
+    "Iris Blommestein",
+    "Anne van Gerven",
+    "Henri Pelzer",
+    "Ezgi Demiröz",
+    "Jonas Englhard"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-11T17:41:55+00:00",
+   "excerpt": "Proton exchange membrane water electrolysis (PEMWE) is among the most promising techniques to provide hydrogen as both energy carrier and feedstock for the chemical industry, due to its compatibility with intermittent…",
+   "first_seen": "2026-10-14T04:44:47+00:00",
+   "id": "5f31ffaee3eb9a03",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.15798v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Ionomer-free Iridium Anodes with Low Loading for Zero-gap Electrolyzers via Direct Atomic Layer Deposition"
   },
   {
    "authors": [],
@@ -33890,6 +33948,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-13T22:38:56+00:00",
+ "updated": "2026-10-14T04:44:47+00:00",
  "version": 2
 }

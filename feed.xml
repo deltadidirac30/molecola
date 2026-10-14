@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 13 Oct 2026 22:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:44:21 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs"</title>
+      <link>https://fuelcellsworks.com/2026/10/12/electric/leapmotor-international-calls-eu-china-import-cap-deal-an-interesting-alternative-to-tariffs</link>
+      <guid isPermaLink="false">molecola-031e7b261eb72460</guid>
+      <pubDate>Tue, 13 Oct 2026 17:16:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs" — Fuel Cells Works</description>
+    </item>
     <item>
       <title>LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres</title>
       <link>https://fuelcellsworks.com/2026/10/13/clean-technology/ls-materials-wins-51-5m-order-for-ultracapacitors-used-in-hydrogen-fuel-cell-data-centres</link>
@@ -305,6 +313,14 @@
       <description>HRS Cuts Capital Raise to €3.13M After Investor Withdrawal but Extends Cash Runway to February — Fuel Cells Works</description>
     </item>
     <item>
+      <title>A Backend-Agnostic MWIS Kernel for Stochastic Unit Commitment with Neutral-Atom Hardware Validation</title>
+      <link>https://arxiv.org/abs/2609.01248v2</link>
+      <guid isPermaLink="false">molecola-399ab0831c0e48f8</guid>
+      <pubDate>Mon, 12 Oct 2026 03:15:29 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Quantum hardware is beginning to address structured combinatorial optimisation, but two steps still block practical use: mapping real operational models onto hardware-compatible instances, and converting noisy hardware… — arXiv</description>
+    </item>
+    <item>
       <title>Hydrogen storage in focus as EU CEO urges binding targets</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-storage-in-focus-as-eu-ceo-urges-binding-targets/8576860/</link>
       <guid isPermaLink="false">molecola-3a285f54b405600e</guid>
@@ -385,14 +401,6 @@
       <description>Structural Chemistry — OpenAlex</description>
     </item>
     <item>
-      <title>Unveiling the multifunctional potential of Na2MgVH6 and K2MgVH6 double perovskites: A comprehensive first-principles approach to solid-state hydrogen storage</title>
-      <link>https://doi.org/10.1016/j.jpcs.2026.114192</link>
-      <guid isPermaLink="false">molecola-591bdc1651e854a6</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Physics and Chemistry of Solids — OpenAlex</description>
-    </item>
-    <item>
       <title>Enagás Emprende Invests in digHy’s Renewable-Hydrogen Project Design Software</title>
       <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-enag-s-emprende-invests-in-dighy-s-renewable-hydrogen-/8576858/</link>
       <guid isPermaLink="false">molecola-585c3646f7ece1a5</guid>
@@ -439,14 +447,6 @@
       <pubDate>Sun, 11 Oct 2026 00:09:01 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Researchers at DICP have reported a seawater-to-hydrogen-and-fresh-water system that integrates alkaline electrolysis with low-temperature vacuum-distillation, using electrolyzer waste heat to achieve a 14.4%… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>IIT (ISM) Dhanbad Joins ACME &amp; HYREVEAL to Explore Geologic Hydrogen Research</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-news-iit-ism-dhanbad-joins-acme-hyreveal-to-explore-geologic-hydrogen-r/8576852/</link>
-      <guid isPermaLink="false">molecola-5034f2a1d592918a</guid>
-      <pubDate>Sat, 10 Oct 2026 11:12:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>IIT (ISM) Dhanbad reportedly signed a 24-month MoU with ACME Cleantech Solutions and HYREVEAL to research geologic hydrogen potential, rock alteration and catalysts for stimulated hydrogen production. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
