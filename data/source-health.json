@@ -1,6 +1,6 @@
 {
- "checked": "2026-10-14T21:36:14+00:00",
- "productive": 8,
+ "checked": "2026-10-15T04:27:06+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
   {
@@ -44,14 +44,6 @@
    "newest": null
   },
   {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "count": 0,
-   "newest": null
-  },
-  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -73,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-10-12T03:15:29+00:00"
+   "newest": "2026-10-14T01:17:31+00:00"
   },
   {
    "slug": "fchea",
@@ -113,7 +105,15 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-12T15:14:35+00:00"
+   "newest": "2026-10-14T19:11:06+00:00"
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-10-13T00:00:00+00:00"
   },
   {
    "slug": "power",

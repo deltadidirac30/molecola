@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:26:52 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Fuel Cell Catalyst Durability Enhanced by Nitrogen-Doped Graphene Shells on Pt@N-FLG/SWCNT</title>
+      <link>http://www.hydrogenfuelnews.com/fuel-cell-catalyst-durability-enhanced-by-nitrogen-doped-graphene-shells-on-pt-n/8576888/</link>
+      <guid isPermaLink="false">molecola-0811f1ff49d7b126</guid>
+      <pubDate>Wed, 14 Oct 2026 19:11:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Nagoya University reports that its Pt@N-FLG/SWCNT catalyst retains 96.9% of its electrochemical surface area after 30,000 accelerated cycles, boosting fuel cell durability. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>AEP Advances Innovative Energy Solution for Google with 702MW of Bloom Fuel Cells</title>
       <link>https://fuelcellsworks.com/2026/10/14/clean-energy/aep-advances-innovative-energy-solution-for-google-with-702mw-of-bloom-fuel-cells</link>
@@ -137,12 +145,92 @@
       <description>Hy24 Agrees to Acquire EDF Hydrogen Subsidiary Hynamics — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Hydrogen Fuel Cell News: Leadray Energy and Bloom Energy Partner for On-Site Power at AOI’s Taiwan Facility</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-leadray-energy-and-bloom-energy-partner-for-on-site-powe/8576885/</link>
+      <guid isPermaLink="false">molecola-cda8ad0a35368e0c</guid>
+      <pubDate>Wed, 14 Oct 2026 06:13:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Leadray Energy will serve as EPC contractor and integrator for a planned Bloom Energy solid oxide fuel cell installation at AOI’s Taiwan manufacturing site, aiming to boost electricity reliability and support… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Data Centers: SK eternix and Mastern Plan Fuel-Cell-Powered AI Hyperscale Facility</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-data-centers-sk-eternix-and-mastern-plan-fuel-cell-powered-ai-hyperscal/8576883/</link>
+      <guid isPermaLink="false">molecola-6100cb18bffa2a36</guid>
+      <pubDate>Wed, 14 Oct 2026 06:09:54 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>SK eternix and Mastern Investment Management signed an MOU to explore a fuel-cell-linked hyperscale AI data center in Seoul, with SK eternix providing fuel-cell infrastructure and Mastern leading site and investment… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Linde's 24 MW Green Hydrogen Production at Leuna Faces Multi-Year Delay</title>
+      <link>http://www.hydrogenfuelnews.com/linde-s-24-mw-green-hydrogen-production-at-leuna-faces-multi-year-delay/8576882/</link>
+      <guid isPermaLink="false">molecola-765e632db386bfc2</guid>
+      <pubDate>Wed, 14 Oct 2026 06:09:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Linde’s planned 24 MW electrolyzer at Leuna Chemical Complex is now four years behind schedule after supply-chain and safety setbacks, with a new commercial target in Q3 2026. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Huelva Seeks Green Hydrogen Hub Role at PMH2 Summit to Boost Hydrogen Infrastructure</title>
+      <link>http://www.hydrogenfuelnews.com/huelva-seeks-green-hydrogen-hub-role-at-pmh2-summit-to-boost-hydrogen-infrastruc/8576880/</link>
+      <guid isPermaLink="false">molecola-a28ab8004de41cb7</guid>
+      <pubDate>Wed, 14 Oct 2026 06:08:14 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Huelva joins Madrid’s PMH2 as institutional partner, pitching itself as a green hydrogen hub alongside Moeve’s 300 MW Onuba project. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>POSCO’s Green Steel Demonstration Right in Step with K-GX Strategy</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-posco-s-green-steel-demonstration-right-in-step-with-k-gx-strategy/8576869/</link>
+      <guid isPermaLink="false">molecola-5cf41b0f44e55656</guid>
+      <pubDate>Wed, 14 Oct 2026 04:19:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>POSCO Holdings is partnering with the South Korean government under the K-GX strategy to demonstrate hydrogen-reduction steelmaking, aiming to cut emissions, create jobs and boost export competitiveness. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>A Critical Review of Grid Integration Challenges and Flexibility Opportunities for Large-Scale Data Centers</title>
+      <link>https://arxiv.org/abs/2610.19374v1</link>
+      <guid isPermaLink="false">molecola-883998d62e8fc124</guid>
+      <pubDate>Wed, 14 Oct 2026 01:17:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The rapid proliferation of cloud computing and artificial intelligence workloads is fundamentally reshaping the magnitude, spatial concentration, and electrical characteristics of data center power demand. Data centers… — arXiv</description>
+    </item>
+    <item>
+      <title>Siemens and Galp to Deploy Digital Twin and Analytics at 100 MW Sines Green Hydrogen Plant</title>
+      <link>http://www.hydrogenfuelnews.com/siemens-and-galp-to-deploy-digital-twin-and-analytics-at-100-mw-sines-green-hydr/8576868/</link>
+      <guid isPermaLink="false">molecola-1ea54566f1a2f3b8</guid>
+      <pubDate>Tue, 13 Oct 2026 17:17:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Siemens will digitalize Galp’s 100 MW Sines green hydrogen plant using a digital process twin and analytics to optimize renewable hydrogen production and refinery decarbonization. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs"</title>
       <link>https://fuelcellsworks.com/2026/10/12/electric/leapmotor-international-calls-eu-china-import-cap-deal-an-interesting-alternative-to-tariffs</link>
       <guid isPermaLink="false">molecola-031e7b261eb72460</guid>
       <pubDate>Tue, 13 Oct 2026 17:16:02 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs" — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>TURN2X’s Power-to-Gas Plant in Miajadas Taps Green Hydrogen for Synthetic Methane with EU Hydrogen Bank Support</title>
+      <link>http://www.hydrogenfuelnews.com/turn2x-s-power-to-gas-plant-in-miajadas-taps-green-hydrogen-for-synthetic-methan/8576867/</link>
+      <guid isPermaLink="false">molecola-49a08328a843b700</guid>
+      <pubDate>Tue, 13 Oct 2026 17:15:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>TURN2X’s Miajadas power-to-gas facility produces synthetic methane from green hydrogen and CO₂ and secured support from the EU Hydrogen Bank. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>BMW Group Tests 18-Tonne Hydrogen-Combustion Engine Truck in Leipzig Logistics</title>
+      <link>http://www.hydrogenfuelnews.com/bmw-group-tests-18-tonne-hydrogen-combustion-engine-truck-in-leipzig-logistics/8576865/</link>
+      <guid isPermaLink="false">molecola-8a26f08f898c1c95</guid>
+      <pubDate>Tue, 13 Oct 2026 17:09:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>BMW Group is testing an 18-tonne hydrogen-combustion engine truck at its Leipzig plant under the HyCET project, with DEUTZ AG powering the engine, Rudolph Logistics Group operating the vehicle, and TEAL MOBILITY… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>SeaEly Advances Direct Seawater Electrolysis for Green Hydrogen Production</title>
+      <link>http://www.hydrogenfuelnews.com/seaely-advances-direct-seawater-electrolysis-for-green-hydrogen-production/8576864/</link>
+      <guid isPermaLink="false">molecola-dfe0cabe4d943780</guid>
+      <pubDate>Tue, 13 Oct 2026 17:07:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Fraunhofer IWES and IFAM developed test benches and membranes for direct seawater electrolysis, demonstrating initial feasibility for producing green hydrogen with untreated saline feedwater and establishing research… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres</title>
@@ -297,156 +385,68 @@
       <description>Journal of Magnesium and Alloys — OpenAlex</description>
     </item>
     <item>
-      <title>FuelCell Energy Appoints John Dansby to Lead Manufacturing Scale-Up</title>
-      <link>https://fuelcellsworks.com/2026/10/12/electrolyzer/fuelcell-energy-appoints-john-dansby-to-lead-manufacturing-scale-up</link>
-      <guid isPermaLink="false">molecola-fcdbadb236099f6a</guid>
-      <pubDate>Mon, 12 Oct 2026 16:11:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>FuelCell Energy Appoints John Dansby to Lead Manufacturing Scale-Up — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>NaTran Advances 820Km Hy-Fen Hydrogen Pipeline Toward 2032 Start</title>
-      <link>https://fuelcellsworks.com/2026/10/11/h2/natran-advances-820km-hy-fen-hydrogen-pipeline-toward-2032-start</link>
-      <guid isPermaLink="false">molecola-810c691055b8615e</guid>
-      <pubDate>Mon, 12 Oct 2026 15:49:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>NaTran Advances 820Km Hy-Fen Hydrogen Pipeline Toward 2032 Start — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>China, EU Strike Deal to Halve Chinese Hybrid Exports</title>
-      <link>https://fuelcellsworks.com/2026/10/10/electric/china-eu-strike-deal-to-halve-chinese-hybrid-exports</link>
-      <guid isPermaLink="false">molecola-39c1d541996d0b0d</guid>
-      <pubDate>Mon, 12 Oct 2026 15:48:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China, EU Strike Deal to Halve Chinese Hybrid Exports — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Scania Puts Five Hydrogen Fuel-Cell Trucks Into Real-World Service in Switzerland</title>
-      <link>https://fuelcellsworks.com/2026/10/10/fuel-cells/scania-puts-five-hydrogen-fuel-cell-trucks-into-real-world-service-in-switzerland</link>
-      <guid isPermaLink="false">molecola-69317e5a44131b4b</guid>
-      <pubDate>Mon, 12 Oct 2026 15:40:49 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Scania Puts Five Hydrogen Fuel-Cell Trucks Into Real-World Service in Switzerland — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>China’s Hydrogen Revolution: From Gas to Clean Energy</title>
-      <link>https://fuelcellsworks.com/2026/10/11/h2/china-s-hydrogen-revolution-from-gas-to-clean-energy</link>
-      <guid isPermaLink="false">molecola-8b180d13319cb3d6</guid>
-      <pubDate>Mon, 12 Oct 2026 15:37:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China’s Hydrogen Revolution: From Gas to Clean Energy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026</title>
-      <link>https://fuelcellsworks.com/2026/10/12/electrolyzer/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026</link>
-      <guid isPermaLink="false">molecola-83361485eb9902c7</guid>
-      <pubDate>Mon, 12 Oct 2026 15:32:01 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Bloom Energy to Announce Third Quarter 2026 Financial Results on October 22, 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Chile inaugurates first heavy-duty hydrogen refueling station at Quilicura</title>
-      <link>http://www.hydrogenfuelnews.com/chile-inaugurates-first-heavy-duty-hydrogen-refueling-station-at-quilicura/8576863/</link>
-      <guid isPermaLink="false">molecola-bfc3ef5ae742435d</guid>
-      <pubDate>Mon, 12 Oct 2026 15:14:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Walmart Chile and Copec launched Chile’s first heavy-duty hydrogen refueling station at Quilicura, linking onsite green hydrogen production with a two-truck pilot under the Corfo-backed Hidrohaul program. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>After a Year in Service, a Hydrogen Truck and Its Local Ecosystem Head to Technotrans</title>
-      <link>https://fuelcellsworks.com/2026/10/10/fuel-cells/after-a-year-in-service-a-hydrogen-truck-and-its-local-ecosystem-head-to-technotrans</link>
-      <guid isPermaLink="false">molecola-1226fb926861eb9a</guid>
-      <pubDate>Mon, 12 Oct 2026 15:13:50 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>After a Year in Service, a Hydrogen Truck and Its Local Ecosystem Head to Technotrans — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Sigenergy Unveils the Latest Energy Solutions at Malaysia’s IGEM 2026</title>
-      <link>https://fuelcellsworks.com/2026/10/10/battery/sigenergy-unveils-the-latest-energy-solutions-at-malaysia-s-igem-2026</link>
-      <guid isPermaLink="false">molecola-68feed590765c810</guid>
-      <pubDate>Mon, 12 Oct 2026 15:09:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Sigenergy Unveils the Latest Energy Solutions at Malaysia’s IGEM 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Technology World Expo 2026: EKPO Applies Fuel Cell Technology to Energy-Intensive Special-Purpose Vehicles</title>
-      <link>https://fuelcellsworks.com/2026/10/12/fuel-cells/hydrogen-technology-world-expo-2026-ekpo-applies-fuel-cell-technology-to-energy-intensive-special-purpose-vehicles</link>
-      <guid isPermaLink="false">molecola-58635148d13fa97a</guid>
-      <pubDate>Mon, 12 Oct 2026 15:06:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hydrogen Technology World Expo 2026: EKPO Applies Fuel Cell Technology to Energy-Intensive Special-Purpose Vehicles — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>A Backend-Agnostic MWIS Kernel for Stochastic Unit Commitment with Neutral-Atom Hardware Validation</title>
-      <link>https://arxiv.org/abs/2609.01248v2</link>
-      <guid isPermaLink="false">molecola-399ab0831c0e48f8</guid>
-      <pubDate>Mon, 12 Oct 2026 03:15:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Quantum hardware is beginning to address structured combinatorial optimisation, but two steps still block practical use: mapping real operational models onto hardware-compatible instances, and converting noisy hardware… — arXiv</description>
-    </item>
-    <item>
-      <title>Frequency security-aware production scheduling of utility-scale off-grid renewable P2H systems coordinating heterogeneous electrolyzers</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.128990</link>
-      <guid isPermaLink="false">molecola-79b0af445f985961</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Pre‐Intercalated Cation Optimizing Proton Topochemistry for High‐Performance Aqueous Zinc‐Ion Batteries</title>
-      <link>https://doi.org/10.1002/adma.75300</link>
-      <guid isPermaLink="false">molecola-ebb3a8de96f3856e</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Global occurrences, exploration techniques, and geochemical controls on natural hydrogen systems</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157959</link>
-      <guid isPermaLink="false">molecola-bea0888d62ae42c9</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hybrid Reinforcement of Carboxymethyl Cellulose Films with Nanocellulose, Bentonite, and Ceramic Industry Waste: Structural, Thermal, and Morphological Characterization</title>
-      <link>https://doi.org/10.3390/polym18202485</link>
-      <guid isPermaLink="false">molecola-71b407cb40f3a503</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Polymers — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydrogen and Ammonia Blending in Existing LNG Infrastructure: A Technical Review of Compatibility, Retrofit Potential, and Conversion Pathways</title>
-      <link>https://doi.org/10.3390/app162010089</link>
-      <guid isPermaLink="false">molecola-45543fc34c8e7a03</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Sciences — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-economic analysis of strategic hydrogen reserves in the United States</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.157755</link>
-      <guid isPermaLink="false">molecola-3fdd298894c38370</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Exploring the impact of heat pump integration on the electrification of existing industrial utility systems</title>
-      <link>https://doi.org/10.1016/j.enconman.2026.121924</link>
-      <guid isPermaLink="false">molecola-7d80a03587e46a98</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Integrated hydrogen production and liquefaction via alkaline electrolysis: Conceptual design and life cycle assessment under geothermal and hybrid renewable energy scenarios</title>
+      <link>https://doi.org/10.1016/j.enconman.2026.122267</link>
+      <guid isPermaLink="false">molecola-f27c45a38b02ed81</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Energy Conversion and Management — OpenAlex</description>
     </item>
     <item>
-      <title>Pd-functionalized boron nitride nanotubes for reversible hydrogen storage: a first principles approach</title>
-      <link>https://doi.org/10.1007/s11224-026-02923-1</link>
-      <guid isPermaLink="false">molecola-13613c2af35d72f5</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Dynamic Proton‐Coordination Equilibrium Enables Nonfreezing Ion Transport for Ultralow‐Temperature Zinc Batteries</title>
+      <link>https://doi.org/10.1002/adma.75379</link>
+      <guid isPermaLink="false">molecola-d1674f20ce7652e3</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Structural Chemistry — OpenAlex</description>
+      <description>Advanced Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Co addition on the hydrogen storage performance and microstructure of V35Ti30Cr35-xCox (x = 0, 5, 10, 15) alloys</title>
+      <link>https://doi.org/10.1007/s10853-026-13694-9</link>
+      <guid isPermaLink="false">molecola-2df52dc052cf5f62</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Materials Science — OpenAlex</description>
+    </item>
+    <item>
+      <title>Nanomaterials for Environmental Remediation and Sustainable Energy Production: Opportunities and Challenges</title>
+      <link>https://doi.org/10.62823/ijira/06.3(ii).9536</link>
+      <guid isPermaLink="false">molecola-d032d9550861b397</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>INTERNATIONAL JOURNAL OF INNOVATIONS &amp; RESEARCH ANALYSIS — OpenAlex</description>
+    </item>
+    <item>
+      <title>Prometheus-B: Autonomous LOHC-Based Starter Module for Armored Vehicles (Preprint)</title>
+      <link>https://doi.org/10.5281/zenodo.23335824</link>
+      <guid isPermaLink="false">molecola-81fb7dc45769336b</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Atomic-level engineering of multifunctional BixC16 nanocages for hydrogen storage, thermoelectric energy conversion, spintronics, and nanoelectronic applications</title>
+      <link>https://doi.org/10.1007/s00894-026-07012-y</link>
+      <guid isPermaLink="false">molecola-100340dbf3e18678</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Molecular Modeling — OpenAlex</description>
+    </item>
+    <item>
+      <title>Renewable Hydrogen Production and Geostorage Potential in Eastern Canada: A Qualitative Assessment</title>
+      <link>https://doi.org/10.3390/su182010391</link>
+      <guid isPermaLink="false">molecola-00da66a455cd80d8</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Sustainability — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effect of Trap Spatial Distribution on Equilibrium Hydrogen Partitioning in Bearing Steel During Loaded Standstill</title>
+      <link>https://doi.org/10.3390/app162010117</link>
+      <guid isPermaLink="false">molecola-3af8337ed40b4fa9</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Applied Sciences — OpenAlex</description>
     </item>
   </channel>
 </rss>
