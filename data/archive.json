@@ -1,6 +1,51 @@
 {
- "count": 2013,
+ "count": 2018,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T10:09:57+00:00",
+   "excerpt": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic…",
+   "first_seen": "2026-10-16T11:14:15+00:00",
+   "id": "6a251f533ab38aaa",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T08:23:46+00:00",
+   "excerpt": "China could produce green hydrogen at an average cost of $120/MWh, significantly less than Germany, the United States and Japan, according to researchers at the University of Cologne. The analysis highlights China's…",
+   "first_seen": "2026-10-16T11:14:15+00:00",
+   "id": "0ac0dce8b110a451",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/16/china-can-produce-the-cheapest-green-hydrogen/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "China could produce the cheapest green hydrogen"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-16T08:18:31+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-16T11:14:15+00:00",
+   "id": "8b2d8af408d8f30f",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/finland-issues-first-guarantees-of-origin-as-green-hydrogen-based-e-methane-enters-gas-grid/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Finland Issues First Guarantees of Origin as Green Hydrogen-Based E-Methane Enters Gas Grid"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -75,6 +120,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Oracle Asks FERC to Fast-Track Gas Pipeline for New Mexico AI Data Center"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T15:02:41+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-16T11:14:15+00:00",
+   "id": "f89ef2119ad65525",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/15/electric/horse-x-range-c15-wins-hybrid-technology-solution-of-the-year-at-autotech-breakthrough-awards",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "HORSE X-Range C15 Wins Hybrid Technology Solution of the Year at AutoTech Breakthrough Awards"
   },
   {
    "authors": [],
@@ -255,6 +315,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Nel Posts NOK 141M Loss as Alkaline Electrolyser Revenue Collapses 91%"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-15T07:41:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-16T11:14:15+00:00",
+   "id": "c5656444a070ecf0",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/stargate-hydrogen-boosts-electrolyser-efficiency-to-48kwh-kg-with-new-catalyst/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Stargate Hydrogen boosts electrolyser efficiency to 48kWh/kg with new catalyst"
   },
   {
    "authors": [
@@ -35486,6 +35561,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-16T04:22:13+00:00",
+ "updated": "2026-10-16T11:14:15+00:00",
  "version": 2
 }

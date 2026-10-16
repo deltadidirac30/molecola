@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 16 Oct 2026 04:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:13:58 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: P2X starts selling renewable methane to European markets</title>
+      <link>https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/</link>
+      <guid isPermaLink="false">molecola-6a251f533ab38aaa</guid>
+      <pubDate>Fri, 16 Oct 2026 10:09:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic… — PV Magazine</description>
+    </item>
+    <item>
+      <title>China could produce the cheapest green hydrogen</title>
+      <link>https://www.pv-magazine.com/2026/10/16/china-can-produce-the-cheapest-green-hydrogen/</link>
+      <guid isPermaLink="false">molecola-0ac0dce8b110a451</guid>
+      <pubDate>Fri, 16 Oct 2026 08:23:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>China could produce green hydrogen at an average cost of $120/MWh, significantly less than Germany, the United States and Japan, according to researchers at the University of Cologne. The analysis highlights China's… — PV Magazine</description>
+    </item>
+    <item>
+      <title>Finland Issues First Guarantees of Origin as Green Hydrogen-Based E-Methane Enters Gas Grid</title>
+      <link>https://hydrogeneurope.eu/finland-issues-first-guarantees-of-origin-as-green-hydrogen-based-e-methane-enters-gas-grid/</link>
+      <guid isPermaLink="false">molecola-8b2d8af408d8f30f</guid>
+      <pubDate>Fri, 16 Oct 2026 08:18:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Finland Issues First Guarantees of Origin as Green Hydrogen-Based E-Methane Enters Gas Grid — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Lombardy's First Open-Market Hydrogen Valley Opens on Former Paper Mill Site</title>
       <link>https://fuelcellsworks.com/2026/10/15/electrolyzer/lombardy-s-first-open-market-hydrogen-valley-opens-on-former-paper-mill-site</link>
@@ -47,6 +71,14 @@
       <pubDate>Thu, 15 Oct 2026 15:22:20 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Oracle Asks FERC to Fast-Track Gas Pipeline for New Mexico AI Data Center — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>HORSE X-Range C15 Wins Hybrid Technology Solution of the Year at AutoTech Breakthrough Awards</title>
+      <link>https://fuelcellsworks.com/2026/10/15/electric/horse-x-range-c15-wins-hybrid-technology-solution-of-the-year-at-autotech-breakthrough-awards</link>
+      <guid isPermaLink="false">molecola-f89ef2119ad65525</guid>
+      <pubDate>Thu, 15 Oct 2026 15:02:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>HORSE X-Range C15 Wins Hybrid Technology Solution of the Year at AutoTech Breakthrough Awards — Fuel Cells Works</description>
     </item>
     <item>
       <title>Aragon Launches Pioneering Industrial Laboratory to Scale Hydrogen Storage Solutions.</title>
@@ -143,6 +175,14 @@
       <pubDate>Thu, 15 Oct 2026 12:33:28 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Nel Posts NOK 141M Loss as Alkaline Electrolyser Revenue Collapses 91% — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Stargate Hydrogen boosts electrolyser efficiency to 48kWh/kg with new catalyst</title>
+      <link>https://hydrogeneurope.eu/stargate-hydrogen-boosts-electrolyser-efficiency-to-48kwh-kg-with-new-catalyst/</link>
+      <guid isPermaLink="false">molecola-c5656444a070ecf0</guid>
+      <pubDate>Thu, 15 Oct 2026 07:41:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Stargate Hydrogen boosts electrolyser efficiency to 48kWh/kg with new catalyst — Hydrogen Europe</description>
     </item>
     <item>
       <title>Establishment of a 4K Flat-plate Calorimeter Test Procedure and Evaluation of the Thermal Insulation Performance of MLI for Liquefied Hydrogen Storage Tank Applications</title>
@@ -407,46 +447,6 @@
       <pubDate>Tue, 13 Oct 2026 17:17:12 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Siemens will digitalize Galp’s 100 MW Sines green hydrogen plant using a digital process twin and analytics to optimize renewable hydrogen production and refinery decarbonization. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs"</title>
-      <link>https://fuelcellsworks.com/2026/10/12/electric/leapmotor-international-calls-eu-china-import-cap-deal-an-interesting-alternative-to-tariffs</link>
-      <guid isPermaLink="false">molecola-031e7b261eb72460</guid>
-      <pubDate>Tue, 13 Oct 2026 17:16:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Leapmotor International Calls EU-China Import Cap Deal an "Interesting Alternative to Tariffs" — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>TURN2X’s Power-to-Gas Plant in Miajadas Taps Green Hydrogen for Synthetic Methane with EU Hydrogen Bank Support</title>
-      <link>http://www.hydrogenfuelnews.com/turn2x-s-power-to-gas-plant-in-miajadas-taps-green-hydrogen-for-synthetic-methan/8576867/</link>
-      <guid isPermaLink="false">molecola-49a08328a843b700</guid>
-      <pubDate>Tue, 13 Oct 2026 17:15:08 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>TURN2X’s Miajadas power-to-gas facility produces synthetic methane from green hydrogen and CO₂ and secured support from the EU Hydrogen Bank. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>BMW Group Tests 18-Tonne Hydrogen-Combustion Engine Truck in Leipzig Logistics</title>
-      <link>http://www.hydrogenfuelnews.com/bmw-group-tests-18-tonne-hydrogen-combustion-engine-truck-in-leipzig-logistics/8576865/</link>
-      <guid isPermaLink="false">molecola-8a26f08f898c1c95</guid>
-      <pubDate>Tue, 13 Oct 2026 17:09:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>BMW Group is testing an 18-tonne hydrogen-combustion engine truck at its Leipzig plant under the HyCET project, with DEUTZ AG powering the engine, Rudolph Logistics Group operating the vehicle, and TEAL MOBILITY… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>SeaEly Advances Direct Seawater Electrolysis for Green Hydrogen Production</title>
-      <link>http://www.hydrogenfuelnews.com/seaely-advances-direct-seawater-electrolysis-for-green-hydrogen-production/8576864/</link>
-      <guid isPermaLink="false">molecola-dfe0cabe4d943780</guid>
-      <pubDate>Tue, 13 Oct 2026 17:07:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Fraunhofer IWES and IFAM developed test benches and membranes for direct seawater electrolysis, demonstrating initial feasibility for producing green hydrogen with untreated saline feedwater and establishing research… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres</title>
-      <link>https://fuelcellsworks.com/2026/10/13/clean-technology/ls-materials-wins-51-5m-order-for-ultracapacitors-used-in-hydrogen-fuel-cell-data-centres</link>
-      <guid isPermaLink="false">molecola-88d14a9d8e1d4af6</guid>
-      <pubDate>Tue, 13 Oct 2026 16:30:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>LS Materials Wins $50M Order for Ultracapacitors Used in Hydrogen Fuel-Cell Data Centres — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
