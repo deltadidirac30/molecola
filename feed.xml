@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:29:43 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>RVK Uses First Hydrogen-Powered School Bus in Germany</title>
@@ -47,6 +47,14 @@
       <pubDate>Fri, 16 Oct 2026 15:29:38 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>First for BUKO Transport BV: First MAN eTGX 6X2 Tractor in the Netherlands — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Michelin Is Launching Michelin Ev Charge, an Innovative Solution Designed to Help Fleets Control and Reduce Their Electric Charging Costs</title>
+      <link>https://fuelcellsworks.com/2026/10/14/electric/michelin-is-launching-michelin-ev-charge-an-innovative-solution-designed-to-help-fleets-control-and-reduce-their-electric-charging-costs</link>
+      <guid isPermaLink="false">molecola-5020062a5bc7d79b</guid>
+      <pubDate>Fri, 16 Oct 2026 15:14:20 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Michelin Is Launching Michelin Ev Charge, an Innovative Solution Designed to Help Fleets Control and Reduce Their Electric Charging Costs — Fuel Cells Works</description>
     </item>
     <item>
       <title>KENTECH Licenses Liquid Hydrogen Plant Design Know-How to KEPCO E&amp;C in Record ₩500 Million Deal</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 14 Oct 2026 15:45:08 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>World's First Commercial Green Ammonia Ship-to-Ship Bunkering Completed at Zhoushan — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Earn Money at Home with Your Electric Vehicle: Mercedes-Benz Launches Bidirectional Charging in Germany</title>
-      <link>https://fuelcellsworks.com/2026/10/13/electric/earn-money-at-home-with-your-electric-vehicle-mercedes-benz-launches-bidirectional-charging-in-germany</link>
-      <guid isPermaLink="false">molecola-e799be3af5a7cd3f</guid>
-      <pubDate>Wed, 14 Oct 2026 15:35:52 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Earn Money at Home with Your Electric Vehicle: Mercedes-Benz Launches Bidirectional Charging in Germany — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

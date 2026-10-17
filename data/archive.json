@@ -1,5 +1,5 @@
 {
- "count": 2079,
+ "count": 2080,
  "items": [
   {
    "authors": [],
@@ -75,6 +75,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "First for BUKO Transport BV: First MAN eTGX 6X2 Tractor in the Netherlands"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T15:14:20+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-17T20:30:04+00:00",
+   "id": "5020062a5bc7d79b",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/14/electric/michelin-is-launching-michelin-ev-charge-an-innovative-solution-designed-to-help-fleets-control-and-reduce-their-electric-charging-costs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Michelin Is Launching Michelin Ev Charge, an Innovative Solution Designed to Help Fleets Control and Reduce Their Electric Charging Costs"
   },
   {
    "authors": [],
@@ -36724,6 +36739,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-17T15:27:24+00:00",
+ "updated": "2026-10-17T20:30:04+00:00",
  "version": 2
 }
