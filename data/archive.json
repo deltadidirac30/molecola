@@ -1,5 +1,5 @@
 {
- "count": 2053,
+ "count": 2054,
  "items": [
   {
    "authors": [],
@@ -135,6 +135,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "HYDGEN Opens 20MW Electrolyser Manufacturing Facility in Mangaluru"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T14:38:09+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-17T04:15:24+00:00",
+   "id": "f289b5a1054a1ab3",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/14/electric/the-bmw-group-plant-in-steyr-is-bringing-state-of-the-art-power-electronics-to-austria",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "The BMW Group Plant in Steyr Is Bringing State-of-the-Art Power Electronics to Austria."
   },
   {
    "authors": [],
@@ -36188,6 +36203,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-16T23:30:40+00:00",
+ "updated": "2026-10-17T04:15:24+00:00",
  "version": 2
 }
