@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:55:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:46:46 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days</title>
+      <link>http://www.hydrogenfuelnews.com/cryo-adsorption-with-mofs-may-extend-liquid-hydrogen-storage-to-221-days/8576904/</link>
+      <guid isPermaLink="false">molecola-a0fd821cfc840da0</guid>
+      <pubDate>Sat, 17 Oct 2026 12:18:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A UNIST-led team modeled that IRMOF-20 could extend vacuum-insulated liquid hydrogen storage from 64 to 221 days while retaining ~97% of volumetric capacity. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Unraveling the structure–activity relationship of hydroxyl/ether-based molecular additives for hydrogen-bond network regulation in aqueous zinc-ion batteries</title>
       <link>https://doi.org/10.1007/s11581-026-07586-w</link>
@@ -87,6 +95,14 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Fuel — OpenAlex</description>
+    </item>
+    <item>
+      <title>France Advances Natural Hydrogen Exploration with 3.7 km PTH-2 Well in Lorraine</title>
+      <link>http://www.hydrogenfuelnews.com/france-advances-natural-hydrogen-exploration-with-3-7-km-pth-2-well-in-lorraine/8576902/</link>
+      <guid isPermaLink="false">molecola-3bde91c46c1eb939</guid>
+      <pubDate>Fri, 16 Oct 2026 23:09:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>FDE drilled the PTH-2 well to 3,655 m in Lorraine, recording dissolved-hydrogen concentrations up to 49.6 percent; flow tests with SYSPROG and resource certification are the next critical steps. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>RVK Uses First Hydrogen-Powered School Bus in Germany</title>
@@ -241,12 +257,36 @@
       <description>ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan — Fuel Cells Works</description>
     </item>
     <item>
+      <title>EWE and VERBUND launch 500 MW green hydrogen project in Nordenham</title>
+      <link>http://www.hydrogenfuelnews.com/ewe-and-verbund-launch-500-mw-green-hydrogen-project-in-nordenham/8576901/</link>
+      <guid isPermaLink="false">molecola-612bd90380aee374</guid>
+      <pubDate>Fri, 16 Oct 2026 10:15:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>EWE AG and VERBUND AG will build a 500 MW green hydrogen electrolyser in Nordenham, aiming for 50 000 tonnes per year and direct pipeline integration into Germany’s hydrogen core network. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen production expansion unlikely to strain Europe’s freshwater supplies</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-expansion-unlikely-to-strain-europe-s-freshwater-supplies/8576900/</link>
+      <guid isPermaLink="false">molecola-9fdf83a40c339da6</guid>
+      <pubDate>Fri, 16 Oct 2026 10:13:10 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A JRC study finds Europe’s planned hydrogen production will put limited pressure on most freshwater supplies, though Southern Europe faces local risks under pessimistic climate scenarios. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>The Hydrogen Stream: P2X starts selling renewable methane to European markets</title>
       <link>https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/</link>
       <guid isPermaLink="false">molecola-6a251f533ab38aaa</guid>
       <pubDate>Fri, 16 Oct 2026 10:09:57 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic… — PV Magazine</description>
+    </item>
+    <item>
+      <title>Hydrogen Infrastructure: Wyoming Study Charts US Pipeline Costs and Emissions</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-wyoming-study-charts-us-pipeline-costs-and-emissions/8576898/</link>
+      <guid isPermaLink="false">molecola-56a2eaeb7288b460</guid>
+      <pubDate>Fri, 16 Oct 2026 10:09:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A University of Wyoming study in Nature Communications finds that US hydrogen pipeline cost models underestimated construction expenses and reveals regional cost and emissions variations between dedicated and… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>China could produce the cheapest green hydrogen</title>
@@ -407,46 +447,6 @@
       <pubDate>Thu, 15 Oct 2026 12:41:41 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Plug Power Reports Continued Business Progress, Sets Dates for Third Quarter 2026 Earnings Call and Global Plug Symposium — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Nel Posts NOK 141M Loss as Alkaline Electrolyser Revenue Collapses 91%</title>
-      <link>https://fuelcellsworks.com/2026/10/15/electrolyzer/nel-posts-nok-141m-loss-as-alkaline-electrolyser-revenue-collapses-91-percent</link>
-      <guid isPermaLink="false">molecola-c14866dcc590b8c7</guid>
-      <pubDate>Thu, 15 Oct 2026 12:33:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Nel Posts NOK 141M Loss as Alkaline Electrolyser Revenue Collapses 91% — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hydrogen Production Potential Indicated by Philippine Native Hydrogen Survey</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-production-potential-indicated-by-philippine-native-hydrogen-survey/8576895/</link>
-      <guid isPermaLink="false">molecola-ac21d8ce6db9b723</guid>
-      <pubDate>Thu, 15 Oct 2026 08:14:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Koloma’s seismic and airborne surveys in Pangasinan have produced preliminary geophysical indications of natural hydrogen, marking the Philippines as an early adopter of competitive native hydrogen exploration under… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production Advances with 2.5 MW Electrolyzer Launch in Navarra</title>
-      <link>http://www.hydrogenfuelnews.com/green-hydrogen-production-advances-with-2-5-mw-electrolyzer-launch-in-navarra/8576894/</link>
-      <guid isPermaLink="false">molecola-23d9481dc901637c</guid>
-      <pubDate>Thu, 15 Oct 2026 08:10:21 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Nordex Electrolyzers unveiled the NX2500, a 2.5 MW pressurized alkaline electrolyzer fully designed and tested in Navarra, marking a domestic manufacturing milestone in green hydrogen production. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>India’s Green Hydrogen Production Stumbles on Standards Gaps, BCG Warns</title>
-      <link>http://www.hydrogenfuelnews.com/india-s-green-hydrogen-production-stumbles-on-standards-gaps-bcg-warns/8576892/</link>
-      <guid isPermaLink="false">molecola-9c2cf6d2e91ce7b5</guid>
-      <pubDate>Thu, 15 Oct 2026 08:09:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>BCG and India’s MNRE mapped 166 standards across 20 components, flagging 23 gaps in green hydrogen production, transport, storage and end uses, and proposed adopt/adapt/develop routes. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>GeoPura secures offtake from Bradford’s 35 MW green hydrogen electrolyser</title>
-      <link>http://www.hydrogenfuelnews.com/geopura-secures-offtake-from-bradford-s-35-mw-green-hydrogen-electrolyser/8576891/</link>
-      <guid isPermaLink="false">molecola-b00327d6268a007b</guid>
-      <pubDate>Thu, 15 Oct 2026 08:09:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>GeoPura will offtake 15% and then 20% of output from Hygen Energy’s 35 MW Bradford electrolyser under a 15-year government subsidy, securing fuel for its hydrogen power units ahead of a pending final investment decision. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,21 @@
 {
- "count": 2102,
+ "count": 2107,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-17T12:18:46+00:00",
+   "excerpt": "A UNIST-led team modeled that IRMOF-20 could extend vacuum-insulated liquid hydrogen storage from 64 to 221 days while retaining ~97% of volumetric capacity.",
+   "first_seen": "2026-10-18T15:47:03+00:00",
+   "id": "a0fd821cfc840da0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/cryo-adsorption-with-mofs-may-extend-liquid-hydrogen-storage-to-221-days/8576904/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days"
+  },
   {
    "authors": [
     "Peipei Li",
@@ -301,6 +316,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-16T23:09:38+00:00",
+   "excerpt": "FDE drilled the PTH-2 well to 3,655 m in Lorraine, recording dissolved-hydrogen concentrations up to 49.6 percent; flow tests with SYSPROG and resource certification are the next critical steps.",
+   "first_seen": "2026-10-18T15:47:03+00:00",
+   "id": "3bde91c46c1eb939",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/france-advances-natural-hydrogen-exploration-with-3-7-km-pth-2-well-in-lorraine/8576902/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "France Advances Natural Hydrogen Exploration with 3.7 km PTH-2 Well in Lorraine"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-16T15:59:40+00:00",
    "excerpt": "",
    "first_seen": "2026-10-16T20:59:00+00:00",
@@ -586,6 +616,36 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-16T10:15:24+00:00",
+   "excerpt": "EWE AG and VERBUND AG will build a 500 MW green hydrogen electrolyser in Nordenham, aiming for 50 000 tonnes per year and direct pipeline integration into Germany’s hydrogen core network.",
+   "first_seen": "2026-10-18T15:47:03+00:00",
+   "id": "612bd90380aee374",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ewe-and-verbund-launch-500-mw-green-hydrogen-project-in-nordenham/8576901/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EWE and VERBUND launch 500 MW green hydrogen project in Nordenham"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T10:13:10+00:00",
+   "excerpt": "A JRC study finds Europe’s planned hydrogen production will put limited pressure on most freshwater supplies, though Southern Europe faces local risks under pessimistic climate scenarios.",
+   "first_seen": "2026-10-18T15:47:03+00:00",
+   "id": "9fdf83a40c339da6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-expansion-unlikely-to-strain-europe-s-freshwater-supplies/8576900/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen production expansion unlikely to strain Europe’s freshwater supplies"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-16T10:09:57+00:00",
    "excerpt": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic…",
    "first_seen": "2026-10-16T11:14:15+00:00",
@@ -597,6 +657,21 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "The Hydrogen Stream: P2X starts selling renewable methane to European markets"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-16T10:09:42+00:00",
+   "excerpt": "A University of Wyoming study in Nature Communications finds that US hydrogen pipeline cost models underestimated construction expenses and reveals regional cost and emissions variations between dedicated and…",
+   "first_seen": "2026-10-18T15:47:03+00:00",
+   "id": "56a2eaeb7288b460",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-infrastructure-wyoming-study-charts-us-pipeline-costs-and-emissions/8576898/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Infrastructure: Wyoming Study Charts US Pipeline Costs and Emissions"
   },
   {
    "authors": [],
@@ -37173,6 +37248,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-18T10:55:49+00:00",
+ "updated": "2026-10-18T15:47:03+00:00",
  "version": 2
 }

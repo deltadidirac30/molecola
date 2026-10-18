@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-18T10:55:49+00:00",
+ "checked": "2026-10-18T15:47:03+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-15T21:09:12+00:00"
+   "newest": "2026-10-17T12:18:46+00:00"
   },
   {
    "slug": "openalex",
