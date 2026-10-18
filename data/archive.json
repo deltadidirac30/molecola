@@ -1,6 +1,303 @@
 {
- "count": 2080,
+ "count": 2102,
  "items": [
+  {
+   "authors": [
+    "Peipei Li",
+    "Haizhi Jiang",
+    "Yuanxu Zhu",
+    "Zhiyu Lian",
+    "Maosheng Yang",
+    "Miaoran Shen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Ionics",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "c4abd681ca4cc4ab",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11581-026-07586-w",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Unraveling the structure–activity relationship of hydroxyl/ether-based molecular additives for hydrogen-bond network regulation in aqueous zinc-ion batteries"
+  },
+  {
+   "authors": [
+    "Shujun Chen",
+    "Yiming Fu",
+    "Le Du",
+    "Ming Li",
+    "Yancong Liu",
+    "Shujun Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "c70cdded432f7f19",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158183",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Study on the effect of coconut shell charcoal doping on the hydrogen storage performance of Mg-based materials"
+  },
+  {
+   "authors": [
+    "Zhi Li",
+    "Zhuofan Chen",
+    "Rui Zhou",
+    "卢普阳",
+    "Xianglei Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "5d99f30d407264f5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141744",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Co-packed metal hydride and phase change pellets enable rapid hydrogen storage and release"
+  },
+  {
+   "authors": [
+    "M. Lotfy",
+    "A.A. Elbaset"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "113adc62a446592a",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23441197",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "MATLAB/Simulink Models and Supporting Code"
+  },
+  {
+   "authors": [
+    "Kumar Kaushik Barik",
+    "Rakesh Kumar Sahoo",
+    "Smruti Ranjan Parida",
+    "P. Kour",
+    "Sridhar Sahu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Structural Chemistry",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "b585e62b72d3de4a",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11224-026-02930-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reversible hydrogen storage on Li-, Na- and K-decorated C12N8 nanocages: A combined DFT and Ab initio molecular dynamics study"
+  },
+  {
+   "authors": [
+    "Miao Luo",
+    "Gongnan Xie",
+    "Rui Su",
+    "Shaoqi Song",
+    "Huangqing Zhou",
+    "Pu-Hang Jin"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "e2f8596a54f1040c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133593",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal configuration of complementary coupled energy supply stations for remote offshore hydrogen refueling and charging"
+  },
+  {
+   "authors": [
+    "Qi Jiang",
+    "Yufeng Xia",
+    "Tianxi He",
+    "Lu Li",
+    "Yihao Zhang",
+    "Feng Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Journal of Magnesium and Alloys",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "cc8343ae9cce8453",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jma.2026.102359",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interface charge modification–defect engineering–H2O-Mg2+ microenvironment synergistic catalysis for full-process kinetic optimization of MgH2 dehydrogenation"
+  },
+  {
+   "authors": [
+    "Yuxiao Hu",
+    "Kafeel Ahmad",
+    "Sasikumar Thangarasu",
+    "Zhijian Tan",
+    "Jong‐Whan Rhim"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Coordination Chemistry Reviews",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "d00fcdb4fb55685e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ccr.2026.218661",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Heterojunctions for food freshness monitoring: interfacial engineering, sensing mechanisms, and intelligent packaging"
+  },
+  {
+   "authors": [
+    "Yingshu Liu",
+    "Zezhuang Huang",
+    "Leijiao Ge",
+    "Yanbo Che"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "bca9294c7c530a77",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125179",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention"
+  },
+  {
+   "authors": [
+    "Zhuangzhuang Xu",
+    "Qiang Liu",
+    "Han Sun",
+    "Shuyao Zhang",
+    "Guogang Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "22bc1b5830436eac",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141738",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of ambient temperature on flame propagation characteristics of methanol spray-hydrogen explosions"
+  },
+  {
+   "authors": [
+    "Hede Quan",
+    "Wenkang Wei",
+    "Yiming Chen",
+    "Yuyang Cai",
+    "Zhenyu Tong",
+    "Zitian Feng"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "4b48501b0059540b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125127",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multidentate anions with stepwise protonation buffer enabled durable ah-level zinc-iodine pouch cell"
+  },
+  {
+   "authors": [
+    "Linjie Luo",
+    "Chang Liu",
+    "Xueying Lu",
+    "Xu Li",
+    "Zhiming Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Food and Bioprocess Technology",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "e1ebcea421228666",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11947-026-04604-7",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "pH-Responsive Eggplant Extract-Loaded Bacterial Cellulose/Konjac Glucomannan Composite Films with High Barrier Properties for Real-Time Pork Freshness Monitoring"
+  },
+  {
+   "authors": [
+    "Yan Yang",
+    "Xiaoming Xiong",
+    "Jia She",
+    "Yuan Yuan",
+    "Shuangshuang Tan",
+    "Yangfan Lu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Journal of Magnesium and Alloys",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "5b6d21e9b338fd02",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jma.2026.102355",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Research advances of magnesium and magnesium alloys worldwide in 2025"
+  },
+  {
+   "authors": [
+    "Ajinkya K. Patil",
+    "S. V. Chaitanya",
+    "Sharad Dattatray Patil",
+    "Randhir Y. Chavan",
+    "Manjunath G. Avalappa",
+    "Sachin C. Kulkarni"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Journal of Engineering and Applied Science",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "078ed275483d7765",
+   "lang": "en",
+   "link": "https://doi.org/10.1186/s44147-026-01282-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Performance analysis of a metal hydride reactor for hydrogen storage using ethylene glycol-based coolants as heat transfer fluids"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -722,6 +1019,83 @@
    "title": "From Dark Photocatalysis to Photobattery‐Type Operation: A Re‐Functionalized Ti‐MOF for Solar Energy Storage"
   },
   {
+   "authors": [
+    "Thushara Addanki",
+    "Julia Gawlick",
+    "Dhakshain Balaji Venkatesh",
+    "Thomas Hamacher"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "b7eeb95a8a4d62b5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158034",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Assessment of liquid hydrogen and derivatives for international maritime energy transport"
+  },
+  {
+   "authors": [
+    "Iqra Shaheen",
+    "Shih‐Hsuan Chen",
+    "Yu-Xian Lee",
+    "Wei‐Hao Chiu",
+    "Ting-Han Lin",
+    "Kumar Gokulkumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Journal",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "8b5fef88a8475266",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.cej.2026.183177",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Coupled morphology and phase regulation of in-situ grown TiO2 nanostructures on graphite felt for enhanced redox kinetics in vanadium redox flow batteries"
+  },
+  {
+   "authors": [
+    "Chufeng Yuan",
+    "Yang Tan",
+    "Xuguang Yuan",
+    "Qiu Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-16T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "6aa32bf053bec53a",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-75417-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A non-compensatory screening framework for environmental, cost, and supply-risk trade-offs across China-relevant hydrogen production pathway archetypes"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T21:09:12+00:00",
+   "excerpt": "AEP plans to invest $4 billion in a 702 MW Bloom Energy fuel cell plant near Cheyenne to power Google under a 20-year PPA, with carbon capture targets.",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "e83fdd9ee16b436d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/aep-to-invest-4b-in-702-mw-bloom-energy-fuel-cell-plant-for-google-in-wyoming/8576896/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "AEP to Invest $4B in 702 MW Bloom Energy Fuel Cell Plant for Google in Wyoming"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-10-15T16:13:26+00:00",
@@ -990,6 +1364,66 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Nel Posts NOK 141M Loss as Alkaline Electrolyser Revenue Collapses 91%"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T08:14:30+00:00",
+   "excerpt": "Koloma’s seismic and airborne surveys in Pangasinan have produced preliminary geophysical indications of natural hydrogen, marking the Philippines as an early adopter of competitive native hydrogen exploration under…",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "ac21d8ce6db9b723",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-potential-indicated-by-philippine-native-hydrogen-survey/8576895/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production Potential Indicated by Philippine Native Hydrogen Survey"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T08:10:21+00:00",
+   "excerpt": "Nordex Electrolyzers unveiled the NX2500, a 2.5 MW pressurized alkaline electrolyzer fully designed and tested in Navarra, marking a domestic manufacturing milestone in green hydrogen production.",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "23d9481dc901637c",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-advances-with-2-5-mw-electrolyzer-launch-in-navarra/8576894/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen Production Advances with 2.5 MW Electrolyzer Launch in Navarra"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T08:09:22+00:00",
+   "excerpt": "BCG and India’s MNRE mapped 166 standards across 20 components, flagging 23 gaps in green hydrogen production, transport, storage and end uses, and proposed adopt/adapt/develop routes.",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "9c2cf6d2e91ce7b5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/india-s-green-hydrogen-production-stumbles-on-standards-gaps-bcg-warns/8576892/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "India’s Green Hydrogen Production Stumbles on Standards Gaps, BCG Warns"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-15T08:09:00+00:00",
+   "excerpt": "GeoPura will offtake 15% and then 20% of output from Hygen Energy’s 35 MW Bradford electrolyser under a 15-year government subsidy, securing fuel for its hydrogen power units ahead of a pending final investment decision.",
+   "first_seen": "2026-10-18T10:55:49+00:00",
+   "id": "b00327d6268a007b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/geopura-secures-offtake-from-bradford-s-35-mw-green-hydrogen-electrolyser/8576891/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "GeoPura secures offtake from Bradford’s 35 MW green hydrogen electrolyser"
   },
   {
    "authors": [],
@@ -36739,6 +37173,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-18T04:20:28+00:00",
+ "updated": "2026-10-18T10:55:49+00:00",
  "version": 2
 }
