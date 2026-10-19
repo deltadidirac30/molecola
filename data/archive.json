@@ -1,5 +1,5 @@
 {
- "count": 2107,
+ "count": 2108,
  "items": [
   {
    "authors": [],
@@ -552,6 +552,27 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "China Shenhua Coal-to-Hydrogen Unit Runs 230 Days Without Maintenance Stop"
+  },
+  {
+   "authors": [
+    "Lowell Welburn",
+    "Yang Chen",
+    "Xudong Wang",
+    "Abhilasha Saroj",
+    "Shaked Regev"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-16T13:44:09+00:00",
+   "excerpt": "Electric vehicles (EVs) and hydrogen fuel cell vehi- cles (HFCVs) are promising technologies in the efforts to reduce carbon emissions. Challenges such as limited infrastructure, con- sumer dissatisfaction, and…",
+   "first_seen": "2026-10-19T04:30:48+00:00",
+   "id": "0fb441dff5e2f6d1",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.23464v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Reinforcement Learning-Based Pricing and Operation for Hybrid Electric and Hydrogen Vehicle Stations"
   },
   {
    "authors": [],
@@ -37248,6 +37269,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-18T23:03:03+00:00",
+ "updated": "2026-10-19T04:30:48+00:00",
  "version": 2
 }
