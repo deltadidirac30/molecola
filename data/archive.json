@@ -1,6 +1,124 @@
 {
- "count": 2108,
+ "count": 2116,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-19T09:02:35+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "8a09b0d8e89278a5",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/100-more-signatures-added-to-rfnbo-industry-letter/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "100 more signatures added to RFNBO industry letter – bringing total to 270 companies"
+  },
+  {
+   "authors": [
+    "Baishuan Liu",
+    "Haiyan Wang",
+    "Xueyun Gao",
+    "Wenbo Fan",
+    "Rui Liu",
+    "Huijie Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "90b4ab91ea537484",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158153",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Applications of first-principles calculations in the study of hydrogen storage alloys"
+  },
+  {
+   "authors": [
+    "Parth Patel"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-18T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "e82cd00ea119a129",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23453917",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multi-Energy Microgrids for Sustainable Electric Vehicle Infrastructure: A Systematic Review of Hybrid Architectures, V2X Flexibility Services, and Hydrogen Sector Coupling"
+  },
+  {
+   "authors": [
+    "Souhaib Abouricha",
+    "Patricia Bassil",
+    "Steven Le Vot",
+    "Ouassim Ghodbane",
+    "Mohammed Lahcini",
+    "Hicham Ben Youcef"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-18T00:00:00+00:00",
+   "excerpt": "Batteries & Supercaps",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "dad2cd7c55f16f77",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/batt.70510",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Phosphorylated Chitosan‐Based Ionogels for Quasi‐Solid‐State Supercapacitors With Activated Carbon Electrodes"
+  },
+  {
+   "authors": [
+    "Kaiqiang Zhang",
+    "Haoning Xi",
+    "Shengtao Yang",
+    "Yuping Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-18T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "cb08558e4c6be78c",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.76373",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Opportunities and Challenges of Aqueous Tin Batteries for Future Energy Storage"
+  },
+  {
+   "authors": [
+    "Qinghong Yan",
+    "Jia‐Hui Li",
+    "Zijie Wu",
+    "Youhao Liao",
+    "Yinxiang Zeng",
+    "Weishan Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-18T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "9568191e8c95e980",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.76335",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic Solvation‐Interface Regulation via a Zincophilic‐Hydrophobic Additive Enables Deep‐Cycling Zinc Metal Anodes"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -312,6 +430,45 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Performance analysis of a metal hydride reactor for hydrogen storage using ethylene glycol-based coolants as heat transfer fluids"
+  },
+  {
+   "authors": [
+    "Jean-Gabriel Bauzin"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "38d7aab299558f93",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133604",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Transient thermal modeling of multilayer-insulated liquid-hydrogen tanks: Steady-state error compensation and chilldown boil-off"
+  },
+  {
+   "authors": [
+    "Li Liu",
+    "Jiaqin Zhang",
+    "Hui Pan",
+    "Ningning Xu",
+    "Yuting Chen",
+    "Weiwei Cai"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Materials Science and Engineering B",
+   "first_seen": "2026-10-19T12:58:48+00:00",
+   "id": "9e1cc4313c9cc813",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.mseb.2026.119944",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial electronic modulation of pd-ZnO-CN catalysts via in-situ pyrolysis for efficient CO-free formic acid dehydrogenation"
   },
   {
    "authors": [],
@@ -37269,6 +37426,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-19T04:30:48+00:00",
+ "updated": "2026-10-19T12:58:48+00:00",
  "version": 2
 }

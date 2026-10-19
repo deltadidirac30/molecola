@@ -6,8 +6,56 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 19 Oct 2026 04:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:58:27 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>100 more signatures added to RFNBO industry letter – bringing total to 270 companies</title>
+      <link>https://hydrogeneurope.eu/100-more-signatures-added-to-rfnbo-industry-letter/</link>
+      <guid isPermaLink="false">molecola-8a09b0d8e89278a5</guid>
+      <pubDate>Mon, 19 Oct 2026 09:02:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>100 more signatures added to RFNBO industry letter – bringing total to 270 companies — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Applications of first-principles calculations in the study of hydrogen storage alloys</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158153</link>
+      <guid isPermaLink="false">molecola-90b4ab91ea537484</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multi-Energy Microgrids for Sustainable Electric Vehicle Infrastructure: A Systematic Review of Hybrid Architectures, V2X Flexibility Services, and Hydrogen Sector Coupling</title>
+      <link>https://doi.org/10.5281/zenodo.23453917</link>
+      <guid isPermaLink="false">molecola-e82cd00ea119a129</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Phosphorylated Chitosan‐Based Ionogels for Quasi‐Solid‐State Supercapacitors With Activated Carbon Electrodes</title>
+      <link>https://doi.org/10.1002/batt.70510</link>
+      <guid isPermaLink="false">molecola-dad2cd7c55f16f77</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Batteries &amp; Supercaps — OpenAlex</description>
+    </item>
+    <item>
+      <title>Opportunities and Challenges of Aqueous Tin Batteries for Future Energy Storage</title>
+      <link>https://doi.org/10.1002/smll.76373</link>
+      <guid isPermaLink="false">molecola-cb08558e4c6be78c</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Small — OpenAlex</description>
+    </item>
+    <item>
+      <title>Synergistic Solvation‐Interface Regulation via a Zincophilic‐Hydrophobic Additive Enables Deep‐Cycling Zinc Metal Anodes</title>
+      <link>https://doi.org/10.1002/smll.76335</link>
+      <guid isPermaLink="false">molecola-9568191e8c95e980</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Small — OpenAlex</description>
+    </item>
     <item>
       <title>Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days</title>
       <link>http://www.hydrogenfuelnews.com/cryo-adsorption-with-mofs-may-extend-liquid-hydrogen-storage-to-221-days/8576904/</link>
@@ -55,46 +103,6 @@
       <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Structural Chemistry — OpenAlex</description>
-    </item>
-    <item>
-      <title>Optimal configuration of complementary coupled energy supply stations for remote offshore hydrogen refueling and charging</title>
-      <link>https://doi.org/10.1016/j.applthermaleng.2026.133593</link>
-      <guid isPermaLink="false">molecola-e2f8596a54f1040c</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Thermal Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Interface charge modification–defect engineering–H2O-Mg2+ microenvironment synergistic catalysis for full-process kinetic optimization of MgH2 dehydrogenation</title>
-      <link>https://doi.org/10.1016/j.jma.2026.102359</link>
-      <guid isPermaLink="false">molecola-cc8343ae9cce8453</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Magnesium and Alloys — OpenAlex</description>
-    </item>
-    <item>
-      <title>Heterojunctions for food freshness monitoring: interfacial engineering, sensing mechanisms, and intelligent packaging</title>
-      <link>https://doi.org/10.1016/j.ccr.2026.218661</link>
-      <guid isPermaLink="false">molecola-d00fcdb4fb55685e</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Coordination Chemistry Reviews — OpenAlex</description>
-    </item>
-    <item>
-      <title>Distributed hybrid energy storage configuration framework based on spatiotemporal mutual cross-attention</title>
-      <link>https://doi.org/10.1016/j.est.2026.125179</link>
-      <guid isPermaLink="false">molecola-bca9294c7c530a77</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effects of ambient temperature on flame propagation characteristics of methanol spray-hydrogen explosions</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141738</link>
-      <guid isPermaLink="false">molecola-22bc1b5830436eac</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
     </item>
     <item>
       <title>France Advances Natural Hydrogen Exploration with 3.7 km PTH-2 Well in Lorraine</title>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 15 Oct 2026 12:57:27 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Korea Prepares a 30-Fold Scale-Up for Direct Ammonia Fuel Cells at a Coal Plant Site — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Plug Power Reports Continued Business Progress, Sets Dates for Third Quarter 2026 Earnings Call and Global Plug Symposium</title>
-      <link>https://fuelcellsworks.com/2026/10/15/clean-energy/plug-power-reports-continued-business-progress-sets-dates-for-third-quarter-2026-earnings-call-and-global-plug-symposium</link>
-      <guid isPermaLink="false">molecola-8f8485fffbc8da77</guid>
-      <pubDate>Thu, 15 Oct 2026 12:41:41 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Plug Power Reports Continued Business Progress, Sets Dates for Third Quarter 2026 Earnings Call and Global Plug Symposium — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

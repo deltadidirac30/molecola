@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-19T04:30:48+00:00",
+ "checked": "2026-10-19T12:58:48+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-16T08:18:31+00:00"
+   "newest": "2026-10-19T09:02:35+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -113,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-10-17T00:00:00+00:00"
+   "newest": "2026-10-19T00:00:00+00:00"
   },
   {
    "slug": "power",
