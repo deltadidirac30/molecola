@@ -1,8 +1,16 @@
 {
- "checked": "2026-10-19T20:32:39+00:00",
+ "checked": "2026-10-20T00:16:12+00:00",
  "productive": 8,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Unknown Error",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -44,14 +52,6 @@
    "newest": null
   },
   {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "count": 0,
-   "newest": null
-  },
-  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -66,14 +66,6 @@
    "error": null,
    "count": 0,
    "newest": null
-  },
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-10-16T13:44:09+00:00"
   },
   {
    "slug": "fchea",
@@ -114,6 +106,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-10-17T12:18:46+00:00"
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-10-19T00:00:00+00:00"
   },
   {
    "slug": "power",
