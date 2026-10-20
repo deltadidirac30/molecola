@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:15:38 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Holosolis secures EU Innovation Fund support for 5 GW solar factory</title>
@@ -15,6 +15,22 @@
       <pubDate>Tue, 20 Oct 2026 05:45:32 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>The funding is part of a €3.4 billion ($3.98 billion) EU initiative supporting 77 clean-tech projects, including heat pump and battery manufacturing facilities across Europe. — PV Magazine</description>
+    </item>
+    <item>
+      <title>Estimation of Boil-Off Gas in Small-Scale Liquid Hydrogen Storage Vessels Using a Phase Change Model based on Intermolecular Interaction</title>
+      <link>https://doi.org/10.3795/ksme-a.2026.50.10.837</link>
+      <guid isPermaLink="false">molecola-64bca5d1ff5c4fae</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Transactions of the Korean Society of Mechanical Engineers A — OpenAlex</description>
+    </item>
+    <item>
+      <title>Defect-engineered beryllium dinitride (BeN₂) monolayer with light-metal decoration for reversible high-capacity hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.est.2026.125196</link>
+      <guid isPermaLink="false">molecola-f45ee139668ab52f</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
     </item>
     <item>
       <title>Hydrogen in Germany: Berlin Plans Green Gas Quota With Triple Credit for Renewable H₂</title>
@@ -47,6 +63,22 @@
       <pubDate>Mon, 19 Oct 2026 17:46:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Japan: Construction Begins on Japan's Largest Hydrogen Liquefaction Plant with a Liquefaction Capacity of 50 Tons per Day — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Fraunhofer IMM Unveils 25 kW Diesel Reformer for Maritime Fuel Cells</title>
+      <link>http://www.hydrogenfuelnews.com/fraunhofer-imm-unveils-25-kw-diesel-reformer-for-maritime-fuel-cells/8576914/</link>
+      <guid isPermaLink="false">molecola-33c2e84f08262f80</guid>
+      <pubDate>Mon, 19 Oct 2026 16:18:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Fraunhofer IMM has built a 25 kW maritime diesel reformer under the ZIM-supported DIMARIT project to convert onboard diesel into hydrogen-rich gas for fuel cells, with a public demo scheduled in Hamburg. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Production Boosted by Strain-Controlled Pt Single-Atom Catalyst on Crumpled MXene</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-production-boosted-by-strain-controlled-pt-single-atom-catalyst-on-crum/8576913/</link>
+      <guid isPermaLink="false">molecola-38ae43a28609c565</guid>
+      <pubDate>Mon, 19 Oct 2026 16:16:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A new lab study shows that platinum single atoms on crumpled Mo2TiC2Tx MXene achieve overpotentials as low as 24.9 mV at 10 mA cm−2 and a mass activity of 11 859 mA mgPt−1 for alkaline hydrogen evolution, according to… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Chinese Electrolyser Cost Advantage Shrinks to 8% When Stacks Are Exported to Europe, IEA Finds</title>
@@ -153,36 +185,108 @@
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
-      <title>Multi-Energy Microgrids for Sustainable Electric Vehicle Infrastructure: A Systematic Review of Hybrid Architectures, V2X Flexibility Services, and Hydrogen Sector Coupling</title>
-      <link>https://doi.org/10.5281/zenodo.23453917</link>
-      <guid isPermaLink="false">molecola-e82cd00ea119a129</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Design and Preparation of Nanochitin–Nanolignin Complexes for Innovative Cosmeceuticals, Nutraceuticals, and Skin-Beneficial Products</title>
+      <link>https://doi.org/10.3390/pr14203353</link>
+      <guid isPermaLink="false">molecola-4ae0d2807e60278e</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+      <description>Processes — OpenAlex</description>
     </item>
     <item>
-      <title>Phosphorylated Chitosan‐Based Ionogels for Quasi‐Solid‐State Supercapacitors With Activated Carbon Electrodes</title>
-      <link>https://doi.org/10.1002/batt.70510</link>
-      <guid isPermaLink="false">molecola-dad2cd7c55f16f77</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Evaluation of energy transition pathways for the instant coffee industry</title>
+      <link>https://doi.org/10.66506/ed.52</link>
+      <guid isPermaLink="false">molecola-972984f0f752bd45</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Batteries &amp; Supercaps — OpenAlex</description>
+      <description>Energy demand — OpenAlex</description>
     </item>
     <item>
-      <title>Opportunities and Challenges of Aqueous Tin Batteries for Future Energy Storage</title>
-      <link>https://doi.org/10.1002/smll.76373</link>
-      <guid isPermaLink="false">molecola-cb08558e4c6be78c</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Catalytic reactive-hydrogen membranes for rapid capture and hydrodefluorination of six PFAS of regulatory concern</title>
+      <link>https://doi.org/10.1073/pnas.2613985123</link>
+      <guid isPermaLink="false">molecola-f02f1a00a8de766c</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Small — OpenAlex</description>
+      <description>Proceedings of the National Academy of Sciences — OpenAlex</description>
     </item>
     <item>
-      <title>Synergistic Solvation‐Interface Regulation via a Zincophilic‐Hydrophobic Additive Enables Deep‐Cycling Zinc Metal Anodes</title>
-      <link>https://doi.org/10.1002/smll.76335</link>
-      <guid isPermaLink="false">molecola-9568191e8c95e980</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <title>Comprehensive review of hydrogen energy systems: trends, technologies, and future applications</title>
+      <link>https://doi.org/10.1002/jctb.70285</link>
+      <guid isPermaLink="false">molecola-1b85c46838479f29</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Small — OpenAlex</description>
+      <description>Journal of Chemical Technology &amp; Biotechnology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Molecular Synergy Engineering of Fused-Ring Polymers for Efficient Solar-Driven Hydrogen Production</title>
+      <link>https://doi.org/10.1021/acsapm.6c03260</link>
+      <guid isPermaLink="false">molecola-a28b42e3aaead5f1</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Polymer Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Data-driven engineering of light metal borohydrides for high-performance hydrogen storage: Materials design, machine learning, techno-economic assessment, and future perspectives</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158125</link>
+      <guid isPermaLink="false">molecola-70cac09f914adc7e</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Techno-economic comparison of lithium-iron phosphate battery and hydrogen energy storage for wind power-based microgrids</title>
+      <link>https://doi.org/10.1016/j.est.2026.125177</link>
+      <guid isPermaLink="false">molecola-da3f8e8d6c223202</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: L&amp;T’s Refinery Contract Anchors Production as Thermax Advances Electrolysis Pilots</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-l-t-s-refinery-contract-anchors-production-as-thermax-advanc/8576911/</link>
+      <guid isPermaLink="false">molecola-85bedee1fbe98be4</guid>
+      <pubDate>Sun, 18 Oct 2026 14:19:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>L&amp;T has anchored its green hydrogen strategy with domestic electrolyser commissioning at Hazira and Kandla and a 10,000 tpa contract with IndianOil’s Panipat refinery, while Thermax advances licensed alkaline systems… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>SANY Hydrogen Wins Additional Alkaline Electrolyser for Da’an Green-Ammonia Project</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-sany-hydrogen-wins-additional-alkaline-electrolyser-for-da-a/8576910/</link>
+      <guid isPermaLink="false">molecola-5d71b24ce3f2a780</guid>
+      <pubDate>Sun, 18 Oct 2026 14:16:25 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Shanghai Metals Market reports SANY Hydrogen won an award for an additional 1,000 Nm³/h alkaline electrolyser at the Da’an green ammonia facility in Jilin, highlighting expansion and procurement uncertainties. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Modeled Aftissat Wind-to-Hydrogen System Could Yield 510 Tonnes of Green Hydrogen at €2.87/kg</title>
+      <link>http://www.hydrogenfuelnews.com/modeled-aftissat-wind-to-hydrogen-system-could-yield-510-tonnes-of-green-hydroge/8576909/</link>
+      <guid isPermaLink="false">molecola-f6905d98e4324f0f</guid>
+      <pubDate>Sun, 18 Oct 2026 14:12:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A techno-economic model in the journal Hydrogen explores converting curtailed electricity from Morocco’s Aftissat wind farm into about 510 tonnes of green hydrogen annually at 2.866 euros/kg. The site-specific study… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Green Hydrogen News: Andalusia Opens Public Consultation on 10 MW Almonte Plant</title>
+      <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-andalusia-opens-public-consultation-on-10-mw-almonte-plant/8576908/</link>
+      <guid isPermaLink="false">molecola-43e30895b0b4c788</guid>
+      <pubDate>Sun, 18 Oct 2026 14:08:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Andalusia invites public feedback on a proposed 10 MW alkaline electrolysis plant in Almonte, targeting hydrogen-to-gas blending and environmental review. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen Fuel Cell News: SEOJIN SYSTEM Secures Major SOFC Module Supply Deal with Bloom Energy</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-seojin-system-secures-major-sofc-module-supply-deal-with/8576907/</link>
+      <guid isPermaLink="false">molecola-5a9a6a72ff77e40f</guid>
+      <pubDate>Sun, 18 Oct 2026 14:08:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>SEOJIN SYSTEM has secured multi-billion-KRW contracts to supply solid oxide fuel cell modules to Bloom Energy, supporting the scaling of distributed on-site power generation. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hydrogen News: Daihatsu Displays Development-Stage Ammonia/Hydrogen Co-Firing Engine</title>
+      <link>http://www.hydrogenfuelnews.com/hydrogen-news-daihatsu-displays-development-stage-ammonia-hydrogen-co-firing-eng/8576906/</link>
+      <guid isPermaLink="false">molecola-2445d78731ead634</guid>
+      <pubDate>Sun, 18 Oct 2026 01:11:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Daihatsu displayed an ammonia/hydrogen co-firing engine prototype at Japan Mobility Show Bizweek 2026, generating hydrogen onboard to improve combustion without a separate tank. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days</title>
@@ -191,46 +295,6 @@
       <pubDate>Sat, 17 Oct 2026 12:18:46 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>A UNIST-led team modeled that IRMOF-20 could extend vacuum-insulated liquid hydrogen storage from 64 to 221 days while retaining ~97% of volumetric capacity. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Unraveling the structure–activity relationship of hydroxyl/ether-based molecular additives for hydrogen-bond network regulation in aqueous zinc-ion batteries</title>
-      <link>https://doi.org/10.1007/s11581-026-07586-w</link>
-      <guid isPermaLink="false">molecola-c4abd681ca4cc4ab</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Ionics — OpenAlex</description>
-    </item>
-    <item>
-      <title>Study on the effect of coconut shell charcoal doping on the hydrogen storage performance of Mg-based materials</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158183</link>
-      <guid isPermaLink="false">molecola-c70cdded432f7f19</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Co-packed metal hydride and phase change pellets enable rapid hydrogen storage and release</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.141744</link>
-      <guid isPermaLink="false">molecola-5d99f30d407264f5</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
-    </item>
-    <item>
-      <title>MATLAB/Simulink Models and Supporting Code</title>
-      <link>https://doi.org/10.5281/zenodo.23441197</link>
-      <guid isPermaLink="false">molecola-113adc62a446592a</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Reversible hydrogen storage on Li-, Na- and K-decorated C12N8 nanocages: A combined DFT and Ab initio molecular dynamics study</title>
-      <link>https://doi.org/10.1007/s11224-026-02930-2</link>
-      <guid isPermaLink="false">molecola-b585e62b72d3de4a</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Structural Chemistry — OpenAlex</description>
     </item>
     <item>
       <title>France Advances Natural Hydrogen Exploration with 3.7 km PTH-2 Well in Lorraine</title>
@@ -383,70 +447,6 @@
       <pubDate>Fri, 16 Oct 2026 13:03:44 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Greentech Hydrogen Closes First Tranche of C$895,000 Private Placement — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan</title>
-      <link>https://fuelcellsworks.com/2026/10/16/energy-innovation/adb-and-japan-back-am-green-s-1-1-million-tonne-green-ammonia-plant-with-100m-loan</link>
-      <guid isPermaLink="false">molecola-e30d3d80c98e8eb1</guid>
-      <pubDate>Fri, 16 Oct 2026 12:32:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>ADB and Japan Back AM Green’s 1.1-Million-Tonne Green Ammonia Plant with $100M Loan — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>EWE and VERBUND launch 500 MW green hydrogen project in Nordenham</title>
-      <link>http://www.hydrogenfuelnews.com/ewe-and-verbund-launch-500-mw-green-hydrogen-project-in-nordenham/8576901/</link>
-      <guid isPermaLink="false">molecola-612bd90380aee374</guid>
-      <pubDate>Fri, 16 Oct 2026 10:15:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>EWE AG and VERBUND AG will build a 500 MW green hydrogen electrolyser in Nordenham, aiming for 50 000 tonnes per year and direct pipeline integration into Germany’s hydrogen core network. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Hydrogen production expansion unlikely to strain Europe’s freshwater supplies</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-production-expansion-unlikely-to-strain-europe-s-freshwater-supplies/8576900/</link>
-      <guid isPermaLink="false">molecola-9fdf83a40c339da6</guid>
-      <pubDate>Fri, 16 Oct 2026 10:13:10 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>A JRC study finds Europe’s planned hydrogen production will put limited pressure on most freshwater supplies, though Southern Europe faces local risks under pessimistic climate scenarios. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>The Hydrogen Stream: P2X starts selling renewable methane to European markets</title>
-      <link>https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/</link>
-      <guid isPermaLink="false">molecola-6a251f533ab38aaa</guid>
-      <pubDate>Fri, 16 Oct 2026 10:09:57 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic… — PV Magazine</description>
-    </item>
-    <item>
-      <title>Hydrogen Infrastructure: Wyoming Study Charts US Pipeline Costs and Emissions</title>
-      <link>http://www.hydrogenfuelnews.com/hydrogen-infrastructure-wyoming-study-charts-us-pipeline-costs-and-emissions/8576898/</link>
-      <guid isPermaLink="false">molecola-56a2eaeb7288b460</guid>
-      <pubDate>Fri, 16 Oct 2026 10:09:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>A University of Wyoming study in Nature Communications finds that US hydrogen pipeline cost models underestimated construction expenses and reveals regional cost and emissions variations between dedicated and… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>China could produce the cheapest green hydrogen</title>
-      <link>https://www.pv-magazine.com/2026/10/16/china-can-produce-the-cheapest-green-hydrogen/</link>
-      <guid isPermaLink="false">molecola-0ac0dce8b110a451</guid>
-      <pubDate>Fri, 16 Oct 2026 08:23:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>China could produce green hydrogen at an average cost of $120/MWh, significantly less than Germany, the United States and Japan, according to researchers at the University of Cologne. The analysis highlights China's… — PV Magazine</description>
-    </item>
-    <item>
-      <title>Finland Issues First Guarantees of Origin as Green Hydrogen-Based E-Methane Enters Gas Grid</title>
-      <link>https://hydrogeneurope.eu/finland-issues-first-guarantees-of-origin-as-green-hydrogen-based-e-methane-enters-gas-grid/</link>
-      <guid isPermaLink="false">molecola-8b2d8af408d8f30f</guid>
-      <pubDate>Fri, 16 Oct 2026 08:18:31 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Finland Issues First Guarantees of Origin as Green Hydrogen-Based E-Methane Enters Gas Grid — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>AEP to Invest $4B in 702 MW Bloom Energy Fuel Cell Plant for Google in Wyoming</title>
-      <link>http://www.hydrogenfuelnews.com/aep-to-invest-4b-in-702-mw-bloom-energy-fuel-cell-plant-for-google-in-wyoming/8576896/</link>
-      <guid isPermaLink="false">molecola-e83fdd9ee16b436d</guid>
-      <pubDate>Thu, 15 Oct 2026 21:09:12 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>AEP plans to invest $4 billion in a 702 MW Bloom Energy fuel cell plant near Cheyenne to power Google under a 20-year PPA, with carbon capture targets. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

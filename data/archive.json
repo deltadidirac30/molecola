@@ -1,5 +1,5 @@
 {
- "count": 2132,
+ "count": 2158,
  "items": [
   {
    "authors": [],
@@ -15,6 +15,47 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Holosolis secures EU Innovation Fund support for 5 GW solar factory"
+  },
+  {
+   "authors": [
+    "Haeseong Hwang",
+    "Eunjin Jo",
+    "Hyunseop Lee",
+    "한승호"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Transactions of the Korean Society of Mechanical Engineers A",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "64bca5d1ff5c4fae",
+   "lang": "en",
+   "link": "https://doi.org/10.3795/ksme-a.2026.50.10.837",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Estimation of Boil-Off Gas in Small-Scale Liquid Hydrogen Storage Vessels Using a Phase Change Model based on Intermolecular Interaction"
+  },
+  {
+   "authors": [
+    "Wael Othman",
+    "Ibrahim Alghoul",
+    "Nacir Tit",
+    "Kondo‐François Aguey‐Zinsou",
+    "Tanveer Hussain"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "f45ee139668ab52f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125196",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Defect-engineered beryllium dinitride (BeN₂) monolayer with light-metal decoration for reversible high-capacity hydrogen storage"
   },
   {
    "authors": [],
@@ -75,6 +116,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Japan: Construction Begins on Japan's Largest Hydrogen Liquefaction Plant with a Liquefaction Capacity of 50 Tons per Day"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-19T16:18:41+00:00",
+   "excerpt": "Fraunhofer IMM has built a 25 kW maritime diesel reformer under the ZIM-supported DIMARIT project to convert onboard diesel into hydrogen-rich gas for fuel cells, with a public demo scheduled in Hamburg.",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "33c2e84f08262f80",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/fraunhofer-imm-unveils-25-kw-diesel-reformer-for-maritime-fuel-cells/8576914/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Fraunhofer IMM Unveils 25 kW Diesel Reformer for Maritime Fuel Cells"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-19T16:16:40+00:00",
+   "excerpt": "A new lab study shows that platinum single atoms on crumpled Mo2TiC2Tx MXene achieve overpotentials as low as 24.9 mV at 10 mA cm−2 and a mass activity of 11 859 mA mgPt−1 for alkaline hydrogen evolution, according to…",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "38ae43a28609c565",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-boosted-by-strain-controlled-pt-single-atom-catalyst-on-crum/8576913/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production Boosted by Strain-Controlled Pt Single-Atom Catalyst on Crumpled MXene"
   },
   {
    "authors": [],
@@ -280,6 +351,345 @@
   },
   {
    "authors": [
+    "Maria‐Beatrice Coltelli",
+    "Pierfrancesco Morganti"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Processes",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "4ae0d2807e60278e",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/pr14203353",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design and Preparation of Nanochitin–Nanolignin Complexes for Innovative Cosmeceuticals, Nutraceuticals, and Skin-Beneficial Products"
+  },
+  {
+   "authors": [
+    "Rafailia Mitraki",
+    "Juliette M. Limpach",
+    "Muhammad Salman",
+    "Daniel Alexander Florez-Orrego",
+    "Francois M. A. Marechal",
+    "Grégoire Léonard"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Energy demand",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "972984f0f752bd45",
+   "lang": "en",
+   "link": "https://doi.org/10.66506/ed.52",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Evaluation of energy transition pathways for the instant coffee industry"
+  },
+  {
+   "authors": [
+    "Min Long",
+    "Ai-Shi Wang",
+    "Welman Curi Elias",
+    "Chen Zhou",
+    "Thomas Patrick Senftle",
+    "Michael S. Wong"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Proceedings of the National Academy of Sciences",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "f02f1a00a8de766c",
+   "lang": "en",
+   "link": "https://doi.org/10.1073/pnas.2613985123",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Catalytic reactive-hydrogen membranes for rapid capture and hydrodefluorination of six PFAS of regulatory concern"
+  },
+  {
+   "authors": [
+    "Koti Bhanu Teja Vagdandam",
+    "Sravanthi Veluturla",
+    "Dilip Kumar Behara"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Journal of Chemical Technology & Biotechnology",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "1b85c46838479f29",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/jctb.70285",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comprehensive review of hydrogen energy systems: trends, technologies, and future applications"
+  },
+  {
+   "authors": [
+    "Chengyi Ou",
+    "Jingwen Liang",
+    "Liang He",
+    "Chenglong Ru",
+    "Sibo Wang",
+    "Zhi‐An Lan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "ACS Applied Polymer Materials",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "a28b42e3aaead5f1",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsapm.6c03260",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Molecular Synergy Engineering of Fused-Ring Polymers for Efficient Solar-Driven Hydrogen Production"
+  },
+  {
+   "authors": [
+    "Md A. Wahab",
+    "Ifra Urooj",
+    "Manzar Sohail",
+    "Geoffrey D. Will",
+    "Rezwanul Haque",
+    "Ahmadyar Qureshi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "70cac09f914adc7e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158125",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Data-driven engineering of light metal borohydrides for high-performance hydrogen storage: Materials design, machine learning, techno-economic assessment, and future perspectives"
+  },
+  {
+   "authors": [
+    "Victor Eniola",
+    "Jack Cimorelli",
+    "Christopher Niezrecki",
+    "Xinfang Jin",
+    "David Willis"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "da3f8e8d6c223202",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125177",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-economic comparison of lithium-iron phosphate battery and hydrogen energy storage for wind power-based microgrids"
+  },
+  {
+   "authors": [
+    "Zhenhua Tian",
+    "Xiufei Han",
+    "Jing An",
+    "Yawen Mao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "ACS Applied Polymer Materials",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "dabb3e1afda907e8",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsapm.6c03132",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Self-Healing Conductive Hydrogels Based on Collagen and Carboxymethyl Cellulose for Movement Monitoring"
+  },
+  {
+   "authors": [
+    "Zhichao Hou",
+    "Wenqiang Lu",
+    "Hongbao Zheng",
+    "Guowei Zeng",
+    "Shibo Zhao",
+    "Nan Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Advanced Materials",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "52f22af1aa147388",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adma.75431",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reconstruction of the Electric Double Layer for Long‐Lasting Aqueous Manganese Metal Batteries"
+  },
+  {
+   "authors": [
+    "Hai Jiang",
+    "Li Xiong",
+    "HaoShuai Jia",
+    "Guijun Liu",
+    "Rongbo Chen",
+    "Feiyang Ma"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "4424da490365ce78",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19204950",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Two-Stage Distributionally Robust Optimization Scheduling for Industrial Park Integrated Energy Systems Considering Tiered Carbon Trading and Renewable Energy Uncertainty"
+  },
+  {
+   "authors": [
+    "Hui Huang",
+    "Menglin Chang",
+    "Sen Wang",
+    "Lei Zhu",
+    "Xiaofang Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Langmuir",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "21f5f77966b9988a",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.langmuir.6c04564",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial Control Mechanisms of Hydrogen Injection and Transport Behavior in Aquifers under Nanoscale Confinement"
+  },
+  {
+   "authors": [
+    "Reza Rezaee",
+    "Yujie Yuan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "Applied Sciences",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "82e8dfc46fb4a9ea",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/app162010356",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Limits of Conventional Well Logs for Differentiating Hydrogen and Methane in Subsurface Gas Reservoirs"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T14:19:30+00:00",
+   "excerpt": "L&T has anchored its green hydrogen strategy with domestic electrolyser commissioning at Hazira and Kandla and a 10,000 tpa contract with IndianOil’s Panipat refinery, while Thermax advances licensed alkaline systems…",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "85bedee1fbe98be4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-l-t-s-refinery-contract-anchors-production-as-thermax-advanc/8576911/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: L&T’s Refinery Contract Anchors Production as Thermax Advances Electrolysis Pilots"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T14:16:25+00:00",
+   "excerpt": "Shanghai Metals Market reports SANY Hydrogen won an award for an additional 1,000 Nm³/h alkaline electrolyser at the Da’an green ammonia facility in Jilin, highlighting expansion and procurement uncertainties.",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "5d71b24ce3f2a780",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-sany-hydrogen-wins-additional-alkaline-electrolyser-for-da-a/8576910/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "SANY Hydrogen Wins Additional Alkaline Electrolyser for Da’an Green-Ammonia Project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T14:12:34+00:00",
+   "excerpt": "A techno-economic model in the journal Hydrogen explores converting curtailed electricity from Morocco’s Aftissat wind farm into about 510 tonnes of green hydrogen annually at 2.866 euros/kg. The site-specific study…",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "f6905d98e4324f0f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/modeled-aftissat-wind-to-hydrogen-system-could-yield-510-tonnes-of-green-hydroge/8576909/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Modeled Aftissat Wind-to-Hydrogen System Could Yield 510 Tonnes of Green Hydrogen at €2.87/kg"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T14:08:58+00:00",
+   "excerpt": "Andalusia invites public feedback on a proposed 10 MW alkaline electrolysis plant in Almonte, targeting hydrogen-to-gas blending and environmental review.",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "43e30895b0b4c788",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-news-andalusia-opens-public-consultation-on-10-mw-almonte-plant/8576908/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Green Hydrogen News: Andalusia Opens Public Consultation on 10 MW Almonte Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T14:08:00+00:00",
+   "excerpt": "SEOJIN SYSTEM has secured multi-billion-KRW contracts to supply solid oxide fuel cell modules to Bloom Energy, supporting the scaling of distributed on-site power generation.",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "5a9a6a72ff77e40f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-news-seojin-system-secures-major-sofc-module-supply-deal-with/8576907/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel Cell News: SEOJIN SYSTEM Secures Major SOFC Module Supply Deal with Bloom Energy"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-18T01:11:13+00:00",
+   "excerpt": "Daihatsu displayed an ammonia/hydrogen co-firing engine prototype at Japan Mobility Show Bizweek 2026, generating hydrogen onboard to improve combustion without a separate tank.",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "2445d78731ead634",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-daihatsu-displays-development-stage-ammonia-hydrogen-co-firing-eng/8576906/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: Daihatsu Displays Development-Stage Ammonia/Hydrogen Co-Firing Engine"
+  },
+  {
+   "authors": [
     "Parth Patel"
    ],
    "category": "ricerca",
@@ -358,6 +768,23 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Synergistic Solvation‐Interface Regulation via a Zincophilic‐Hydrophobic Additive Enables Deep‐Cycling Zinc Metal Anodes"
+  },
+  {
+   "authors": [
+    "Tiago Barbosa Dias Maciel"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-18T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "7187a98f47a2c7c0",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23461953",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hybrid High-Efficiency Aluminum-Air Cogeneration and Thermal Storage Energy System with Closed-Loop In-Situ Regeneration (Bilingual Edition / Edição Bilíngue: English & Português)"
   },
   {
    "authors": [],
@@ -709,6 +1136,64 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Interfacial electronic modulation of pd-ZnO-CN catalysts via in-situ pyrolysis for efficient CO-free formic acid dehydrogenation"
+  },
+  {
+   "authors": [
+    "Chengyao Song",
+    "Christopher R. Clarkson"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Hydrogen",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "f6694c06cdeae86a",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/hydrogen7040161",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Evaluation of Simultaneous Hydrogen Gas Stream Purification and CO2 Storage in Deep Coal Seams: A Proof-of-Concept Study Using an Artificial Coal Core Plug and the RTAPK Method"
+  },
+  {
+   "authors": [
+    "Emanuele Sgambitterra",
+    "Leonardo Pagnotta"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Hydrogen",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "ca7c8d873e7c3947",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/hydrogen7040160",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development and Performance of Elastomer Seals for Hydrogen Storage and Distribution Systems: Challenges, Solutions, and Future Perspectives. Part I: The Influence of Pressurized Hydrogen on Materials for Elastomer Seals"
+  },
+  {
+   "authors": [
+    "Saniye Akyıl",
+    "Arezou Habibzadeh Khiabani",
+    "Deniz Damla Altan Kamer",
+    "Ali Can Karaca",
+    "Nevzat Konar",
+    "Şenay Şimşek"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-17T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-10-20T14:15:58+00:00",
+   "id": "87e9e6ab78b5fb90",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15203697",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Unraveling Pectin–Protein Interactions in Milk-Based Cocoa Beverages: Molecular Docking and Microstructure"
   },
   {
    "authors": [],
@@ -37666,6 +38151,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-20T08:25:57+00:00",
+ "updated": "2026-10-20T14:15:58+00:00",
  "version": 2
 }
