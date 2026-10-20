@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 20 Oct 2026 00:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:25:23 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Holosolis secures EU Innovation Fund support for 5 GW solar factory</title>
+      <link>https://www.pv-magazine.com/2026/10/20/holosolis-secures-eu-innovation-fund-support-for-5-gw-solar-factory/</link>
+      <guid isPermaLink="false">molecola-5d2ed2eecf4d95cc</guid>
+      <pubDate>Tue, 20 Oct 2026 05:45:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>The funding is part of a €3.4 billion ($3.98 billion) EU initiative supporting 77 clean-tech projects, including heat pump and battery manufacturing facilities across Europe. — PV Magazine</description>
+    </item>
     <item>
       <title>Hydrogen in Germany: Berlin Plans Green Gas Quota With Triple Credit for Renewable H₂</title>
       <link>https://fuelcellsworks.com/2026/10/19/h2/hydrogen-in-germany-berlin-plans-green-gas-quota-with-triple-credit-for-renewable-h</link>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 15 Oct 2026 21:09:12 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>AEP plans to invest $4 billion in a 702 MW Bloom Energy fuel cell plant near Cheyenne to power Google under a 20-year PPA, with carbon capture targets. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Lombardy's First Open-Market Hydrogen Valley Opens on Former Paper Mill Site</title>
-      <link>https://fuelcellsworks.com/2026/10/15/electrolyzer/lombardy-s-first-open-market-hydrogen-valley-opens-on-former-paper-mill-site</link>
-      <guid isPermaLink="false">molecola-a069a0176baa9841</guid>
-      <pubDate>Thu, 15 Oct 2026 16:13:26 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Lombardy's First Open-Market Hydrogen Valley Opens on Former Paper Mill Site — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

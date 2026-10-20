@@ -1,6 +1,21 @@
 {
- "count": 2131,
+ "count": 2132,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-20T05:45:32+00:00",
+   "excerpt": "The funding is part of a €3.4 billion ($3.98 billion) EU initiative supporting 77 clean-tech projects, including heat pump and battery manufacturing facilities across Europe.",
+   "first_seen": "2026-10-20T08:25:57+00:00",
+   "id": "5d2ed2eecf4d95cc",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/20/holosolis-secures-eu-innovation-fund-support-for-5-gw-solar-factory/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "Holosolis secures EU Innovation Fund support for 5 GW solar factory"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -37651,6 +37666,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-20T00:16:12+00:00",
+ "updated": "2026-10-20T08:25:57+00:00",
  "version": 2
 }
