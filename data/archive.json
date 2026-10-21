@@ -1,6 +1,27 @@
 {
- "count": 2177,
+ "count": 2196,
  "items": [
+  {
+   "authors": [
+    "Jinming Li",
+    "Zhihua Wang",
+    "Tao Li",
+    "Zhongchen Pei",
+    "Ming Dong"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "4f130cc009f67946",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125172",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal scheduling of hydrogen-integrated hybrid energy storage systems via multi-agent coordinated reinforcement learning"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -90,6 +111,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "China’s Hydrogen Output Tops 39 Million Tonnes as 41 Pilot Projects Move Toward Larger-Scale Deployment"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-20T15:42:02+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "2b7fbca4559f61b9",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/19/electric/doosan-bobcat-wins-red-dot-award-in-design-concept-category-with-rog-x3",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Doosan Bobcat Wins Red Dot Award in 'Design Concept' Category with 'ROG X3'"
   },
   {
    "authors": [],
@@ -311,6 +347,315 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Defect-engineered beryllium dinitride (BeN₂) monolayer with light-metal decoration for reversible high-capacity hydrogen storage"
+  },
+  {
+   "authors": [
+    "Pankaj Vijay Dangre",
+    "Laxmi Pardhi",
+    "Maheshkumar R. Borkar",
+    "Sachin Purushottam Borikar",
+    "Shailesh S. Chalikwar"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "BioNanoScience",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "b8a3fc528f136310",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s12668-026-02919-5",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Fabrication and Optimization of Deep Eutectic Solvents-Inspired Eutectogels for Transdermal Delivery of Lornoxicam"
+  },
+  {
+   "authors": [
+    "Kaituo Fang",
+    "Shuangyan Yuan",
+    "Junxiu Xue",
+    "Chunming Xu",
+    "Yu Wang",
+    "Yongming Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Polymers",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "ba8170c718070689",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/polym18202584",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integration of Aerogel Cryogenic Insulation with Carbon Fiber Composites for Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Xiaoji Shang",
+    "Yuerong Zhou",
+    "Zhizhen Zhang",
+    "Ruizhe Wang",
+    "Di Wu",
+    "Enhui Jin"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "ACS Omega",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "32027c31b4f89872",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsomega.6c08831",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Fracture-Influenced Seepage Behavior and Storage Capacity of Compressed Air Energy Storage in Closed Mine Roadways under Cyclic Operation"
+  },
+  {
+   "authors": [
+    "Amirmansour Jafari",
+    "Jalal Fahimpour",
+    "Mohammad Sharifi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "26e95becb2a64050",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158113",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental assessment of cyclic hysteresis phenomenon in hydrogen–brine relative permeability: Implications for periodic hydrogen storage in water-bearing porous media"
+  },
+  {
+   "authors": [
+    "Wenjing Jia",
+    "Kaixuan Zhou",
+    "Xianmeng Xu",
+    "Dawei Li",
+    "Rong Zheng",
+    "Dandan Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Coatings",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "4d4171089295e8d3",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/coatings16101246",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Chitosan–Poly(vinyl alcohol)–Tea Tree Essential Oil Composite Films: Fabrication, Physicochemical Properties, and Inhibitory Effects on Representative Bacterial Strains and Application for Blueberry Preservation"
+  },
+  {
+   "authors": [
+    "RoyaltyStat"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "RoyaltyStat Library",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "eb54fee9ff249771",
+   "lang": "en",
+   "link": "https://doi.org/10.34675/l42137",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Exclusive copyright, patent, know-how, process, trademark and trade secret license to use and sublicense licensor's 'Eden' carbon capture technology and system to capture CO2 and other emissions, 'Knights Charge' power generation and storage technology and system to provide electricity, and carbon to hydrogen technologies and other equipment to generate hydrogen for customers in industrial facilities, buildings, electrical grids and associated infrastructure, and the sale of hydrogen, renewable power, carbon allotropes and other byproducts."
+  },
+  {
+   "authors": [
+    "Ridha Ben Said",
+    "Youghourta Belhocine",
+    "Seyfeddine Rahali"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Transition Metal Chemistry",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "68277e8e76e25747",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11243-026-00786-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Metal–hydrogen interactions in Li- and Sc-functionalized [3,3]paracyclophane: a density functional theory study of bonding and adsorption mechanisms"
+  },
+  {
+   "authors": [
+    "Wenqiang Tao",
+    "Hongkun CHEN",
+    "Shiting Cui",
+    "Lei Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "7fcdfb27ae40e8c3",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.124906",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A coordinated hybrid energy storage–carbon quota sharing framework for low-carbon economic dispatch of multi-park integrated energy systems"
+  },
+  {
+   "authors": [
+    "Lejin Xu",
+    "Yixuan Huang",
+    "Fulin Kong",
+    "Tongtong Zhang",
+    "Steve Griffiths",
+    "Yulong Ding"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "e68648b36ac96269",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117553",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Liquid hydrogen storage for transport applications: A cross-sector review of technologies, thermal management and deployment readiness"
+  },
+  {
+   "authors": [
+    "Himanshu Nath",
+    "Alok Kumar",
+    "Nikhil Singh",
+    "Laraib Malik",
+    "Dibyajyoti Ghosh",
+    "Ritu Gupta"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "ACS Applied Materials & Interfaces",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "2033b2186e676ecb",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsami.6c15458",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interface Engineering of Hydrated Tungsten Oxide via Carbon Nitride for Durable Electrochromic Energy Storage"
+  },
+  {
+   "authors": [
+    "Peizhi Mao",
+    "Shiyin Chen",
+    "Fuge Niu",
+    "Zhaie Lu",
+    "Weichun Pan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Frontiers in Nutrition",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "a7dcae96f5688b79",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fnut.2026.1916662",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Characterization and optimization of a zein-based mesoscopic complex system for Venenum Bufonis delivery"
+  },
+  {
+   "authors": [
+    "RoyaltyStat"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "RoyaltyStat Library",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "7fcd6b89d65badca",
+   "lang": "en",
+   "link": "https://doi.org/10.34675/l43234",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First amendment to nonexclusive license to use the 'SBE Global' and 'SB Energy' trademarks and trade name and the 'sbenergy.com' domain name to sell and trade electrical energy, physical, digital and financial products, related datasets and renewable energy credits, provide related services and consultancy in connection with renewable energy projects, including solar, wind, biomass, hydrogen, hydroelectric, geothermal, battery storage, energy efficiency systems, electric transmission and distribution, and water installation projects, and to develop, construct and operate renewable energy projects and ancillary activities and businesses."
+  },
+  {
+   "authors": [
+    "Yue Zhao",
+    "Xingwang Li",
+    "Yunze Li",
+    "刘淑霖",
+    "Junshuang Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Molecules",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "884da35ca6554d56",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/molecules31203767",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Self-Assembly of Surfactants in Ionic Liquids: Mechanisms, Applications and Recent Developments"
+  },
+  {
+   "authors": [
+    "Lang Xu",
+    "Taifeng Li",
+    "Simin Ma",
+    "Yujuan Wu",
+    "Rouhao Wang",
+    "Mingliang Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "ChemSusChem",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "f8c0190447d8fa39",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cssc.71163",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Thiocyanate Ionic Liquids for High‐Performance Ultra‐Wide‐Bandgap Perovskite Solar Cells"
+  },
+  {
+   "authors": [
+    "Pan Shen",
+    "Wei Zuo",
+    "Qingqing Li",
+    "Kun Zhou",
+    "Yuhan Huang",
+    "Yawei Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "b58f9aba12c140c5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117623",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Applications, progress and technical challenges of machine learning in full lifetime of proton exchange membrane fuel cells"
   },
   {
    "authors": [],
@@ -882,6 +1227,46 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Limits of Conventional Well Logs for Differentiating Hydrogen and Methane in Subsurface Gas Reservoirs"
+  },
+  {
+   "authors": [
+    "Jun Wang",
+    "Lin Cheng",
+    "Kai Xia",
+    "Ke Xu",
+    "Feng Hu",
+    "Kai Ming Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "d9de5468d235b413",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158168",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen embrittlement mechanisms of 18Mn12Cr austenitic stainless steel under varied hydrogen charging conditions"
+  },
+  {
+   "authors": [
+    "Jawaria Bint Faheem",
+    "James G. Carton"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-19T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-21T11:39:44+00:00",
+   "id": "e798e039aa269648",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.157812",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Emergent hydrogen market dynamics in sector-coupled energy systems: Integrating techno-economic simulation, game theory and agent-based modelling"
   },
   {
    "authors": [],
@@ -38436,6 +38821,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-21T04:34:08+00:00",
+ "updated": "2026-10-21T11:39:44+00:00",
  "version": 2
 }

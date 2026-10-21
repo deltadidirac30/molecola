@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 21 Oct 2026 04:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:39:23 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Optimal scheduling of hydrogen-integrated hybrid energy storage systems via multi-agent coordinated reinforcement learning</title>
+      <link>https://doi.org/10.1016/j.est.2026.125172</link>
+      <guid isPermaLink="false">molecola-4f130cc009f67946</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
     <item>
       <title>Researchers Cut Precious Metal Use in Half for Green Hydrogen Production</title>
       <link>https://fuelcellsworks.com/2026/10/19/h2/researchers-cut-precious-metal-use-in-half-for-green-hydrogen-production</link>
@@ -55,6 +63,14 @@
       <pubDate>Tue, 20 Oct 2026 15:48:05 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>China’s Hydrogen Output Tops 39 Million Tonnes as 41 Pilot Projects Move Toward Larger-Scale Deployment — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Doosan Bobcat Wins Red Dot Award in 'Design Concept' Category with 'ROG X3'</title>
+      <link>https://fuelcellsworks.com/2026/10/19/electric/doosan-bobcat-wins-red-dot-award-in-design-concept-category-with-rog-x3</link>
+      <guid isPermaLink="false">molecola-2b7fbca4559f61b9</guid>
+      <pubDate>Tue, 20 Oct 2026 15:42:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Doosan Bobcat Wins Red Dot Award in 'Design Concept' Category with 'ROG X3' — Fuel Cells Works</description>
     </item>
     <item>
       <title>VIVIFY Technology Signs Letter of Intent to Serve as Primary Hydrogen Energy Infrastructure Provider for ELISIUM, a Planned Cognitive City in Hendry County, Florida</title>
@@ -167,6 +183,62 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Fabrication and Optimization of Deep Eutectic Solvents-Inspired Eutectogels for Transdermal Delivery of Lornoxicam</title>
+      <link>https://doi.org/10.1007/s12668-026-02919-5</link>
+      <guid isPermaLink="false">molecola-b8a3fc528f136310</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>BioNanoScience — OpenAlex</description>
+    </item>
+    <item>
+      <title>Integration of Aerogel Cryogenic Insulation with Carbon Fiber Composites for Hydrogen Storage</title>
+      <link>https://doi.org/10.3390/polym18202584</link>
+      <guid isPermaLink="false">molecola-ba8170c718070689</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Polymers — OpenAlex</description>
+    </item>
+    <item>
+      <title>Fracture-Influenced Seepage Behavior and Storage Capacity of Compressed Air Energy Storage in Closed Mine Roadways under Cyclic Operation</title>
+      <link>https://doi.org/10.1021/acsomega.6c08831</link>
+      <guid isPermaLink="false">molecola-32027c31b4f89872</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Omega — OpenAlex</description>
+    </item>
+    <item>
+      <title>Experimental assessment of cyclic hysteresis phenomenon in hydrogen–brine relative permeability: Implications for periodic hydrogen storage in water-bearing porous media</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158113</link>
+      <guid isPermaLink="false">molecola-26e95becb2a64050</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Chitosan–Poly(vinyl alcohol)–Tea Tree Essential Oil Composite Films: Fabrication, Physicochemical Properties, and Inhibitory Effects on Representative Bacterial Strains and Application for Blueberry Preservation</title>
+      <link>https://doi.org/10.3390/coatings16101246</link>
+      <guid isPermaLink="false">molecola-4d4171089295e8d3</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Coatings — OpenAlex</description>
+    </item>
+    <item>
+      <title>Exclusive copyright, patent, know-how, process, trademark and trade secret license to use and sublicense licensor's 'Eden' carbon capture technology and system to capture CO2 and other emissions, 'Knights Charge' power generation and storage technology and system to provide electricity, and carbon to hydrogen technologies and other equipment to generate hydrogen for customers in industrial facilities, buildings, electrical grids and associated infrastructure, and the sale of hydrogen, renewable power, carbon allotropes and other byproducts.</title>
+      <link>https://doi.org/10.34675/l42137</link>
+      <guid isPermaLink="false">molecola-eb54fee9ff249771</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>RoyaltyStat Library — OpenAlex</description>
+    </item>
+    <item>
+      <title>Metal–hydrogen interactions in Li- and Sc-functionalized [3,3]paracyclophane: a density functional theory study of bonding and adsorption mechanisms</title>
+      <link>https://doi.org/10.1007/s11243-026-00786-3</link>
+      <guid isPermaLink="false">molecola-68277e8e76e25747</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Transition Metal Chemistry — OpenAlex</description>
     </item>
     <item>
       <title>Finland Lays the Groundwork for Large-Scale Underground Hydrogen Storage in Crystalline Bedrock</title>
@@ -329,70 +401,6 @@
       <description>100 more signatures added to RFNBO industry letter – bringing total to 270 companies — Hydrogen Europe</description>
     </item>
     <item>
-      <title>Applications of first-principles calculations in the study of hydrogen storage alloys</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158153</link>
-      <guid isPermaLink="false">molecola-90b4ab91ea537484</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Design and Preparation of Nanochitin–Nanolignin Complexes for Innovative Cosmeceuticals, Nutraceuticals, and Skin-Beneficial Products</title>
-      <link>https://doi.org/10.3390/pr14203353</link>
-      <guid isPermaLink="false">molecola-4ae0d2807e60278e</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Processes — OpenAlex</description>
-    </item>
-    <item>
-      <title>Evaluation of energy transition pathways for the instant coffee industry</title>
-      <link>https://doi.org/10.66506/ed.52</link>
-      <guid isPermaLink="false">molecola-972984f0f752bd45</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy demand — OpenAlex</description>
-    </item>
-    <item>
-      <title>Catalytic reactive-hydrogen membranes for rapid capture and hydrodefluorination of six PFAS of regulatory concern</title>
-      <link>https://doi.org/10.1073/pnas.2613985123</link>
-      <guid isPermaLink="false">molecola-f02f1a00a8de766c</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Proceedings of the National Academy of Sciences — OpenAlex</description>
-    </item>
-    <item>
-      <title>Comprehensive review of hydrogen energy systems: trends, technologies, and future applications</title>
-      <link>https://doi.org/10.1002/jctb.70285</link>
-      <guid isPermaLink="false">molecola-1b85c46838479f29</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Chemical Technology &amp; Biotechnology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Molecular Synergy Engineering of Fused-Ring Polymers for Efficient Solar-Driven Hydrogen Production</title>
-      <link>https://doi.org/10.1021/acsapm.6c03260</link>
-      <guid isPermaLink="false">molecola-a28b42e3aaead5f1</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Polymer Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Data-driven engineering of light metal borohydrides for high-performance hydrogen storage: Materials design, machine learning, techno-economic assessment, and future perspectives</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158125</link>
-      <guid isPermaLink="false">molecola-70cac09f914adc7e</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-economic comparison of lithium-iron phosphate battery and hydrogen energy storage for wind power-based microgrids</title>
-      <link>https://doi.org/10.1016/j.est.2026.125177</link>
-      <guid isPermaLink="false">molecola-da3f8e8d6c223202</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
       <title>Green Hydrogen News: L&amp;T’s Refinery Contract Anchors Production as Thermax Advances Electrolysis Pilots</title>
       <link>http://www.hydrogenfuelnews.com/green-hydrogen-news-l-t-s-refinery-contract-anchors-production-as-thermax-advanc/8576911/</link>
       <guid isPermaLink="false">molecola-85bedee1fbe98be4</guid>
@@ -439,14 +447,6 @@
       <pubDate>Sun, 18 Oct 2026 01:11:13 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Daihatsu displayed an ammonia/hydrogen co-firing engine prototype at Japan Mobility Show Bizweek 2026, generating hydrogen onboard to improve combustion without a separate tank. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Cryo-Adsorption with MOFs May Extend Liquid Hydrogen Storage to 221 Days</title>
-      <link>http://www.hydrogenfuelnews.com/cryo-adsorption-with-mofs-may-extend-liquid-hydrogen-storage-to-221-days/8576904/</link>
-      <guid isPermaLink="false">molecola-a0fd821cfc840da0</guid>
-      <pubDate>Sat, 17 Oct 2026 12:18:46 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>A UNIST-led team modeled that IRMOF-20 could extend vacuum-insulated liquid hydrogen storage from 64 to 221 days while retaining ~97% of volumetric capacity. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
