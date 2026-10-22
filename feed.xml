@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:04:18 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>OMV begins electrolyser installation at 140MW Austrian hydrogen project</title>
+      <link>https://hydrogeneurope.eu/omv-begins-electrolyser-installation-at-140mw-austrian-hydrogen-project/</link>
+      <guid isPermaLink="false">molecola-698deb34ca4f2924</guid>
+      <pubDate>Thu, 22 Oct 2026 16:20:34 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>OMV begins electrolyser installation at 140MW Austrian hydrogen project — Hydrogen Europe</description>
+    </item>
     <item>
       <title>Hydrogen News: Kawasaki Launches Construction of 50-Tonne-Per-Day Green Hydrogen Liquefaction Plant</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-news-kawasaki-launches-construction-of-50-tonne-per-day-green-hydrogen-/8576927/</link>
@@ -127,6 +135,14 @@
       <pubDate>Wed, 21 Oct 2026 15:22:03 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Finland 'S VTT to Put Battery-Hydrogen SISU Truck Into Daily Freight Service Before Year-End — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Germany reveals measures to support hydrogen ramp-up</title>
+      <link>https://hydrogeneurope.eu/germany-reveals-measures-to-support-hydrogen-ramp-up/</link>
+      <guid isPermaLink="false">molecola-3d2a24d5aaf4982f</guid>
+      <pubDate>Wed, 21 Oct 2026 15:21:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Germany reveals measures to support hydrogen ramp-up — Hydrogen Europe</description>
     </item>
     <item>
       <title>A Molecular Pendulum for Efficient Hydrogen Production</title>
@@ -431,22 +447,6 @@
       <pubDate>Tue, 20 Oct 2026 14:29:59 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hydrogenera Wins €656,000 [$735,000] Grant to Develop Modular Hydrogen System — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>A Fresh Start in the US: Enapter Wins Total Hydrogen Solutions as Distributor</title>
-      <link>https://fuelcellsworks.com/2026/10/20/clean-energy/a-fresh-start-in-the-us-enapter-wins-total-hydrogen-solutions-as-distributor</link>
-      <guid isPermaLink="false">molecola-c34fd6e301b8b6f3</guid>
-      <pubDate>Tue, 20 Oct 2026 14:02:37 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>A Fresh Start in the US: Enapter Wins Total Hydrogen Solutions as Distributor — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Sparc Hydrogen Raises AUD 1.3 Million to Advance Solar-to-Hydrogen Technology</title>
-      <link>https://fuelcellsworks.com/2026/10/20/green-hydrogen/sparc-hydrogen-raises-aud-1-3-million-to-advance-solar-to-hydrogen-technology</link>
-      <guid isPermaLink="false">molecola-52098079a24f5af9</guid>
-      <pubDate>Tue, 20 Oct 2026 13:40:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Sparc Hydrogen Raises AUD 1.3 Million to Advance Solar-to-Hydrogen Technology — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

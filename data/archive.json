@@ -1,6 +1,21 @@
 {
- "count": 2241,
+ "count": 2243,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-22T16:20:34+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-22T17:04:41+00:00",
+   "id": "698deb34ca4f2924",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/omv-begins-electrolyser-installation-at-140mw-austrian-hydrogen-project/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "OMV begins electrolyser installation at 140MW Austrian hydrogen project"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -225,6 +240,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Finland 'S VTT to Put Battery-Hydrogen SISU Truck Into Daily Freight Service Before Year-End"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-21T15:21:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-22T17:04:41+00:00",
+   "id": "3d2a24d5aaf4982f",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/germany-reveals-measures-to-support-hydrogen-ramp-up/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Germany reveals measures to support hydrogen ramp-up"
   },
   {
    "authors": [],
@@ -39591,6 +39621,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-22T11:41:26+00:00",
+ "updated": "2026-10-22T17:04:41+00:00",
  "version": 2
 }
