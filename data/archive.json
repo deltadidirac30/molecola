@@ -1,6 +1,111 @@
 {
- "count": 2213,
+ "count": 2241,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T09:11:08+00:00",
+   "excerpt": "Kawasaki Heavy Industries has started construction on a 50 tonnes per day hydrogen liquefaction plant at Ogishima, part of a NEDO-backed demonstration to advance Japan’s integrated liquefied-hydrogen supply chain.",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "0c7aeef1ba9572b3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-kawasaki-launches-construction-of-50-tonne-per-day-green-hydrogen-/8576927/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen News: Kawasaki Launches Construction of 50-Tonne-Per-Day Green Hydrogen Liquefaction Plant"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T09:08:38+00:00",
+   "excerpt": "Plug Power reported preliminary Q3 net cash usage of approximately $28 million and appointed Dr. Lee Sweetland to lead PEM stack industrialization ahead of its early November earnings call.",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "dcfb62ca4f79a161",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-energy-news-plug-power-reports-preliminary-cash-usage-decline-and-names/8576926/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Energy News: Plug Power Reports Preliminary Cash Usage Decline and Names PEM Industrialization Lead"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T09:08:08+00:00",
+   "excerpt": "FuelCell Energy’s Block System earned a 99.873% ELCC accreditation in PJM’s 2028/2029 Reliability Backstop Procurement process, indicating nearly 99.9 MW per 100 MW can qualify as accredited capacity for data-center…",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "3a6701af14432e3a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/fuelcell-energy-block-system-secures-99-873-elcc-accreditation-in-pjm-capacity-p/8576925/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "FuelCell Energy Block System Secures 99.873% ELCC Accreditation in PJM Capacity Process"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T09:07:45+00:00",
+   "excerpt": "Genvia reports its Béziers pilot plant has logged over 2,600 hours of operation for its first-generation high-temperature solid-oxide electrolysis system, marking a key durability milestone (Midi Libre). The SOEL200…",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "aed36c937d2cddc3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-news-genvia-s-b-ziers-facility-reaches-2-600-hour-electrolysis-mileston/8576924/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Genvia’s Béziers Facility Reaches 2,600-Hour Electrolysis Milestone"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T07:57:05+00:00",
+   "excerpt": "Il Clean Hydrogen Monitor 2026 di Hydrogen Europe delinea le sfide e le prospettive del settore energetico",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "cd55757b0c9e60aa",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/transizione-ecologica/idrogeno-pulito-italia-eu-investimenti-urgenti-50-miliardi/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Idrogeno pulito in Italia e EU: investimenti urgenti per 50 miliardi"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-21T20:18:10+00:00",
+   "excerpt": "Bosch’s CryoPump-based turnkey station concept aims up to eight heavy-duty hydrogen refuels per hour and sub-10-minute fills, aligning with EU corridor targets.",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "7bba86a233f2ac42",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-refueling-stations-bosch-s-cryopump-accelerates-heavy-duty-truck-fuelin/8576922/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Refueling Stations: Bosch’s CryoPump Accelerates Heavy-Duty Truck Fueling"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-21T20:12:15+00:00",
+   "excerpt": "Woodside Energy has launched a formal process to cut its stake in the Beaumont New Ammonia project in Texas after a strategic review highlighted weaker-than-expected operations, a 30-day shutdown and delayed…",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "a75ba2be58c61c41",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/blue-ammonia-woodside-scales-back-investment-in-beaumont-new-ammonia-project/8576921/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Blue Ammonia: Woodside Scales Back Investment in Beaumont New Ammonia Project"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -257,6 +362,36 @@
    "title": "Dutch Hydrogen Refueling Firm Resato Declared Bankrupt, Restart Bid Due Next Week"
   },
   {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-21T07:13:44+00:00",
+   "excerpt": "HOLBORN Europa Raffinerie and Hamburger Energienetze have agreed to plan a hydrogen pipeline connection for Green Diesel and SAF production at the Hamburg-Harburg refinery from 2028, providing HH-WIN with a key anchor…",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "0f9dc4c44a9e5823",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hamburg-refinery-to-tap-hh-win-hydrogen-network-for-green-diesel-production/8576919/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hamburg Refinery to Tap HH-WIN Hydrogen Network for Green Diesel Production"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-21T07:10:47+00:00",
+   "excerpt": "Enapter AG’s Italian subsidiary has secured its first Saudi order for a 240 kW multicore AEM electrolyzer, marking its entry into the Kingdom’s industrial-gas market.",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "ffe9ea4f70ce01b0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/enapter-secures-first-saudi-order-for-240-kw-multicore-aem-electrolyzer/8576918/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Enapter Secures First Saudi Order for 240 kW Multicore AEM Electrolyzer"
+  },
+  {
    "authors": [
     "Jinming Li",
     "Zhihua Wang",
@@ -276,6 +411,241 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Optimal scheduling of hydrogen-integrated hybrid energy storage systems via multi-agent coordinated reinforcement learning"
+  },
+  {
+   "authors": [
+    "Smritirekha Talukdar",
+    "Alberto Soraci"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Frontiers in Catalysis",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "4344652c07b3131a",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fctls.2026.1939053",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent advances in multiscale modeling foundations for digital twins of hydrogen electrochemical devices"
+  },
+  {
+   "authors": [
+    "Mohammad Minhazul Abedin",
+    "Mohammed Nasiruzzaman Shaikh"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "27c0506d29faabe9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158162",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Liquid organic hydrogen carriers (LOHCs): Recent advancements and development in hydrogen storage technology"
+  },
+  {
+   "authors": [
+    "Yuao Wei",
+    "Shuoshuo Liu",
+    "Ge Huang",
+    "Chenyang Zha",
+    "Faisal Saleem",
+    "Wenjing Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Polyoxometalates",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "b3d8634800bb0908",
+   "lang": "en",
+   "link": "https://doi.org/10.26599/pom.2026.9140170",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Electron-sponge polyoxometalate for interfacial electron and hydrogen regulation toward nitrate to ammonia reduction"
+  },
+  {
+   "authors": [
+    "Tom Terlouw",
+    "Carina Harpprecht",
+    "Christian Bauer"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Communications Earth & Environment",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "2e8fb96d9462d2ca",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s43247-026-04129-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Regionalized greenhouse gas emissions and infrastructure requirements for future global iron and steel production"
+  },
+  {
+   "authors": [
+    "Yuseung Choi",
+    "Gilyong Shin",
+    "Jihun Lee",
+    "Sang Won Kim",
+    "Hoyeon Lee",
+    "Byeong Jun So"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "ACS Applied Materials & Interfaces",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "6fb5177ab4d08f93",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsami.6c16229",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reprotonation Kinetics Engineering of Aramid Nanofiber Hydrogel Electrolytes for Aqueous Zinc-Ion Batteries"
+  },
+  {
+   "authors": [
+    "Liang Gao",
+    "Angela Cusanno",
+    "Fengzhi Wang",
+    "Zuye Gong",
+    "Gianfranco Palumbo",
+    "Jun Qiao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Case Studies in Thermal Engineering",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "3ba24dc5f71cd316",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.csite.2026.108644",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solar-driven interfacial evaporation desalination performance of femtosecond-laser-processed pure aluminum surfaces: A thermal engineering case study"
+  },
+  {
+   "authors": [
+    "Prasanta Kumar Pattanaik",
+    "Shivam Gupta",
+    "Ashish Kumar Jha"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Information Systems Frontiers",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "473bf5ea845a4f06",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10796-026-10831-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Quantum Technology for Green IS: An Empirical Investigation of Quantum Technology Strategy for Green Hydrogen"
+  },
+  {
+   "authors": [
+    "Pervaiz Ahmad",
+    "Awais Khalid",
+    "Muhammad Saddique Akbar Khan",
+    "Zahoor Ullah"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Journal of King Saud University - Science",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "6374f873ed4fa010",
+   "lang": "en",
+   "link": "https://doi.org/10.25259/jksus_1624_2025",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "High-purity sodium metaborate synthesis via controlled thermal decomposition of sodium borohydride: Characterization for sustainable applications"
+  },
+  {
+   "authors": [
+    "Yin Quan",
+    "Shilei Jie",
+    "Peixian Wei",
+    "Dapeng Ji",
+    "Linfeng Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "7534ece3d4f6f229",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-76580-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Technology topic mining and evolution path analysis based on dynamic topic modeling: a case study of hydrogen energy vehicle technology"
+  },
+  {
+   "authors": [
+    "Tan Wu",
+    "Longfei Wei",
+    "Xuehong Wu",
+    "Yuhui CHEN",
+    "Youjian Zhu",
+    "Panfeng Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "cf93029c03465641",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19205000",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Thermodynamic and Sensitivity Analysis of a 5 t/d Claude-Cycle Hydrogen Liquefaction System"
+  },
+  {
+   "authors": [
+    "Ryszard Dzikowski"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "c755a71c6348a950",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23540800",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Germany's Energy Transition Measured Against Its Ability to Deliver"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-20T18:25:31+00:00",
+   "excerpt": "KIER developed a NiO-NiCo heterostructure cathode for alkaline water electrolysis, cutting voltage to 2.014 V at 1 A/cm² and demonstrating robust durability in single-cell tests.",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "95df83e615a99b27",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-production-advances-kier-s-nio-nico-electrode-lowers-voltage-in-alkalin/8576917/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Production Advances: KIER’s NiO-NiCo Electrode Lowers Voltage in Alkaline Electrolysis"
   },
   {
    "authors": [],
@@ -561,6 +931,21 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Holosolis secures EU Innovation Fund support for 5 GW solar factory"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-20T05:13:50+00:00",
+   "excerpt": "NTPC is holding exploratory talks with buyers in Japan, South Korea and Germany for green ammonia exports from its proposed Pudimadaka hub. The integrated facility aims for 20 GW of renewables, 1,500 t/day of hydrogen…",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "6f4b8aa0167b6706",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/green-hydrogen-production-ntpc-seeks-overseas-buyers-in-japan-south-korea-and-ge/8576916/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "NTPC Seeks Overseas Buyers in Japan, South Korea and Germany"
   },
   {
    "authors": [
@@ -911,6 +1296,136 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Applications, progress and technical challenges of machine learning in full lifetime of proton exchange membrane fuel cells"
+  },
+  {
+   "authors": [
+    "Mohammed B. Ahmed",
+    "Peshawa O. Hama",
+    "Dana A. Shukur",
+    "Rebar T. Abdulwahid",
+    "Dara Muhammad Aziz",
+    "H.J. Woo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "6a09decc3b313dd8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125214",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable PVA-based plasticized electrolyte filled with TiO₂ nanofiller for an electric double-layer capacitor with enhanced energy storage performance"
+  },
+  {
+   "authors": [
+    "Zhiwei Zhu",
+    "Yuncheng Cao",
+    "Guodong Liu",
+    "Duofu Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Geoenergy Science and Engineering",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "f509b104ca1b0740",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.geoen.2026.214875",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A review of experimental and theoretical research on hydrogen solubility"
+  },
+  {
+   "authors": [
+    "Xiaodong Zhao",
+    "Jianguo Liang",
+    "Jianglin Liu",
+    "Ting Wu",
+    "Hui Li",
+    "Yiwei Cui"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Composites Part B Engineering",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "e807e190954d0280",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.compositesb.2026.114326",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Variable filament width winding theory for process-intrinsic dome reinforcement of multi-filament wound composite pressure vessels"
+  },
+  {
+   "authors": [
+    "Xiaojiang Hou",
+    "Haoyang Chen",
+    "danting li",
+    "Mengke Xu",
+    "Shanghan Xie",
+    "Yuhao Jiang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Renewable Energy",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "3e963c45447da457",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.renene.2026.126589",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interlayer-engineered Ti2C MXene enables activation-free and kinetically enhanced hydrogen storage in Mg-rich Mg-Ni-Ce alloy"
+  },
+  {
+   "authors": [
+    "Yahan Wei",
+    "Qianying Zeng",
+    "Hongyu Zhang",
+    "Rongyuan Wang",
+    "Feng Wang",
+    "戎茂华"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Journal of Physics and Chemistry of Solids",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "dd584e5160a163bc",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpcs.2026.114234",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effect of Y substitution on the phase structure and hydrogen storage properties of Ti50-xV25Cr25Yx alloys"
+  },
+  {
+   "authors": [
+    "Qingquan He",
+    "Qingyue Guo",
+    "Feiyi Zhou",
+    "Runze Dai",
+    "Tao Zhang",
+    "Yu Bao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-10-22T11:41:26+00:00",
+   "id": "5a9406cee037772d",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.76345",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multifunctional Molecular Bridge for Synergistic Interfacial Regulation Toward Efficient Perovskite Solar Cells"
   },
   {
    "authors": [],
@@ -39076,6 +39591,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-22T04:32:43+00:00",
+ "updated": "2026-10-22T11:41:26+00:00",
  "version": 2
 }
