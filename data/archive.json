@@ -1,5 +1,5 @@
 {
- "count": 2212,
+ "count": 2213,
  "items": [
   {
    "authors": [],
@@ -45,6 +45,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Norwegian Hydrogen Ferries Delayed Again"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-21T15:58:50+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-22T04:32:43+00:00",
+   "id": "425640ec27e0cfad",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/20/battery/pepco-approves-connectder-s-meter-socket-adapters-for-d-c-solar-storage-and-ev-charging-installations",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Pepco Approves ConnectDER’s Meter Socket Adapters For D.C. Solar, Storage, & EV Charging Installations"
   },
   {
    "authors": [],
@@ -39061,6 +39076,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-21T21:34:59+00:00",
+ "updated": "2026-10-22T04:32:43+00:00",
  "version": 2
 }

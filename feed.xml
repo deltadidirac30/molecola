@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:32:25 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>World Premiere: Stadler Tests Hydrogen Trains on New Narrow-Gauge Track</title>
@@ -31,6 +31,14 @@
       <pubDate>Wed, 21 Oct 2026 16:03:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Norwegian Hydrogen Ferries Delayed Again — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Pepco Approves ConnectDER’s Meter Socket Adapters For D.C. Solar, Storage, &amp; EV Charging Installations</title>
+      <link>https://fuelcellsworks.com/2026/10/20/battery/pepco-approves-connectder-s-meter-socket-adapters-for-d-c-solar-storage-and-ev-charging-installations</link>
+      <guid isPermaLink="false">molecola-425640ec27e0cfad</guid>
+      <pubDate>Wed, 21 Oct 2026 15:58:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Pepco Approves ConnectDER’s Meter Socket Adapters For D.C. Solar, Storage, &amp; EV Charging Installations — Fuel Cells Works</description>
     </item>
     <item>
       <title>ABB Launches High-Efficiency Rectifier to Help Reduce Green Hydrogen Power Costs</title>
@@ -439,14 +447,6 @@
       <pubDate>Mon, 19 Oct 2026 15:41:56 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Chinese Electrolyser Cost Advantage Shrinks to 8% When Stacks Are Exported to Europe, IEA Finds — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Leapting Launches Autonomous Electric Forklift for Utility-Scale Solar Sites</title>
-      <link>https://fuelcellsworks.com/2026/10/18/electric/leapting-launches-autonomous-electric-forklift-for-utility-scale-solar-sites</link>
-      <guid isPermaLink="false">molecola-80b8b3a8155621a3</guid>
-      <pubDate>Mon, 19 Oct 2026 15:41:05 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Leapting Launches Autonomous Electric Forklift for Utility-Scale Solar Sites — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
