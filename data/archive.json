@@ -1,6 +1,21 @@
 {
- "count": 2277,
+ "count": 2288,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-23T10:07:42+00:00",
+   "excerpt": "Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects.",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "d2d9b2e3598b8a73",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use"
+  },
   {
    "authors": [
     "Ouns El Harzli",
@@ -67,6 +82,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T16:02:40+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "53fcad1c5acac61d",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/21/electric/xpeng-starts-mona-l03-deliveries-in-europe-with-ceo-handing-over-first-car-in-france",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Xpeng Starts Mona L03 Deliveries in Europe, with CEO Handing over First Car in France"
   },
   {
    "authors": [],
@@ -597,6 +627,150 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Warm Plasma Catalysis Enables Rapidly Switchable, Near-Complete Ammonia Cracking for On-Demand Hydrogen Production"
+  },
+  {
+   "authors": [
+    "Chenxin Huang",
+    "Qian Cheng",
+    "Chongyang Liu",
+    "Keqiang Huang",
+    "Shiyin Bai",
+    "Xiuzhu Yu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Food and Bioprocess Technology",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "42fd758c273c8dcc",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11947-026-04625-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Fabrication of Flaxseed Oil Nanoemulsions Stabilized by Flaxseed Protein-Dextran Complexes: Effectively Enhanced Emulsion Stability"
+  },
+  {
+   "authors": [
+    "Weiqi Wang",
+    "Guannan Liu",
+    "Liyuan Wei",
+    "Tao Ma",
+    "Tingting Xu",
+    "Dong H. Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "f8c4a8f708194292",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141849",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tailoring photothermal CO2 hydrogenation by oxide-supported Pt catalysts prepared by flame spray pyrolysis"
+  },
+  {
+   "authors": [
+    "Brahim Bergougui"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Energy Policy",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "948a06dc57566fd2",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enpol.2026.115673",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "When do hydrogen technology patents improve ecological performance? Cross-country evidence on mediation and threshold effects in the load capacity factor"
+  },
+  {
+   "authors": [
+    "Minghao Song",
+    "Yuehao Wu",
+    "Qinghua Liu",
+    "Bin Jiang",
+    "Yongqiang Cheng",
+    "Fei Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "AIChE Journal",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "70871a94d7f1ba60",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aic.70717",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Carbon dioxide dehydration with choline‐based deep eutectic solvents: Pitzer–Debye–Hückel ‐corrected COSMO ‐ RS modeling and molecular insights"
+  },
+  {
+   "authors": [
+    "Yuki Watanabe",
+    "Yuji Tokumasu",
+    "Hiroyuki Itoyama",
+    "Akira Inoue",
+    "石川 剛志",
+    "Tsuyoshi Nagasawa"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "ACS Catalysis",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "6056ab3ae4e21f84",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acscatal.6c07609",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dynamic Change in Oxygen Storage and Release Mechanisms of Pd/CeO2–ZrO2 Catalyst by Isotope Imaging"
+  },
+  {
+   "authors": [
+    "Xue Gao",
+    "Zeming Zhong",
+    "Liangjun Huang",
+    "Hui Wang",
+    "Liuzhang Ouyang",
+    "Lan Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Materials Science and Engineering R Reports",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "adcb8ba60af22463",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.mser.2026.101317",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent advances and remaining challenges of physisorption-based porous materials for hydrogen storage"
+  },
+  {
+   "authors": [
+    "Nihat AYDIN"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "91b2e23d611edaa2",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23576417",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integrated Fuel Production Architecture for Hybrid D–T / p–¹¹B Fusion Reactors"
   },
   {
    "authors": [],
@@ -1249,6 +1423,26 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Nonmetallic Anodes in Aqueous Batteries"
+  },
+  {
+   "authors": [
+    "Hao Song",
+    "Wenzhu Zhao",
+    "Wei Yang",
+    "Zhipeng Yu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-21T00:00:00+00:00",
+   "excerpt": "Trends in Food Science & Technology",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "39183e9e26b8b15a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.tifs.2026.106181",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Revisiting structure-activity relationships of food-derived antifreeze peptides from an interfacial water perspective"
   },
   {
    "authors": [],
@@ -2044,6 +2238,26 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Multifunctional Molecular Bridge for Synergistic Interfacial Regulation Toward Efficient Perovskite Solar Cells"
+  },
+  {
+   "authors": [
+    "Laura Pompei",
+    "Axel Riccardo Massulli",
+    "Gianluigi Lo Basso",
+    "Livio de Santoli"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-20T00:00:00+00:00",
+   "excerpt": "Renewable Energy",
+   "first_seen": "2026-10-23T11:30:35+00:00",
+   "id": "d3965e68cee27dc2",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.renene.2026.126588",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "How increasing green hydrogen blending affects techno-economic and environmental performance of renewable energy communities across Italian climates"
   },
   {
    "authors": [],
@@ -40209,6 +40423,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-23T04:38:01+00:00",
+ "updated": "2026-10-23T11:30:35+00:00",
  "version": 2
 }

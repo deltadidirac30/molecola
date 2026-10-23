@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 23 Oct 2026 04:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:30:05 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use</title>
+      <link>https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/</link>
+      <guid isPermaLink="false">molecola-d2d9b2e3598b8a73</guid>
+      <pubDate>Fri, 23 Oct 2026 10:07:42 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. — PV Magazine</description>
+    </item>
     <item>
       <title>Screening strongly correlated materials in solid oxide cells with quantum simulation</title>
       <link>https://arxiv.org/abs/2610.31591v1</link>
@@ -39,6 +47,14 @@
       <pubDate>Thu, 22 Oct 2026 16:04:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Xpeng Starts Mona L03 Deliveries in Europe, with CEO Handing over First Car in France</title>
+      <link>https://fuelcellsworks.com/2026/10/21/electric/xpeng-starts-mona-l03-deliveries-in-europe-with-ceo-handing-over-first-car-in-france</link>
+      <guid isPermaLink="false">molecola-53fcad1c5acac61d</guid>
+      <pubDate>Thu, 22 Oct 2026 16:02:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Xpeng Starts Mona L03 Deliveries in Europe, with CEO Handing over First Car in France — Fuel Cells Works</description>
     </item>
     <item>
       <title>Eastern Pacific Shipping Takes Delivery of World’s First Ammonia Dual-Fuel VLAC</title>
@@ -297,6 +313,14 @@
       <description>JACS Au — OpenAlex</description>
     </item>
     <item>
+      <title>Fabrication of Flaxseed Oil Nanoemulsions Stabilized by Flaxseed Protein-Dextran Complexes: Effectively Enhanced Emulsion Stability</title>
+      <link>https://doi.org/10.1007/s11947-026-04625-2</link>
+      <guid isPermaLink="false">molecola-42fd758c273c8dcc</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Food and Bioprocess Technology — OpenAlex</description>
+    </item>
+    <item>
       <title>Hydrogen Refueling Stations: Bosch’s CryoPump Accelerates Heavy-Duty Truck Fueling</title>
       <link>http://www.hydrogenfuelnews.com/hydrogen-refueling-stations-bosch-s-cryopump-accelerates-heavy-duty-truck-fuelin/8576922/</link>
       <guid isPermaLink="false">molecola-7bba86a233f2ac42</guid>
@@ -423,30 +447,6 @@
       <pubDate>Wed, 21 Oct 2026 14:39:37 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>SWITCH Maritime Receives Design Basis Agreement From US Coast Guard for 150-Passenger Hydrogen Fuel Cell-Electric Ferry — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Colruyt-Backed 25MW Green Hydrogen Plant Enters Testing in Zeebrugge</title>
-      <link>https://fuelcellsworks.com/2026/10/20/clean-energy/colruyt-backed-25mw-green-hydrogen-plant-enters-testing-in-zeebrugge</link>
-      <guid isPermaLink="false">molecola-bbbb5e2f246f12b6</guid>
-      <pubDate>Wed, 21 Oct 2026 14:18:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Colruyt-Backed 25MW Green Hydrogen Plant Enters Testing in Zeebrugge — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Greenpoint Lowers Hydrogen Price to €10.95 per Kilogram</title>
-      <link>https://fuelcellsworks.com/2026/10/21/h2/greenpoint-lowers-hydrogen-price-to-10-95-per-kilogram</link>
-      <guid isPermaLink="false">molecola-4873312e38acf28c</guid>
-      <pubDate>Wed, 21 Oct 2026 14:12:26 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Greenpoint Lowers Hydrogen Price to €10.95 per Kilogram — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Optimal scheduling of hydrogen-integrated hybrid energy storage systems via multi-agent coordinated reinforcement learning</title>
-      <link>https://doi.org/10.1016/j.est.2026.125172</link>
-      <guid isPermaLink="false">molecola-4f130cc009f67946</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
     </item>
   </channel>
 </rss>
