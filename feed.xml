@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 22 Oct 2026 21:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:37:42 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Screening strongly correlated materials in solid oxide cells with quantum simulation</title>
+      <link>https://arxiv.org/abs/2610.31591v1</link>
+      <guid isPermaLink="false">molecola-0898f06e6aabe218</guid>
+      <pubDate>Thu, 22 Oct 2026 17:26:29 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the… — arXiv</description>
+    </item>
     <item>
       <title>OMV begins electrolyser installation at 140MW Austrian hydrogen project</title>
       <link>https://hydrogeneurope.eu/omv-begins-electrolyser-installation-at-140mw-austrian-hydrogen-project/</link>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Recent advances in multiscale modeling foundations for digital twins of hydrogen electrochemical devices</title>
-      <link>https://doi.org/10.3389/fctls.2026.1939053</link>
-      <guid isPermaLink="false">molecola-4344652c07b3131a</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Frontiers in Catalysis — OpenAlex</description>
     </item>
   </channel>
 </rss>

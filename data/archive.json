@@ -1,6 +1,28 @@
 {
- "count": 2276,
+ "count": 2277,
  "items": [
+  {
+   "authors": [
+    "Ouns El Harzli",
+    "Jelle Bor",
+    "Linde Wester",
+    "Leonid Zhukov",
+    "Hanl Park",
+    "Jean-François Bobier"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T17:26:29+00:00",
+   "excerpt": "We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the…",
+   "first_seen": "2026-10-23T04:38:01+00:00",
+   "id": "0898f06e6aabe218",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.31591v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Screening strongly correlated materials in solid oxide cells with quantum simulation"
+  },
   {
    "authors": [],
    "category": "politica",
@@ -40187,6 +40209,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-22T21:29:35+00:00",
+ "updated": "2026-10-23T04:38:01+00:00",
  "version": 2
 }
