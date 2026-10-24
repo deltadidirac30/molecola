@@ -1,5 +1,5 @@
 {
- "count": 2304,
+ "count": 2325,
  "items": [
   {
    "authors": [],
@@ -255,6 +255,347 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use"
+  },
+  {
+   "authors": [
+    "Sulaiman Z. Almutairi",
+    "Abdullah Mohammed Shaheen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Arabian Journal for Science and Engineering",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "0fbe55f6ba548f14",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s13369-026-11712-1",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Black-Winged Kite Optimizer for Robust Frequency Stabilization of Multi-area Microgrids Including Green Hydrogen Production"
+  },
+  {
+   "authors": [
+    "Nan Wang",
+    "Qiong Li",
+    "Mengshuang Zhang",
+    "Lingling Tang",
+    "Jingxiang Xia",
+    "Li Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "4dde82ac8a12ae32",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241782",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sodium lignosulfonate-functionalized hydrogel electrolyte for long-life low-temperature zinc-air batteries"
+  },
+  {
+   "authors": [
+    "K. L. Bajaj",
+    "Anil Kumar Sangwan",
+    "Parmpal Singh Gill",
+    "Sukhjit Kaur Jawandha",
+    "Anil Kumar",
+    "Anu Kalia"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Postharvest Biology and Technology",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "8176a1551e1a3848",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.postharvbio.2026.114807",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Regulation of oxidative stress and quality deterioration in sweet oranges using tragacanth gum/chlorogenic acid composites: Multiscale characterization, molecular docking, and functional performance"
+  },
+  {
+   "authors": [
+    "Muhammad Shehroz",
+    "Julie Okiro",
+    "Tommy Kyaw Tun",
+    "Séamus Sreenan",
+    "Kellie Fortune",
+    "Eimear Daly"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Journal of the American Society for Mass Spectrometry",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "ae7614b48038accd",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/jasms.6c00247",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Preanalytical Benchmarks for Solvent-Based GC–MS Profiling of Volatile Organic Compounds in Diabetic Foot Ulcer Swabs"
+  },
+  {
+   "authors": [
+    "Shikang Xiao",
+    "Lige Wang",
+    "Yiting Huo",
+    "Chan Guo",
+    "Hao Wang",
+    "Tingting Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "ACS Catalysis",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "593cf7595e04736b",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acscatal.6c04957",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Advances in Photothermal CO2 Hydrogenation to Methane: Mechanistic Insights into Catalytic System Design across Different Scales"
+  },
+  {
+   "authors": [
+    "Chengyue Kuang",
+    "Lanhua Yang",
+    "Haixia Shu",
+    "Ye Tian",
+    "ZHU Dequan",
+    "Qiuping Yao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Horticulturae",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "fb6e16503e18aa26",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/horticulturae12111311",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Salicylic Acid Treatment Enhances Postharvest Disease Resistance and Preserves Quality in Gastrodia elata by Modulating Defence Metabolism and Energy Homeostasis"
+  },
+  {
+   "authors": [
+    "Jiaojie Wang",
+    "Aijia Yu",
+    "Liya Chen",
+    "Qixiang Chen",
+    "Qianshan Guo",
+    "Shiping Luo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "ACS Applied Nano Materials",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "b86a6637c3f3f67c",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsanm.6c03546",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "FeCo−N−C Nanostructures Derived from Metal−Organic Frameworks as a Bifunctional Catalyst for Oxygen Reduction and Hydrogen Evolution Reactions"
+  },
+  {
+   "authors": [
+    "Yichen Sun",
+    "Roman R. Elman",
+    "Dmitriy Krotkevich",
+    "Ekaterina Podrezova",
+    "Д. С. Никитин",
+    "Carlos Renato Rambo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Hydrogen",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "ee5b1ddeda26668b",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/hydrogen7040165",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Enhanced Dehydrogenation Properties of MgH2 with Delaminated Ti3C2Tx MXene Produced by Simple Wet Method"
+  },
+  {
+   "authors": [
+    "Hamid Esfandyari",
+    "Alireza Safari",
+    "Aliakbar Hassanpouryouzband",
+    "Manouchehr Haghighi",
+    "Stefan Iglauer",
+    "Alireza Keshavarz"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "c65c11f8e88f5979",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125278",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial thermodynamics of underground hydrogen storage: Linking mineralogy, cushion gas, and capillary sealing"
+  },
+  {
+   "authors": [
+    "Tanumoy Banerjee",
+    "Ingrid Xhafa",
+    "Matthew David Witman",
+    "Cullen M. Quine",
+    "Sarah Shulda",
+    "Thomas Gennett"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "24f601e6b47af46c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.129146",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-economic perspective on emerging cryogenic and non-cryogenic boil-off hydrogen compression systems"
+  },
+  {
+   "authors": [
+    "V. Chauke",
+    "D. M. Tshwane",
+    "H. R. Chauke"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Journal of Molecular Modeling",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "b12b97073d4e9bbe",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s00894-026-07016-8",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles and cluster expansion investigation of Ti–V–Mn AB2 alloys: stability, electronic structure, and mechanical properties"
+  },
+  {
+   "authors": [
+    "X. Liu",
+    "Junrui Xu",
+    "Xin Ding",
+    "Wei Liu",
+    "Lijuan Meng",
+    "Fenghai Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Metals",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "6fd1cc33bf6365dc",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/met16111170",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Low-Temperature Activation of Air-Exposed TiFe0.9Mn0.1Ce0.04Zr0.02 Alloy: Possible Role of a Mn/Zr-Enriched Secondary Region"
+  },
+  {
+   "authors": [
+    "Youssef Momtaz",
+    "Doaa Khalil Ibrahim",
+    "Mohamed Zakaria Kamh",
+    "Mohamed Abdul Raouf Shafei"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "d02bf1574413d4b5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122321",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal design of fully renewable PV–battery–hydrogen microgrids using stochastic paint optimizer considering long-term degradation and solar variability"
+  },
+  {
+   "authors": [
+    "GÜLŞAH ÖNER",
+    "Doguscu Derya Kahraman",
+    "Osman Gençel",
+    "Abid Ustaoğlu",
+    "Onur Güler",
+    "Ahmet Sarı"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "574004a9ef4fa329",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125188",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Utilizing porous polymer/phase change material composites for production of lightweight concretes with thermal energy storage capability"
+  },
+  {
+   "authors": [
+    "Saba A. Aladeemy",
+    "Ismail Babatunde Adefeso",
+    "Amjad Aldaej",
+    "Amani M. Alansi",
+    "Adebayo Adekunle Rasheed",
+    "Abdullah Mohammed Aldawsari"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Catalysts",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "2e13d0f886939f43",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/catal16110938",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Renewable Hydrogen for Sustainable Energy: Production Mechanisms, Catalytic Advances, Challenges, and Future Perspectives"
+  },
+  {
+   "authors": [
+    "Jinzhang Yang",
+    "Hairong Mai",
+    "Jinlei Tian",
+    "Zhiqiang Niu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "8120163e43594ae1",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/ange.4470539",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Nonmetallic Anodes in Aqueous Batteries"
   },
   {
    "authors": [
@@ -1011,6 +1352,112 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Integrated Fuel Production Architecture for Hybrid D–T / p–¹¹B Fusion Reactors"
+  },
+  {
+   "authors": [
+    "Qiang Wang",
+    "Shaoyuan Zhong",
+    "Jingyu Song",
+    "Shuo Zheng",
+    "Mingxu Lv",
+    "Hao Xiu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Journal",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "3e91fbb1fcf7a299",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.cej.2026.183409",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "PVDF/MMA-co-GMA composite films with high dielectric and energy storage performance achieved through dual-crosslinking of chemical and hydrogen bonding to regulate free volume and traps"
+  },
+  {
+   "authors": [
+    "Haiping Huang",
+    "Zhiping Zeng",
+    "Hong Zhang",
+    "Zheng Li",
+    "Qianru Wang",
+    "Steve Larter"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Marine Geoscience and Energy Resources",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "fdc5c2266c0d2740",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.marger.2026.207936",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Anomalous petroleum preservation in shallow reservoirs of the Dongying Depression: A working model of fault-controlled thermal overprinting"
+  },
+  {
+   "authors": [
+    "Nurbatyr Mukhametgazy",
+    "Meruyert Suleimenova",
+    "Sarkyt E. Kudaibergenov",
+    "Nurxat Nuraje"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Gels",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "b88b07d1c4f2fed2",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/gels12110945",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Exploring Polyampholyte Hydrogels in Energy Storage and Conversion: Supercapacitors, Batteries, Solar Cells, Fuel Cells, Sensors, and Photocatalytic Systems"
+  },
+  {
+   "authors": [
+    "Shangming He",
+    "Mingbao Huang",
+    "Yi Li",
+    "Kai Wan",
+    "Zhiyong Fu",
+    "Zhenxing Liang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "2f82857b61f80885",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.79209",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Thermodynamic Suppression of Deprotonation in Succinonitrile‐Based Electrolyte for Durable Solid‐State Sodium‐Metal Batteries"
+  },
+  {
+   "authors": [
+    "Muhammad Waqar",
+    "Sumyya Shah",
+    "Abid Ullah",
+    "Muhammad Humayun"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Materials",
+   "first_seen": "2026-10-24T10:50:17+00:00",
+   "id": "32359a50feffda7d",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/ma19214441",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Progress and Future Perspectives in Hydrogen Energy and Fuel Cell Technologies for Clean Energy Applications"
   },
   {
    "authors": [],
@@ -40663,6 +41110,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-24T04:27:09+00:00",
+ "updated": "2026-10-24T10:50:17+00:00",
  "version": 2
 }

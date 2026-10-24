@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:49:52 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Amogy to Deploy Ammonia Cracking Module at New Low-Carbon Testbed with A*STAR, Advancing Ammonia-to-Hydrogen Technology in Singapore</title>
@@ -145,12 +145,84 @@
       <description>Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. — PV Magazine</description>
     </item>
     <item>
-      <title>Screening strongly correlated materials in solid oxide cells with quantum simulation</title>
-      <link>https://arxiv.org/abs/2610.31591v1</link>
-      <guid isPermaLink="false">molecola-0898f06e6aabe218</guid>
-      <pubDate>Thu, 22 Oct 2026 17:26:29 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the… — arXiv</description>
+      <title>Black-Winged Kite Optimizer for Robust Frequency Stabilization of Multi-area Microgrids Including Green Hydrogen Production</title>
+      <link>https://doi.org/10.1007/s13369-026-11712-1</link>
+      <guid isPermaLink="false">molecola-0fbe55f6ba548f14</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Arabian Journal for Science and Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Sodium lignosulfonate-functionalized hydrogel electrolyte for long-life low-temperature zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2026.241782</link>
+      <guid isPermaLink="false">molecola-4dde82ac8a12ae32</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Power Sources — OpenAlex</description>
+    </item>
+    <item>
+      <title>Regulation of oxidative stress and quality deterioration in sweet oranges using tragacanth gum/chlorogenic acid composites: Multiscale characterization, molecular docking, and functional performance</title>
+      <link>https://doi.org/10.1016/j.postharvbio.2026.114807</link>
+      <guid isPermaLink="false">molecola-8176a1551e1a3848</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Postharvest Biology and Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Preanalytical Benchmarks for Solvent-Based GC–MS Profiling of Volatile Organic Compounds in Diabetic Foot Ulcer Swabs</title>
+      <link>https://doi.org/10.1021/jasms.6c00247</link>
+      <guid isPermaLink="false">molecola-ae7614b48038accd</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of the American Society for Mass Spectrometry — OpenAlex</description>
+    </item>
+    <item>
+      <title>Advances in Photothermal CO2 Hydrogenation to Methane: Mechanistic Insights into Catalytic System Design across Different Scales</title>
+      <link>https://doi.org/10.1021/acscatal.6c04957</link>
+      <guid isPermaLink="false">molecola-593cf7595e04736b</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Catalysis — OpenAlex</description>
+    </item>
+    <item>
+      <title>Salicylic Acid Treatment Enhances Postharvest Disease Resistance and Preserves Quality in Gastrodia elata by Modulating Defence Metabolism and Energy Homeostasis</title>
+      <link>https://doi.org/10.3390/horticulturae12111311</link>
+      <guid isPermaLink="false">molecola-fb6e16503e18aa26</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Horticulturae — OpenAlex</description>
+    </item>
+    <item>
+      <title>FeCo−N−C Nanostructures Derived from Metal−Organic Frameworks as a Bifunctional Catalyst for Oxygen Reduction and Hydrogen Evolution Reactions</title>
+      <link>https://doi.org/10.1021/acsanm.6c03546</link>
+      <guid isPermaLink="false">molecola-b86a6637c3f3f67c</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Nano Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Enhanced Dehydrogenation Properties of MgH2 with Delaminated Ti3C2Tx MXene Produced by Simple Wet Method</title>
+      <link>https://doi.org/10.3390/hydrogen7040165</link>
+      <guid isPermaLink="false">molecola-ee5b1ddeda26668b</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Hydrogen — OpenAlex</description>
+    </item>
+    <item>
+      <title>Interfacial thermodynamics of underground hydrogen storage: Linking mineralogy, cushion gas, and capillary sealing</title>
+      <link>https://doi.org/10.1016/j.est.2026.125278</link>
+      <guid isPermaLink="false">molecola-c65c11f8e88f5979</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Techno-economic perspective on emerging cryogenic and non-cryogenic boil-off hydrogen compression systems</title>
+      <link>https://doi.org/10.1016/j.apenergy.2026.129146</link>
+      <guid isPermaLink="false">molecola-24f601e6b47af46c</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Applied Energy — OpenAlex</description>
     </item>
     <item>
       <title>OMV begins electrolyser installation at 140MW Austrian hydrogen project</title>
@@ -375,78 +447,6 @@
       <pubDate>Thu, 22 Oct 2026 07:57:05 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
       <description>Il Clean Hydrogen Monitor 2026 di Hydrogen Europe delinea le sfide e le prospettive del settore energetico — Canale Energia</description>
-    </item>
-    <item>
-      <title>The effect of rehardening methods/storage environment on the delayed bond strength of composite resin to bleached enamel</title>
-      <link>https://doi.org/10.1186/s12903-026-10257-x</link>
-      <guid isPermaLink="false">molecola-e334e6088d21b5f7</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>BMC Oral Health — OpenAlex</description>
-    </item>
-    <item>
-      <title>Core-Functionalized 1,4-Naphthoquinone-Based Polymer Donors for Efficient and Stable Quasi-Planar Heterojunction Organic Solar Cells</title>
-      <link>https://doi.org/10.1021/acs.macromol.6c01860</link>
-      <guid isPermaLink="false">molecola-5c859214abe2007a</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Macromolecules — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Self-Healing Adhesive Exploiting Hydrogen-Bonding Interactions and Aromatic Disulfide Units in Energetic Composites</title>
-      <link>https://doi.org/10.3390/polym18212608</link>
-      <guid isPermaLink="false">molecola-0aa81063f7f4982d</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Polymers — OpenAlex</description>
-    </item>
-    <item>
-      <title>Technological opportunity identification for green marine fuels: a BERTopic-based patent mining study</title>
-      <link>https://doi.org/10.3389/fmars.2026.1898136</link>
-      <guid isPermaLink="false">molecola-9dc6340aca1b2275</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Frontiers in Marine Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Role of Rock Mechanics and Rock Engineering in Energy Transition: A Perspective from ARMA 2025</title>
-      <link>https://doi.org/10.1007/s00603-026-06062-1</link>
-      <guid isPermaLink="false">molecola-ef1684eacdccc17e</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Rock Mechanics and Rock Engineering — OpenAlex</description>
-    </item>
-    <item>
-      <title>Influence of Sintered Parameters and Composition of Zrx-Er1-x (x=0.25;0.50;0.75) Alloy on Microstructural Evolution</title>
-      <link>https://doi.org/10.59277/romjphys.2026.71.620</link>
-      <guid isPermaLink="false">molecola-8854516efeeaef42</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Romanian Journal of Physics — OpenAlex</description>
-    </item>
-    <item>
-      <title>Feasibility assessment of solar-driven underground hydrogen storage through integrated surface and subsurface modelling</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.129052</link>
-      <guid isPermaLink="false">molecola-22c4bc3cfa78490c</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Warm Plasma Catalysis Enables Rapidly Switchable, Near-Complete Ammonia Cracking for On-Demand Hydrogen Production</title>
-      <link>https://doi.org/10.1021/jacsau.6c01315</link>
-      <guid isPermaLink="false">molecola-752a8e80aa761171</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>JACS Au — OpenAlex</description>
-    </item>
-    <item>
-      <title>Fabrication of Flaxseed Oil Nanoemulsions Stabilized by Flaxseed Protein-Dextran Complexes: Effectively Enhanced Emulsion Stability</title>
-      <link>https://doi.org/10.1007/s11947-026-04625-2</link>
-      <guid isPermaLink="false">molecola-42fd758c273c8dcc</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Food and Bioprocess Technology — OpenAlex</description>
     </item>
   </channel>
 </rss>
