@@ -1,6 +1,274 @@
 {
- "count": 2325,
+ "count": 2348,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-25T02:09:26+00:00",
+   "excerpt": "Germany's hydrogen core network is advancing with 537 kilometers of operational pipelines. The GET H2 Nukleus initiative has enabled hydrogen transport to key industrial players, reflecting the network's importance in…",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "0914f83e30e97344",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/germany-s-hydrogen-core-network-a-step-toward-operational-reality/8576939/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Germany's Hydrogen Core Network: A Step Toward Operational Reality"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-24T13:11:19+00:00",
+   "excerpt": "Abergeldie Complex Infrastructure patents a new underground hydrogen storage system, revolutionizing how hydrogen can be stored efficiently and sustainably.",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "521155226da55c92",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/abergeldie-unveils-underground-hydrogen-storage-patent-a-quantum-leap-for-clean-/8576937/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Abergeldie Unveils Underground Hydrogen Storage Patent—A Quantum Leap for Clean Energy"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-24T13:07:25+00:00",
+   "excerpt": "Kawasaki Heavy Industries and Romania’s Transgaz have signed an MOU to explore hydrogen transport via pipelines, showcasing potential advancements for energy infrastructure in Europe.",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "4b804c498300b7d1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/kawasaki-heavy-industries-and-transgaz-forge-strategic-hydrogen-partnership/8576936/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Kawasaki Heavy Industries and Transgaz Forge Strategic Hydrogen Partnership"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-24T00:06:26+00:00",
+   "excerpt": "HDF Energy has taken complete ownership of the Renewstable Barbados project to develop a cutting-edge hybrid renewable energy facility, aiming to provide Barbados with sustainable, stable electricity and reduce…",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "4782e65ecf0dd4f1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hdf-energy-acquires-full-control-of-renewstable-barbados-project-a-step-towards-/8576932/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "HDF Energy Acquires Full Control of Renewstable Barbados Project: A Step Towards Green Hydrogen Innovation"
+  },
+  {
+   "authors": [
+    "Seyed Mohammad Vahidhosseini",
+    "Saman Rashidi",
+    "Roohollah Rafee",
+    "Elham Tolouei",
+    "Wei-Mon Yan",
+    "Nader Karimi"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Journal of Thermal Analysis and Calorimetry",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "e3912309e35cf228",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10973-026-16203-x",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Thermal engineering and high-temperature heat management in solar-to-fuel technologies: post-2020 advances, thermal challenges, and emerging design strategies"
+  },
+  {
+   "authors": [
+    "Congshan Wang",
+    "Bo Yang",
+    "Qi Liu",
+    "Huang Yicheng",
+    "Kai Ma",
+    "Xinping Guan"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "e433e0d8da1b03e8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.129130",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Long-term P2P trading among hydrogen refuelling stations: an online optimization method"
+  },
+  {
+   "authors": [
+    "Jyotsana Pandey",
+    "Sourabh Basu",
+    "Achayalingam Ramesh",
+    "Michael Sterlin Leo Hudson"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "388e3850d8ba4f58",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158250",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Electrochemical hydrogen storage performance of reduced graphene oxide and MXene composite"
+  },
+  {
+   "authors": [
+    "Chenghu Kang",
+    "Yang Zhou",
+    "Han Jiang",
+    "Yunxuan Zhou",
+    "Liangjuan Gao",
+    "Maziar Ashuri"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Rare Metals",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "907da6e2ee22b514",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/rar2.70703",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effective Porosity and Pore–Ligament Architecture in Mg‐Based Solid‐State Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "S. Majumder",
+    "Esteban Toledo‐Carrillo",
+    "Fei Ye",
+    "Mats Ahmadi Götelid",
+    "Joydeep Dutta"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "379e92bc1e28823a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241774",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Supercapacitive decoupled electrolyzer towards enhanced green hydrogen production"
+  },
+  {
+   "authors": [
+    "Xinxin He",
+    "Shimin Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "2240e029bc47b276",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158205",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A high-precision manometric platform for resolving rapid hydrogen kinetics in coal: Implications for large-scale geo-storage"
+  },
+  {
+   "authors": [
+    "Jiabao Cai",
+    "Zhixin Yang",
+    "Xiuxiu Zhang",
+    "袁振洛",
+    "Xinye Li",
+    "Xinmiao Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "e6f84b5bce1541e0",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125282",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Bimetallic NbZr MXene for enhanced hydrogen storage properties of MgH2"
+  },
+  {
+   "authors": [
+    "Karan Sotoodeh"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Transactions of Indian National Academy of Engineering",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "175de779fa86a4f7",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s41403-026-00601-6",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Leakage in Hydrogen Infrastructure: Environmental and Sustainability Risks"
+  },
+  {
+   "authors": [
+    "Jie Tan",
+    "Qinxuan Nie",
+    "Yinghao Li",
+    "Yumeng Zou",
+    "Jialing Xu",
+    "Libo Lu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "abeb717e1c28e732",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141840",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Performance assessment of a solar-driven system for polyethylene terephthalate supercritical water gasification integrated with seawater desalination to produce hydrogen-electricity-heat"
+  },
+  {
+   "authors": [
+    "Min-Qi Zhu",
+    "Yaqian Yang",
+    "Guobin Zhao",
+    "Xiaoyan Li",
+    "Pengfei Ou",
+    "Xue‐Feng Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "ec110ac2ca4a1c29",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158296",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -596,6 +864,139 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Nonmetallic Anodes in Aqueous Batteries"
+  },
+  {
+   "authors": [
+    "Qinxuan Nie",
+    "Jie Tan",
+    "Lei Yi",
+    "Le Wang",
+    "Jialing Xu",
+    "Zhiyong Peng"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "863c148ae36e7414",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133777",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comparative assessment of heating strategies for biomass supercritical water gasification systems using thermodynamic analysis and life cycle assessment"
+  },
+  {
+   "authors": [
+    "Charlotte Harris",
+    "Pawel Kosinski",
+    "Anna Kosinska"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "78cd904382218c70",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158152",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Photothermal enhancement of water electrolysis using carbon black nanofluids"
+  },
+  {
+   "authors": [
+    "Yubeen Yang",
+    "Sungwook Park"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "f4f0395253c237a8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122312",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimization of nozzle cap designs for enhancing mixture homogeneity in a direct-injection hydrogen marine engine"
+  },
+  {
+   "authors": [
+    "Chun On Poon",
+    "Gloria Milena Monsalve-Bravo",
+    "Nuno Batalha",
+    "Ping Chen",
+    "Xueqi Wang",
+    "Konarova Muxina Targinovna"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "760ff6fc0bd88509",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c07034",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Distinct Kinetic Roles of Bifunctional and Bimetallic Ru–Pt/TiO2 Catalysts in N -Ethylcarbazole Hydrogenation for Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Amir Mehrabianbardar",
+    "Zouhaier Jendli",
+    "Stéphane Gillet",
+    "Pedram Aminharati",
+    "Samia Nouira",
+    "Khaled Benfriha"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-23T00:00:00+00:00",
+   "excerpt": "Polymer Composites",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "139f72abd6a9ae41",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/pc.71759",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental and Machine Learning‐Based Process Optimization of UDCF / PA11 Composite Laminates for Hydrogen Storage Applications"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T22:10:17+00:00",
+   "excerpt": "Two proposed green-ammonia projects in Shetland aim to convert up to 480 MW of excess wind power into ammonia for fertiliser and marine fuel, signaling a new chapter in UK hydrogen infrastructure.",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "d9a70ee73405fed2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/shetland-s-green-ammonia-vision-leads-the-charge-in-uk-hydrogen-production/8576931/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Shetland’s Green-Ammonia Vision Leads the Charge in UK Hydrogen Production"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-22T22:06:45+00:00",
+   "excerpt": "Ballard Power Systems presented a plan targeting adjusted EBITDA profitability by 2027 end and full-year profitability in 2028, with 30% revenue CAGR, improved margins and $80–120 million in Hydrogen Power Unit…",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "0cc1359c3fe7e8d3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ballard-power-systems-outlines-path-to-adjusted-ebitda-profitability-and-hydroge/8576929/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Ballard Power Systems Outlines Path to Adjusted EBITDA Profitability and Hydrogen Power Unit Expansion"
   },
   {
    "authors": [
@@ -1458,6 +1859,50 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Progress and Future Perspectives in Hydrogen Energy and Fuel Cell Technologies for Clean Energy Applications"
+  },
+  {
+   "authors": [
+    "Pengcheng Dai",
+    "Tao Zhang",
+    "Xinyue Li",
+    "Yongxin Zhao",
+    "Dongzhi Jiang",
+    "Longzhen Cheng"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Journal",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "1c8cd1ed333f204d",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.cej.2026.183370",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Interfacial chemical anchoring of ceria on graphite felt for efficient and durable iron-chromium flow batteries"
+  },
+  {
+   "authors": [
+    "Yuqian Zheng",
+    "Xinxin Wen",
+    "Xiaoyan Qin",
+    "Wenyan Wang",
+    "Jun Zhao",
+    "Sheng Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-22T00:00:00+00:00",
+   "excerpt": "Food Chemistry X",
+   "first_seen": "2026-10-25T11:15:36+00:00",
+   "id": "0b7d161358fa749c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fochx.2026.104656",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "High-pressure-induced noncovalent grape polyphenol–corn starch assembly: Multi-scale structure, in vitro digestion, and IDDSI-based texture design"
   },
   {
    "authors": [],
@@ -41110,6 +41555,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-25T04:31:00+00:00",
+ "updated": "2026-10-25T11:15:36+00:00",
  "version": 2
 }
