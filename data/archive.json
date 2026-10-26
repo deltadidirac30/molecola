@@ -1,5 +1,5 @@
 {
- "count": 2348,
+ "count": 2357,
  "items": [
   {
    "authors": [],
@@ -15,6 +15,147 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Germany's Hydrogen Core Network: A Step Toward Operational Reality"
+  },
+  {
+   "authors": [
+    "Kenneth Bisgaard Christensen"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "ef7c6c313b28dd7b",
+   "lang": "en",
+   "link": "https://doi.org/10.13140/rg.2.2.11679.32160",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reliability-Constrained Bayesian Digital Twin for Sustainable Life- Cycle Decision-Making in Liquid-Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Fufang Yang",
+    "Agı́lio A. H. Pádua"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "Journal of Chemical & Engineering Data",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "57c870716b1afe47",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.jced.6c00456",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Modeling the Vapor–Liquid Equilibrium and Density of Hydrogen-Containing Binary Mixtures Using PC-SAFT"
+  },
+  {
+   "authors": [
+    "Qi Guo",
+    "Lewei Li",
+    "Meihui Yan",
+    "Yuzhao Yang",
+    "Dengchong Feng",
+    "Shaolin Lu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "Advanced Science",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "2ebda3441f1822bb",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/advs.78337",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multidimensionally Programming Photoswitching via Orthogonal Covalent‐Noncovalent Chemistry for Dual‐Track Time‐Resolved Optical Encryption"
+  },
+  {
+   "authors": [
+    "Wenxian Hui",
+    "Xin Xiao",
+    "Jian Xu",
+    "Feng Huihua",
+    "Jinwen Zhou",
+    "邵雪峰"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "International Journal of Thermal Sciences",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "3247d3b336a4cc90",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijthermalsci.2026.111421",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Performance study of cascade thermal energy storage system with waste heat in hydrogen production plant"
+  },
+  {
+   "authors": [
+    "Jiao Ji",
+    "Jinpeng Li",
+    "Da Xian Cao",
+    "Jinsong Zeng",
+    "Bin Wang",
+    "Jun Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "Cellulose",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "6f53b816dab9ce01",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10570-026-07256-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Redispersibility of concentrated dialdehyde cellulose nanofibrils: the role of β-cyclodextrin as a dispersant"
+  },
+  {
+   "authors": [
+    "Ruolan Du",
+    "Yuanzhe Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "Colloids and Interface Science Communications",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "014f9420cad4f0c9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.colcom.2026.100924",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "From electronic descriptors to durable design: a multi-scale review of catalysts for LOHC dehydrogenation"
+  },
+  {
+   "authors": [
+    "Ehab Issa El-sayed",
+    "Ahmed A. F. Youssef",
+    "Salah K. Elsayed",
+    "Ilyes Boulkaibet",
+    "Faris H. Alotaibi",
+    "Ali M. El‐Rifaie"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-25T00:00:00+00:00",
+   "excerpt": "Sustainability",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "b7adcf32cfac6d61",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/su182110827",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Data-Driven Stochastic Multi-Objective Energy Management System for Sustainable Interconnected Microgrids, Integrating LSTM Forecasts and Hybrid Storage Systems"
   },
   {
    "authors": [],
@@ -268,6 +409,49 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage"
+  },
+  {
+   "authors": [
+    "Yue Liu",
+    "Qinglin Cheng",
+    "Yuchun Li",
+    "Haiying Sun",
+    "Shaosong Zhao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "c2014ff77289e39c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.141864",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Exergy-driven lifecycle dispatch of a wind–solar–geothermal–hydrogen integrated energy system for shale-oil gathering in frigid regions"
+  },
+  {
+   "authors": [
+    "Aqleem Abbas",
+    "Yaru Xing",
+    "Muhammad Asim",
+    "Yanyin Guo",
+    "Nana Ji",
+    "Shanshan Hao"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Postharvest Biology and Technology",
+   "first_seen": "2026-10-26T12:49:25+00:00",
+   "id": "109185d264c8a975",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.postharvbio.2026.114813",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Preharvest 24-epibrassinolide application enhances postharvest storage quality of broccoli via self-adaptive stage mediation"
   },
   {
    "authors": [],
@@ -41555,6 +41739,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-26T04:35:45+00:00",
+ "updated": "2026-10-26T12:49:25+00:00",
  "version": 2
 }
