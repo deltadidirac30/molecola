@@ -1,6 +1,6 @@
 {
- "checked": "2026-10-26T12:49:25+00:00",
- "productive": 9,
+ "checked": "2026-10-26T13:18:58+00:00",
+ "productive": 8,
  "total": 16,
  "sources": [
   {
@@ -44,6 +44,14 @@
    "newest": null
   },
   {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Too Many Requests",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "qualenergia",
    "name": "QualEnergia",
    "ok": true,
@@ -65,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-10-22T17:26:29+00:00"
+   "newest": "2026-10-22"
   },
   {
    "slug": "fchea",
@@ -73,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-08T10:08:27+00:00"
+   "newest": "2026-10-08"
   },
   {
    "slug": "fuel-cells-works",
@@ -81,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-23T16:32:05+00:00"
+   "newest": "2026-10-23"
   },
   {
    "slug": "h2it",
@@ -89,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-21T11:18:12+00:00"
+   "newest": "2026-09-21"
   },
   {
    "slug": "hydrogen-europe",
@@ -97,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-22T16:20:34+00:00"
+   "newest": "2026-10-22"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -105,15 +113,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-25T02:09:26+00:00"
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-10-25T00:00:00+00:00"
+   "newest": "2026-10-25"
   },
   {
    "slug": "power",
@@ -121,7 +121,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-29T21:30:53+00:00"
+   "newest": "2026-09-29"
   },
   {
    "slug": "pv-magazine",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-23T10:07:42+00:00"
+   "newest": "2026-10-23"
   }
  ]
 }
