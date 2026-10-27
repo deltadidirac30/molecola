@@ -1,5 +1,5 @@
 {
- "count": 2374,
+ "count": 2376,
  "items": [
   {
    "authors": [],
@@ -94,6 +94,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-10-26T15:52:44+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-27T00:22:09+00:00",
+   "id": "78c466b6be78e55b",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/26/electric/kia-announces-pricing-for-2027-ev6",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "KIA Announces Pricing for 2027 Ev6"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-10-26T15:48:06+00:00",
    "excerpt": "",
    "first_seen": "2026-10-26T20:26:08+00:00",
@@ -120,6 +135,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Smoltek Now Traded on Nordic Growth Market (NGM)"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-26T15:41:05+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-27T00:22:09+00:00",
+   "id": "11ec3ffd93012332",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/26/electric/dragon-rise-explores-20-30-ev-charging-sites-in-thailand-under-new-partnership",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Dragon Rise Explores 20–30 EV Charging Sites in Thailand Under New Partnership"
   },
   {
    "authors": [],
@@ -41994,6 +42024,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-26T20:26:08+00:00",
+ "updated": "2026-10-27T00:22:09+00:00",
  "version": 2
 }

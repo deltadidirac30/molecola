@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:25:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:21:47 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Fuel Cells Help Quench Thirst for Data Center Power</title>
@@ -57,6 +57,14 @@
       <description>Ljubljana Puts Ten Mercedes-Benz Hydrogen Fuel-Cell Articulated Buses Into Service — Fuel Cells Works</description>
     </item>
     <item>
+      <title>KIA Announces Pricing for 2027 Ev6</title>
+      <link>https://fuelcellsworks.com/2026/10/26/electric/kia-announces-pricing-for-2027-ev6</link>
+      <guid isPermaLink="false">molecola-78c466b6be78e55b</guid>
+      <pubDate>Mon, 26 Oct 2026 15:52:44 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>KIA Announces Pricing for 2027 Ev6 — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>South Korea’s Jeonnam-Gwangju Region Pushes to Build Clean Hydrogen Hub Linking Three Industrial Cities</title>
       <link>https://fuelcellsworks.com/2026/10/21/h2/south-korea-s-jeonnam-gwangju-region-pushes-to-build-clean-hydrogen-hub-linking-three-industrial-cities</link>
       <guid isPermaLink="false">molecola-17448c698de94029</guid>
@@ -71,6 +79,14 @@
       <pubDate>Mon, 26 Oct 2026 15:45:08 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Smoltek Now Traded on Nordic Growth Market (NGM) — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Dragon Rise Explores 20–30 EV Charging Sites in Thailand Under New Partnership</title>
+      <link>https://fuelcellsworks.com/2026/10/26/electric/dragon-rise-explores-20-30-ev-charging-sites-in-thailand-under-new-partnership</link>
+      <guid isPermaLink="false">molecola-11ec3ffd93012332</guid>
+      <pubDate>Mon, 26 Oct 2026 15:41:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Dragon Rise Explores 20–30 EV Charging Sites in Thailand Under New Partnership — Fuel Cells Works</description>
     </item>
     <item>
       <title>Dutch Drilling Fluid Company Puts MAN Hydrogen Combustion Truck to Work</title>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 22 Oct 2026 16:04:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Xpeng Starts Mona L03 Deliveries in Europe, with CEO Handing over First Car in France</title>
-      <link>https://fuelcellsworks.com/2026/10/21/electric/xpeng-starts-mona-l03-deliveries-in-europe-with-ceo-handing-over-first-car-in-france</link>
-      <guid isPermaLink="false">molecola-53fcad1c5acac61d</guid>
-      <pubDate>Thu, 22 Oct 2026 16:02:40 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Xpeng Starts Mona L03 Deliveries in Europe, with CEO Handing over First Car in France — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Eastern Pacific Shipping Takes Delivery of World’s First Ammonia Dual-Fuel VLAC</title>
-      <link>https://fuelcellsworks.com/2026/10/22/clean-energy/eastern-pacific-shipping-takes-delivery-of-world-s-first-ammonia-dual-fuel-vlac</link>
-      <guid isPermaLink="false">molecola-aa4521f7bd2adebb</guid>
-      <pubDate>Thu, 22 Oct 2026 15:52:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Eastern Pacific Shipping Takes Delivery of World’s First Ammonia Dual-Fuel VLAC — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
