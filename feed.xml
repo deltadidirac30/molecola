@@ -6,8 +6,40 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:52:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:17:49 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>I ritardi europei sull’idrogeno verde e la necessità di una nuova strategia</title>
+      <link>https://www.qualenergia.it/articoli/ritardi-europei-idrogeno-verde-necessita-nuova-strategia/</link>
+      <guid isPermaLink="false">molecola-1d64dbabbcc68198</guid>
+      <pubDate>Tue, 27 Oct 2026 10:00:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>La produzione e l’utilizzo di idrogeno “verde”, quello ricavato dall’elettrolisi dell’acqua con un processo alimentato da energia elettrica rinnovabile, e di idrogeno a basse emissioni di CO2 si stanno sviluppando più… — QualEnergia</description>
+    </item>
+    <item>
+      <title>Nikkiso Launches an Innovative Pump to Revolutionize Hydrogen Fueling Stations</title>
+      <link>http://www.hydrogenfuelnews.com/nikkiso-launches-an-innovative-pump-to-revolutionize-hydrogen-fueling-stations/8576950/</link>
+      <guid isPermaLink="false">molecola-ee2e48c6de938116</guid>
+      <pubDate>Tue, 27 Oct 2026 06:14:15 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Nikkiso has launched its innovative P2KHF pump to dramatically reduce hydrogen losses at fueling stations, reportedly achieving under 1% transfer losses during tests. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Hyundai Leads the Charge in Hydrogen Vehicle Sales in South Korea</title>
+      <link>http://www.hydrogenfuelnews.com/hyundai-leads-the-charge-in-hydrogen-vehicle-sales-in-south-korea/8576949/</link>
+      <guid isPermaLink="false">molecola-bc0220069d9a94d7</guid>
+      <pubDate>Tue, 27 Oct 2026 06:09:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hyundai Motor Company has surpassed a cumulative total of 50,262 hydrogen fuel-cell electric vehicles (FCEVs) sold in South Korea, marking significant progress in the hydrogen mobility sector. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>European Commission Launches T-MED Investment Platform to Boost Mediterranean Clean Energy Investments</title>
+      <link>http://www.hydrogenfuelnews.com/european-commission-launches-t-med-investment-platform-to-boost-mediterranean-cl/8576948/</link>
+      <guid isPermaLink="false">molecola-8d3254a372a8f3f3</guid>
+      <pubDate>Tue, 27 Oct 2026 06:07:08 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The European Commission has launched the T-MED Investment Platform to streamline renewable energy investments in the Mediterranean, aiming to provide up to €4.5 billion in guarantees and strengthen collaborations… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Fuel Cells Help Quench Thirst for Data Center Power</title>
       <link>https://fchea.org/fuel-cells-help-quench-thirst-for-data-center-power/</link>
@@ -23,6 +55,22 @@
       <pubDate>Mon, 26 Oct 2026 18:25:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">FCHEA</source>
       <description>by Jason Barney, Renewable Innovations October 26, 2026 The question operators ask first When a data center team looks seriously at hydrogen fuel cells, the hard question is rarely whether the fuel cell works… — FCHEA</description>
+    </item>
+    <item>
+      <title>INPEX Launches Ammonia Production at Kashiwazaki Hydrogen Park</title>
+      <link>http://www.hydrogenfuelnews.com/inpex-launches-ammonia-production-at-kashiwazaki-hydrogen-park/8576946/</link>
+      <guid isPermaLink="false">molecola-a5fe273e7a80b766</guid>
+      <pubDate>Mon, 26 Oct 2026 17:13:05 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>INPEX Corporation has initiated ammonia production at the Kashiwazaki Hydrogen Park, a key step in Japan's hydrogen and ammonia supply ecosystem. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>European Commission Opens Consultation to Reinforce EU Hydrogen Strategy</title>
+      <link>http://www.hydrogenfuelnews.com/european-commission-opens-consultation-to-reinforce-eu-hydrogen-strategy/8576945/</link>
+      <guid isPermaLink="false">molecola-25a7c456c82adb6e</guid>
+      <pubDate>Mon, 26 Oct 2026 17:08:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The European Commission has launched a consultation to reshape the EU's hydrogen policy, focusing on building a competitive hydrogen value chain and aligning policies with renewable energy. Stakeholder inputs will be… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>EU Launches T-MED Platform With Up to €4.5 Billion in Guarantees for Mediterranean Hydrogen and Clean Energy</title>
@@ -159,6 +207,14 @@
       <pubDate>Mon, 26 Oct 2026 13:20:16 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Novel Ultrafast Solid Oxide-Ion Conductors for Low-Temperature Fuel Cells — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Revolutionizing Hydrogen Storage: A Path Towards Sustainable Energy</title>
+      <link>http://www.hydrogenfuelnews.com/revolutionizing-hydrogen-storage-a-path-towards-sustainable-energy/8576942/</link>
+      <guid isPermaLink="false">molecola-0cbd45e4f2c0ee95</guid>
+      <pubDate>Mon, 26 Oct 2026 04:08:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Recent innovations in hydrogen storage focus on anchoring ruthenium nanoparticles in nanostructured supports, aiming to enhance the efficiency and stability of hydrogen production for sustainable energy solutions. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Germany's Hydrogen Core Network: A Step Toward Operational Reality</title>
@@ -391,62 +447,6 @@
       <pubDate>Fri, 23 Oct 2026 13:40:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hamburg Hydrogen Network Signs Its Largest Customer as HOLBORN Refinery Joins HH-WIN — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>MAIRE Opens €45M NEXTCHEM Research Centre for Green Hydrogen and Sustainable Fuels</title>
-      <link>https://fuelcellsworks.com/2026/10/23/h2/maire-opens-45m-nextchem-research-centre-for-green-hydrogen-and-sustainable-fuels</link>
-      <guid isPermaLink="false">molecola-232fdb347a9be6eb</guid>
-      <pubDate>Fri, 23 Oct 2026 13:11:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>MAIRE Opens €45M NEXTCHEM Research Centre for Green Hydrogen and Sustainable Fuels — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>The Hydrogen Stream: Italian company unveils seven-layer PEM electrolyzer assembly to reduce iridium use</title>
-      <link>https://www.pv-magazine.com/2026/10/23/the-hydrogen-stream-italian-company-unveils-seven-layer-pem-electrolyzer-assembly-to-reduce-iridium-use/</link>
-      <guid isPermaLink="false">molecola-d2d9b2e3598b8a73</guid>
-      <pubDate>Fri, 23 Oct 2026 10:07:42 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Another 100 companies wrote the European executive body to preserve EU green hydrogen targets. Meanwhile, the European Commission selected 77 net-zero projects, including several hydrogen projects. — PV Magazine</description>
-    </item>
-    <item>
-      <title>Shetland’s Green-Ammonia Vision Leads the Charge in UK Hydrogen Production</title>
-      <link>http://www.hydrogenfuelnews.com/shetland-s-green-ammonia-vision-leads-the-charge-in-uk-hydrogen-production/8576931/</link>
-      <guid isPermaLink="false">molecola-d9a70ee73405fed2</guid>
-      <pubDate>Thu, 22 Oct 2026 22:10:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Two proposed green-ammonia projects in Shetland aim to convert up to 480 MW of excess wind power into ammonia for fertiliser and marine fuel, signaling a new chapter in UK hydrogen infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Ballard Power Systems Outlines Path to Adjusted EBITDA Profitability and Hydrogen Power Unit Expansion</title>
-      <link>http://www.hydrogenfuelnews.com/ballard-power-systems-outlines-path-to-adjusted-ebitda-profitability-and-hydroge/8576929/</link>
-      <guid isPermaLink="false">molecola-0cc1359c3fe7e8d3</guid>
-      <pubDate>Thu, 22 Oct 2026 22:06:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Ballard Power Systems presented a plan targeting adjusted EBITDA profitability by 2027 end and full-year profitability in 2028, with 30% revenue CAGR, improved margins and $80–120 million in Hydrogen Power Unit… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>OMV begins electrolyser installation at 140MW Austrian hydrogen project</title>
-      <link>https://hydrogeneurope.eu/omv-begins-electrolyser-installation-at-140mw-austrian-hydrogen-project/</link>
-      <guid isPermaLink="false">molecola-698deb34ca4f2924</guid>
-      <pubDate>Thu, 22 Oct 2026 16:20:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>OMV begins electrolyser installation at 140MW Austrian hydrogen project — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>The New Tesla Roadster Does Things Even James Bond Never Dared Dream About, but You Won’t Be Flying One on Public Roads Anytime Soon, if Ever.</title>
-      <link>https://fuelcellsworks.com/2026/10/22/battery/the-new-tesla-roadster-does-things-even-james-bond-never-dared-dream-about-but-you-won-t-be-flying-one-on-public-roads-anytime-soon-if-ever</link>
-      <guid isPermaLink="false">molecola-237fec3363289d3b</guid>
-      <pubDate>Thu, 22 Oct 2026 16:19:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>The New Tesla Roadster Does Things Even James Bond Never Dared Dream About, but You Won’t Be Flying One on Public Roads Anytime Soon, if Ever. — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production</title>
-      <link>https://fuelcellsworks.com/2026/10/22/green-investment/dutch-researcher-wins-up-to-850-000-to-develop-magnetic-catalysts-for-green-hydrogen-production</link>
-      <guid isPermaLink="false">molecola-dc6599953f5b63ca</guid>
-      <pubDate>Thu, 22 Oct 2026 16:04:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Dutch Researcher Wins Up to €850,000 to Develop Magnetic Catalysts for Green Hydrogen Production — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

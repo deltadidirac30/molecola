@@ -1,6 +1,66 @@
 {
- "count": 2376,
+ "count": 2383,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-27T10:00:48+00:00",
+   "excerpt": "La produzione e l’utilizzo di idrogeno “verde”, quello ricavato dall’elettrolisi dell’acqua con un processo alimentato da energia elettrica rinnovabile, e di idrogeno a basse emissioni di CO2 si stanno sviluppando più…",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "1d64dbabbcc68198",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/articoli/ritardi-europei-idrogeno-verde-necessita-nuova-strategia/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "I ritardi europei sull’idrogeno verde e la necessità di una nuova strategia"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-27T06:14:15+00:00",
+   "excerpt": "Nikkiso has launched its innovative P2KHF pump to dramatically reduce hydrogen losses at fueling stations, reportedly achieving under 1% transfer losses during tests.",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "ee2e48c6de938116",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/nikkiso-launches-an-innovative-pump-to-revolutionize-hydrogen-fueling-stations/8576950/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Nikkiso Launches an Innovative Pump to Revolutionize Hydrogen Fueling Stations"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-27T06:09:31+00:00",
+   "excerpt": "Hyundai Motor Company has surpassed a cumulative total of 50,262 hydrogen fuel-cell electric vehicles (FCEVs) sold in South Korea, marking significant progress in the hydrogen mobility sector.",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "bc0220069d9a94d7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hyundai-leads-the-charge-in-hydrogen-vehicle-sales-in-south-korea/8576949/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hyundai Leads the Charge in Hydrogen Vehicle Sales in South Korea"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-27T06:07:08+00:00",
+   "excerpt": "The European Commission has launched the T-MED Investment Platform to streamline renewable energy investments in the Mediterranean, aiming to provide up to €4.5 billion in guarantees and strengthen collaborations…",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "8d3254a372a8f3f3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/european-commission-launches-t-med-investment-platform-to-boost-mediterranean-cl/8576948/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "European Commission Launches T-MED Investment Platform to Boost Mediterranean Clean Energy Investments"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -30,6 +90,36 @@
    "source": "FCHEA",
    "source_slug": "fchea",
    "title": "FCHEA Member Guest Blog: Fueling the Data Center Fuel Cell"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-26T17:13:05+00:00",
+   "excerpt": "INPEX Corporation has initiated ammonia production at the Kashiwazaki Hydrogen Park, a key step in Japan's hydrogen and ammonia supply ecosystem.",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "a5fe273e7a80b766",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/inpex-launches-ammonia-production-at-kashiwazaki-hydrogen-park/8576946/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "INPEX Launches Ammonia Production at Kashiwazaki Hydrogen Park"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-26T17:08:24+00:00",
+   "excerpt": "The European Commission has launched a consultation to reshape the EU's hydrogen policy, focusing on building a competitive hydrogen value chain and aligning policies with renewable energy. Stakeholder inputs will be…",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "25a7c456c82adb6e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/european-commission-opens-consultation-to-reinforce-eu-hydrogen-strategy/8576945/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "European Commission Opens Consultation to Reinforce EU Hydrogen Strategy"
   },
   {
    "authors": [],
@@ -285,6 +375,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Novel Ultrafast Solid Oxide-Ion Conductors for Low-Temperature Fuel Cells"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-26T04:08:28+00:00",
+   "excerpt": "Recent innovations in hydrogen storage focus on anchoring ruthenium nanoparticles in nanostructured supports, aiming to enhance the efficiency and stability of hydrogen production for sustainable energy solutions.",
+   "first_seen": "2026-10-27T15:18:12+00:00",
+   "id": "0cbd45e4f2c0ee95",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/revolutionizing-hydrogen-storage-a-path-towards-sustainable-energy/8576942/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Revolutionizing Hydrogen Storage: A Path Towards Sustainable Energy"
   },
   {
    "authors": [],
@@ -42024,6 +42129,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-27T08:53:05+00:00",
+ "updated": "2026-10-27T15:18:12+00:00",
  "version": 2
 }
