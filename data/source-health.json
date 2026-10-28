@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T05:28:51+00:00",
+ "checked": "2026-10-28T12:41:53+00:00",
  "productive": 10,
  "total": 16,
  "sources": [
@@ -39,7 +39,7 @@
    "slug": "offshore-energy",
    "name": "Offshore Energy",
    "ok": false,
-   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22075",
+   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22214",
    "count": 0,
    "newest": null
   },
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-27T06:14:15+00:00"
+   "newest": "2026-10-28T05:10:38+00:00"
   },
   {
    "slug": "openalex",

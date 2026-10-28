@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2026 05:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:41:38 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>We fact-checked 100 hydrogen-infrastructure projects announced in 2023–24</title>
+      <link>http://www.hydrogenfuelnews.com/we-fact-checked-100-hydrogen-infrastructure-projects-announced-in-2023-24/8576958/</link>
+      <guid isPermaLink="false">molecola-50431c9a32068bb7</guid>
+      <pubDate>Wed, 28 Oct 2026 05:10:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>We verified 100 hydrogen-infrastructure projects announced in 2023–24 against live sources: half built, a third still just plans, almost none officially cancelled. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Baotou Puts Around 2,000 Solid-State Hydrogen Storage Two-Wheelers Into Shared Fleet, Plans 10,000 Total</title>
       <link>https://fuelcellsworks.com/2026/10/27/fuel-cells/txt-just-now-baotou-puts-around-2-000-solid-state-hydrogen-storage-two-wheelers-into-shared-fleet-plans-10-000-total</link>
@@ -367,14 +375,6 @@
       <pubDate>Mon, 26 Oct 2026 13:20:16 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Novel Ultrafast Solid Oxide-Ion Conductors for Low-Temperature Fuel Cells — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Revolutionizing Hydrogen Storage: A Path Towards Sustainable Energy</title>
-      <link>http://www.hydrogenfuelnews.com/revolutionizing-hydrogen-storage-a-path-towards-sustainable-energy/8576942/</link>
-      <guid isPermaLink="false">molecola-0cbd45e4f2c0ee95</guid>
-      <pubDate>Mon, 26 Oct 2026 04:08:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Recent innovations in hydrogen storage focus on anchoring ruthenium nanoparticles in nanostructured supports, aiming to enhance the efficiency and stability of hydrogen production for sustainable energy solutions. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Research on incentive-compatible mechanisms between government and wind-solar-hydrogen-storage systems under the new energy system</title>

@@ -1,6 +1,21 @@
 {
- "count": 2423,
+ "count": 2426,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-28T05:10:38+00:00",
+   "excerpt": "We verified 100 hydrogen-infrastructure projects announced in 2023–24 against live sources: half built, a third still just plans, almost none officially cancelled.",
+   "first_seen": "2026-10-28T12:41:53+00:00",
+   "id": "50431c9a32068bb7",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/we-fact-checked-100-hydrogen-infrastructure-projects-announced-in-2023-24/8576958/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "We fact-checked 100 hydrogen-infrastructure projects announced in 2023–24"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -1044,6 +1059,27 @@
    "title": "First Principles Study of Hydrogen Storage in Scandium‐Based Vacancy Ordered Hydrides"
   },
   {
+   "authors": [
+    "Hammad Armghan",
+    "Yinliang Xu",
+    "Ye Guo",
+    "Jinfeng Wang",
+    "Jeremy Watson"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-26T00:00:00+00:00",
+   "excerpt": "Electric Power Systems Research",
+   "first_seen": "2026-10-28T12:41:53+00:00",
+   "id": "71621732f63c9715",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.epsr.2026.114374",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Conformal multi-horizon forecasting and scheduling with event-triggered control for battery–hydrogen microgrids"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-10-25T02:09:26+00:00",
@@ -1558,6 +1594,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Enhanced dehydrogenation of LiBH4 via a biomass derived carbon supported Nb2O5 catalyst with in-situ formed phases and improved dispersion"
+  },
+  {
+   "authors": [
+    "Yujia Fu",
+    "Feng Hu",
+    "Min Zhou",
+    "许剑轶",
+    "Junyu Bai",
+    "Yang Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-24T00:00:00+00:00",
+   "excerpt": "Journal of Alloys and Compounds",
+   "first_seen": "2026-10-28T12:41:53+00:00",
+   "id": "c5396bc3a0afd6f5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jallcom.2026.191957",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic regulation of hydrogen sorption kinetics and apparent thermodynamic behavior in PrMg12 + Ni alloys by CoMoO4 addition"
   },
   {
    "authors": [],
@@ -6244,7 +6302,7 @@
    "authors": [],
    "category": "industria",
    "date": "2026-10-16T10:09:57+00:00",
-   "excerpt": "e-methane took place early in October 2026. The companies are also in active discussions to work together on future commercial-scale e-methane projects,” explained the Amsterdam-headquartered commodity trader. Nel and…",
+   "excerpt": "Europe’s renewable hydrogen and e-fuels sector continues to gain momentum, with new developments spanning e-methane certification and offtake, electrolyser technology, large-scale green hydrogen projects and strategic…",
    "first_seen": "2026-10-16T11:14:15+00:00",
    "id": "6a251f533ab38aaa",
    "lang": "en",
@@ -42845,6 +42903,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-28T05:28:51+00:00",
+ "updated": "2026-10-28T12:41:53+00:00",
  "version": 2
 }
