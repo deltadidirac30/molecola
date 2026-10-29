@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:49:07 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Teresa Ribera Urges EU Countries to Implement Green Hydrogen Mandates as Post-2030 Targets Face Review</title>
@@ -15,6 +15,14 @@
       <pubDate>Wed, 28 Oct 2026 17:58:40 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Teresa Ribera Urges EU Countries to Implement Green Hydrogen Mandates as Post-2030 Targets Face Review — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Hyundai Motor Delivers Bali’s First Electric Buses for Public Transport</title>
+      <link>https://fuelcellsworks.com/2026/10/27/electric/hyundai-motor-delivers-bali-s-first-electric-buses-for-public-transport</link>
+      <guid isPermaLink="false">molecola-fe002a0869ac25a5</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:49 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Hyundai Motor Delivers Bali’s First Electric Buses for Public Transport — Fuel Cells Works</description>
     </item>
     <item>
       <title>Thyssenkrupp Nucera : Three Things Europe Needs to Turn Hydrogen Ambition Into Industrial Reality</title>
@@ -439,14 +447,6 @@
       <pubDate>Mon, 26 Oct 2026 17:08:24 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>The European Commission has launched a consultation to reshape the EU's hydrogen policy, focusing on building a competitive hydrogen value chain and aligning policies with renewable energy. Stakeholder inputs will be… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>EU Launches T-MED Platform With Up to €4.5 Billion in Guarantees for Mediterranean Hydrogen and Clean Energy</title>
-      <link>https://fuelcellsworks.com/2026/10/26/green-investment/eu-launches-t-med-platform-with-up-to-4-5-billion-in-guarantees-for-mediterranean-clean-energy</link>
-      <guid isPermaLink="false">molecola-7ae974f4d70c1646</guid>
-      <pubDate>Mon, 26 Oct 2026 16:15:47 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>EU Launches T-MED Platform With Up to €4.5 Billion in Guarantees for Mediterranean Hydrogen and Clean Energy — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

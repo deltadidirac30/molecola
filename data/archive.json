@@ -1,5 +1,5 @@
 {
- "count": 2466,
+ "count": 2467,
  "items": [
   {
    "authors": [],
@@ -15,6 +15,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Teresa Ribera Urges EU Countries to Implement Green Hydrogen Mandates as Post-2030 Targets Face Review"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-28T17:00:49+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-29T00:49:27+00:00",
+   "id": "fe002a0869ac25a5",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/27/electric/hyundai-motor-delivers-bali-s-first-electric-buses-for-public-transport",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Hyundai Motor Delivers Bali’s First Electric Buses for Public Transport"
   },
   {
    "authors": [],
@@ -43626,6 +43641,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-28T20:13:10+00:00",
+ "updated": "2026-10-29T00:49:27+00:00",
  "version": 2
 }
