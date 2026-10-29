@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-28T20:13:10+00:00",
+ "checked": "2026-10-29T09:49:37+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -39,7 +39,7 @@
    "slug": "offshore-energy",
    "name": "Offshore Energy",
    "ok": false,
-   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22214",
+   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22075",
    "count": 0,
    "newest": null
   },
