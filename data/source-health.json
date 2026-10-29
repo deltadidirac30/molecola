@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-29T09:49:37+00:00",
+ "checked": "2026-10-29T18:24:50+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -39,7 +39,7 @@
    "slug": "offshore-energy",
    "name": "Offshore Energy",
    "ok": false,
-   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22075",
+   "error": "parse ParseError: not well-formed (invalid token): line 1, column 22214",
    "count": 0,
    "newest": null
   },
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-28T17:58:40+00:00"
+   "newest": "2026-10-29T16:31:24+00:00"
   },
   {
    "slug": "h2it",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-26T13:39:00+00:00"
+   "newest": "2026-10-29T14:28:20+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -105,14 +105,14 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-28T05:10:38+00:00"
+   "newest": "2026-10-29T10:09:48+00:00"
   },
   {
    "slug": "openalex",
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 40,
+   "count": 38,
    "newest": "2026-10-28T00:00:00+00:00"
   },
   {
