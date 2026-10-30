@@ -1,6 +1,63 @@
 {
- "count": 2512,
+ "count": 2516,
  "items": [
+  {
+   "authors": [
+    "Yingying XU",
+    "Xiaoming WANG",
+    "Shuangshuang Jin",
+    "Shaolin deng",
+    "Xiaohui KONG",
+    "Xinglian XU"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-10-30T00:51:04+00:00",
+   "id": "6a146ae387cbc78c",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2025110008",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork"
+  },
+  {
+   "authors": [
+    "Su WU",
+    "Mengxue GAO",
+    "Xujin YANG",
+    "Gao Aiwu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "DOAJ (DOAJ: Directory of Open Access Journals)",
+   "first_seen": "2026-10-30T00:51:04+00:00",
+   "id": "278b5fe440ce40ed",
+   "lang": "en",
+   "link": "https://doi.org/10.13386/j.issn1002-0306.2025120261",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of Composite Antioxidant Coating on Oxidation Stability, Protein and Gel Properties of Frozen Cut Beef"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-29T16:43:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-30T00:51:04+00:00",
+   "id": "80a527607c73fa12",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/28/electric/uk-cutting-electric-vehicle-charging-costs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "UK Cutting Electric Vehicle Charging Costs"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -120,6 +177,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Hyundai Motor Group to Unveil First Commercial Hydrogen Fuel Cell System"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-29T15:05:17+00:00",
+   "excerpt": "",
+   "first_seen": "2026-10-30T00:51:04+00:00",
+   "id": "64d5f2d8c1ca7799",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/27/electric/toyota-c-hr-is-ev-rally-cymru-s-efficiency-champion",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Toyota C-HR+ Is EV Rally Cymru’s Efficiency Champion"
   },
   {
    "authors": [],
@@ -44399,6 +44471,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-29T18:24:50+00:00",
+ "updated": "2026-10-30T00:51:04+00:00",
  "version": 2
 }

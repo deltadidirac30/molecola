@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 29 Oct 2026 18:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:50:23 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2025110008</link>
+      <guid isPermaLink="false">molecola-6a146ae387cbc78c</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effects of Composite Antioxidant Coating on Oxidation Stability, Protein and Gel Properties of Frozen Cut Beef</title>
+      <link>https://doi.org/10.13386/j.issn1002-0306.2025120261</link>
+      <guid isPermaLink="false">molecola-278b5fe440ce40ed</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>UK Cutting Electric Vehicle Charging Costs</title>
+      <link>https://fuelcellsworks.com/2026/10/28/electric/uk-cutting-electric-vehicle-charging-costs</link>
+      <guid isPermaLink="false">molecola-80a527607c73fa12</guid>
+      <pubDate>Thu, 29 Oct 2026 16:43:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>UK Cutting Electric Vehicle Charging Costs — Fuel Cells Works</description>
+    </item>
     <item>
       <title>Total Hydrogen Solutions Selects American Honda Motor Company Inc. For Fuel Cell Hydrogen Generator</title>
       <link>https://fuelcellsworks.com/2026/10/29/news/total-hydrogen-solutions-selects-american-honda-motor-company-inc-for-fuel-cell-hydrogen-generator</link>
@@ -71,6 +95,14 @@
       <pubDate>Thu, 29 Oct 2026 15:06:42 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai Motor Group to Unveil First Commercial Hydrogen Fuel Cell System — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Toyota C-HR+ Is EV Rally Cymru’s Efficiency Champion</title>
+      <link>https://fuelcellsworks.com/2026/10/27/electric/toyota-c-hr-is-ev-rally-cymru-s-efficiency-champion</link>
+      <guid isPermaLink="false">molecola-64d5f2d8c1ca7799</guid>
+      <pubDate>Thu, 29 Oct 2026 15:05:17 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Toyota C-HR+ Is EV Rally Cymru’s Efficiency Champion — Fuel Cells Works</description>
     </item>
     <item>
       <title>Port of Amsterdam and Firan Waterstof Build Low-Pressure Hydrogen Network Targeting First Customers by 2030</title>
@@ -415,38 +447,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>International Journal of Modern Physics B — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydroxypropyl Methylcellulose (HPMC) Edible Films Incorporated with Melatonin: Physicochemical Properties and Quality Preservation of Coated Green Asparagus (Asparagus officinalis L.) During Cold Storage</title>
-      <link>https://doi.org/10.3390/foods15213856</link>
-      <guid isPermaLink="false">molecola-524121733edbeadf</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Foods — OpenAlex</description>
-    </item>
-    <item>
-      <title>System-Level Assessment Methodology for PV–AEL–H2–PEMFC Power-to-Power Systems: Constant-Efficiency Versus Quasi-Dynamic Modeling</title>
-      <link>https://doi.org/10.3390/en19215129</link>
-      <guid isPermaLink="false">molecola-89380212104f9ba5</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energies — OpenAlex</description>
-    </item>
-    <item>
-      <title>JERA and AM Green Ammonia Pave the Way for a Sustainable Maritime Future</title>
-      <link>http://www.hydrogenfuelnews.com/jera-and-am-green-ammonia-pave-the-way-for-a-sustainable-maritime-future/8576957/</link>
-      <guid isPermaLink="false">molecola-c8a7603b99413fa4</guid>
-      <pubDate>Tue, 27 Oct 2026 19:10:04 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>JERA Co., Inc. and AM Green Ammonia have made a significant move towards a clean maritime future with a groundbreaking agreement to supply green ammonia, aiming to revolutionize shipping fuels and promote sustainability. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>European Resilience Alliance Unveils Framework to Advance Clean Hydrogen Initiatives</title>
-      <link>http://www.hydrogenfuelnews.com/european-resilience-alliance-unveils-framework-to-advance-clean-hydrogen-initiat/8576956/</link>
-      <guid isPermaLink="false">molecola-cc70437c45aab188</guid>
-      <pubDate>Tue, 27 Oct 2026 19:09:51 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>The European Resilience Alliance for Clean Hydrogen unveils its Clean Hydrogen Value Chain Bankability Playbook, aimed at addressing the challenges facing the clean hydrogen sector in Europe. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,16 @@
 {
- "checked": "2026-10-29T18:24:50+00:00",
- "productive": 9,
+ "checked": "2026-10-30T00:51:04+00:00",
+ "productive": 8,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -60,14 +68,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-10-22T17:26:29+00:00"
-  },
-  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-10-29T16:31:24+00:00"
+   "newest": "2026-10-29T16:43:00+00:00"
   },
   {
    "slug": "h2it",
@@ -112,8 +112,8 @@
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 38,
-   "newest": "2026-10-28T00:00:00+00:00"
+   "count": 40,
+   "newest": "2026-11-01T00:00:00+00:00"
   },
   {
    "slug": "power",
