@@ -1,5 +1,5 @@
 {
- "count": 2519,
+ "count": 2550,
  "items": [
   {
    "authors": [
@@ -45,6 +45,36 @@
   },
   {
    "authors": [],
+   "category": "industria",
+   "date": "2026-10-30T13:30:00+00:00",
+   "excerpt": "Recent developments across the global green hydrogen sector highlight growing efforts to improve production efficiency, reduce costs, strengthen international supply chains and accelerate investment in renewable…",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "3d984daad1b13054",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/10/30/the-hydrogen-stream-finnish-researchers-increase-voltage-in-alkaline-systems-to-cut-costs-by-10-15/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Finnish researchers increase voltage in alkaline systems to cut costs by 10-15%"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-30T10:06:14+00:00",
+   "excerpt": "Il panorama economico internazionale vede un’intensa attività strategica, trainata da investimenti miliardari nelle infrastrutture energetiche, accordi per l’idrogeno verde, innovazioni nei semiconduttori e nei…",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "f98b05822981afe8",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/green-economy/accordi-su-energia-intelligenza-artificiale-e-trasporti-guidano-la-transizione-globale/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Accordi su energia, intelligenza artificiale e trasporti guidano la transizione globale"
+  },
+  {
+   "authors": [],
    "category": "politica",
    "date": "2026-10-30T08:00:13+00:00",
    "excerpt": "Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di…",
@@ -57,6 +87,28 @@
    "source": "QualEnergia",
    "source_slug": "qualenergia",
    "title": "Fotovoltaico, batterie, idrogeno e data center: in Toscana un polo energetico integrato"
+  },
+  {
+   "authors": [
+    "Masashige Shiga",
+    "Tetsuya Morishita",
+    "Mahrez Mannai",
+    "Naoki Nishiyama",
+    "Masao Sorai",
+    "Abelardo Ramírez-Hernández"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-30T00:00:00+00:00",
+   "excerpt": "The Journal of Physical Chemistry B",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "0a206b373f4f85d5",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.jpcb.6c04263",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Anomalous Reversal of CO2-Induced Viscosity/Diffusivity Trends in Water: A Molecular Dynamics Study"
   },
   {
    "authors": [],
@@ -436,6 +488,504 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "Mantle8 and Hydrogen Europe Team Up to Unlock Natural Hydrogen Potential in Europe"
+  },
+  {
+   "authors": [
+    "Marco Saretta",
+    "Enrica Raheli",
+    "Jalal Kazempour"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Energy Policy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "53118afd11e97279",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enpol.2026.115634",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Towards European hydrogen market design: Perspectives from transmission system operators"
+  },
+  {
+   "authors": [
+    "Yang Xiao",
+    "Haotian Guan",
+    "Jia She",
+    "庞旭",
+    "Hansong Xue",
+    "Qian Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Journal of Magnesium and Alloys",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "b6c20f1584c36a47",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jma.2026.102392",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Activation-induced microstructural refinement in Mg–Ni–Y alloys for rapid dehydrogenation and stable cycling"
+  },
+  {
+   "authors": [
+    "Xianzhen Mi",
+    "Liyuan Yu",
+    "Bowen Hu",
+    "Shuchen Li",
+    "Lihua Hu",
+    "Jiahang Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "fa83f239724fed68",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158306",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Pore structure evolution and permeability response of limestone subjected to cyclic pre-damage and acid corrosion: implications for hydrogen storage in lined rock cavern (LRC)"
+  },
+  {
+   "authors": [
+    "Zhaohui Dan",
+    "Yuyu Zheng",
+    "Yujia Li",
+    "Aoye Song",
+    "Yueming Lucy Qiu",
+    "Yifang Zhu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Applied Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "13fbbdd889c3f972",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.apenergy.2026.128953",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A city-scale modelling framework for equitable EV charging station planning using the comprehensive charging duration metric"
+  },
+  {
+   "authors": [
+    "Subramanian Rajalekshmi",
+    "Sivakumar Mahalakshmi",
+    "Alagarsamy Pandikumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Advanced Sustainable Systems",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "9f1c907de1515b60",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adsu.70696",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Recent Progress in Zn‐Air Battery‐Driven Water Electrolysis for Self‐Powered Hydrogen Production: A Review from a Materials Perspective"
+  },
+  {
+   "authors": [
+    "Fangling Wu",
+    "Lingli Chen",
+    "Chuanlong Yu",
+    "Hui Chen",
+    "Yi Han",
+    "Wenbing Hu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Foods",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "661b176e2f4ca4ed",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/foods15213874",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Fabrication of Chitosan/Konjac Glucomannan Active Composite Films Loaded with Ethyl-Cellulose-Coated D-Limonene Nanoparticles for Fresh Beef Preservation"
+  },
+  {
+   "authors": [
+    "K. Sworst",
+    "K. Komędera",
+    "Ł. Gondek"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Acta Physica Polonica A",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "29dfcad352119bb6",
+   "lang": "en",
+   "link": "https://doi.org/10.12693/aphyspola.150.s61",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen Sorption in Ti0.9Zr0.1Fe0.9Ni0.1 Alloy"
+  },
+  {
+   "authors": [
+    "Jian Guan",
+    "Hui Su",
+    "Bo Lin",
+    "Lei Luo",
+    "Jie Sun"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "ACS Catalysis",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "1c55445475513711",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acscatal.6c06098",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Achieving Low-Temperature High-Efficient Ammonia Decomposition Over sub-nm Ru Cluster with CeO2– x Support via Photopromoted Hydrogen Spillover and Nitrogen Recombination"
+  },
+  {
+   "authors": [
+    "Ozan Akdağ"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "International Journal of Green Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "295e3e0ed8c83ee8",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/15435075.2026.2747747",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "An object-oriented techno-economic framework for wind-wave-based green hydrogen microgrids: A Gökçeada case study"
+  },
+  {
+   "authors": [
+    "Konstantina Gravani",
+    "Yiannis G. Deligiannakis"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "88cce98ba5a30f8d",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158391",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Support effects in heterogenized Fe(II) molecular catalysts for formic acid dehydrogenation: Silica versus oxidized activated carbon"
+  },
+  {
+   "authors": [
+    "Baocheng Xiong",
+    "Xingfu Zhou",
+    "Meigui Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "b53176b28fce1476",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.34862721",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integrating Ru nanoparticles and single-atom sites in Ni-YSZ fuel electrodes for enhanced steam electrolysis in solid oxide electrolysis cells"
+  },
+  {
+   "authors": [
+    "Jan Marek Michalik",
+    "K. Komędera",
+    "E. Borkowska",
+    "Ł. Gondek"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Acta Physica Polonica A",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "67c760667edf8390",
+   "lang": "en",
+   "link": "https://doi.org/10.12693/aphyspola.150.s52",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Enhancing the Hydrogen Storage Performance of TiFe-based Alloys Through Multi-Elemental Substitution: From Theoretical Strategies to Ti(Zr)–Fe(V) Experimental Results"
+  },
+  {
+   "authors": [
+    "Chuanjie Tu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Journal of Health Sciences and Clinical Technology",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "403dfb91191abf24",
+   "lang": "en",
+   "link": "https://doi.org/10.66393/10h2dw45",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Rapid, Low-Cost Colorimetric Method for Early Detection of Meat Spoilage Based on the Guaiacol–Hydrogen Peroxide Peroxidase Reaction"
+  },
+  {
+   "authors": [
+    "Ganesan Subbiah",
+    "K Venkadeshwaran",
+    "Tapas Kumar Mohapatra",
+    "Imran Molvi",
+    "Karthik MH",
+    "Atul Dadhich"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "International Journal of Sustainable Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "8ab9a6877bcff329",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/14786451.2026.2753312",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Green hydrogen and alternative fuels for climate mitigation: a cross-sectoral techno-economic and deployment perspective"
+  },
+  {
+   "authors": [
+    "Li Yu",
+    "Haoyang Tu",
+    "Zhongyao Zhang",
+    "Ping Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "AIChE Journal",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "a8b0d9f51478cf1b",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aic.70730",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Decoupling kinetic promotion and surface inhibition in perhydro‐dibenzyltoluene dehydrogenation on Fe ‐modified Pt/Al 2 O 3"
+  },
+  {
+   "authors": [
+    "Zhen Wen",
+    "Guanglong Li",
+    "Sibo Wang",
+    "Yue Li",
+    "Tong Zhang",
+    "Xin Ding"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Intermetallics",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "db331e9b277b9e92",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.intermet.2026.109647",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Grain refinement and C15 phase-induced microcracks enhance the hydrogen storage properties of rapidly solidified Ti16V25Cr30Nb25Zr4 alloy"
+  },
+  {
+   "authors": [
+    "Md Shaquib Equbal",
+    "Osama Khan",
+    "Praveen Pachauri",
+    "Mohd Parvez",
+    "Taufique Ahamad",
+    "Brahmdeo Yadav"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Energy Storage",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "a09911ce3b68670c",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/est2.70552",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Composition‐Sensitive Optimization of Mixed Refrigerant Blends for Hydrogen Liquefaction and Storage Using Prediction Based Clustering Method"
+  },
+  {
+   "authors": [
+    "Zijian Xiao",
+    "Huiqiong Wu",
+    "Nan Xiao",
+    "Zhe Li",
+    "Liangshan Ming"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Journal of Agricultural and Food Chemistry",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "fa7c66315f7ce079",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.jafc.6c06938",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Reconsidering the Encapsulation Mechanism: The Influence of Substitution Degree and Substitution Position of HP-β-CD on Inclusion Behavior"
+  },
+  {
+   "authors": [
+    "Hasan Özcan",
+    "Bahman Amini Horri"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "2a6360d3c6c0d6f6",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122340",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comparative technoeconomic assessment of a hybrid zinc recovery and hydrogen production system with energy storage"
+  },
+  {
+   "authors": [
+    "Jinjie Lu",
+    "Chuanxiang Zheng",
+    "Xinfeng Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Materials",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "2c6c9a90a9d15432",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/ma19214577",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Progressive Fatigue-Damage Evolution and Hydraulic Pressure Cycling Life Prediction of Type IV Hydrogen-Storage Cylinders Considering PA6 Liner Viscoelasticity"
+  },
+  {
+   "authors": [
+    "Tao Song",
+    "Weibin Ye",
+    "Yidong Jiang"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "4dd5f3d7799a3001",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158326",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "H2 reduction of siderite for zero-carbon iron fuel production and iron fast oxidization at room temperature"
+  },
+  {
+   "authors": [
+    "Durgesh Ranjan",
+    "Elizabeth Gager",
+    "Vikas R. Patil",
+    "Simon Ackermann",
+    "Damian Schöb",
+    "Juan C. Nino"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Applied Thermal Engineering",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "1f070865976ce15a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.applthermaleng.2026.133745",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "High temperature indirectly heated reactor for thermochemical hydrogen production"
+  },
+  {
+   "authors": [
+    "Rakesh Kumar Sahoo",
+    "Vagelis Harmandaris"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Structural Chemistry",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "cce3296e57ec6f81",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11224-026-02941-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen storage properties and capacity of Li decorated C12B8 nano-cage: a computational quest"
+  },
+  {
+   "authors": [
+    "Xueyun Lu",
+    "Xiaohe Huo",
+    "Yafei Tian",
+    "Cuisong Zhou"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Analytical Sciences",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "c30d9ce228e60bf9",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s44211-026-00978-y",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Chitosan‑stabilized protein capsules for sustained and reliable chemiluminescent detection of hydrogen peroxide"
+  },
+  {
+   "authors": [
+    "Mohamed S. Yousef",
+    "Luis F. González-Portillo"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "154f5d974ead51a8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122327",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A novel Solar-Driven Molten-Salt methane pyrolysis system with direct Particle-to-Reactor-Wall heat Transfer: Design and Techno-Economic assessment"
   },
   {
    "authors": [],
@@ -1038,6 +1588,70 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Alternative cooling solutions for hydrogen storage in metal hydride bed: PCM and baffled cooling channels"
+  },
+  {
+   "authors": [
+    "Yaohui Zhu",
+    "Liangtian Chen",
+    "Xuyi Lu",
+    "Xijia Zhou",
+    "Yarui Ji",
+    "Muniran Tuluhong"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-28T00:00:00+00:00",
+   "excerpt": "Renewable and Sustainable Energy Reviews",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "306764740f3cd7eb",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.rser.2026.117637",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Advances and challenges in thermal energy storage materials for third-generation concentrated solar power"
+  },
+  {
+   "authors": [
+    "Mohamed S. Yousef",
+    "Khaoula Ben Hnich",
+    "Diego Iribarren",
+    "Javier Dufour"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-28T00:00:00+00:00",
+   "excerpt": "Energy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "0a5dc3ee5f130d57",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.energy.2026.142445",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Integration of third-generation concentrated solar power and solid oxide electrolysis for dispatchable solar hydrogen production: Multi-variable optimization and techno-economic assessment"
+  },
+  {
+   "authors": [
+    "Xianyou Pan",
+    "舒亚林",
+    "Ning Zhang",
+    "Malin Song",
+    "Xue-Li Chen",
+    "Ting Zhou"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-28T00:00:00+00:00",
+   "excerpt": "Energy Policy",
+   "first_seen": "2026-10-30T17:58:07+00:00",
+   "id": "2deb667302ac9c8a",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enpol.2026.115677",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "The energy security paradox of technology innovation in the energy transition"
   },
   {
    "authors": [],
@@ -44522,6 +45136,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-30T09:54:48+00:00",
+ "updated": "2026-10-30T17:58:07+00:00",
  "version": 2
 }
