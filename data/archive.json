@@ -1,5 +1,5 @@
 {
- "count": 2516,
+ "count": 2519,
  "items": [
   {
    "authors": [
@@ -42,6 +42,21 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Effects of Composite Antioxidant Coating on Oxidation Stability, Protein and Gel Properties of Frozen Cut Beef"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-10-30T08:00:13+00:00",
+   "excerpt": "Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di…",
+   "first_seen": "2026-10-30T09:54:48+00:00",
+   "id": "da8644e3d7d35a82",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/articoli/fotovoltaico-batterie-idrogeno-data-center-toscana-polo-energetico-integrato/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Fotovoltaico, batterie, idrogeno e data center: in Toscana un polo energetico integrato"
   },
   {
    "authors": [],
@@ -389,6 +404,25 @@
    "title": "Bremen University Appoints Hydrogen Technologies Professor to Expand Fuel-Cell Research"
   },
   {
+   "authors": [
+    "Mahmoud K. Abdelhamid",
+    "Lukas Sigrist",
+    "Álvaro Ortega"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T11:02:39+00:00",
+   "excerpt": "Hydrogen Electrolyzers (HEs), particularly Proton Exchange Membrane (PEM)-based systems, are flexible loads capable of providing grid ancillary services and enhancing the stability of renewable-dominated power systems…",
+   "first_seen": "2026-10-30T09:54:48+00:00",
+   "id": "4c1e807e8b548fed",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.39819v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Modeling and Parametrization of Large-scale Hydrogen Electrolyzers for Transient and Frequency Stability Analysis"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-10-29T10:09:48+00:00",
@@ -717,6 +751,23 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "We fact-checked 100 hydrogen-infrastructure projects announced in 2023–24"
+  },
+  {
+   "authors": [
+    "Mohamed Abuella"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-28T00:26:31+00:00",
+   "excerpt": "Libya possesses significant renewable energy potential that remains largely untapped. This paper presents PyPSA-Libya, a national-scale model built on the PyPSA-Earth framework, designed to explore optimal transition…",
+   "first_seen": "2026-10-30T09:54:48+00:00",
+   "id": "ec5a33fc4b748504",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.38094v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "PyPSA-Libya: An Open-Source Energy System Model for National Decarbonization and Hydrogen Export Pathways"
   },
   {
    "authors": [
@@ -44471,6 +44522,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-30T00:51:04+00:00",
+ "updated": "2026-10-30T09:54:48+00:00",
  "version": 2
 }

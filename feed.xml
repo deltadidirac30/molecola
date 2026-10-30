@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:54:25 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork</title>
@@ -23,6 +23,14 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Fotovoltaico, batterie, idrogeno e data center: in Toscana un polo energetico integrato</title>
+      <link>https://www.qualenergia.it/articoli/fotovoltaico-batterie-idrogeno-data-center-toscana-polo-energetico-integrato/</link>
+      <guid isPermaLink="false">molecola-da8644e3d7d35a82</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di… — QualEnergia</description>
     </item>
     <item>
       <title>UK Cutting Electric Vehicle Charging Costs</title>
@@ -209,6 +217,14 @@
       <description>Bremen University Appoints Hydrogen Technologies Professor to Expand Fuel-Cell Research — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Modeling and Parametrization of Large-scale Hydrogen Electrolyzers for Transient and Frequency Stability Analysis</title>
+      <link>https://arxiv.org/abs/2610.39819v1</link>
+      <guid isPermaLink="false">molecola-4c1e807e8b548fed</guid>
+      <pubDate>Thu, 29 Oct 2026 11:02:39 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Hydrogen Electrolyzers (HEs), particularly Proton Exchange Membrane (PEM)-based systems, are flexible loads capable of providing grid ancillary services and enhancing the stability of renewable-dominated power systems… — arXiv</description>
+    </item>
+    <item>
       <title>Mantle8 and Hydrogen Europe Team Up to Unlock Natural Hydrogen Potential in Europe</title>
       <link>http://www.hydrogenfuelnews.com/mantle8-and-hydrogen-europe-team-up-to-unlock-natural-hydrogen-potential-in-euro/8576964/</link>
       <guid isPermaLink="false">molecola-bccaf7deb19d1961</guid>
@@ -377,12 +393,12 @@
       <description>Green Hydrogen Regains Cost Advantage as Production Costs Fall — Fuel Cells Works</description>
     </item>
     <item>
-      <title>We fact-checked 100 hydrogen-infrastructure projects announced in 2023–24</title>
-      <link>http://www.hydrogenfuelnews.com/we-fact-checked-100-hydrogen-infrastructure-projects-announced-in-2023-24/8576958/</link>
-      <guid isPermaLink="false">molecola-50431c9a32068bb7</guid>
-      <pubDate>Wed, 28 Oct 2026 05:10:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>We verified 100 hydrogen-infrastructure projects announced in 2023–24 against live sources: half built, a third still just plans, almost none officially cancelled. — Hydrogen Fuel News</description>
+      <title>PyPSA-Libya: An Open-Source Energy System Model for National Decarbonization and Hydrogen Export Pathways</title>
+      <link>https://arxiv.org/abs/2610.38094v1</link>
+      <guid isPermaLink="false">molecola-ec5a33fc4b748504</guid>
+      <pubDate>Wed, 28 Oct 2026 00:26:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Libya possesses significant renewable energy potential that remains largely untapped. This paper presents PyPSA-Libya, a national-scale model built on the PyPSA-Earth framework, designed to explore optimal transition… — arXiv</description>
     </item>
     <item>
       <title>Computational exploration of Mg2XH6 (X = Sc, Ti, V) hydrides: insights into their suitability for hydrogen storage</title>
@@ -431,22 +447,6 @@
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Machine Learning Insights Into Functional ABH 3 Perovskite Hydrides for Hydrogen Storage Applications</title>
-      <link>https://doi.org/10.1002/est2.70550</link>
-      <guid isPermaLink="false">molecola-c57bc83c345c44ec</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Effect of strontium substitution on the physical properties of BaLiH 3 : A first-principles investigation</title>
-      <link>https://doi.org/10.1142/s0217979226502966</link>
-      <guid isPermaLink="false">molecola-569e816fbca419fa</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Modern Physics B — OpenAlex</description>
     </item>
   </channel>
 </rss>
