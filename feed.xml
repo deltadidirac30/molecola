@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 31 Oct 2026 12:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:14:02 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork</title>
@@ -23,6 +23,14 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>DOAJ (DOAJ: Directory of Open Access Journals) — OpenAlex</description>
+    </item>
+    <item>
+      <title>SYNTHESIS AND BENZIMIDAZOLE DERIVATIVES POTENTIAL ACTIVITY AS ANTI-ULCER AGENTS</title>
+      <link>https://doi.org/10.5281/zenodo.23800030</link>
+      <guid isPermaLink="false">molecola-f8e1b70cd5e1626e</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>European Journal Pharmaceutical and Medical Research — OpenAlex</description>
     </item>
     <item>
       <title>Mercedes-Benz eActros 600 Starts Eifel Route Trial Under Hylane Rental for Pfenning Group</title>
@@ -65,6 +73,14 @@
       <description>200 Hydrogen Fuel-Cell Two-Wheelers Start Operations at Inner Mongolia Power Plant — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Volkswagen Group (China) Obtained a Level 3 Autonomous Driving Road Test License in Hefei, Aiming to Achieve Level 3 Technology Readiness by 2027</title>
+      <link>https://fuelcellsworks.com/2026/10/28/electric/volkswagen-group-china-obtained-a-level-3-autonomous-driving-road-test-license-in-hefei-aiming-to-achieve-level-3-technology-readiness-by-2027</link>
+      <guid isPermaLink="false">molecola-3ef3d2795668b892</guid>
+      <pubDate>Fri, 30 Oct 2026 15:32:44 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Volkswagen Group (China) Obtained a Level 3 Autonomous Driving Road Test License in Hefei, Aiming to Achieve Level 3 Technology Readiness by 2027 — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Germany’s Hydrogen Core Network Passes 6GW of Contracted Capacity Reservations</title>
       <link>https://fuelcellsworks.com/2026/10/30/h2/germany-s-hydrogen-core-network-passes-6gw-of-contracted-capacity-reservations</link>
       <guid isPermaLink="false">molecola-1caf21ba3fa99144</guid>
@@ -95,6 +111,14 @@
       <pubDate>Fri, 30 Oct 2026 15:02:40 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Shimizu Corporation to Cover 1% of Innovation Hub Power With Hydrogen Under JH2A Declaration — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>H2scan® Expands HY-GUARD® Into a Complete Battery Safety Monitoring System</title>
+      <link>https://fuelcellsworks.com/2026/10/29/battery/h2scan-expands-hy-guard-into-a-complete-battery-safety-monitoring-system</link>
+      <guid isPermaLink="false">molecola-0031e3a288a4ea8f</guid>
+      <pubDate>Fri, 30 Oct 2026 15:01:48 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>H2scan® Expands HY-GUARD® Into a Complete Battery Safety Monitoring System — Fuel Cells Works</description>
     </item>
     <item>
       <title>FIA and Extreme H Confirm Postponement of Second Edition of FIA Extreme H World Cup to 2027</title>
@@ -199,6 +223,54 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>The Journal of Physical Chemistry B — OpenAlex</description>
+    </item>
+    <item>
+      <title>Ni-induced interfacial engineering enables recycled aluminum hydride for high-efficiency electrochemical hydrogen storage</title>
+      <link>https://doi.org/10.26599/nr.2026.94909297</link>
+      <guid isPermaLink="false">molecola-d28faa9b1310f5c3</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Nano Research — OpenAlex</description>
+    </item>
+    <item>
+      <title>Dual-layer energy management of photovoltaic hydrogen production under limited battery capacity: An FLC–MPC framework for fluctuation mitigation</title>
+      <link>https://doi.org/10.1016/j.apenergy.2026.129080</link>
+      <guid isPermaLink="false">molecola-4279a1f4bca95e54</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Applied Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>l -Cysteine-Functionalized MXene Porous Scaffold-Based Phase Change Films for Efficient Thermal Management</title>
+      <link>https://doi.org/10.1021/acsami.6c15610</link>
+      <guid isPermaLink="false">molecola-9a78dbe99b42cf44</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
+    </item>
+    <item>
+      <title>Techno-Economic Analysis of Water Electrolysis for Hydrogen Production Through RES</title>
+      <link>https://doi.org/10.3390/su182111074</link>
+      <guid isPermaLink="false">molecola-fbf831e2f8e0a7ef</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Sustainability — OpenAlex</description>
+    </item>
+    <item>
+      <title>Late Palaeozoic – Danian tectonostratigraphic evolution of the onshore Danish area based on data from deep wells and reflection seismic</title>
+      <link>https://doi.org/10.34194/9qf83r56</link>
+      <guid isPermaLink="false">molecola-c6a655592de56a04</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>GEUS Bulletin — OpenAlex</description>
+    </item>
+    <item>
+      <title>Material calibration-independent neutron scattering corrections for quantitative imaging</title>
+      <link>https://doi.org/10.1038/s41598-026-77789-8</link>
+      <guid isPermaLink="false">molecola-fcd093680ac4f0af</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Scientific Reports — OpenAlex</description>
     </item>
     <item>
       <title>UK Cutting Electric Vehicle Charging Costs</title>
@@ -375,78 +447,6 @@
       <pubDate>Thu, 29 Oct 2026 12:48:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>FuelCell Energy Appoints Peter Hopper to Board of Directors as It Advances Data Center Power Strategy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Bremen University Appoints Hydrogen Technologies Professor to Expand Fuel-Cell Research</title>
-      <link>https://fuelcellsworks.com/2026/10/27/fuel-cells/bremen-university-appoints-hydrogen-technologies-professor-to-expand-fuel-cell-research</link>
-      <guid isPermaLink="false">molecola-175d3c37b33d690f</guid>
-      <pubDate>Thu, 29 Oct 2026 12:42:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Bremen University Appoints Hydrogen Technologies Professor to Expand Fuel-Cell Research — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Modeling and Parametrization of Large-scale Hydrogen Electrolyzers for Transient and Frequency Stability Analysis</title>
-      <link>https://arxiv.org/abs/2610.39819v1</link>
-      <guid isPermaLink="false">molecola-4c1e807e8b548fed</guid>
-      <pubDate>Thu, 29 Oct 2026 11:02:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Hydrogen Electrolyzers (HEs), particularly Proton Exchange Membrane (PEM)-based systems, are flexible loads capable of providing grid ancillary services and enhancing the stability of renewable-dominated power systems… — arXiv</description>
-    </item>
-    <item>
-      <title>Mantle8 and Hydrogen Europe Team Up to Unlock Natural Hydrogen Potential in Europe</title>
-      <link>http://www.hydrogenfuelnews.com/mantle8-and-hydrogen-europe-team-up-to-unlock-natural-hydrogen-potential-in-euro/8576964/</link>
-      <guid isPermaLink="false">molecola-bccaf7deb19d1961</guid>
-      <pubDate>Thu, 29 Oct 2026 10:09:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Mantle8 and Hydrogen Europe are advocating for natural hydrogen exploration, aiming for a proposed €1 billion program across Europe—tapping into geological processes to harness clean energy. This collaboration will… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Towards European hydrogen market design: Perspectives from transmission system operators</title>
-      <link>https://doi.org/10.1016/j.enpol.2026.115634</link>
-      <guid isPermaLink="false">molecola-53118afd11e97279</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Policy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Activation-induced microstructural refinement in Mg–Ni–Y alloys for rapid dehydrogenation and stable cycling</title>
-      <link>https://doi.org/10.1016/j.jma.2026.102392</link>
-      <guid isPermaLink="false">molecola-b6c20f1584c36a47</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Magnesium and Alloys — OpenAlex</description>
-    </item>
-    <item>
-      <title>Pore structure evolution and permeability response of limestone subjected to cyclic pre-damage and acid corrosion: implications for hydrogen storage in lined rock cavern (LRC)</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158306</link>
-      <guid isPermaLink="false">molecola-fa83f239724fed68</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>A city-scale modelling framework for equitable EV charging station planning using the comprehensive charging duration metric</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.128953</link>
-      <guid isPermaLink="false">molecola-13fbbdd889c3f972</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Recent Progress in Zn‐Air Battery‐Driven Water Electrolysis for Self‐Powered Hydrogen Production: A Review from a Materials Perspective</title>
-      <link>https://doi.org/10.1002/adsu.70696</link>
-      <guid isPermaLink="false">molecola-9f1c907de1515b60</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Sustainable Systems — OpenAlex</description>
-    </item>
-    <item>
-      <title>Fabrication of Chitosan/Konjac Glucomannan Active Composite Films Loaded with Ethyl-Cellulose-Coated D-Limonene Nanoparticles for Fresh Beef Preservation</title>
-      <link>https://doi.org/10.3390/foods15213874</link>
-      <guid isPermaLink="false">molecola-661b176e2f4ca4ed</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Foods — OpenAlex</description>
     </item>
   </channel>
 </rss>
