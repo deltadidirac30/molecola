@@ -1,5 +1,5 @@
 {
- "count": 2592,
+ "count": 2593,
  "items": [
   {
    "authors": [
@@ -119,6 +119,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Ulsan Port Completes South Korea’s First Commercial Ammonia Ship-Fuel Supply Demonstration"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-30T15:44:05+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-01T00:02:32+00:00",
+   "id": "4a198f6841b90352",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/10/30/battery/group14-closes-150m-series-d-extension-to-accelerate-global-manufacturing-footprint",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Group14 Closes €150M Series D Extension to Accelerate Global Manufacturing Footprint"
   },
   {
    "authors": [],
@@ -45889,6 +45904,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-10-31T19:14:22+00:00",
+ "updated": "2026-11-01T00:02:32+00:00",
  "version": 2
 }

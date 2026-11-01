@@ -1,8 +1,16 @@
 {
- "checked": "2026-10-30T22:13:27+00:00",
- "productive": 11,
+ "checked": "2026-11-01T00:02:32+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Unknown Error",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -36,20 +44,20 @@
    "newest": null
   },
   {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 503: Service Unavailable",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "us-doe",
    "name": "US DOE — Energy",
    "ok": true,
    "error": null,
    "count": 0,
    "newest": null
-  },
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-10-29T11:02:39+00:00"
   },
   {
    "slug": "canale-energia",
@@ -98,14 +106,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-10-29T10:09:48+00:00"
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": true,
-   "error": null,
-   "count": 39,
-   "newest": "2026-11-01T00:00:00+00:00"
   },
   {
    "slug": "power",
