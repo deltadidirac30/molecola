@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 01 Nov 2026 05:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:11:17 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork</title>
@@ -31,6 +31,62 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>European Journal Pharmaceutical and Medical Research — OpenAlex</description>
+    </item>
+    <item>
+      <title>Microwave-Aided In-Situ Combustion Generates Hydrogen From Kerogen-Bearing Reservoirs</title>
+      <link>https://doi.org/10.2118/1126-0014-jpt</link>
+      <guid isPermaLink="false">molecola-75aef86576d0b067</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Petroleum Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Organic and ionic liquid-based phase change materials: Advances in property tailoring and applications</title>
+      <link>https://doi.org/10.1016/j.mochem.2026.100081</link>
+      <guid isPermaLink="false">molecola-f89e62577625378c</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Molecular Chemistry &amp; Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Lattice-Mismatched RuNi Alloy Nanoparticles with Enhanced Bifunctional Hydrogen Electrocatalysis for Nickel-H2 Batteries</title>
+      <link>https://doi.org/10.1021/acsaem.6c02156</link>
+      <guid isPermaLink="false">molecola-7c4daf5efcfed7d1</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Energy Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>The DFMA/β-CD/PVDF composite film inspired by the honeycomb structure achieves high-performance capacitive energy storage</title>
+      <link>https://doi.org/10.1016/j.mtchem.2026.104136</link>
+      <guid isPermaLink="false">molecola-201d80ead8110e9a</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Materials Today Chemistry — OpenAlex</description>
+    </item>
+    <item>
+      <title>A performance-based framework for assessing underground hydrogen storage under reservoir and infrastructure constraints: Application to offshore wind curtailment mitigation</title>
+      <link>https://doi.org/10.1016/j.apenergy.2026.128387</link>
+      <guid isPermaLink="false">molecola-89ef3990a0b32897</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Applied Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Scenario-based operational optimization of offshore wind-to-hydrogen systems with multi-pathway assessment</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158379</link>
+      <guid isPermaLink="false">molecola-acf9df35c84fb166</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Towards a hydrogen economy: A comprehensive review of the full hydrogen value chain</title>
+      <link>https://doi.org/10.1016/j.egyr.2026.109816</link>
+      <guid isPermaLink="false">molecola-cc2e11fc245698d9</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Reports — OpenAlex</description>
     </item>
     <item>
       <title>Mercedes-Benz eActros 600 Starts Eifel Route Trial Under Hylane Rental for Pfenning Group</title>
@@ -223,62 +279,6 @@
       <pubDate>Fri, 30 Oct 2026 08:00:13 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
       <description>Un impianto fotovoltaico da 100,5 MWp, un sistema di accumulo da 140 MWh, elettrolizzatori per la produzione di idrogeno verde e un data center alimentato da energia rinnovabile. Il tutto all’interno di un progetto di… — QualEnergia</description>
-    </item>
-    <item>
-      <title>Anomalous Reversal of CO2-Induced Viscosity/Diffusivity Trends in Water: A Molecular Dynamics Study</title>
-      <link>https://doi.org/10.1021/acs.jpcb.6c04263</link>
-      <guid isPermaLink="false">molecola-0a206b373f4f85d5</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>The Journal of Physical Chemistry B — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ni-induced interfacial engineering enables recycled aluminum hydride for high-efficiency electrochemical hydrogen storage</title>
-      <link>https://doi.org/10.26599/nr.2026.94909297</link>
-      <guid isPermaLink="false">molecola-d28faa9b1310f5c3</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nano Research — OpenAlex</description>
-    </item>
-    <item>
-      <title>Dual-layer energy management of photovoltaic hydrogen production under limited battery capacity: An FLC–MPC framework for fluctuation mitigation</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.129080</link>
-      <guid isPermaLink="false">molecola-4279a1f4bca95e54</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>l -Cysteine-Functionalized MXene Porous Scaffold-Based Phase Change Films for Efficient Thermal Management</title>
-      <link>https://doi.org/10.1021/acsami.6c15610</link>
-      <guid isPermaLink="false">molecola-9a78dbe99b42cf44</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-Economic Analysis of Water Electrolysis for Hydrogen Production Through RES</title>
-      <link>https://doi.org/10.3390/su182111074</link>
-      <guid isPermaLink="false">molecola-fbf831e2f8e0a7ef</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Sustainability — OpenAlex</description>
-    </item>
-    <item>
-      <title>Late Palaeozoic – Danian tectonostratigraphic evolution of the onshore Danish area based on data from deep wells and reflection seismic</title>
-      <link>https://doi.org/10.34194/9qf83r56</link>
-      <guid isPermaLink="false">molecola-c6a655592de56a04</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>GEUS Bulletin — OpenAlex</description>
-    </item>
-    <item>
-      <title>Material calibration-independent neutron scattering corrections for quantitative imaging</title>
-      <link>https://doi.org/10.1038/s41598-026-77789-8</link>
-      <guid isPermaLink="false">molecola-fcd093680ac4f0af</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
     </item>
     <item>
       <title>UK Cutting Electric Vehicle Charging Costs</title>
