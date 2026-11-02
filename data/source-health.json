@@ -1,16 +1,8 @@
 {
- "checked": "2026-11-02T00:36:54+00:00",
+ "checked": "2026-11-02T10:54:15+00:00",
  "productive": 10,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -44,12 +36,28 @@
    "newest": null
   },
   {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "us-doe",
    "name": "US DOE — Energy",
    "ok": true,
    "error": null,
    "count": 0,
    "newest": null
+  },
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-10-30T15:56:54+00:00"
   },
   {
    "slug": "canale-energia",
@@ -81,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-09-21T11:18:12+00:00"
+   "newest": "2026-11-02T08:39:47+00:00"
   },
   {
    "slug": "hydrogen-europe",
@@ -89,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-29T14:28:20+00:00"
+   "newest": "2026-11-02T09:51:43+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -97,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-29T10:09:48+00:00"
+   "newest": "2026-11-01T03:10:28+00:00"
   },
   {
    "slug": "openalex",
@@ -122,14 +130,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-10-30T13:30:00+00:00"
-  },
-  {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
-   "count": 1,
-   "newest": "2026-10-30T08:00:13+00:00"
   }
  ]
 }

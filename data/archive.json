@@ -1,5 +1,5 @@
 {
- "count": 2611,
+ "count": 2633,
  "items": [
   {
    "authors": [
@@ -17,6 +17,81 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-02T09:51:43+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "8d5cb61db10e3a2e",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/europe-must-build-its-hydrogen-market/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Europe must build its hydrogen market"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-02T08:39:47+00:00",
+   "excerpt": "OMCD TEK HUB S.p.A. fa parte di OMCD Group, realtà industriale internazionale a conduzione familiare con radici che risalgono al 1948, specializzata nella progettazione e produzione di componenti in Metallo Duro…",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "62417b3a867db7d3",
+   "lang": "it",
+   "link": "https://www.h2it.it/omcd-tek-hub/",
+   "manual": null,
+   "paywall": false,
+   "source": "H2IT",
+   "source_slug": "h2it",
+   "title": "OMCD TEK HUB"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-01T03:10:28+00:00",
+   "excerpt": "China is pioneering advancements in green hydrogen, aligning its ambitious policies and robust projects to become a global leader in sustainable energy production.",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "7637b67c156148d0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/china-s-green-hydrogen-strategy-leading-the-charge-in-sustainable-energy-product/8576983/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "China's Green Hydrogen Strategy: Leading the Charge in Sustainable Energy Production"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-01T03:09:57+00:00",
+   "excerpt": "Dumfries and Galloway councillors approved the Creca Hydrogen Facility, a significant step in the UK's hydrogen production agenda from the former Chapelcross site.",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "10c80d6326f03776",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/chapelcross-transformed-planning-approval-granted-for-creca-hydrogen-facility/8576982/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Chapelcross Transformed: Planning Approval Granted for Creca Hydrogen Facility"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-01T03:07:46+00:00",
+   "excerpt": "UCLA engineers launch an innovative pilot project transforming campus waste into hydrogen fuel, showcasing the potential for clean energy solutions.",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "7e45c892f2d9f042",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ucla-s-groundbreaking-pilot-project-transforms-campus-waste-into-hydrogen-fuel/8576981/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "UCLA's Groundbreaking Pilot Project Transforms Campus Waste into Hydrogen Fuel"
   },
   {
    "authors": [
@@ -93,6 +168,226 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Microwave-Aided In-Situ Combustion Generates Hydrogen From Kerogen-Bearing Reservoirs"
+  },
+  {
+   "authors": [
+    "Ahmed Abughali",
+    "Mohamed  Tagelsir Barakat Elsir",
+    "Ali Elkamel",
+    "Ameena Saad Al‐Sumaiti"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "8ac150bcf142b0dd",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158215",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Secure forecasting-driven scheduling of hydrogen-integrated renewable power systems under cyberattacks"
+  },
+  {
+   "authors": [
+    "Senqiang Zhu",
+    "Haolin Wang",
+    "Yang Ren",
+    "Yacheng Han",
+    "Zhao Jiang",
+    "Rui Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Sensors and Actuators B Chemical",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "b353ab402aa37923",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.snb.2026.141178",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Latent Fingerprint Detection: A Three-Mode Visualization Strategy Using a Water-Soluble AIE Probe"
+  },
+  {
+   "authors": [
+    "Stéphane Abanades",
+    "Srirat Chuayboon"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management X",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "b10c1c1f9541fb8c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ecmx.2026.102431",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Screening of recyclable metal candidates as solid carriers for production and storage of hydrogen and ammonia in solar chemical-looping processes"
+  },
+  {
+   "authors": [
+    "Jing Xu",
+    "Ming Zhu Yang",
+    "Lin Zhu",
+    "Jianliang Gao",
+    "Tiegang Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Langmuir",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "c5ea3f09b2b17c5b",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.langmuir.6c05126",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Capillary-Controlled Multistage Imbibition in Heterogeneous Porous Media: Insights from Nuclear Magnetic Resonance-Guided Pressure Inversion"
+  },
+  {
+   "authors": [
+    "Rasha Alkassem",
+    "Mohammed Abdalghafoor"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "61a4991d03e4d749",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23857364",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Life cycle assessment of solar-powered green ammonia in Lebanon versus imported grey ammonia: firming options, grid-share thresholds and resource trade-offs"
+  },
+  {
+   "authors": [
+    "Muhammad Yasir",
+    "Junaid Haider",
+    "Saad Saeed",
+    "Salman Farrukh",
+    "Tony Roskilly"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Process Safety and Environmental Protection",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "c811d7564c04b1d5",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.psep.2026.109827",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "An Integrated Layer-Resolved Heat Transfer and Thermodynamic Model for Boil-Off Gas Prediction in LH2 Storage Tanks"
+  },
+  {
+   "authors": [
+    "Abbas Al‐Nayili",
+    "Ahmed Nasser Taaima"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Chemistry - A European Journal",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "7621912790e6dc7c",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/chem.71875",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic Effect of RuNi Bimetallic Nanoparticles Immobilized on Ceria as Catalysts for Ammonia Borane Hydrolysis"
+  },
+  {
+   "authors": [
+    "SAMUEL JAGGARD"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "307d2ca3f46e3c00",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23856129",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Helios Polar Network (HPN): An Integrated Lunar Polar Freight, Solar Generation and Energy-Exchange Architecture"
+  },
+  {
+   "authors": [
+    "Anna Pakulska",
+    "Sabina Galus"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Food and Bioproducts Processing",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "86f6f7d36f1c98a4",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fbp.2026.10.023",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development and assessment of biodegradable pectin films enhanced with anthocyanin-rich fruit extracts to support innovative sustainable packaging solutions: The potential of chokeberry, elderberry, and honeyberry extracts as natural colorants"
+  },
+  {
+   "authors": [
+    "Abebe Mulatu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "c97c80b7a863ce8e",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.23858534",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comprehensive Computational Screening of Twelve Nanotube Materials: A Multi-Scale Semi-Empirical Approach Integrating Tight-Binding, Continuum Elasticity, and Gaussian Process Regression"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-31T14:09:43+00:00",
+   "excerpt": "The Luxembourg Government Council has recently approved the initial phase of the HY4Link hydrogen pipeline project, aimed at establishing a cross-border hydrogen infrastructure connecting Luxembourg to France.",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "9a1cd1a0dae607df",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/luxembourg-approves-hy4link-phase-1-hydrogen-pipeline-project/8576978/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Luxembourg Approves HY4Link Phase 1 Hydrogen Pipeline Project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-10-31T01:13:18+00:00",
+   "excerpt": "Air Liquide’s Normand’Hy project is set to begin hydrogen production, leveraging a 200 MW electrolyzer and collaborations with Siemens Energy and TotalEnergies.",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "39a95aad2d989b8e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/air-liquide-s-normand-hy-project-moves-toward-hydrogen-production-commencement/8576974/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Air Liquide's Normand’Hy Project Moves Toward Hydrogen Production Commencement"
   },
   {
    "authors": [
@@ -367,6 +662,70 @@
    "title": "1-MCP and GA3 inhibit softening and enhance antioxidant capacity in gray jujubes via distinct pathways"
   },
   {
+   "authors": [
+    "Xinman Zhang",
+    "Jun Luo",
+    "Feiyang Zheng",
+    "Lin Sun",
+    "Feng Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-31T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "031343dcb19ae9e1",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122339",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Identification of economic bottlenecks and coordinated optimization of green hydrogen production systems based on the Copula-Sobol method"
+  },
+  {
+   "authors": [
+    "Lingyu Gao",
+    "Fanpeng Ma",
+    "Chenhui Wang",
+    "Xinyi Huo",
+    "Wei Li",
+    "Jiangjiexing Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-31T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "f479c6f28e2b45c9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158459",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mitigating gas crossover via multi-electrolyzer coordinated control in an industrial-scale AWE system powered by wind-PV-storage hybrid power"
+  },
+  {
+   "authors": [
+    "Sejin Park",
+    "Subin Lim",
+    "Eunho Seo",
+    "Jinhee Park",
+    "Hyunchul Oh"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-31T00:00:00+00:00",
+   "excerpt": "ACS Applied Energy Materials",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "a1f29d6984cc2e4b",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsaem.6c02643",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Adsorbent-Bed Hydrogen Loading Controls Cryogenic Hydrogen Storage-to-Pressure Delivery"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-10-30T16:09:39+00:00",
@@ -410,6 +769,25 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Xpan Selected by California Transit Training Consortium to Develop Statewide Fuel Cell Electric Bus Training Program"
+  },
+  {
+   "authors": [
+    "Vipin Kurian Elavunkel",
+    "Sylvain Le Tonquesse",
+    "Hadrien Vroylandt"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-30T15:56:54+00:00",
+   "excerpt": "Identifying earth-abundant catalysts for the hydrogen evolution reaction (HER) is a central challenge in scalable green hydrogen production. We present a computational pipeline that couples diffusion-based generative…",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "27517b49482e2ae6",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.41932v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Generative Design and Graph Neural Network Screening of Novel Bimetallic Alloy Catalysts for the Hydrogen Evolution Reaction"
   },
   {
    "authors": [],
@@ -1164,6 +1542,25 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Thermodynamic analysis and optimization of the subcooled liquid hydrogen refueling stations during refueling"
+  },
+  {
+   "authors": [
+    "Elnaz Irannezhad",
+    "Seyed Hossein Hosseini",
+    "David A. Hensher"
+   ],
+   "category": "ricerca",
+   "date": "2026-10-29T22:32:25+00:00",
+   "excerpt": "What would it take to accelerate the adoption of zero-emission trucks? Even if battery electric trucks become cheaper to own over their lifetime than diesel trucks, that alone is not enough. This study develops a…",
+   "first_seen": "2026-11-02T10:54:15+00:00",
+   "id": "8793877dd0b628d0",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.41042v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A System Dynamics Model for Zero-emission Heavy Vehicle Transition in Australia"
   },
   {
    "authors": [],
@@ -46272,6 +46669,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-02T00:36:54+00:00",
+ "updated": "2026-11-02T10:54:15+00:00",
  "version": 2
 }
