@@ -1,6 +1,23 @@
 {
- "count": 2610,
+ "count": 2611,
  "items": [
+  {
+   "authors": [
+    "Loso Judijanto Loso"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-04T00:00:00+00:00",
+   "excerpt": "Journal of Oil Petroleum and Natural Gas Research",
+   "first_seen": "2026-11-02T00:36:54+00:00",
+   "id": "a0611278b313d503",
+   "lang": "en",
+   "link": "https://doi.org/10.47363/jopngr/2026(3)130",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization"
+  },
   {
    "authors": [
     "Yingying XU",
@@ -46255,6 +46272,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-01T19:34:02+00:00",
+ "updated": "2026-11-02T00:36:54+00:00",
  "version": 2
 }

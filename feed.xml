@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 01 Nov 2026 19:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:36:07 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization</title>
+      <link>https://doi.org/10.47363/jopngr/2026(3)130</link>
+      <guid isPermaLink="false">molecola-a0611278b313d503</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Oil Petroleum and Natural Gas Research — OpenAlex</description>
+    </item>
     <item>
       <title>Effects of High-voltage Electrostatic Field Combined with Chilled Storage on the Preservation Quality of Pork</title>
       <link>https://doi.org/10.13386/j.issn1002-0306.2025110008</link>
@@ -79,14 +87,6 @@
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Towards a hydrogen economy: A comprehensive review of the full hydrogen value chain</title>
-      <link>https://doi.org/10.1016/j.egyr.2026.109816</link>
-      <guid isPermaLink="false">molecola-cc2e11fc245698d9</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Reports — OpenAlex</description>
     </item>
     <item>
       <title>Mercedes-Benz eActros 600 Starts Eifel Route Trial Under Hylane Rental for Pfenning Group</title>
