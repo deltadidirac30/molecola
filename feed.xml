@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:36:32 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization</title>
@@ -17,12 +17,60 @@
       <description>Journal of Oil Petroleum and Natural Gas Research — OpenAlex</description>
     </item>
     <item>
+      <title>Bloom Energy and Solaris Energy Poised for Growth Amidst AI Power Demands</title>
+      <link>http://www.hydrogenfuelnews.com/bloom-energy-and-solaris-energy-poised-for-growth-amidst-ai-power-demands/8576998/</link>
+      <guid isPermaLink="false">molecola-a76dbe3935f9f78e</guid>
+      <pubDate>Mon, 02 Nov 2026 18:17:56 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Bloom Energy and Solaris Energy are strategically positioned to benefit from the projected 38 gigawatt electricity shortfall tied to AI expansion as companies pivot towards sustainable and decentralized energy solutions. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Innovative Hydrogen Storage Solutions from Uruguay: Pioneering a Greener Future</title>
+      <link>http://www.hydrogenfuelnews.com/innovative-hydrogen-storage-solutions-from-uruguay-pioneering-a-greener-future/8576997/</link>
+      <guid isPermaLink="false">molecola-74f5a8deb2613649</guid>
+      <pubDate>Mon, 02 Nov 2026 18:16:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Mirian Elizabeth Casco, a researcher from Universidad Católica del Uruguay, was awarded the L'Oréal-UNESCO For Women in Science award for her innovative hydrogen storage project, which utilizes local biomass for… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Germany's Hydrogen Core Network Secures Over 6 GW in Capacity Reservations</title>
+      <link>http://www.hydrogenfuelnews.com/germany-s-hydrogen-core-network-secures-over-6-gw-in-capacity-reservations/8576995/</link>
+      <guid isPermaLink="false">molecola-9cdb139912bf69e5</guid>
+      <pubDate>Mon, 02 Nov 2026 18:11:24 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Operators of Germany’s hydrogen core network have reported securing over 6 GW of contractually reserved transport capacity, a significant step towards establishing a robust hydrogen infrastructure. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Gold Hydrogen's Ramsay Project Shows Promising Natural Hydrogen Flow</title>
+      <link>http://www.hydrogenfuelnews.com/gold-hydrogen-s-ramsay-project-shows-promising-natural-hydrogen-flow/8576994/</link>
+      <guid isPermaLink="false">molecola-1f8f6ed2b0d3e7dd</guid>
+      <pubDate>Mon, 02 Nov 2026 18:11:20 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Gold Hydrogen Limited has reported significant progress in natural hydrogen exploration at its Ramsay Project, confirming flow to the surface and high hydrogen concentrations. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>SFC Energy Reports Growth Driven by Ukraine Defense Order and Semiconductor Demand</title>
+      <link>http://www.hydrogenfuelnews.com/sfc-energy-reports-growth-driven-by-ukraine-defense-order-and-semiconductor-dema/8576993/</link>
+      <guid isPermaLink="false">molecola-73047267f0c1a18f</guid>
+      <pubDate>Mon, 02 Nov 2026 18:09:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>SFC Energy AG has raised its earnings guidance for 2026, significantly influenced by a EUR 42.7 million order for hybrid fuel-cell systems intended for military and civilian applications in Ukraine. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Janus Electric Wins A$3.1m Repeat US Order for Six More Class 8 Electric Truck Conversions</title>
       <link>https://fuelcellsworks.com/2026/11/02/electric/janus-electric-wins-a-3-1m-repeat-us-order-for-six-more-class-8-electric-truck-conversions</link>
       <guid isPermaLink="false">molecola-5af7dd8d45ad2246</guid>
       <pubDate>Mon, 02 Nov 2026 17:34:19 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Janus Electric Wins A$3.1m Repeat US Order for Six More Class 8 Electric Truck Conversions — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>XPENG Announces Vehicle Delivery Results for October 2026</title>
+      <link>https://fuelcellsworks.com/2026/11/02/electric/xpeng-announces-vehicle-delivery-results-for-october-2026</link>
+      <guid isPermaLink="false">molecola-880242bd27c640cb</guid>
+      <pubDate>Mon, 02 Nov 2026 17:26:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>XPENG Announces Vehicle Delivery Results for October 2026 — Fuel Cells Works</description>
     </item>
     <item>
       <title>Fuel Cell and Hydrogen News Highlights From China: Oct. 26-30, 2026</title>
@@ -87,6 +135,14 @@
       <pubDate>Mon, 02 Nov 2026 15:41:49 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>OPmobility Signs Hydrogen Deal, Plans 285 Million Yuan China R&amp;D Investment — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Shapiro Administration Invests $37 Million in EV Chargers in Southeastern Pennsylvania, Bringing More Than 500 Additional Charging Ports to the Philadelphia Region</title>
+      <link>https://fuelcellsworks.com/2026/11/02/electric/shapiro-administration-invests-37-million-in-ev-chargers-in-southeastern-pennsylvania-bringing-more-than-500-additional-charging-ports-to-the-philadelphia-region</link>
+      <guid isPermaLink="false">molecola-4989eeb8e3b4fd81</guid>
+      <pubDate>Mon, 02 Nov 2026 15:34:46 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Shapiro Administration Invests $37 Million in EV Chargers in Southeastern Pennsylvania, Bringing More Than 500 Additional Charging Ports to the Philadelphia Region — Fuel Cells Works</description>
     </item>
     <item>
       <title>UAC Reaches Global Growth Milestone with First International MEGC Shipment From China</title>
@@ -159,6 +215,14 @@
       <pubDate>Mon, 02 Nov 2026 08:39:47 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">H2IT</source>
       <description>OMCD TEK HUB S.p.A. fa parte di OMCD Group, realtà industriale internazionale a conduzione familiare con radici che risalgono al 1948, specializzata nella progettazione e produzione di componenti in Metallo Duro… — H2IT</description>
+    </item>
+    <item>
+      <title>Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis</title>
+      <link>https://arxiv.org/abs/2611.02226v1</link>
+      <guid isPermaLink="false">molecola-05d188aa48fedf0e</guid>
+      <pubDate>Sun, 01 Nov 2026 21:41:52 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Water electrolysis is a promising technology for sustainable hydrogen (H$_2$) production. However, gas bubble formation significantly degrades the electrochemical surface area ($A_{\rm EC}$) and the electrocatalytic… — arXiv</description>
     </item>
     <item>
       <title>China's Green Hydrogen Strategy: Leading the Charge in Sustainable Energy Production</title>
@@ -247,14 +311,6 @@
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Langmuir — OpenAlex</description>
-    </item>
-    <item>
-      <title>Life cycle assessment of solar-powered green ammonia in Lebanon versus imported grey ammonia: firming options, grid-share thresholds and resource trade-offs</title>
-      <link>https://doi.org/10.5281/zenodo.23857364</link>
-      <guid isPermaLink="false">molecola-61a4991d03e4d749</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
       <title>Luxembourg Approves HY4Link Phase 1 Hydrogen Pipeline Project</title>
@@ -391,62 +447,6 @@
       <pubDate>Fri, 30 Oct 2026 14:35:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>UCLA Chemical Engineers Launch Pilot Project to Turn Campus Waste Into Hydrogen Fuel — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Luxembourg Approves First Phase of Hy4Link Hydrogen Pipeline, Linking Thionville to Pétange</title>
-      <link>https://fuelcellsworks.com/2026/10/30/h2/luxembourg-approves-first-phase-of-hy4link-hydrogen-pipeline-linking-thionville-to-petange</link>
-      <guid isPermaLink="false">molecola-27c0346fca84704b</guid>
-      <pubDate>Fri, 30 Oct 2026 14:24:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Luxembourg Approves First Phase of Hy4Link Hydrogen Pipeline, Linking Thionville to Pétange — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>China Completes Main Construction of 195Km Damao Banner to Baotou Green Hydrogen Pipeline</title>
-      <link>https://fuelcellsworks.com/2026/10/27/h2/china-completes-main-construction-of-195km-damao-banner-to-baotou-green-hydrogen-pipeline</link>
-      <guid isPermaLink="false">molecola-c4055f3cd0cb9451</guid>
-      <pubDate>Fri, 30 Oct 2026 14:11:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China Completes Main Construction of 195Km Damao Banner to Baotou Green Hydrogen Pipeline — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Competitive Power Ventures Completes Successful Hydrogen Blending Test at CPV Towantic Energy Center in Connecticut</title>
-      <link>https://fuelcellsworks.com/2026/10/29/clean-energy/competitive-power-ventures-completes-successful-hydrogen-blending-test-at-cpv-towantic-energy-center-in-connecticut</link>
-      <guid isPermaLink="false">molecola-7bef2ab75c3e0e2f</guid>
-      <pubDate>Fri, 30 Oct 2026 13:57:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Competitive Power Ventures Completes Successful Hydrogen Blending Test at CPV Towantic Energy Center in Connecticut — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>ITM Power CEO Warns Weaker EU Hydrogen Mandates Could Threaten Europe's Electrolyser Industry</title>
-      <link>https://fuelcellsworks.com/2026/10/30/electrolyzer/itm-power-ceo-warns-weaker-eu-hydrogen-mandates-could-threaten-europe-s-electrolyser-industry</link>
-      <guid isPermaLink="false">molecola-273ec90113da5d8e</guid>
-      <pubDate>Fri, 30 Oct 2026 13:52:51 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>ITM Power CEO Warns Weaker EU Hydrogen Mandates Could Threaten Europe's Electrolyser Industry — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>The Hydrogen Stream: Finnish researchers increase voltage in alkaline systems to cut costs by 10-15%</title>
-      <link>https://www.pv-magazine.com/2026/10/30/the-hydrogen-stream-finnish-researchers-increase-voltage-in-alkaline-systems-to-cut-costs-by-10-15/</link>
-      <guid isPermaLink="false">molecola-3d984daad1b13054</guid>
-      <pubDate>Fri, 30 Oct 2026 13:30:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Recent developments across the global green hydrogen sector highlight growing efforts to improve production efficiency, reduce costs, strengthen international supply chains and accelerate investment in renewable… — PV Magazine</description>
-    </item>
-    <item>
-      <title>FuelCell Energy Completes $49 Million EXIM Financing to Support Gyeonggi Green Energy Project in South Korea</title>
-      <link>https://fuelcellsworks.com/2026/10/29/electrolyzer/fuelcell-energy-completes-49-million-exim-financing-to-support-gyeonggi-green-energy-project-in-south-korea</link>
-      <guid isPermaLink="false">molecola-cb51d4f6c4f387c8</guid>
-      <pubDate>Fri, 30 Oct 2026 12:56:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>FuelCell Energy Completes $49 Million EXIM Financing to Support Gyeonggi Green Energy Project in South Korea — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>MOL Holds Joint Naming Ceremony for World's 1St 3 Ammonia-Fueled Capesize Bulk Carriers</title>
-      <link>https://fuelcellsworks.com/2026/10/30/clean-energy/mol-holds-joint-naming-ceremony-for-world-s-1st-3-ammonia-fueled-capesize-bulk-carriers</link>
-      <guid isPermaLink="false">molecola-def284f48a5fd7c9</guid>
-      <pubDate>Fri, 30 Oct 2026 12:31:39 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>MOL Holds Joint Naming Ceremony for World's 1St 3 Ammonia-Fueled Capesize Bulk Carriers — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

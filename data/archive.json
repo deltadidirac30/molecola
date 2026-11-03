@@ -1,5 +1,5 @@
 {
- "count": 2649,
+ "count": 2657,
  "items": [
   {
    "authors": [
@@ -21,6 +21,81 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-11-02T18:17:56+00:00",
+   "excerpt": "Bloom Energy and Solaris Energy are strategically positioned to benefit from the projected 38 gigawatt electricity shortfall tied to AI expansion as companies pivot towards sustainable and decentralized energy solutions.",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "a76dbe3935f9f78e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/bloom-energy-and-solaris-energy-poised-for-growth-amidst-ai-power-demands/8576998/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Bloom Energy and Solaris Energy Poised for Growth Amidst AI Power Demands"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T18:16:22+00:00",
+   "excerpt": "Mirian Elizabeth Casco, a researcher from Universidad Católica del Uruguay, was awarded the L'Oréal-UNESCO For Women in Science award for her innovative hydrogen storage project, which utilizes local biomass for…",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "74f5a8deb2613649",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/innovative-hydrogen-storage-solutions-from-uruguay-pioneering-a-greener-future/8576997/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Innovative Hydrogen Storage Solutions from Uruguay: Pioneering a Greener Future"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T18:11:24+00:00",
+   "excerpt": "Operators of Germany’s hydrogen core network have reported securing over 6 GW of contractually reserved transport capacity, a significant step towards establishing a robust hydrogen infrastructure.",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "9cdb139912bf69e5",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/germany-s-hydrogen-core-network-secures-over-6-gw-in-capacity-reservations/8576995/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Germany's Hydrogen Core Network Secures Over 6 GW in Capacity Reservations"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T18:11:20+00:00",
+   "excerpt": "Gold Hydrogen Limited has reported significant progress in natural hydrogen exploration at its Ramsay Project, confirming flow to the surface and high hydrogen concentrations.",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "1f8f6ed2b0d3e7dd",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/gold-hydrogen-s-ramsay-project-shows-promising-natural-hydrogen-flow/8576994/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Gold Hydrogen's Ramsay Project Shows Promising Natural Hydrogen Flow"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T18:09:32+00:00",
+   "excerpt": "SFC Energy AG has raised its earnings guidance for 2026, significantly influenced by a EUR 42.7 million order for hybrid fuel-cell systems intended for military and civilian applications in Ukraine.",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "73047267f0c1a18f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/sfc-energy-reports-growth-driven-by-ukraine-defense-order-and-semiconductor-dema/8576993/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "SFC Energy Reports Growth Driven by Ukraine Defense Order and Semiconductor Demand"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-11-02T17:34:19+00:00",
    "excerpt": "",
    "first_seen": "2026-11-02T21:40:24+00:00",
@@ -32,6 +107,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Janus Electric Wins A$3.1m Repeat US Order for Six More Class 8 Electric Truck Conversions"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T17:26:32+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "880242bd27c640cb",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/02/electric/xpeng-announces-vehicle-delivery-results-for-october-2026",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "XPENG Announces Vehicle Delivery Results for October 2026"
   },
   {
    "authors": [],
@@ -152,6 +242,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "OPmobility Signs Hydrogen Deal, Plans 285 Million Yuan China R&D Investment"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T15:34:46+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "4989eeb8e3b4fd81",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/02/electric/shapiro-administration-invests-37-million-in-ev-chargers-in-southeastern-pennsylvania-bringing-more-than-500-additional-charging-ports-to-the-philadelphia-region",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Shapiro Administration Invests $37 Million in EV Chargers in Southeastern Pennsylvania, Bringing More Than 500 Additional Charging Ports to the Philadelphia Region"
   },
   {
    "authors": [],
@@ -287,6 +392,25 @@
    "source": "H2IT",
    "source_slug": "h2it",
    "title": "OMCD TEK HUB"
+  },
+  {
+   "authors": [
+    "Auronno Ovid Hussain",
+    "Adith Saha Dipro",
+    "Muhammad Anisuzzaman Talukder"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-01T21:41:52+00:00",
+   "excerpt": "Water electrolysis is a promising technology for sustainable hydrogen (H$_2$) production. However, gas bubble formation significantly degrades the electrochemical surface area ($A_{\\rm EC}$) and the electrocatalytic…",
+   "first_seen": "2026-11-03T06:36:50+00:00",
+   "id": "05d188aa48fedf0e",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.02226v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Modeling and Experimental Validation of Bubble-Induced Performance Losses in Microstructured Copper Electrodes for Alkaline Water Electrolysis"
   },
   {
    "authors": [],
@@ -46909,6 +47033,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-02T21:40:24+00:00",
+ "updated": "2026-11-03T06:36:50+00:00",
  "version": 2
 }
