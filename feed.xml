@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 06:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:23:17 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Gorizia e Nova Gorica capitali dell’idrogeno verde: al via la 6ª Conferenza dell’Idrogeno dell’Alto Adriatico</title>
+      <link>https://www.canaleenergia.com/rubriche/agenda-eventi/gorizia-e-nova-gorica-capitali-dellidrogeno-verde-al-via-la-6a-conferenza-dellidrogeno-dellalto-adriatico/</link>
+      <guid isPermaLink="false">molecola-8221d15c84589833</guid>
+      <pubDate>Wed, 04 Nov 2026 13:52:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>L'11 e 12 novembre 2026 le due città transfrontaliere ospiteranno l'evento di riferimento per l'innovazione energetica europea, integrando incontri istituzionali, investimenti e la prima edizione della competizione "HE… — Canale Energia</description>
+    </item>
     <item>
       <title>Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization</title>
       <link>https://doi.org/10.47363/jopngr/2026(3)130</link>
@@ -375,14 +383,6 @@
       <pubDate>Mon, 02 Nov 2026 14:36:34 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Gold Hydrogen Says Natural H₂ Flow Rates Could Exceed 100Kg/Day After Appraisal Tests in South Australia — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Hyundai and Kia to Test Level 4 Autonomous Hydrogen Truck on 400Km Logistics Route</title>
-      <link>https://fuelcellsworks.com/2026/10/28/fuel-cells/hyundai-and-kia-to-test-level-4-autonomous-hydrogen-truck-on-400km-logistics-route</link>
-      <guid isPermaLink="false">molecola-7e5888937ac75e78</guid>
-      <pubDate>Mon, 02 Nov 2026 14:21:15 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Hyundai and Kia to Test Level 4 Autonomous Hydrogen Truck on 400Km Logistics Route — Fuel Cells Works</description>
     </item>
     <item>
       <title>Co-Exploration: A Strategy for Integrating Alternative Geosciences Resources for the Petroleum Industry in an Energy Transition Context</title>
