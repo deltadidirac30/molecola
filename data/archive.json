@@ -1,5 +1,5 @@
 {
- "count": 2702,
+ "count": 2707,
  "items": [
   {
    "authors": [
@@ -122,6 +122,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Towngas and DBS Hong Kong Sign MoU to Launch the First Sustainable Financing Initiative for Hong Kong's Green Hydrogen Projects"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-03T15:58:04+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-04T06:04:11+00:00",
+   "id": "b8eeba2e2356331f",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/03/battery/startup-edenenergy-used-e-scooter-batteries-become-industrial-energy-storage-system",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Startup EDENenergy: Used E-Scooter Batteries Become Industrial Energy Storage System"
   },
   {
    "authors": [],
@@ -287,6 +302,66 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "New guide sets out roadmap for scaling hydrogen for data centres"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-03T07:14:41+00:00",
+   "excerpt": "Colombia is drawing lessons from South Korea’s hydrogen economy to redefine its energy landscape, emphasizing a comprehensive strategy that addresses production, infrastructure, and industrial demands.",
+   "first_seen": "2026-11-04T06:04:11+00:00",
+   "id": "3f4bce10e58888e3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/transforming-the-hydrogen-landscape-colombia-looks-to-south-korea-s-blueprints/8577005/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Transforming the Hydrogen Landscape: Colombia Looks to South Korea’s Blueprints"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-03T07:10:10+00:00",
+   "excerpt": "Plug Power is set to release its Q3 2026 earnings amid a potential revenue growth of over 10%, signaling a critical point for their integrated hydrogen strategy under CEO Jose Luis Crespo.",
+   "first_seen": "2026-11-04T06:04:11+00:00",
+   "id": "22376c64c253c5e2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/plug-power-prepares-for-q3-2026-earnings-review-amid-significant-turnaround-effo/8577004/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Plug Power Prepares for Q3 2026 Earnings Review Amid Significant Turnaround Efforts"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-03T07:09:57+00:00",
+   "excerpt": "Ljubljani potniški promet integrates 35 Mercedes-Benz eCitaro buses to enhance its zero-emission public transport initiative, marking a significant modernization effort.",
+   "first_seen": "2026-11-04T06:04:11+00:00",
+   "id": "6367fd2f6fbd1444",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ljubljana-integrates-35-advanced-mercedes-benz-ecitaro-buses-into-public-transpo/8577003/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Ljubljana Integrates 35 Advanced Mercedes-Benz eCitaro Buses into Public Transport Network"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-03T07:09:13+00:00",
+   "excerpt": "Delaware aims to boost its clean energy sector with Aternium's proposed $380 million hydrogen and heavy water facility.",
+   "first_seen": "2026-11-04T06:04:11+00:00",
+   "id": "93af1370226d0aac",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/aternium-proposes-innovative-hydrogen-and-heavy-water-facility-in-dover-delaware/8577002/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Aternium Proposes Innovative Hydrogen and Heavy Water Facility in Dover, Delaware"
   },
   {
    "authors": [
@@ -47845,6 +47920,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-03T23:13:52+00:00",
+ "updated": "2026-11-04T06:04:11+00:00",
  "version": 2
 }

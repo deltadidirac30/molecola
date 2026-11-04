@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 03 Nov 2026 23:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:03:54 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization</title>
@@ -71,6 +71,14 @@
       <pubDate>Tue, 03 Nov 2026 16:06:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Towngas and DBS Hong Kong Sign MoU to Launch the First Sustainable Financing Initiative for Hong Kong's Green Hydrogen Projects — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Startup EDENenergy: Used E-Scooter Batteries Become Industrial Energy Storage System</title>
+      <link>https://fuelcellsworks.com/2026/11/03/battery/startup-edenenergy-used-e-scooter-batteries-become-industrial-energy-storage-system</link>
+      <guid isPermaLink="false">molecola-b8eeba2e2356331f</guid>
+      <pubDate>Tue, 03 Nov 2026 15:58:04 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Startup EDENenergy: Used E-Scooter Batteries Become Industrial Energy Storage System — Fuel Cells Works</description>
     </item>
     <item>
       <title>Rotterdam and Andalusia Take Next Step in European Hydrogen Cooperation</title>
@@ -159,6 +167,38 @@
       <pubDate>Tue, 03 Nov 2026 09:04:18 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>New guide sets out roadmap for scaling hydrogen for data centres — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Transforming the Hydrogen Landscape: Colombia Looks to South Korea’s Blueprints</title>
+      <link>http://www.hydrogenfuelnews.com/transforming-the-hydrogen-landscape-colombia-looks-to-south-korea-s-blueprints/8577005/</link>
+      <guid isPermaLink="false">molecola-3f4bce10e58888e3</guid>
+      <pubDate>Tue, 03 Nov 2026 07:14:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Colombia is drawing lessons from South Korea’s hydrogen economy to redefine its energy landscape, emphasizing a comprehensive strategy that addresses production, infrastructure, and industrial demands. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Plug Power Prepares for Q3 2026 Earnings Review Amid Significant Turnaround Efforts</title>
+      <link>http://www.hydrogenfuelnews.com/plug-power-prepares-for-q3-2026-earnings-review-amid-significant-turnaround-effo/8577004/</link>
+      <guid isPermaLink="false">molecola-22376c64c253c5e2</guid>
+      <pubDate>Tue, 03 Nov 2026 07:10:10 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Plug Power is set to release its Q3 2026 earnings amid a potential revenue growth of over 10%, signaling a critical point for their integrated hydrogen strategy under CEO Jose Luis Crespo. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Ljubljana Integrates 35 Advanced Mercedes-Benz eCitaro Buses into Public Transport Network</title>
+      <link>http://www.hydrogenfuelnews.com/ljubljana-integrates-35-advanced-mercedes-benz-ecitaro-buses-into-public-transpo/8577003/</link>
+      <guid isPermaLink="false">molecola-6367fd2f6fbd1444</guid>
+      <pubDate>Tue, 03 Nov 2026 07:09:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Ljubljani potniški promet integrates 35 Mercedes-Benz eCitaro buses to enhance its zero-emission public transport initiative, marking a significant modernization effort. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Aternium Proposes Innovative Hydrogen and Heavy Water Facility in Dover, Delaware</title>
+      <link>http://www.hydrogenfuelnews.com/aternium-proposes-innovative-hydrogen-and-heavy-water-facility-in-dover-delaware/8577002/</link>
+      <guid isPermaLink="false">molecola-93af1370226d0aac</guid>
+      <pubDate>Tue, 03 Nov 2026 07:09:13 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Delaware aims to boost its clean energy sector with Aternium's proposed $380 million hydrogen and heavy water facility. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>An Experimental Study on the Quantitative Mesoscopic Roughness Characteristics of Rock Using the Size Reduction Method</title>
@@ -345,38 +385,6 @@
       <description>Hyundai and Kia to Test Level 4 Autonomous Hydrogen Truck on 400Km Logistics Route — Fuel Cells Works</description>
     </item>
     <item>
-      <title>Mantle8 Commences Ras Al Khaimah’s (and the UAE)’s First Dedicated Natural Hydrogen Exploration Programme</title>
-      <link>https://fuelcellsworks.com/2026/11/02/green-hydrogen/mantle8-commences-ras-al-khaimah-s-and-the-uae-s-first-dedicated-natural-hydrogen-exploration-programme</link>
-      <guid isPermaLink="false">molecola-471fdd539d0a5d1d</guid>
-      <pubDate>Mon, 02 Nov 2026 13:59:41 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Mantle8 Commences Ras Al Khaimah’s (and the UAE)’s First Dedicated Natural Hydrogen Exploration Programme — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Europe must build its hydrogen market</title>
-      <link>https://hydrogeneurope.eu/europe-must-build-its-hydrogen-market/</link>
-      <guid isPermaLink="false">molecola-8d5cb61db10e3a2e</guid>
-      <pubDate>Mon, 02 Nov 2026 09:51:43 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Europe must build its hydrogen market — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>OMCD TEK HUB</title>
-      <link>https://www.h2it.it/omcd-tek-hub/</link>
-      <guid isPermaLink="false">molecola-62417b3a867db7d3</guid>
-      <pubDate>Mon, 02 Nov 2026 08:39:47 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">H2IT</source>
-      <description>OMCD TEK HUB S.p.A. fa parte di OMCD Group, realtà industriale internazionale a conduzione familiare con radici che risalgono al 1948, specializzata nella progettazione e produzione di componenti in Metallo Duro… — H2IT</description>
-    </item>
-    <item>
-      <title>Dynelectro’s 250kW SOEC Electrolyser Completes 1,000 Hours of Operation in Iceland</title>
-      <link>https://hydrogeneurope.eu/dynelectros-250kw-soec-electrolyser-completes-1000-hours-of-operation-in-iceland/</link>
-      <guid isPermaLink="false">molecola-66668f5701a0e78f</guid>
-      <pubDate>Mon, 02 Nov 2026 08:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
-      <description>Dynelectro’s 250kW SOEC Electrolyser Completes 1,000 Hours of Operation in Iceland — Hydrogen Europe</description>
-    </item>
-    <item>
       <title>Co-Exploration: A Strategy for Integrating Alternative Geosciences Resources for the Petroleum Industry in an Energy Transition Context</title>
       <link>https://doi.org/10.3390/resources15110143</link>
       <guid isPermaLink="false">molecola-00b5749349cc2f1c</guid>
@@ -439,14 +447,6 @@
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Frontiers in Plant Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>China's Green Hydrogen Strategy: Leading the Charge in Sustainable Energy Production</title>
-      <link>http://www.hydrogenfuelnews.com/china-s-green-hydrogen-strategy-leading-the-charge-in-sustainable-energy-product/8576983/</link>
-      <guid isPermaLink="false">molecola-7637b67c156148d0</guid>
-      <pubDate>Sun, 01 Nov 2026 03:10:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>China is pioneering advancements in green hydrogen, aligning its ambitious policies and robust projects to become a global leader in sustainable energy production. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
