@@ -1,5 +1,5 @@
 {
- "count": 2748,
+ "count": 2749,
  "items": [
   {
    "authors": [],
@@ -225,6 +225,28 @@
    "source": "Canale Energia",
    "source_slug": "canale-energia",
    "title": "Gorizia e Nova Gorica capitali dell’idrogeno verde: al via la 6ª Conferenza dell’Idrogeno dell’Alto Adriatico"
+  },
+  {
+   "authors": [
+    "Bibek Dhakal",
+    "Manohar Chamana",
+    "Biswambhar Gayen",
+    "Jatendar Kumar",
+    "S M Shams Rahman",
+    "Aaqib Peerzada"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-04T05:44:02+00:00",
+   "excerpt": "The rapid proliferation of cloud computing and artificial intelligence workloads is fundamentally reshaping the magnitude, spatial concentration, and electrical characteristics of data center power demand. Data centers…",
+   "first_seen": "2026-11-05T06:32:33+00:00",
+   "id": "614e5365da3b30a4",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2610.19374v2",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A Critical Review of Grid Integration Challenges and Flexibility Opportunities for Large-Scale Data Centers"
   },
   {
    "authors": [
@@ -48678,6 +48700,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-04T21:15:18+00:00",
+ "updated": "2026-11-05T06:32:33+00:00",
  "version": 2
 }

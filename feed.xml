@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:32:13 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company</title>
@@ -127,6 +127,14 @@
       <pubDate>Wed, 04 Nov 2026 13:52:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
       <description>L'11 e 12 novembre 2026 le due città transfrontaliere ospiteranno l'evento di riferimento per l'innovazione energetica europea, integrando incontri istituzionali, investimenti e la prima edizione della competizione "HE… — Canale Energia</description>
+    </item>
+    <item>
+      <title>A Critical Review of Grid Integration Challenges and Flexibility Opportunities for Large-Scale Data Centers</title>
+      <link>https://arxiv.org/abs/2610.19374v2</link>
+      <guid isPermaLink="false">molecola-614e5365da3b30a4</guid>
+      <pubDate>Wed, 04 Nov 2026 05:44:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The rapid proliferation of cloud computing and artificial intelligence workloads is fundamentally reshaping the magnitude, spatial concentration, and electrical characteristics of data center power demand. Data centers… — arXiv</description>
     </item>
     <item>
       <title>Beyond Road Biodiesel: Qualifying Palm-Derived FAME and Hydrotreated Vegetable Oil for Marine Propulsion, Fuel-System Reliability and Well-to-Wake Decarbonization</title>
@@ -380,14 +388,6 @@
       <title>GREEN PATENTS AND CLIMATE TECHNOLOGY: BALANCING INNOVATION, ACCESS AND SUSTAINABLE DEVELOPMENT</title>
       <link>https://doi.org/10.5281/zenodo.23925260</link>
       <guid isPermaLink="false">molecola-b50aa957f5766d1c</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>GREEN PATENTS AND CLIMATE TECHNOLOGY: BALANCING INNOVATION, ACCESS AND SUSTAINABLE DEVELOPMENT</title>
-      <link>https://doi.org/10.5281/zenodo.23925195</link>
-      <guid isPermaLink="false">molecola-1be8f7ed086c5443</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
