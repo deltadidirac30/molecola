@@ -6,8 +6,64 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 05 Nov 2026 06:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:18:59 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Denmark reaches major green hydrogen milestone as German agreements advance pipeline</title>
+      <link>https://hydrogeneurope.eu/denmark-reaches-major-green-hydrogen-milestone-as-german-agreements-advance-pipeline/</link>
+      <guid isPermaLink="false">molecola-fddd329d93f2cef0</guid>
+      <pubDate>Thu, 05 Nov 2026 15:08:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>Denmark reaches major green hydrogen milestone as German agreements advance pipeline — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Tokyo tests solar-powered hydrogen production at high-rise office complex</title>
+      <link>https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex/</link>
+      <guid isPermaLink="false">molecola-297a8687447108fa</guid>
+      <pubDate>Thu, 05 Nov 2026 09:10:59 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Three Japanese companies are deploying a solar-powered hydrogen production and storage system at a commercial complex in Tokyo. The project combines rooftop photovoltaics, battery storage, hydrogen-absorbing alloys and… — PV Magazine</description>
+    </item>
+    <item>
+      <title>Why Cannot Solid Cages Compress Water? A Computational Thermodynamic Activity Linking Hydrogen Storage to Water’s Anomalous Density</title>
+      <link>https://doi.org/10.1021/acs.jchemed.6c00540</link>
+      <guid isPermaLink="false">molecola-1a32c9d9d5648888</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Chemical Education — OpenAlex</description>
+    </item>
+    <item>
+      <title>Prominence Energy Limited Reports Hydrogen Indicators from Eyre Peninsula Study</title>
+      <link>http://www.hydrogenfuelnews.com/prominence-energy-limited-reports-hydrogen-indicators-from-eyre-peninsula-study/8577016/</link>
+      <guid isPermaLink="false">molecola-42e7f283cbfcfc1c</guid>
+      <pubDate>Wed, 04 Nov 2026 22:14:35 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Prominence Energy reports hydrogen detection in all 28 rock samples from its Eyre Peninsula project, indicating promising geological formations for natural hydrogen generation. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Sonatrach Partners with World Bank Institutions on Hydrogen and Emission Reduction Initiatives</title>
+      <link>http://www.hydrogenfuelnews.com/sonatrach-partners-with-world-bank-institutions-on-hydrogen-and-emission-reducti/8577015/</link>
+      <guid isPermaLink="false">molecola-ebc18d62a1f8b57c</guid>
+      <pubDate>Wed, 04 Nov 2026 22:10:16 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Sonatrach partners with IBRD and IFC to reduce emissions and develop green hydrogen in Algeria, aiming to attract private investment and enhance its energy infrastructure. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Asahi Kasei and Power to Hydrogen Collaborate on Next-Gen Anion Exchange Membrane Electrolysis</title>
+      <link>http://www.hydrogenfuelnews.com/asahi-kasei-and-power-to-hydrogen-collaborate-on-next-gen-anion-exchange-membran/8577014/</link>
+      <guid isPermaLink="false">molecola-61e0816e55b8ef55</guid>
+      <pubDate>Wed, 04 Nov 2026 22:09:51 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Asahi Kasei and Power to Hydrogen, Inc. have signed a memorandum of understanding to explore commercialization pathways for anion exchange membrane (AEM) water electrolysis systems aimed at producing clean hydrogen. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Exploring Natural Hydrogen Wealth: Mantle8's Groundbreaking Initiative in Ras Al Khaimah</title>
+      <link>http://www.hydrogenfuelnews.com/exploring-natural-hydrogen-wealth-mantle8-s-groundbreaking-initiative-in-ras-al-/8577013/</link>
+      <guid isPermaLink="false">molecola-22b0e05715a473eb</guid>
+      <pubDate>Wed, 04 Nov 2026 22:09:09 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Mantle8 embarks on a pioneering natural hydrogen exploration programme in Ras Al Khaimah, UAE, employing advanced geophysical techniques to assess hydrogen resource potential. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company</title>
       <link>https://fuelcellsworks.com/2026/11/02/h2/man-hydrogen-combustion-truck-enters-service-with-dutch-construction-company</link>
@@ -151,6 +207,54 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Inorganic Chemistry — OpenAlex</description>
+    </item>
+    <item>
+      <title>Integrating hydrogen into Ontario’s energy hub: A robust, carbon-aware framework for power–heat–transport</title>
+      <link>https://doi.org/10.1016/j.enconman.2026.122326</link>
+      <guid isPermaLink="false">molecola-0d37c61b55676541</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Conversion and Management — OpenAlex</description>
+    </item>
+    <item>
+      <title>Effect of alkaline earth metal substitution on the structural, electronic, optoelectronic, and hydrogen storage properties of NaMH3 and Na2MAlH6 (M=Mg, Ca) perovskite hydrides: A DFT study</title>
+      <link>https://doi.org/10.1016/j.jpcs.2026.114244</link>
+      <guid isPermaLink="false">molecola-9cb3cd90966a9d7a</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Physics and Chemistry of Solids — OpenAlex</description>
+    </item>
+    <item>
+      <title>China’s Energy Structure Transition Toward Carbon Neutrality: Carbon Emission Characteristics, Bottleneck Constraints and Prospects</title>
+      <link>https://doi.org/10.54097/wpkntb09</link>
+      <guid isPermaLink="false">molecola-280ff8284bdc373a</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Academic Journal of Science and Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Enhancing the Compatibility of Lignin and Polyacrylonitrile through Carboxylation to Dually Boost the Electron and Ion Transport of Carbon Fiber Electrodes</title>
+      <link>https://doi.org/10.1021/acssuschemeng.6c07734</link>
+      <guid isPermaLink="false">molecola-72b3471b2f8a2bd3</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Sustainable Chemistry &amp; Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>A three-stage roadmap and key issue outlook for China’s hydrogen energy industry toward 2060</title>
+      <link>https://doi.org/10.26599/trcn.2026.9550024</link>
+      <guid isPermaLink="false">molecola-75f5646a27767e76</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Technology Review for Carbon Neutrality — OpenAlex</description>
+    </item>
+    <item>
+      <title>Defect engineering in metal-organic frameworks for enhanced hydrogen storage: Unlocking hidden active sites – A review</title>
+      <link>https://doi.org/10.1016/j.nxener.2026.101159</link>
+      <guid isPermaLink="false">molecola-0748d603480e0594</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Next Energy — OpenAlex</description>
     </item>
     <item>
       <title>California Resources Corporation Announces Strategic Collaboration with Bloom Energy to Advance Decarbonized Power Across California</title>
@@ -337,116 +441,12 @@
       <description>Delaware aims to boost its clean energy sector with Aternium's proposed $380 million hydrogen and heavy water facility. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>An Experimental Study on the Quantitative Mesoscopic Roughness Characteristics of Rock Using the Size Reduction Method</title>
-      <link>https://doi.org/10.1021/acsomega.6c02981</link>
-      <guid isPermaLink="false">molecola-2a8adc1c65770991</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Omega — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Site-Resolved Atlas of Potential, Cost and Carbon Intensity for Green Hydrogen from Landfill Gas in Colombia</title>
-      <link>https://doi.org/10.3390/hydrogen7040181</link>
-      <guid isPermaLink="false">molecola-3fadf4000138bd4a</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Hydrogen — OpenAlex</description>
-    </item>
-    <item>
-      <title>Electrochemically Generated Platform Oxidizers: An Enabler for the Hydrogen Economy</title>
-      <link>https://doi.org/10.1021/acs.accounts.6c00614</link>
-      <guid isPermaLink="false">molecola-8732ff6df5b8e6f4</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Accounts of Chemical Research — OpenAlex</description>
-    </item>
-    <item>
-      <title>Bilevel capacity optimization configuration of a park-level wind–photovoltaic–energy storage–hydrogen system under the green power direct connection mode</title>
-      <link>https://doi.org/10.1016/j.egyr.2026.109919</link>
-      <guid isPermaLink="false">molecola-049752d29c03feec</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy Reports — OpenAlex</description>
-    </item>
-    <item>
-      <title>Optimization of Energy Trading in Hydrogen-Integrated Storage Systems Based on Renewable Energy Profiles</title>
-      <link>https://doi.org/10.3390/batteries12110460</link>
-      <guid isPermaLink="false">molecola-1dced7cda904e3ff</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Batteries — OpenAlex</description>
-    </item>
-    <item>
-      <title>MgH2 with a Pre-Synthesized Ti–Ni Composite Catalyst: Superior Sorption Kinetics and High Saturated Capacity over Physically Mixed Ni/Ti</title>
-      <link>https://doi.org/10.1021/acsami.6c15057</link>
-      <guid isPermaLink="false">molecola-63ab78de416241b1</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Materials &amp; Interfaces — OpenAlex</description>
-    </item>
-    <item>
-      <title>GREEN PATENTS AND CLIMATE TECHNOLOGY: BALANCING INNOVATION, ACCESS AND SUSTAINABLE DEVELOPMENT</title>
-      <link>https://doi.org/10.5281/zenodo.23925260</link>
-      <guid isPermaLink="false">molecola-b50aa957f5766d1c</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
       <title>Bloom Energy and Solaris Energy Poised for Growth Amidst AI Power Demands</title>
       <link>http://www.hydrogenfuelnews.com/bloom-energy-and-solaris-energy-poised-for-growth-amidst-ai-power-demands/8576998/</link>
       <guid isPermaLink="false">molecola-a76dbe3935f9f78e</guid>
       <pubDate>Mon, 02 Nov 2026 18:17:56 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Bloom Energy and Solaris Energy are strategically positioned to benefit from the projected 38 gigawatt electricity shortfall tied to AI expansion as companies pivot towards sustainable and decentralized energy solutions. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Innovative Hydrogen Storage Solutions from Uruguay: Pioneering a Greener Future</title>
-      <link>http://www.hydrogenfuelnews.com/innovative-hydrogen-storage-solutions-from-uruguay-pioneering-a-greener-future/8576997/</link>
-      <guid isPermaLink="false">molecola-74f5a8deb2613649</guid>
-      <pubDate>Mon, 02 Nov 2026 18:16:22 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Mirian Elizabeth Casco, a researcher from Universidad Católica del Uruguay, was awarded the L'Oréal-UNESCO For Women in Science award for her innovative hydrogen storage project, which utilizes local biomass for… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Germany's Hydrogen Core Network Secures Over 6 GW in Capacity Reservations</title>
-      <link>http://www.hydrogenfuelnews.com/germany-s-hydrogen-core-network-secures-over-6-gw-in-capacity-reservations/8576995/</link>
-      <guid isPermaLink="false">molecola-9cdb139912bf69e5</guid>
-      <pubDate>Mon, 02 Nov 2026 18:11:24 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Operators of Germany’s hydrogen core network have reported securing over 6 GW of contractually reserved transport capacity, a significant step towards establishing a robust hydrogen infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Gold Hydrogen's Ramsay Project Shows Promising Natural Hydrogen Flow</title>
-      <link>http://www.hydrogenfuelnews.com/gold-hydrogen-s-ramsay-project-shows-promising-natural-hydrogen-flow/8576994/</link>
-      <guid isPermaLink="false">molecola-1f8f6ed2b0d3e7dd</guid>
-      <pubDate>Mon, 02 Nov 2026 18:11:20 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Gold Hydrogen Limited has reported significant progress in natural hydrogen exploration at its Ramsay Project, confirming flow to the surface and high hydrogen concentrations. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>SFC Energy Reports Growth Driven by Ukraine Defense Order and Semiconductor Demand</title>
-      <link>http://www.hydrogenfuelnews.com/sfc-energy-reports-growth-driven-by-ukraine-defense-order-and-semiconductor-dema/8576993/</link>
-      <guid isPermaLink="false">molecola-73047267f0c1a18f</guid>
-      <pubDate>Mon, 02 Nov 2026 18:09:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>SFC Energy AG has raised its earnings guidance for 2026, significantly influenced by a EUR 42.7 million order for hybrid fuel-cell systems intended for military and civilian applications in Ukraine. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Janus Electric Wins A$3.1m Repeat US Order for Six More Class 8 Electric Truck Conversions</title>
-      <link>https://fuelcellsworks.com/2026/11/02/electric/janus-electric-wins-a-3-1m-repeat-us-order-for-six-more-class-8-electric-truck-conversions</link>
-      <guid isPermaLink="false">molecola-5af7dd8d45ad2246</guid>
-      <pubDate>Mon, 02 Nov 2026 17:34:19 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Janus Electric Wins A$3.1m Repeat US Order for Six More Class 8 Electric Truck Conversions — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>XPENG Announces Vehicle Delivery Results for October 2026</title>
-      <link>https://fuelcellsworks.com/2026/11/02/electric/xpeng-announces-vehicle-delivery-results-for-october-2026</link>
-      <guid isPermaLink="false">molecola-880242bd27c640cb</guid>
-      <pubDate>Mon, 02 Nov 2026 17:26:32 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>XPENG Announces Vehicle Delivery Results for October 2026 — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
