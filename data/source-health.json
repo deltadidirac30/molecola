@@ -1,16 +1,8 @@
 {
- "checked": "2026-11-06T06:28:23+00:00",
- "productive": 8,
+ "checked": "2026-11-06T16:43:06+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
-  {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
-   "count": 0,
-   "newest": null
-  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -68,6 +60,14 @@
    "newest": null
   },
   {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-11-04T05:44:02+00:00"
+  },
+  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-04T22:14:35+00:00"
+   "newest": "2026-11-05T11:09:18+00:00"
   },
   {
    "slug": "openalex",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-05T09:10:59+00:00"
+   "newest": "2026-11-06T12:29:09+00:00"
   }
  ]
 }
