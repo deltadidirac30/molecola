@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:27:51 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Transmashholding Completes First Russian Hydrogen Fuel-Cell Train Ahead of 2027 Sakhalin Trials</title>
@@ -33,12 +33,28 @@
       <description>GAC Exports 223,000 Units in Jan-Oct, Setting a New Record! Steadily Advancing High-Quality Globalization — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Jungheinrich Launches Next-Generation EFG M Electric Forklifts Across Asia-Pacific</title>
+      <link>https://fuelcellsworks.com/2026/11/04/electric/jungheinrich-launches-next-generation-efg-m-electric-forklifts-across-asia-pacific</link>
+      <guid isPermaLink="false">molecola-9c434576a845af0e</guid>
+      <pubDate>Thu, 05 Nov 2026 17:25:29 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Jungheinrich Launches Next-Generation EFG M Electric Forklifts Across Asia-Pacific — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Japan Tests Building-Scale Green Hydrogen System at Tokyo High-Rise</title>
       <link>https://fuelcellsworks.com/2026/11/05/fuel-cells/japan-tests-building-scale-green-hydrogen-system-at-tokyo-high-rise</link>
       <guid isPermaLink="false">molecola-bdf49c5961df0a9b</guid>
       <pubDate>Thu, 05 Nov 2026 17:22:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Japan Tests Building-Scale Green Hydrogen System at Tokyo High-Rise — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>ABB E-Mobility and Oreve Extend Established Partnership Into Corridor-Scale Truck Charging Across France</title>
+      <link>https://fuelcellsworks.com/2026/11/04/electric/abb-e-mobility-and-oreve-extend-established-partnership-into-corridor-scale-truck-charging-across-france</link>
+      <guid isPermaLink="false">molecola-8b52b041006c6285</guid>
+      <pubDate>Thu, 05 Nov 2026 17:07:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>ABB E-Mobility and Oreve Extend Established Partnership Into Corridor-Scale Truck Charging Across France — Fuel Cells Works</description>
     </item>
     <item>
       <title>Aramco Backs Finnish Methane-Pyrolysis Start-Up ROTOBOOST to Scale Low-Carbon Hydrogen</title>
@@ -431,22 +447,6 @@
       <pubDate>Tue, 03 Nov 2026 16:06:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Towngas and DBS Hong Kong Sign MoU to Launch the First Sustainable Financing Initiative for Hong Kong's Green Hydrogen Projects — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Startup EDENenergy: Used E-Scooter Batteries Become Industrial Energy Storage System</title>
-      <link>https://fuelcellsworks.com/2026/11/03/battery/startup-edenenergy-used-e-scooter-batteries-become-industrial-energy-storage-system</link>
-      <guid isPermaLink="false">molecola-b8eeba2e2356331f</guid>
-      <pubDate>Tue, 03 Nov 2026 15:58:04 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Startup EDENenergy: Used E-Scooter Batteries Become Industrial Energy Storage System — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Rotterdam and Andalusia Take Next Step in European Hydrogen Cooperation</title>
-      <link>https://fuelcellsworks.com/2026/10/28/h2/rotterdam-and-andalusia-take-next-step-in-european-hydrogen-cooperation</link>
-      <guid isPermaLink="false">molecola-af2eeb40870b6152</guid>
-      <pubDate>Tue, 03 Nov 2026 15:54:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Rotterdam and Andalusia Take Next Step in European Hydrogen Cooperation — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

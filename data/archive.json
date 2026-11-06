@@ -1,5 +1,5 @@
 {
- "count": 2790,
+ "count": 2792,
  "items": [
   {
    "authors": [],
@@ -49,6 +49,21 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-11-05T17:25:29+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-06T06:28:23+00:00",
+   "id": "9c434576a845af0e",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/04/electric/jungheinrich-launches-next-generation-efg-m-electric-forklifts-across-asia-pacific",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Jungheinrich Launches Next-Generation EFG M Electric Forklifts Across Asia-Pacific"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-11-05T17:22:53+00:00",
    "excerpt": "",
    "first_seen": "2026-11-05T23:34:08+00:00",
@@ -60,6 +75,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Japan Tests Building-Scale Green Hydrogen System at Tokyo High-Rise"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-05T17:07:45+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-06T06:28:23+00:00",
+   "id": "8b52b041006c6285",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/04/electric/abb-e-mobility-and-oreve-extend-established-partnership-into-corridor-scale-truck-charging-across-france",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "ABB E-Mobility and Oreve Extend Established Partnership Into Corridor-Scale Truck Charging Across France"
   },
   {
    "authors": [],
@@ -49419,6 +49449,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-05T23:34:08+00:00",
+ "updated": "2026-11-06T06:28:23+00:00",
  "version": 2
 }
