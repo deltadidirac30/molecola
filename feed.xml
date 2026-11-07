@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:01:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:49:52 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>BMW Expands Public Charging Access and Introduces New $500 Charging Package for Model Year 2027 Electric Vehicles</title>
@@ -151,6 +151,14 @@
       <pubDate>Fri, 06 Nov 2026 12:29:09 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
       <description>Australian researchers found that hydrogen gas turbines could provide more cost-effective backup power than fuel cells during periods of low solar availability. Their study highlights how reservoir properties and… — PV Magazine</description>
+    </item>
+    <item>
+      <title>ARENA Backs Hadean Energy's Groundbreaking Hydrogen Pilot in Victoria</title>
+      <link>http://www.hydrogenfuelnews.com/arena-backs-hadean-energy-s-groundbreaking-hydrogen-pilot-in-victoria/8577025/</link>
+      <guid isPermaLink="false">molecola-9fda235a2efa12ec</guid>
+      <pubDate>Fri, 06 Nov 2026 00:10:57 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>ARENA announces AUD 15 million for Hadean Energy's AUD 30 million hydrogen pilot in Victoria, aimed at decarbonizing steel production. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 04 Nov 2026 17:28:09 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Solid Oxide Fuel-Cell Developer Serenity Power Wins Backing From New C$2m Canadian Climate Fund</title>
-      <link>https://fuelcellsworks.com/2026/11/03/electrolyzer/solid-oxide-fuel-cell-developer-serenity-power-wins-backing-from-new-c-2m-canadian-climate-fund</link>
-      <guid isPermaLink="false">molecola-7873eba3484588cf</guid>
-      <pubDate>Wed, 04 Nov 2026 17:11:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Solid Oxide Fuel-Cell Developer Serenity Power Wins Backing From New C$2m Canadian Climate Fund — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

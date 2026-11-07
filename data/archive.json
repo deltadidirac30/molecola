@@ -1,5 +1,5 @@
 {
- "count": 2831,
+ "count": 2832,
  "items": [
   {
    "authors": [],
@@ -270,6 +270,21 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T00:10:57+00:00",
+   "excerpt": "ARENA announces AUD 15 million for Hadean Energy's AUD 30 million hydrogen pilot in Victoria, aimed at decarbonizing steel production.",
+   "first_seen": "2026-11-07T05:50:07+00:00",
+   "id": "9fda235a2efa12ec",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/arena-backs-hadean-energy-s-groundbreaking-hydrogen-pilot-in-victoria/8577025/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "ARENA Backs Hadean Energy's Groundbreaking Hydrogen Pilot in Victoria"
   },
   {
    "authors": [],
@@ -50148,6 +50163,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-06T23:02:03+00:00",
+ "updated": "2026-11-07T05:50:07+00:00",
  "version": 2
 }
