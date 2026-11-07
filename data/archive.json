@@ -1,5 +1,5 @@
 {
- "count": 2852,
+ "count": 2853,
  "items": [
   {
    "authors": [
@@ -3016,6 +3016,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "XPENG Announces Vehicle Delivery Results for October 2026"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-02T17:12:57+00:00",
+   "excerpt": "A famous aphorism goes like this: “Doing the same thing over and over, and expecting a different result, is one definition of insanity.” In the world of electricity transmission, there is a direct corollary: adding…",
+   "first_seen": "2026-11-07T19:22:09+00:00",
+   "id": "179fecab09e442e6",
+   "lang": "en",
+   "link": "https://www.powermag.com/why-ders-are-necessary-to-support-the-power-grid/",
+   "manual": null,
+   "paywall": false,
+   "source": "POWER",
+   "source_slug": "power",
+   "title": "Why DERs Are Necessary to Support the Power Grid"
   },
   {
    "authors": [],
@@ -50579,6 +50594,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-07T12:52:27+00:00",
+ "updated": "2026-11-07T19:22:09+00:00",
  "version": 2
 }
