@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 07 Nov 2026 19:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:27:52 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>OPERATING OPTIMISATION FOR A DIRECT-CONNECTED GREEN-ELECTRICITY HYDROGEN-AMMONIA PARK BASED ON MIXED-INTEGER AND CONTINUOUS LINEAR PROGRAMMING</title>
@@ -55,6 +55,14 @@
       <pubDate>Fri, 06 Nov 2026 17:04:40 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>German Researchers Run Converted Diesel Engine on Waste-Derived Hydrogen-Rich Gas at Just 40% H₂ — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>NIO Passes 130 Million Battery Swaps</title>
+      <link>https://fuelcellsworks.com/2026/11/05/electric/nio-passes-130-million-battery-swaps</link>
+      <guid isPermaLink="false">molecola-a7ab4a1f7e226ca1</guid>
+      <pubDate>Fri, 06 Nov 2026 17:04:26 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>NIO Passes 130 Million Battery Swaps — Fuel Cells Works</description>
     </item>
     <item>
       <title>Algeria’s Sonatrach Teams Up With World Bank on Green Hydrogen and Methane Reduction</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 04 Nov 2026 22:09:09 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Mantle8 embarks on a pioneering natural hydrogen exploration programme in Ras Al Khaimah, UAE, employing advanced geophysical techniques to assess hydrogen resource potential. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company</title>
-      <link>https://fuelcellsworks.com/2026/11/02/h2/man-hydrogen-combustion-truck-enters-service-with-dutch-construction-company</link>
-      <guid isPermaLink="false">molecola-95fe4dc8e235f120</guid>
-      <pubDate>Wed, 04 Nov 2026 17:28:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>MAN Hydrogen Combustion Truck Enters Service With Dutch Construction Company — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

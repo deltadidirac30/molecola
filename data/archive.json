@@ -1,5 +1,5 @@
 {
- "count": 2853,
+ "count": 2854,
  "items": [
   {
    "authors": [
@@ -96,6 +96,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "German Researchers Run Converted Diesel Engine on Waste-Derived Hydrogen-Rich Gas at Just 40% H₂"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T17:04:26+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-08T00:28:12+00:00",
+   "id": "a7ab4a1f7e226ca1",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/05/electric/nio-passes-130-million-battery-swaps",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "NIO Passes 130 Million Battery Swaps"
   },
   {
    "authors": [],
@@ -50594,6 +50609,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-07T19:22:09+00:00",
+ "updated": "2026-11-08T00:28:12+00:00",
  "version": 2
 }
