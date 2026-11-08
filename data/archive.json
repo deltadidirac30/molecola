@@ -1,5 +1,5 @@
 {
- "count": 2854,
+ "count": 2863,
  "items": [
   {
    "authors": [
@@ -21,6 +21,88 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "OPERATING OPTIMISATION FOR A DIRECT-CONNECTED GREEN-ELECTRICITY HYDROGEN-AMMONIA PARK BASED ON MIXED-INTEGER AND CONTINUOUS LINEAR PROGRAMMING"
+  },
+  {
+   "authors": [
+    "Haowen Sun",
+    "Tianle He",
+    "Xirong Zhang",
+    "Ling XIAO",
+    "熊焕明"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-07T00:00:00+00:00",
+   "excerpt": "Chemical Research in Chinese Universities",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "0fb1eb62f2039f7f",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s40242-026-6206-x",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Zinc Pre-embedded Carbon Dots Enabling Highly Reversible Zinc Metal Anodes for Aqueous Zinc-ion Batteries"
+  },
+  {
+   "authors": [
+    "Mahadi Hasan",
+    "Md Kabiruzzaman",
+    "Shuvra Mondal",
+    "Muhibul Haque Bhuyan",
+    "Rinku Basak",
+    "Md Zillur Rahman"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-07T00:00:00+00:00",
+   "excerpt": "Next Materials",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "4cc2bc685ce2a792",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.nxmate.2026.103987",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Intercalation of O2, H2, and CO beneath epitaxial graphene on Ir(111): A review of atomic-scale decoupling mechanisms and pathways to catalysis, sensing, and energy applications"
+  },
+  {
+   "authors": [
+    "Geehyun Kim",
+    "Sehoon Kim",
+    "Jeongyeon Kim",
+    "Daejun Chang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-07T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "155eda313d54f22e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158384",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development and experimental verification of a thermal model for a conduction-based internal differential pressure level transmitter for cryogenic hydrogen storage"
+  },
+  {
+   "authors": [
+    "Young Jun Kwak",
+    "Kai Zhao",
+    "Ki-Tae Lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-07T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "c9353c9db7082b68",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125503",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Study on the reactive hydrogen storage for Mg-Ni/Al2O3: Hydride-oriented CH4 conversion at low temperature methane activation"
   },
   {
    "authors": [],
@@ -528,6 +610,50 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage"
+  },
+  {
+   "authors": [
+    "Yan Wang",
+    "Hao Hui",
+    "Jine Li",
+    "Lixin Xu",
+    "Li Shenglai",
+    "Chao Wan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-06T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Journal",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "7497d12fe53c7603",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.cej.2026.183976",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Pd-based heterogeneous catalysts for liquid-phase formic acid dehydrogenation: Active-site engineering, reaction kinetics and continuous hydrogen production"
+  },
+  {
+   "authors": [
+    "Jie Shen",
+    "Wenge Chen",
+    "Xiaofei Diwu",
+    "Dongmao Jiao",
+    "周兰燕",
+    "Wei Zhou"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-06T00:00:00+00:00",
+   "excerpt": "Polymer Testing",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "c40f1e97cba3505b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.polymertesting.2026.109420",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A study on the synergistic regulation of polyethylene via hybrid reinforcement with nanofillers and wire meshes for hydrogen transport"
   },
   {
    "authors": [],
@@ -1364,6 +1490,69 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Enhancement of Electrochemical Performance of Aqueous Zinc‐Ion Batteries Using Hydrated Eutectic Electrolytes"
+  },
+  {
+   "authors": [
+    "斯庭智",
+    "Botao Hu",
+    "Zhizhong Chen",
+    "Xiaobin Shi",
+    "Aijun Liu",
+    "Dongming Liu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-05T00:00:00+00:00",
+   "excerpt": "Scripta Materialia",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "647abd205189fc89",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.scriptamat.2026.117669",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen-induced decomposition of C14-Laves high entropy alloy caused by ab-/desorption cycle-driven segregation"
+  },
+  {
+   "authors": [
+    "Fang Sun",
+    "Xin Fan",
+    "Yujun Xian",
+    "Kai Li",
+    "Junrong Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-05T00:00:00+00:00",
+   "excerpt": "Food Research International",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "5b6bf0a7835afe8b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.foodres.2026.121071",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Construction of electrospun zein-based nanofibers mediated by multi-arm active sites of tea polyphenols and their application in room-temperature preservation of avocado"
+  },
+  {
+   "authors": [
+    "Shuangshuang Meng",
+    "Cuixia Shi",
+    "Weilong Wang",
+    "Zhaoliang Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-05T00:00:00+00:00",
+   "excerpt": "Chemical Engineering Science",
+   "first_seen": "2026-11-08T17:53:34+00:00",
+   "id": "5dfac16e47fec28b",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ces.2026.125556",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Enhanced methane hydrate nucleation by functionalized carbon-based nanomaterials: microscopic mechanisms and fluctuation–dissipation perspective"
   },
   {
    "authors": [],
@@ -50609,6 +50798,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-08T10:10:20+00:00",
+ "updated": "2026-11-08T17:53:34+00:00",
  "version": 2
 }

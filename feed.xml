@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:53:10 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>OPERATING OPTIMISATION FOR A DIRECT-CONNECTED GREEN-ELECTRICITY HYDROGEN-AMMONIA PARK BASED ON MIXED-INTEGER AND CONTINUOUS LINEAR PROGRAMMING</title>
@@ -15,6 +15,38 @@
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>World Journal of Engineering Research — OpenAlex</description>
+    </item>
+    <item>
+      <title>Zinc Pre-embedded Carbon Dots Enabling Highly Reversible Zinc Metal Anodes for Aqueous Zinc-ion Batteries</title>
+      <link>https://doi.org/10.1007/s40242-026-6206-x</link>
+      <guid isPermaLink="false">molecola-0fb1eb62f2039f7f</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Chemical Research in Chinese Universities — OpenAlex</description>
+    </item>
+    <item>
+      <title>Intercalation of O2, H2, and CO beneath epitaxial graphene on Ir(111): A review of atomic-scale decoupling mechanisms and pathways to catalysis, sensing, and energy applications</title>
+      <link>https://doi.org/10.1016/j.nxmate.2026.103987</link>
+      <guid isPermaLink="false">molecola-4cc2bc685ce2a792</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Next Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Development and experimental verification of a thermal model for a conduction-based internal differential pressure level transmitter for cryogenic hydrogen storage</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158384</link>
+      <guid isPermaLink="false">molecola-155eda313d54f22e</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Study on the reactive hydrogen storage for Mg-Ni/Al2O3: Hydride-oriented CH4 conversion at low temperature methane activation</title>
+      <link>https://doi.org/10.1016/j.est.2026.125503</link>
+      <guid isPermaLink="false">molecola-c9353c9db7082b68</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
     </item>
     <item>
       <title>BMW Expands Public Charging Access and Introduces New $500 Charging Package for Model Year 2027 Electric Vehicles</title>
@@ -215,38 +247,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>BMC Plant Biology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Reconfigurable Poly(Ionic Liquid) Hydrogel Electrolytes for Ultrawide‐Temperature, Damage‐Tolerant Hybrid Supercapacitors</title>
-      <link>https://doi.org/10.1002/eem2.70519</link>
-      <guid isPermaLink="false">molecola-dd34631d6059e670</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Energy &amp; environment materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Mechano‐Electrochemical Stable Hydrogel for Flexible Energy Storage and Motion Monitoring</title>
-      <link>https://doi.org/10.1002/chem.71840</link>
-      <guid isPermaLink="false">molecola-997ed1e93d177081</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Chemistry - A European Journal — OpenAlex</description>
-    </item>
-    <item>
-      <title>Concentrated Solar Energy Across the Iron and Steel Value Chain: From Ironmaking to Advanced Processing and Residue Valorization</title>
-      <link>https://doi.org/10.3390/iron1010004</link>
-      <guid isPermaLink="false">molecola-c323e59448c7f102</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Iron — OpenAlex</description>
-    </item>
-    <item>
-      <title>Unstable Fingering Determines the Success of Hydrogen Storage in Saline Aquifers</title>
-      <link>https://doi.org/10.1007/s11242-026-02366-6</link>
-      <guid isPermaLink="false">molecola-d1b6c0e413861bb2</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Transport in Porous Media — OpenAlex</description>
     </item>
     <item>
       <title>NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects</title>
