@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:53:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:57:41 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>OPERATING OPTIMISATION FOR A DIRECT-CONNECTED GREEN-ELECTRICITY HYDROGEN-AMMONIA PARK BASED ON MIXED-INTEGER AND CONTINUOUS LINEAR PROGRAMMING</title>
@@ -71,6 +71,14 @@
       <pubDate>Fri, 06 Nov 2026 17:30:51 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>LG Energy Solution Opens ‘Battery Innovation Contest (BIC) 2026’ to Connect Innovative Research Ideas with Industry Needs</title>
+      <link>https://fuelcellsworks.com/2026/11/05/battery/lg-energy-solution-opens-battery-innovation-contest-bic-2026-to-connect-innovative-research-ideas-with-industry-needs</link>
+      <guid isPermaLink="false">molecola-c82306354f449680</guid>
+      <pubDate>Fri, 06 Nov 2026 17:09:39 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>LG Energy Solution Opens ‘Battery Innovation Contest (BIC) 2026’ to Connect Innovative Research Ideas with Industry Needs — Fuel Cells Works</description>
     </item>
     <item>
       <title>South Korea Opens 39.8MW Fuel-Cell Plant Featuring First Commercial Domestic SOFC</title>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 04 Nov 2026 22:09:51 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>Asahi Kasei and Power to Hydrogen, Inc. have signed a memorandum of understanding to explore commercialization pathways for anion exchange membrane (AEM) water electrolysis systems aimed at producing clean hydrogen. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Exploring Natural Hydrogen Wealth: Mantle8's Groundbreaking Initiative in Ras Al Khaimah</title>
-      <link>http://www.hydrogenfuelnews.com/exploring-natural-hydrogen-wealth-mantle8-s-groundbreaking-initiative-in-ras-al-/8577013/</link>
-      <guid isPermaLink="false">molecola-22b0e05715a473eb</guid>
-      <pubDate>Wed, 04 Nov 2026 22:09:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Mantle8 embarks on a pioneering natural hydrogen exploration programme in Ras Al Khaimah, UAE, employing advanced geophysical techniques to assess hydrogen resource potential. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

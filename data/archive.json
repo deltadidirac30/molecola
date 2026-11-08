@@ -1,5 +1,5 @@
 {
- "count": 2863,
+ "count": 2864,
  "items": [
   {
    "authors": [
@@ -148,6 +148,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T17:09:39+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-08T21:57:57+00:00",
+   "id": "c82306354f449680",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/05/battery/lg-energy-solution-opens-battery-innovation-contest-bic-2026-to-connect-innovative-research-ideas-with-industry-needs",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "LG Energy Solution Opens ‘Battery Innovation Contest (BIC) 2026’ to Connect Innovative Research Ideas with Industry Needs"
   },
   {
    "authors": [],
@@ -50798,6 +50813,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-08T17:53:34+00:00",
+ "updated": "2026-11-08T21:57:57+00:00",
  "version": 2
 }
