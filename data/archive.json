@@ -1,6 +1,51 @@
 {
- "count": 2864,
+ "count": 2871,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-08T17:19:01+00:00",
+   "excerpt": "JERA's investment in Koloma represents a significant step towards exploring natural hydrogen as a potential low-carbon energy source, aiming to enhance energy security and advance decarbonization.",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "187f372385ecf6b6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/jera-invests-in-koloma-to-explore-natural-hydrogen-as-future-clean-energy-source/8577037/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-08T17:13:40+00:00",
+   "excerpt": "RWE and Kawasaki have launched a field trial of a 34-MW hydrogen-compatible gas turbine in Lingen, Germany, aiming to test its capabilities using hydrogen and assess its role in future energy systems reliant on…",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "10b2998bd7ac547e",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/rwe-and-kawasaki-commence-field-trial-of-34-mw-hydrogen-compatible-gas-turbine-i/8577036/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "RWE and Kawasaki Commence Field Trial of 34-MW Hydrogen-Compatible Gas Turbine in Germany"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-07T15:09:38+00:00",
+   "excerpt": "Researchers at South Korea’s DGIST and Kookmin University have developed a TiO2–AgBiS2 photoelectrode for eco-friendly solar hydrogen production. This low-voltage, aqueous process simplifies production and enhances…",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "9370439581ccd2d8",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/innovative-tio2-agbis2-photoelectrode-paves-the-way-for-eco-friendly-solar-hydro/8577033/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Innovative TiO2–AgBiS2 Photoelectrode Paves the Way for Eco-Friendly Solar Hydrogen Production"
+  },
   {
    "authors": [
     "HaoXin Li",
@@ -148,6 +193,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T17:17:45+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "fccc51c88defcc66",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/05/electric/ampolcard-expands-to-ampcharge-electric-vehicle-charging",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "AmpolCard Expands To AmpCharge Electric Vehicle Charging"
   },
   {
    "authors": [],
@@ -392,6 +452,36 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-11-06T13:12:51+00:00",
+   "excerpt": "Ballard Power Systems has confirmed its FCmove-SC hydrogen fuel-cell engine will debut in the Solaris Urbino 12 hydrogen transit bus, marking a significant step in sustainable public transport.",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "3152d0d28c1a20b6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ballard-and-solaris-announce-the-series-production-of-fcmove-sc-hydrogen-fuel-ce/8577029/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Ballard and Solaris Announce the Series Production of FCmove-SC Hydrogen Fuel Cell for Transit Buses"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T13:07:30+00:00",
+   "excerpt": "NTT DATA partners with Bloom Energy to deploy 900 MW of onsite power generation, boosting energy efficiency for global data centers.",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "a1c8e4a75bfc618a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ntt-data-partners-with-bloom-energy-for-a-game-changing-onsite-power-generation-/8577028/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "NTT DATA Partners with Bloom Energy for a Game-Changing Onsite Power Generation Initiative"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-11-06T12:29:09+00:00",
    "excerpt": "Australian researchers found that hydrogen gas turbines could provide more cost-effective backup power than fuel cells during periods of low solar availability. Their study highlights how reservoir properties and…",
    "first_seen": "2026-11-06T16:43:06+00:00",
@@ -418,6 +508,21 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "ARENA Backs Hadean Energy's Groundbreaking Hydrogen Pilot in Victoria"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-06T00:07:58+00:00",
+   "excerpt": "The European Parliament's Environment Committee backs new emissions targets and low-carbon steel incentives, reshaping EU vehicle regulations.",
+   "first_seen": "2026-11-09T06:07:59+00:00",
+   "id": "a9e153be222c04fa",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/european-parliament-pushes-for-revisions-on-vehicle-emissions-and-low-carbon-ste/8577024/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "European Parliament Pushes for Revisions on Vehicle Emissions and Low-Carbon Steel Incentives"
   },
   {
    "authors": [
@@ -50813,6 +50918,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-08T21:57:57+00:00",
+ "updated": "2026-11-09T06:07:59+00:00",
  "version": 2
 }

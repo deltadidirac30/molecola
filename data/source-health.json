@@ -1,6 +1,6 @@
 {
- "checked": "2026-11-08T21:57:57+00:00",
- "productive": 8,
+ "checked": "2026-11-09T06:07:59+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
   {
@@ -30,14 +30,6 @@
   {
    "slug": "energy-storage-news",
    "name": "Energy Storage News",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden",
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "h2it",
-   "name": "H2IT",
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
    "count": 0,
@@ -89,7 +81,15 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-06T18:09:49+00:00"
+   "newest": "2026-11-06T17:30:51+00:00"
+  },
+  {
+   "slug": "h2it",
+   "name": "H2IT",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-11-03T15:44:50+00:00"
   },
   {
    "slug": "hydrogen-europe",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-06T00:10:57+00:00"
+   "newest": "2026-11-08T17:19:01+00:00"
   },
   {
    "slug": "openalex",

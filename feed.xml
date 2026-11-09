@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:57:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:07:43 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source</title>
+      <link>http://www.hydrogenfuelnews.com/jera-invests-in-koloma-to-explore-natural-hydrogen-as-future-clean-energy-source/8577037/</link>
+      <guid isPermaLink="false">molecola-187f372385ecf6b6</guid>
+      <pubDate>Sun, 08 Nov 2026 17:19:01 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>JERA's investment in Koloma represents a significant step towards exploring natural hydrogen as a potential low-carbon energy source, aiming to enhance energy security and advance decarbonization. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>RWE and Kawasaki Commence Field Trial of 34-MW Hydrogen-Compatible Gas Turbine in Germany</title>
+      <link>http://www.hydrogenfuelnews.com/rwe-and-kawasaki-commence-field-trial-of-34-mw-hydrogen-compatible-gas-turbine-i/8577036/</link>
+      <guid isPermaLink="false">molecola-10b2998bd7ac547e</guid>
+      <pubDate>Sun, 08 Nov 2026 17:13:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>RWE and Kawasaki have launched a field trial of a 34-MW hydrogen-compatible gas turbine in Lingen, Germany, aiming to test its capabilities using hydrogen and assess its role in future energy systems reliant on… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Innovative TiO2–AgBiS2 Photoelectrode Paves the Way for Eco-Friendly Solar Hydrogen Production</title>
+      <link>http://www.hydrogenfuelnews.com/innovative-tio2-agbis2-photoelectrode-paves-the-way-for-eco-friendly-solar-hydro/8577033/</link>
+      <guid isPermaLink="false">molecola-9370439581ccd2d8</guid>
+      <pubDate>Sat, 07 Nov 2026 15:09:38 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Researchers at South Korea’s DGIST and Kookmin University have developed a TiO2–AgBiS2 photoelectrode for eco-friendly solar hydrogen production. This low-voltage, aqueous process simplifies production and enhances… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>OPERATING OPTIMISATION FOR A DIRECT-CONNECTED GREEN-ELECTRICITY HYDROGEN-AMMONIA PARK BASED ON MIXED-INTEGER AND CONTINUOUS LINEAR PROGRAMMING</title>
       <link>https://doi.org/10.61784/wjer3134</link>
@@ -71,6 +95,14 @@
       <pubDate>Fri, 06 Nov 2026 17:30:51 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Google Confirms $17 Billion Wyoming Data Centre Investment With 702MW Bloom Fuel Cells and Carbon Capture — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>AmpolCard Expands To AmpCharge Electric Vehicle Charging</title>
+      <link>https://fuelcellsworks.com/2026/11/05/electric/ampolcard-expands-to-ampcharge-electric-vehicle-charging</link>
+      <guid isPermaLink="false">molecola-fccc51c88defcc66</guid>
+      <pubDate>Fri, 06 Nov 2026 17:17:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>AmpolCard Expands To AmpCharge Electric Vehicle Charging — Fuel Cells Works</description>
     </item>
     <item>
       <title>LG Energy Solution Opens ‘Battery Innovation Contest (BIC) 2026’ to Connect Innovative Research Ideas with Industry Needs</title>
@@ -201,6 +233,22 @@
       <description>Cell Impact Q3 2026: New Opportunities Despite Continuing Challenges — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Ballard and Solaris Announce the Series Production of FCmove-SC Hydrogen Fuel Cell for Transit Buses</title>
+      <link>http://www.hydrogenfuelnews.com/ballard-and-solaris-announce-the-series-production-of-fcmove-sc-hydrogen-fuel-ce/8577029/</link>
+      <guid isPermaLink="false">molecola-3152d0d28c1a20b6</guid>
+      <pubDate>Fri, 06 Nov 2026 13:12:51 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Ballard Power Systems has confirmed its FCmove-SC hydrogen fuel-cell engine will debut in the Solaris Urbino 12 hydrogen transit bus, marking a significant step in sustainable public transport. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>NTT DATA Partners with Bloom Energy for a Game-Changing Onsite Power Generation Initiative</title>
+      <link>http://www.hydrogenfuelnews.com/ntt-data-partners-with-bloom-energy-for-a-game-changing-onsite-power-generation-/8577028/</link>
+      <guid isPermaLink="false">molecola-a1c8e4a75bfc618a</guid>
+      <pubDate>Fri, 06 Nov 2026 13:07:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>NTT DATA partners with Bloom Energy to deploy 900 MW of onsite power generation, boosting energy efficiency for global data centers. — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg</title>
       <link>https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/</link>
       <guid isPermaLink="false">molecola-adef3e791a82babe</guid>
@@ -215,6 +263,14 @@
       <pubDate>Fri, 06 Nov 2026 00:10:57 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>ARENA announces AUD 15 million for Hadean Energy's AUD 30 million hydrogen pilot in Victoria, aimed at decarbonizing steel production. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>European Parliament Pushes for Revisions on Vehicle Emissions and Low-Carbon Steel Incentives</title>
+      <link>http://www.hydrogenfuelnews.com/european-parliament-pushes-for-revisions-on-vehicle-emissions-and-low-carbon-ste/8577024/</link>
+      <guid isPermaLink="false">molecola-a9e153be222c04fa</guid>
+      <pubDate>Fri, 06 Nov 2026 00:07:58 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The European Parliament's Environment Committee backs new emissions targets and low-carbon steel incentives, reshaping EU vehicle regulations. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>Self-foaming Fe–Sn powder beds for durable hydrogen storage and release</title>
@@ -391,62 +447,6 @@
       <pubDate>Thu, 05 Nov 2026 15:08:27 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Denmark reaches major green hydrogen milestone as German agreements advance pipeline — Hydrogen Europe</description>
-    </item>
-    <item>
-      <title>Ballard FCmove®-SC Fuel Cell Engine Makes Series-Production Debut in Next-Generation Solaris Urbino 12 Hydrogen Bus</title>
-      <link>https://fuelcellsworks.com/2026/11/05/fuel-cells/ballard-fcmove-sc-fuel-cell-engine-makes-series-production-debut-in-next-generation-solaris-urbino-12-hydrogen-bus</link>
-      <guid isPermaLink="false">molecola-7ca4437aba1a6c64</guid>
-      <pubDate>Thu, 05 Nov 2026 14:43:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Ballard FCmove®-SC Fuel Cell Engine Makes Series-Production Debut in Next-Generation Solaris Urbino 12 Hydrogen Bus — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>New Zealand Backs Natural Hydrogen Exploration With NZ$17.8m Grant</title>
-      <link>https://fuelcellsworks.com/2026/11/05/green-hydrogen/new-zealand-backs-natural-hydrogen-exploration-with-nz-17-8m-grant</link>
-      <guid isPermaLink="false">molecola-c3677e505666b6bc</guid>
-      <pubDate>Thu, 05 Nov 2026 13:37:48 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>New Zealand Backs Natural Hydrogen Exploration With NZ$17.8m Grant — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Nippon Steel Advances Hydrogen Direct Reduction Technology in Pilot Testing</title>
-      <link>http://www.hydrogenfuelnews.com/nippon-steel-advances-hydrogen-direct-reduction-technology-in-pilot-testing/8577020/</link>
-      <guid isPermaLink="false">molecola-4d387f8aeaf26cea</guid>
-      <pubDate>Thu, 05 Nov 2026 11:09:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Nippon Steel successfully completed over 300 hours of continuous test production using 100% hydrogen, producing more than 1,000 tonnes of direct reduced iron from lower-grade ore. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Tokyo tests solar-powered hydrogen production at high-rise office complex</title>
-      <link>https://www.pv-magazine.com/2026/11/05/tokyo-tests-solar-powered-hydrogen-production-at-high-rise-office-complex/</link>
-      <guid isPermaLink="false">molecola-297a8687447108fa</guid>
-      <pubDate>Thu, 05 Nov 2026 09:10:59 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Three Japanese companies are deploying a solar-powered hydrogen production and storage system at a commercial complex in Tokyo. The project combines rooftop photovoltaics, battery storage, hydrogen-absorbing alloys and… — PV Magazine</description>
-    </item>
-    <item>
-      <title>Prominence Energy Limited Reports Hydrogen Indicators from Eyre Peninsula Study</title>
-      <link>http://www.hydrogenfuelnews.com/prominence-energy-limited-reports-hydrogen-indicators-from-eyre-peninsula-study/8577016/</link>
-      <guid isPermaLink="false">molecola-42e7f283cbfcfc1c</guid>
-      <pubDate>Wed, 04 Nov 2026 22:14:35 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Prominence Energy reports hydrogen detection in all 28 rock samples from its Eyre Peninsula project, indicating promising geological formations for natural hydrogen generation. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Sonatrach Partners with World Bank Institutions on Hydrogen and Emission Reduction Initiatives</title>
-      <link>http://www.hydrogenfuelnews.com/sonatrach-partners-with-world-bank-institutions-on-hydrogen-and-emission-reducti/8577015/</link>
-      <guid isPermaLink="false">molecola-ebc18d62a1f8b57c</guid>
-      <pubDate>Wed, 04 Nov 2026 22:10:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Sonatrach partners with IBRD and IFC to reduce emissions and develop green hydrogen in Algeria, aiming to attract private investment and enhance its energy infrastructure. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Asahi Kasei and Power to Hydrogen Collaborate on Next-Gen Anion Exchange Membrane Electrolysis</title>
-      <link>http://www.hydrogenfuelnews.com/asahi-kasei-and-power-to-hydrogen-collaborate-on-next-gen-anion-exchange-membran/8577014/</link>
-      <guid isPermaLink="false">molecola-61e0816e55b8ef55</guid>
-      <pubDate>Wed, 04 Nov 2026 22:09:51 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Asahi Kasei and Power to Hydrogen, Inc. have signed a memorandum of understanding to explore commercialization pathways for anion exchange membrane (AEM) water electrolysis systems aimed at producing clean hydrogen. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
