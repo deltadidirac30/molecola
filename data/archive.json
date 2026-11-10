@@ -1,6 +1,21 @@
 {
- "count": 2889,
+ "count": 2890,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-09T19:11:27+00:00",
+   "excerpt": "Sahamco Holding BV has unveiled significant advancements in its renewable hydrogen and ammonia project in Dakhla, Morocco, targeting a capacity of one million tonnes of ammonia per year. Supported by a framework from…",
+   "first_seen": "2026-11-10T03:27:43+00:00",
+   "id": "6197598dcd9a712c",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/revolutionizing-renewable-energy-sahamco-s-ambitious-green-hydrogen-project-in-d/8577041/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Sahamco's Ambitious Green Hydrogen Project in Dakhla"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -51198,6 +51213,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-09T19:44:22+00:00",
+ "updated": "2026-11-10T03:27:43+00:00",
  "version": 2
 }

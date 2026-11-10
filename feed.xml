@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:27:30 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Sahamco's Ambitious Green Hydrogen Project in Dakhla</title>
+      <link>http://www.hydrogenfuelnews.com/revolutionizing-renewable-energy-sahamco-s-ambitious-green-hydrogen-project-in-d/8577041/</link>
+      <guid isPermaLink="false">molecola-6197598dcd9a712c</guid>
+      <pubDate>Mon, 09 Nov 2026 19:11:27 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Sahamco Holding BV has unveiled significant advancements in its renewable hydrogen and ammonia project in Dakhla, Morocco, targeting a capacity of one million tonnes of ammonia per year. Supported by a framework from… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Oxygenwerk Friedrichshafen Awards Contracts for 5 MW Hydrogen Plant in the Allgäu</title>
       <link>https://fuelcellsworks.com/2026/11/09/h2/oxygenwerk-friedrichshafen-awards-contracts-for-5-mw-hydrogen-plant-in-the-allgau</link>
@@ -439,14 +447,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Chemical Education — OpenAlex</description>
-    </item>
-    <item>
-      <title>NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects</title>
-      <link>https://fuelcellsworks.com/2026/11/05/clean-energy/ntt-data-announces-agreement-with-bloom-energy-for-900-mw-of-onsite-power-generation-across-multiple-data-center-projects</link>
-      <guid isPermaLink="false">molecola-0ff4f1141e3551ce</guid>
-      <pubDate>Thu, 05 Nov 2026 19:29:21 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>NTT DATA Announces Agreement with Bloom Energy for 900 MW of Onsite Power Generation Across Multiple Data Center Projects — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
