@@ -1,6 +1,6 @@
 {
- "checked": "2026-11-10T14:46:05+00:00",
- "productive": 10,
+ "checked": "2026-11-10T21:16:24+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
   {
@@ -44,6 +44,14 @@
    "newest": null
   },
   {
+   "slug": "qualenergia",
+   "name": "QualEnergia",
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
+   "count": 0,
+   "newest": null
+  },
+  {
    "slug": "us-doe",
    "name": "US DOE — Energy",
    "ok": true,
@@ -73,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-09T17:19:20+00:00"
+   "newest": "2026-11-10T17:11:35+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-09T15:25:00+00:00"
+   "newest": "2026-11-10T16:45:10+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -122,14 +130,6 @@
    "error": null,
    "count": 10,
    "newest": "2026-11-10T12:35:00+00:00"
-  },
-  {
-   "slug": "qualenergia",
-   "name": "QualEnergia",
-   "ok": true,
-   "error": null,
-   "count": 1,
-   "newest": "2026-11-10T09:00:06+00:00"
   }
  ]
 }
