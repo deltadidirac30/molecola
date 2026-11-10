@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:45:51 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Japan to assess renewable, storage technologies beyond PV and wind</title>
+      <link>https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind/</link>
+      <guid isPermaLink="false">molecola-8287ee86e6300cc8</guid>
+      <pubDate>Tue, 10 Nov 2026 12:35:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions. — PV Magazine</description>
+    </item>
+    <item>
+      <title>Veicoli pesanti elettrici in Italia: cosa dicono i dati di mercato del 2026</title>
+      <link>https://www.qualenergia.it/articoli/veicoli-pesanti-elettrici-italia-cosa-dicono-dati-mercato-2026/</link>
+      <guid isPermaLink="false">molecola-686c99b5f07188c5</guid>
+      <pubDate>Tue, 10 Nov 2026 09:00:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Sulle strade italiane la diffusione dei veicoli pesanti a zero emissioni, elettrici a batteria o a celle a combustibile, procede con ritmi diversi a seconda della tipologia di mezzo. Gli autobus mostrano una… — QualEnergia</description>
+    </item>
     <item>
       <title>Sahamco's Ambitious Green Hydrogen Project in Dakhla</title>
       <link>http://www.hydrogenfuelnews.com/revolutionizing-renewable-energy-sahamco-s-ambitious-green-hydrogen-project-in-d/8577041/</link>
@@ -39,6 +55,14 @@
       <pubDate>Mon, 09 Nov 2026 16:51:29 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Wärtsilä Backs Hydrogen and Ammonia Engine Research at Aalto University With €200,000 Donation — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>University of Delaware Research Helps Advance Ford's Affordable EV Charging Technology</title>
+      <link>https://fuelcellsworks.com/2026/11/05/electric/university-of-delaware-research-helps-advance-ford-s-affordable-ev-charging-technology</link>
+      <guid isPermaLink="false">molecola-358e447dcd7e3a9f</guid>
+      <pubDate>Mon, 09 Nov 2026 16:26:16 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>University of Delaware Research Helps Advance Ford's Affordable EV Charging Technology — Fuel Cells Works</description>
     </item>
     <item>
       <title>Renault Trafic E-Tech Electric Opens for UK Orders at £38,000 + VAT</title>
@@ -97,6 +121,14 @@
       <description>China Connects First 100.48MW of Solar at Jiangsu Green Hydrogen Demonstration Project — Fuel Cells Works</description>
     </item>
     <item>
+      <title>40km hydrogen pipeline between Luxembourg and France given greenlight</title>
+      <link>https://hydrogeneurope.eu/40km-hydrogen-pipeline-between-luxembourg-and-france-given-greenlight/</link>
+      <guid isPermaLink="false">molecola-0292387c408c65e5</guid>
+      <pubDate>Mon, 09 Nov 2026 15:25:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
+      <description>40km hydrogen pipeline between Luxembourg and France given greenlight — Hydrogen Europe</description>
+    </item>
+    <item>
       <title>StormFisher Appoints New CEO as C$1bn Québec E-Methanol Project Pushes Toward FID</title>
       <link>https://fuelcellsworks.com/2026/11/09/h2/stormfisher-appoints-new-ceo-as-c-1bn-quebec-e-methanol-project-pushes-toward-fid</link>
       <guid isPermaLink="false">molecola-e9de8231b30d2d31</guid>
@@ -151,6 +183,14 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Tellurium-Based ZnO/Te/TeO2 Nanostructures for Efficient Energy Storage and Oxygen Evolution Electrocatalysis</title>
+      <link>https://doi.org/10.1007/s10876-026-03109-9</link>
+      <guid isPermaLink="false">molecola-4be2463c0661892b</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Cluster Science — OpenAlex</description>
     </item>
     <item>
       <title>JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source</title>
@@ -393,38 +433,6 @@
       <description>Ballard Power Systems has confirmed its FCmove-SC hydrogen fuel-cell engine will debut in the Solaris Urbino 12 hydrogen transit bus, marking a significant step in sustainable public transport. — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>NTT DATA Partners with Bloom Energy for a Game-Changing Onsite Power Generation Initiative</title>
-      <link>http://www.hydrogenfuelnews.com/ntt-data-partners-with-bloom-energy-for-a-game-changing-onsite-power-generation-/8577028/</link>
-      <guid isPermaLink="false">molecola-a1c8e4a75bfc618a</guid>
-      <pubDate>Fri, 06 Nov 2026 13:07:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>NTT DATA partners with Bloom Energy to deploy 900 MW of onsite power generation, boosting energy efficiency for global data centers. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg</title>
-      <link>https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/</link>
-      <guid isPermaLink="false">molecola-adef3e791a82babe</guid>
-      <pubDate>Fri, 06 Nov 2026 12:29:09 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
-      <description>Australian researchers found that hydrogen gas turbines could provide more cost-effective backup power than fuel cells during periods of low solar availability. Their study highlights how reservoir properties and… — PV Magazine</description>
-    </item>
-    <item>
-      <title>ARENA Backs Hadean Energy's Groundbreaking Hydrogen Pilot in Victoria</title>
-      <link>http://www.hydrogenfuelnews.com/arena-backs-hadean-energy-s-groundbreaking-hydrogen-pilot-in-victoria/8577025/</link>
-      <guid isPermaLink="false">molecola-9fda235a2efa12ec</guid>
-      <pubDate>Fri, 06 Nov 2026 00:10:57 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>ARENA announces AUD 15 million for Hadean Energy's AUD 30 million hydrogen pilot in Victoria, aimed at decarbonizing steel production. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>European Parliament Pushes for Revisions on Vehicle Emissions and Low-Carbon Steel Incentives</title>
-      <link>http://www.hydrogenfuelnews.com/european-parliament-pushes-for-revisions-on-vehicle-emissions-and-low-carbon-ste/8577024/</link>
-      <guid isPermaLink="false">molecola-a9e153be222c04fa</guid>
-      <pubDate>Fri, 06 Nov 2026 00:07:58 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>The European Parliament's Environment Committee backs new emissions targets and low-carbon steel incentives, reshaping EU vehicle regulations. — Hydrogen Fuel News</description>
-    </item>
-    <item>
       <title>Self-foaming Fe–Sn powder beds for durable hydrogen storage and release</title>
       <link>https://doi.org/10.1016/j.mattod.2026.103543</link>
       <guid isPermaLink="false">molecola-64f03870a3b8b091</guid>
@@ -439,14 +447,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Catalytic Hydrolysis of Ammonia Borane: An Integrated Undergraduate Experiment on Hydrogen Production and Utilization</title>
-      <link>https://doi.org/10.1021/acs.jchemed.6c01163</link>
-      <guid isPermaLink="false">molecola-37f9f260a7f47079</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Chemical Education — OpenAlex</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,36 @@
 {
- "count": 2890,
+ "count": 2895,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-10T12:35:00+00:00",
+   "excerpt": "Japan’s state energy research agency says it is seeking renewable and energy storage options outside established areas such as solar that could suit regional conditions.",
+   "first_seen": "2026-11-10T14:46:05+00:00",
+   "id": "8287ee86e6300cc8",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/11/10/japan-to-assess-renewable-storage-technologies-beyond-pv-and-wind/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "Japan to assess renewable, storage technologies beyond PV and wind"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-10T09:00:06+00:00",
+   "excerpt": "Sulle strade italiane la diffusione dei veicoli pesanti a zero emissioni, elettrici a batteria o a celle a combustibile, procede con ritmi diversi a seconda della tipologia di mezzo. Gli autobus mostrano una…",
+   "first_seen": "2026-11-10T14:46:05+00:00",
+   "id": "686c99b5f07188c5",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/articoli/veicoli-pesanti-elettrici-italia-cosa-dicono-dati-mercato-2026/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Veicoli pesanti elettrici in Italia: cosa dicono i dati di mercato del 2026"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -60,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Wärtsilä Backs Hydrogen and Ammonia Engine Research at Aalto University With €200,000 Donation"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-09T16:26:16+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-10T14:46:05+00:00",
+   "id": "358e447dcd7e3a9f",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/05/electric/university-of-delaware-research-helps-advance-ford-s-affordable-ev-charging-technology",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "University of Delaware Research Helps Advance Ford's Affordable EV Charging Technology"
   },
   {
    "authors": [],
@@ -165,6 +210,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "China Connects First 100.48MW of Solar at Jiangsu Green Hydrogen Demonstration Project"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-09T15:25:00+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-10T14:46:05+00:00",
+   "id": "0292387c408c65e5",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/40km-hydrogen-pipeline-between-luxembourg-and-france-given-greenlight/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "40km hydrogen pipeline between Luxembourg and France given greenlight"
   },
   {
    "authors": [],
@@ -274,6 +334,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "System-Level Knowledge Gaps in Liquid Hydrogen Storage Integration for Maritime Applications"
+  },
+  {
+   "authors": [
+    "Islam Gomaa",
+    "Zeynep Reyhan Öztürk",
+    "Ahlam Farhan",
+    "Mustafa Fatih Genişel",
+    "Hani Nasser Abdelhamid",
+    "Moustafa A. Rizk"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-09T00:00:00+00:00",
+   "excerpt": "Journal of Cluster Science",
+   "first_seen": "2026-11-10T14:46:05+00:00",
+   "id": "4be2463c0661892b",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10876-026-03109-9",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tellurium-Based ZnO/Te/TeO2 Nanostructures for Efficient Energy Storage and Oxygen Evolution Electrocatalysis"
   },
   {
    "authors": [],
@@ -51213,6 +51295,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-10T03:27:43+00:00",
+ "updated": "2026-11-10T14:46:05+00:00",
  "version": 2
 }
