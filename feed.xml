@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:05:22 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Accelerating the transition: a policy and practice review of alternative vehicle adoption and infrastructure readiness in sub-Saharan Africa</title>
+      <link>https://doi.org/10.3389/fsuep.2026.2011071</link>
+      <guid isPermaLink="false">molecola-45ef02aece673886</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Frontiers in Sustainable Energy Policy — OpenAlex</description>
+    </item>
+    <item>
+      <title>DIW-Printed Biomass-Based Radiative Coolers with Phase Change for Extended Thermoelectric Output</title>
+      <link>https://doi.org/10.1021/acsapm.6c04206</link>
+      <guid isPermaLink="false">molecola-e14dfef65d457f7e</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Polymer Materials — OpenAlex</description>
+    </item>
     <item>
       <title>A fast two-phase model for PEM fuel cell impedance</title>
       <link>https://arxiv.org/abs/2611.14372v1</link>
@@ -177,6 +193,62 @@
       <description>Sulle strade italiane la diffusione dei veicoli pesanti a zero emissioni, elettrici a batteria o a celle a combustibile, procede con ritmi diversi a seconda della tipologia di mezzo. Gli autobus mostrano una… — QualEnergia</description>
     </item>
     <item>
+      <title>Research progress on molecular engineering of multifunctional electrolyte additives for aqueous zinc-ion batteries</title>
+      <link>https://doi.org/10.1016/j.est.2026.125578</link>
+      <guid isPermaLink="false">molecola-d13bd666f1766b4b</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Synthesis and Performance of Mn-Substituted TiFe Alloys for Long-Term Hydrogen Storage System Development</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158577</link>
+      <guid isPermaLink="false">molecola-79a8fe417c2809ca</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>CRS Methodology to the Realmonte Salt Mine, Southwestern Sicily: An Application for Hydrogen Storage Potential Site in Italy</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158508</link>
+      <guid isPermaLink="false">molecola-f486e50e3817f8a2</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>A constraint-aware gated ensemble method for predicting hydrogen storage in metal-organic frameworks</title>
+      <link>https://doi.org/10.1016/j.seppur.2026.140880</link>
+      <guid isPermaLink="false">molecola-847df0041d0430c3</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Separation and Purification Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Scalable solar thermal-to-compressed hydrogen pathway for energy and water security: Triple-mode control under variable solar irradiance and ANN-GA optimization for enhanced exergy and economic performance</title>
+      <link>https://doi.org/10.1016/j.icheatmasstransfer.2026.112916</link>
+      <guid isPermaLink="false">molecola-0de0733d96dc199b</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Communications in Heat and Mass Transfer — OpenAlex</description>
+    </item>
+    <item>
+      <title>Design Blueprint: Village Electrolytic Chlorination System — Build Specification Derived from the Solar Electrochlorination Sizing Paper</title>
+      <link>https://doi.org/10.5281/zenodo.24111423</link>
+      <guid isPermaLink="false">molecola-bf7f287f4b1d0deb</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>MOF-Derived Ni2P with Stable HER/OER Properties Toward Large-Current Water Splitting and Long-Life Zinc-Air Battery</title>
+      <link>https://doi.org/10.1021/acsaem.6c02587</link>
+      <guid isPermaLink="false">molecola-d991d303896f8a95</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Applied Energy Materials — OpenAlex</description>
+    </item>
+    <item>
       <title>Sahamco's Ambitious Green Hydrogen Project in Dakhla</title>
       <link>http://www.hydrogenfuelnews.com/revolutionizing-renewable-energy-sahamco-s-ambitious-green-hydrogen-project-in-d/8577041/</link>
       <guid isPermaLink="false">molecola-6197598dcd9a712c</guid>
@@ -327,78 +399,6 @@
       <pubDate>Mon, 09 Nov 2026 06:19:37 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>HyDéO Day 2026 in Toulouse highlighted hydrogen's role in fostering energy sovereignty, showcasing advancements and strategic implications for the industry. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>System-Level Knowledge Gaps in Liquid Hydrogen Storage Integration for Maritime Applications</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158510</link>
-      <guid isPermaLink="false">molecola-d3e7904c0978fdd2</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Tellurium-Based ZnO/Te/TeO2 Nanostructures for Efficient Energy Storage and Oxygen Evolution Electrocatalysis</title>
-      <link>https://doi.org/10.1007/s10876-026-03109-9</link>
-      <guid isPermaLink="false">molecola-4be2463c0661892b</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Cluster Science — OpenAlex</description>
-    </item>
-    <item>
-      <title>Learning pore-scale multiphase flow from 4D velocimetry</title>
-      <link>https://doi.org/10.1016/j.advwatres.2026.105556</link>
-      <guid isPermaLink="false">molecola-8e09b5eb8088c92e</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advances in Water Resources — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology</title>
-      <link>https://doi.org/10.3390/drones10110838</link>
-      <guid isPermaLink="false">molecola-7a105d3c70e93baf</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Drones — OpenAlex</description>
-    </item>
-    <item>
-      <title>High-Temperature Energy Storage in Semi-Aromatic Polyimide with Dual Crosslinking Networks</title>
-      <link>https://doi.org/10.1088/2752-5724/aebfb1</link>
-      <guid isPermaLink="false">molecola-e454d727de3ca666</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Materials Futures — OpenAlex</description>
-    </item>
-    <item>
-      <title>Toward Sustainable CO2 Utilization: A Resource-Efficient, Model-Based Design-of-Experiments Framework for Optimizing Photocatalytic Conversion to Formic Acid and Ethanol</title>
-      <link>https://doi.org/10.3390/photochem6040044</link>
-      <guid isPermaLink="false">molecola-7ee49f62d4368d4e</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Photochem — OpenAlex</description>
-    </item>
-    <item>
-      <title>Interfacial hydrogen bond mediated bioinspired polyethersulfone-MOF composite pellets with structural stability and high hydrogen storage capacity retention</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158475</link>
-      <guid isPermaLink="false">molecola-ae665ccc8e5c188c</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>A review on fracture resistance and thermal insulation of hybrid composite materials for hydrogen storage vessel</title>
-      <link>https://doi.org/10.1016/j.est.2026.125481</link>
-      <guid isPermaLink="false">molecola-0587e5871115a25a</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydrogen storage capacity controlled by pore-scale gas fragmentation in clay-rich reservoirs</title>
-      <link>https://doi.org/10.1016/j.tust.2026.108265</link>
-      <guid isPermaLink="false">molecola-8d87c9478efb7cd1</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Tunnelling and Underground Space Technology — OpenAlex</description>
     </item>
     <item>
       <title>JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source</title>
