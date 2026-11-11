@@ -1,6 +1,23 @@
 {
- "count": 2935,
+ "count": 2936,
  "items": [
+  {
+   "authors": [
+    "Andrei Kulikovsky"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-10T17:30:00+00:00",
+   "excerpt": "We report a physics-based matrix model for PEM fuel cell impedance that takes into account liquid water transients in the cathode catalyst layer (CCL). This model is an extension of our previous single-phase matrix…",
+   "first_seen": "2026-11-11T05:59:11+00:00",
+   "id": "cfddd3e9fee895df",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.14372v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "A fast two-phase model for PEM fuel cell impedance"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -52018,6 +52035,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-10T21:16:24+00:00",
+ "updated": "2026-11-11T05:59:11+00:00",
  "version": 2
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:58:53 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>A fast two-phase model for PEM fuel cell impedance</title>
+      <link>https://arxiv.org/abs/2611.14372v1</link>
+      <guid isPermaLink="false">molecola-cfddd3e9fee895df</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>We report a physics-based matrix model for PEM fuel cell impedance that takes into account liquid water transients in the cathode catalyst layer (CCL). This model is an extension of our previous single-phase matrix… — arXiv</description>
+    </item>
     <item>
       <title>InstaVolt to Roll Out Ultra-Rapid EV Charging Across Premier Inn Hotels</title>
       <link>https://fuelcellsworks.com/2026/11/09/electric/instavolt-to-roll-out-ultra-rapid-ev-charging-across-premier-inn-hotels</link>
@@ -391,14 +399,6 @@
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Tunnelling and Underground Space Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Correlative nanoscale chemical imaging reveals delocalized Faradaic processes at isolated MXene flakes</title>
-      <link>https://doi.org/10.1038/s41467-026-79237-7</link>
-      <guid isPermaLink="false">molecola-e19c9d5d5a1538f2</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nature Communications — OpenAlex</description>
     </item>
     <item>
       <title>JERA Invests in Koloma to Explore Natural Hydrogen as Future Clean Energy Source</title>
