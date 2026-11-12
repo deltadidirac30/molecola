@@ -1,6 +1,21 @@
 {
- "count": 2986,
+ "count": 2987,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-11T23:10:31+00:00",
+   "excerpt": "Hanwha Aerospace has made a significant advancement in green hydrogen technology by securing type approval for its marine hydrogen fuel-cell system, setting the stage for cleaner energy in maritime operations and…",
+   "first_seen": "2026-11-12T07:01:51+00:00",
+   "id": "b176cf50a6dd6fd1",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hanwha-aerospace-achieves-type-approval-for-groundbreaking-marine-hydrogen-fuel-/8577049/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hanwha Aerospace Achieves Type Approval for Groundbreaking Marine Hydrogen Fuel Cell System"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -52956,6 +52971,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-11T21:51:49+00:00",
+ "updated": "2026-11-12T07:01:51+00:00",
  "version": 2
 }

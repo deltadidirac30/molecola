@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:01:12 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Hanwha Aerospace Achieves Type Approval for Groundbreaking Marine Hydrogen Fuel Cell System</title>
+      <link>http://www.hydrogenfuelnews.com/hanwha-aerospace-achieves-type-approval-for-groundbreaking-marine-hydrogen-fuel-/8577049/</link>
+      <guid isPermaLink="false">molecola-b176cf50a6dd6fd1</guid>
+      <pubDate>Wed, 11 Nov 2026 23:10:31 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hanwha Aerospace has made a significant advancement in green hydrogen technology by securing type approval for its marine hydrogen fuel-cell system, setting the stage for cleaner energy in maritime operations and… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Spain’s Enagás Picks AI-Based Predictive Maintenance Technology for Future Hydrogen Grid</title>
       <link>https://fuelcellsworks.com/2026/11/11/h2/spain-s-enagas-picks-ai-based-predictive-maintenance-technology-for-future-hydrogen-grid</link>
@@ -439,14 +447,6 @@
       <pubDate>Mon, 09 Nov 2026 16:22:55 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Renault Trafic E-Tech Electric Opens for UK Orders at £38,000 + VAT — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>German Hydrogen Storage Project Clears Leak Test as EWE Prepares 1,440-Tonne Cavern for 2028</title>
-      <link>https://fuelcellsworks.com/2026/11/08/h2/german-hydrogen-storage-project-clears-key-test-as-ewe-prepares-1-440-tonne-cavern-for-2028</link>
-      <guid isPermaLink="false">molecola-53aacb51ca599054</guid>
-      <pubDate>Mon, 09 Nov 2026 16:19:04 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>German Hydrogen Storage Project Clears Leak Test as EWE Prepares 1,440-Tonne Cavern for 2028 — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
