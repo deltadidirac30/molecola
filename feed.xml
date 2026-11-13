@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:07:50 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany</title>
+      <link>https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/</link>
+      <guid isPermaLink="false">molecola-4a4d33fdd71725fd</guid>
+      <pubDate>Fri, 13 Nov 2026 15:41:03 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">PV Magazine</source>
+      <description>The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. — PV Magazine</description>
+    </item>
+    <item>
+      <title>Effect of Nd on the microstructure and electrochemical properties of La–Y–Ni-based superlattice hydrogen storage alloys</title>
+      <link>https://doi.org/10.1007/s10008-026-06751-5</link>
+      <guid isPermaLink="false">molecola-4a1897cc4af9fba9</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Solid State Electrochemistry — OpenAlex</description>
+    </item>
+    <item>
+      <title>First-principles insights into vacancy-ordered double perovskite hydrides A2BH6 (A = Li, Na; B = Ge, Sn) for solid-state hydrogen storage applications</title>
+      <link>https://doi.org/10.1007/s11581-026-07636-3</link>
+      <guid isPermaLink="false">molecola-6373d5356d50dd75</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Ionics — OpenAlex</description>
+    </item>
     <item>
       <title>Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement</title>
       <link>https://arxiv.org/abs/2611.17111v1</link>
@@ -137,6 +161,14 @@
       <description>Repsol Approves €400M Investment in 150MW Green Hydrogen Plant at Tarragona Refinery — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Energiepark Bad Lauchstädt is now producing green hydrogen</title>
+      <link>http://www.hydrogenfuelnews.com/energiepark-bad-lauchst-dt-a-new-era-in-green-hydrogen-production/8577051/</link>
+      <guid isPermaLink="false">molecola-5188b255b3c795a0</guid>
+      <pubDate>Thu, 12 Nov 2026 12:12:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Energiepark Bad Lauchstädt has produced green hydrogen for the first time, utilizing a 30-megawatt electrolysis plant powered by a 50-megawatt wind farm. Collaborations among key industry players underscore the… — Hydrogen Fuel News</description>
+    </item>
+    <item>
       <title>Low-temperature waste recovery using a mobilized latent-heat storage system: PCM selection and encapsulated design optimization</title>
       <link>https://doi.org/10.1016/j.est.2026.125418</link>
       <guid isPermaLink="false">molecola-413aaf4b3023f8d4</guid>
@@ -151,6 +183,46 @@
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Indian Journal of Physics — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Regenerative Hydrogen-Oxygen Fuel Cell for a Crewed Mars Transit Vehicle: Round-Trip Efficiency, Reactant Mass for a Seventy-Two-Hour Reserve and the Battery It Replaces</title>
+      <link>https://doi.org/10.5281/zenodo.24169194</link>
+      <guid isPermaLink="false">molecola-1fd04ea2d0cce392</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multicomponent Quasi-Solid Electrolyte with an Electrospun Fibrous Scaffold for Stable Zn Plating/Stripping</title>
+      <link>https://doi.org/10.1149/1945-7111/aeba28</link>
+      <guid isPermaLink="false">molecola-280ac5c21a1e0213</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of The Electrochemical Society — OpenAlex</description>
+    </item>
+    <item>
+      <title>Decarbonization pathways of energy intensive industries in an enhanced CGE framework</title>
+      <link>https://doi.org/10.5281/zenodo.24159935</link>
+      <guid isPermaLink="false">molecola-9b4237194d4f2199</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Hydrogen Power-to-Gas Store for a Small Town: Electrolyser Rating, Compressed-Gas Mass, Storage Volume and Full Round-Trip Loss for Five Thousand Usable Kilowatt-Hours</title>
+      <link>https://doi.org/10.5281/zenodo.24173863</link>
+      <guid isPermaLink="false">molecola-611571d7414fb3f2</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Nanoconfinement Controls Hydrogen Transport in Shales</title>
+      <link>https://doi.org/10.1021/acs.est.6c01659</link>
+      <guid isPermaLink="false">molecola-7fcc1c1604fdc39d</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Environmental Science &amp; Technology — OpenAlex</description>
     </item>
     <item>
       <title>Hanwha Aerospace Achieves Type Approval for Groundbreaking Marine Hydrogen Fuel Cell System</title>
@@ -305,62 +377,6 @@
       <description>Germany Backs Biohydrogen From Biogas With Carbon Capture to Deliver ‘Negative Emissions’ — Fuel Cells Works</description>
     </item>
     <item>
-      <title>Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides</title>
-      <link>https://arxiv.org/abs/2611.15297v1</link>
-      <guid isPermaLink="false">molecola-64116dfc35d13f30</guid>
-      <pubDate>Wed, 11 Nov 2026 10:29:47 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>The function of oxide materials, from solid-oxide fuel cells to solar thermochemical fuel production, depends on their oxygen vacancies. Their formation energetics have been mapped systematically for ternary… — arXiv</description>
-    </item>
-    <item>
-      <title>Accelerating the transition: a policy and practice review of alternative vehicle adoption and infrastructure readiness in sub-Saharan Africa</title>
-      <link>https://doi.org/10.3389/fsuep.2026.2011071</link>
-      <guid isPermaLink="false">molecola-45ef02aece673886</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Frontiers in Sustainable Energy Policy — OpenAlex</description>
-    </item>
-    <item>
-      <title>DIW-Printed Biomass-Based Radiative Coolers with Phase Change for Extended Thermoelectric Output</title>
-      <link>https://doi.org/10.1021/acsapm.6c04206</link>
-      <guid isPermaLink="false">molecola-e14dfef65d457f7e</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Polymer Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Functionalized ammonia-borane mediated synergistic metal-free strategy for the Water-Gas shift reaction: A systematic DFT study</title>
-      <link>https://doi.org/10.1016/j.jmgm.2026.109648</link>
-      <guid isPermaLink="false">molecola-50d716644f3188b0</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Molecular Graphics and Modelling — OpenAlex</description>
-    </item>
-    <item>
-      <title>Recent Advances in On-Chip Optical Hydrogen Sensing Technologies</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158593</link>
-      <guid isPermaLink="false">molecola-76114e1e47c1782c</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-Economic Optimal Sizing of Multi-Storage Hybrid Isolated Microgrids for Reliable Electricity and Freshwater Supply Using a Gradient Stellar Oscillation Optimizer</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158498</link>
-      <guid isPermaLink="false">molecola-22ed20a07b900345</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>κ-Carrageenan–Gelatin Physical Hydrogels for Sustained Non-Contact Essential Oil Release: Network Properties and Ant-Repellent Performance</title>
-      <link>https://doi.org/10.1021/acsapm.6c03960</link>
-      <guid isPermaLink="false">molecola-40e57c56a41ca9e1</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Applied Polymer Materials — OpenAlex</description>
-    </item>
-    <item>
       <title>FuelCell Energy's New Project Aims to Power AI Data Centers with Integrated Fuel Cell Systems</title>
       <link>http://www.hydrogenfuelnews.com/fuelcell-energy-s-new-project-aims-to-power-ai-data-centers-with-integrated-fuel/8577045/</link>
       <guid isPermaLink="false">molecola-bab4c123efd26b31</guid>
@@ -431,22 +447,6 @@
       <pubDate>Tue, 10 Nov 2026 16:26:30 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hanwha Aerospace Obtains Korea's First Type Approval for Marine Hydrogen Fuel Cells — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Tata Daewoo Brings 408 Hp Hydrogen Engine Tractor to World Hydrogen Expo 2026</title>
-      <link>https://fuelcellsworks.com/2026/11/03/h2/tata-daewoo-brings-408-hp-hydrogen-engine-tractor-to-world-hydrogen-expo-2026</link>
-      <guid isPermaLink="false">molecola-a564e00c037c4423</guid>
-      <pubDate>Tue, 10 Nov 2026 16:17:34 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Tata Daewoo Brings 408 Hp Hydrogen Engine Tractor to World Hydrogen Expo 2026 — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>HYTRA and Path2 Hydrogen / GenH2 Sign MoU to Advance Liquid Hydrogen Infrastructure and Maritime Supply Chains</title>
-      <link>https://fuelcellsworks.com/2026/11/10/electrolyzer/hytra-and-path2-hydrogen-genh2-sign-mou-to-advance-liquid-hydrogen-infrastructure-and-maritime-supply-chains</link>
-      <guid isPermaLink="false">molecola-c42936d741dea8d0</guid>
-      <pubDate>Tue, 10 Nov 2026 16:10:02 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>HYTRA and Path2 Hydrogen / GenH2 Sign MoU to Advance Liquid Hydrogen Infrastructure and Maritime Supply Chains — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

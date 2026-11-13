@@ -1,6 +1,65 @@
 {
- "count": 3028,
+ "count": 3050,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-13T15:41:03+00:00",
+   "excerpt": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027.",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "4a4d33fdd71725fd",
+   "lang": "en",
+   "link": "https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/",
+   "manual": null,
+   "paywall": false,
+   "source": "PV Magazine",
+   "source_slug": "pv-magazine",
+   "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
+  },
+  {
+   "authors": [
+    "Ye Tian",
+    "Anqiang Deng",
+    "Yingjie Wang",
+    "Li Longqiang",
+    "Sili Wei",
+    "Guangyi Tan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Journal of Solid State Electrochemistry",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "4a1897cc4af9fba9",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10008-026-06751-5",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effect of Nd on the microstructure and electrochemical properties of La–Y–Ni-based superlattice hydrogen storage alloys"
+  },
+  {
+   "authors": [
+    "Ahmad Ayyaz",
+    "Muhammad Abaid Ullah",
+    "Mah Noor",
+    "Fawziah Alhajri",
+    "Ghada I. Ameereh",
+    "Noura Dawas Alkhaldi"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Ionics",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "6373d5356d50dd75",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11581-026-07636-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "First-principles insights into vacancy-ordered double perovskite hydrides A2BH6 (A = Li, Na; B = Ge, Sn) for solid-state hydrogen storage applications"
+  },
   {
    "authors": [
     "Zhuangzhuang Ma",
@@ -249,6 +308,21 @@
    "title": "Repsol Approves €400M Investment in 150MW Green Hydrogen Plant at Tarragona Refinery"
   },
   {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-12T12:12:41+00:00",
+   "excerpt": "Energiepark Bad Lauchstädt has produced green hydrogen for the first time, utilizing a 30-megawatt electrolysis plant powered by a 50-megawatt wind farm. Collaborations among key industry players underscore the…",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "5188b255b3c795a0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/energiepark-bad-lauchst-dt-a-new-era-in-green-hydrogen-production/8577051/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Energiepark Bad Lauchstädt is now producing green hydrogen"
+  },
+  {
    "authors": [
     "Hussein Karim",
     "Adrian Ilinca"
@@ -287,6 +361,308 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Alkali-metal Na2LiXH6 (X = Al, In and Ga) complex hydrides as prospective materials for solar energy conversion and hydrogen storage applications"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "1fd04ea2d0cce392",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24169194",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Regenerative Hydrogen-Oxygen Fuel Cell for a Crewed Mars Transit Vehicle: Round-Trip Efficiency, Reactant Mass for a Seventy-Two-Hour Reserve and the Battery It Replaces"
+  },
+  {
+   "authors": [
+    "Peng Wang",
+    "Haiyue Wang",
+    "Guanyu Ren",
+    "Ke Li",
+    "Liying Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Journal of The Electrochemical Society",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "280ac5c21a1e0213",
+   "lang": "en",
+   "link": "https://doi.org/10.1149/1945-7111/aeba28",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multicomponent Quasi-Solid Electrolyte with an Electrospun Fibrous Scaffold for Stable Zn Plating/Stripping"
+  },
+  {
+   "authors": [
+    "Dimitris Fragkiadakis",
+    "Michele Manfroni",
+    "Kostas Fragkiadakis",
+    "Zoi Vrontisi"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "9b4237194d4f2199",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24159935",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Decarbonization pathways of energy intensive industries in an enhanced CGE framework"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "611571d7414fb3f2",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24173863",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Hydrogen Power-to-Gas Store for a Small Town: Electrolyser Rating, Compressed-Gas Mass, Storage Volume and Full Round-Trip Loss for Five Thousand Usable Kilowatt-Hours"
+  },
+  {
+   "authors": [
+    "Hyeonseok Lee",
+    "Chelsea W. Neil",
+    "Timothy Clark Germann",
+    "Michael R. Gross",
+    "Qinjun Kang",
+    "Lilin He"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Environmental Science & Technology",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "7fcc1c1604fdc39d",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.est.6c01659",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Nanoconfinement Controls Hydrogen Transport in Shales"
+  },
+  {
+   "authors": [
+    "Yiwen Liu",
+    "Xiaoya Zhao",
+    "Zhang Wen",
+    "Bingxuan Du",
+    "Yu Shi",
+    "Lunjie Qin"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Journal of the American Chemical Society",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "a65e7151b0c6d971",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/jacs.6c18741",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Breaking the “Micro-Size Inversion” Paradox via a Surface-Chemistry-Driven Molecular Sieving Membrane for Ambient Lithium–Air Batteries"
+  },
+  {
+   "authors": [
+    "Vishnu Suresh",
+    "Francesco Montana",
+    "Eleonora Riva Sanseverino"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "4898f88809c5e9df",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19225449",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Deep Quantile Regression-Based Two-Stage Stochastic Optimization Framework for Ancillary Services Provision"
+  },
+  {
+   "authors": [
+    "Eslam M. Abd Elaziz",
+    "Mohamed A. Esmail",
+    "Khaled H. Ibrahim"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "b1537a3afec85a48",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-74280-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Impact of green hydrogen integration on the optimal sizing and cost of isolated PV–wind hybrid systems"
+  },
+  {
+   "authors": [
+    "Yang Liu",
+    "Jichao Huang",
+    "Jing Dong",
+    "Xia Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Symmetry",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "31ae83115e71d1a9",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/sym18111887",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of Anthocyanin Loading on the Properties of Intelligent Films for Food Freshness Monitoring: A Molecular Dynamics Simulation Study"
+  },
+  {
+   "authors": [
+    "Pin Zhai",
+    "Ziyang Chang",
+    "Xinyu Zhao",
+    "Haiping Wang",
+    "Zhixin Jia",
+    "Lingqi Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Energy Materials",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "e6b3eca780b3970f",
+   "lang": "en",
+   "link": "https://doi.org/10.20517/energymater.2026.239",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Cellulase-mediated surface engineering of cellulose fibers for high-performance cellulose fibers/polyaniline composites flexible electrodes"
+  },
+  {
+   "authors": [
+    "Feilong Yin",
+    "Meiying He",
+    "Mohd Sabri Pak Dek",
+    "Mohd Termizi Yusof",
+    "Nurul Shazini Ramli",
+    "Azizah Binti Misran"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Horticulturae",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "09337390033f07e1",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/horticulturae12111406",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effects of 1-MCP Treatment on Chilling Injury and ROS Metabolism in Postharvest Passion Fruit"
+  },
+  {
+   "authors": [
+    "Remigiusz Jasiński",
+    "Aleksander Ludwiczak",
+    "Paula Kurzawska-Pietrowicz",
+    "Andrzej Ziółkowski",
+    "Jakub Niklas",
+    "Maciej Mazur"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Energies",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "6159748b4d17e78a",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/en19225455",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen-Based Solutions for Aviation Decarbonization: Fuel Cells, e-SAF, Direct Combustion, and Airport Energy Systems"
+  },
+  {
+   "authors": [
+    "Thị Ngọc Anh Nguyễn",
+    "Thu Phung",
+    "Huyen Thi Nguyen",
+    "Nguyen Hoang Tung",
+    "Nguyen Thi Giang",
+    "Lan Ngo"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "ACS Omega",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "5e04c1603717fbf1",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsomega.6c11744",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Low-Barrier H2 Dissociation on the Al9Sc4– Nanocluster: Superatomic Shell Effects and Implications for Low-Temperature Hydrogen Activation"
+  },
+  {
+   "authors": [
+    "Muhammad Zubair",
+    "Amin Alinejad",
+    "Tamer Moussa",
+    "Hassan Dehghanpour"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Energy & Fuels",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "5d133309367ec03c",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acs.energyfuels.6c03222",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Oil Wettability as an Indicator of Early-Time Productivity in Duvernay Organic-Rich Shales"
+  },
+  {
+   "authors": [
+    "Jiwon Kwun"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "3c299af4f5452a4e",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24162976",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Modeling International Trade of Ammonia for Direct Use and as a Hydrogen Carrier in Korea"
   },
   {
    "authors": [],
@@ -983,6 +1359,72 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers"
+  },
+  {
+   "authors": [
+    "Guojie Zhao",
+    "Conghui Liu",
+    "Yanlei Ge",
+    "Xuemin Yao",
+    "Hongjiao Wu",
+    "Yong Cui"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-11T00:00:00+00:00",
+   "excerpt": "BMC Medicine",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "1a278f1a721b1b87",
+   "lang": "en",
+   "link": "https://doi.org/10.1186/s12916-026-05327-4",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Construction of 3D BEAS-2B spheroids using a chemically defined hyaluronic acid-based hybrid hydrogel for 1-nitropyrene toxicity evaluation"
+  },
+  {
+   "authors": [
+    "Jiang Wen",
+    "Wei Zhang",
+    "Zebo Huang",
+    "Qi Xu",
+    "李计初",
+    "Bo Feng"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-11T00:00:00+00:00",
+   "excerpt": "Journal of Power Sources",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "f0f246f360c50078",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jpowsour.2026.241966",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Experimental evaluation of the influence of different temperature control methods on the capacity retention performance of new energy storage batteries"
+  },
+  {
+   "authors": [
+    "Ren Wei",
+    "Xinyu Shi",
+    "Enrico Sassoni",
+    "Morten Enggrob Simonsen",
+    "Rudi Pankratz Nielsen",
+    "Min Wu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-11T00:00:00+00:00",
+   "excerpt": "Alexandria Engineering Journal",
+   "first_seen": "2026-11-13T17:08:07+00:00",
+   "id": "810a56f2c003366e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.aej.2026.11.001",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mechanisms of phosphate treatments for cementitious materials under thermal and pressure gradients: Implications for subsurface applications"
   },
   {
    "authors": [],
@@ -53719,6 +54161,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-13T06:28:31+00:00",
+ "updated": "2026-11-13T17:08:07+00:00",
  "version": 2
 }
