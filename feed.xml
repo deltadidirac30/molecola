@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:28:17 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement</title>
+      <link>https://arxiv.org/abs/2611.17111v1</link>
+      <guid isPermaLink="false">molecola-7d37d827547fb187</guid>
+      <pubDate>Thu, 12 Nov 2026 17:04:50 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Pore-space evolution and fluid displacement influence how rocks transmit and store fluids, affecting geological carbon storage, underground hydrogen storage and groundwater contaminant transport. A single time-resolved… — arXiv</description>
+    </item>
     <item>
       <title>Hyundai’s HTWO Guangzhou Puts Next-Generation Hydrogen Fuel Cell System Into Local Mass Production</title>
       <link>https://fuelcellsworks.com/2026/11/11/electrolyzer/hyundai-s-htwo-guangzhou-puts-next-generation-hydrogen-fuel-cell-system-into-local-mass-production</link>
@@ -297,6 +305,14 @@
       <description>Germany Backs Biohydrogen From Biogas With Carbon Capture to Deliver ‘Negative Emissions’ — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides</title>
+      <link>https://arxiv.org/abs/2611.15297v1</link>
+      <guid isPermaLink="false">molecola-64116dfc35d13f30</guid>
+      <pubDate>Wed, 11 Nov 2026 10:29:47 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The function of oxide materials, from solid-oxide fuel cells to solar thermochemical fuel production, depends on their oxygen vacancies. Their formation energetics have been mapped systematically for ternary… — arXiv</description>
+    </item>
+    <item>
       <title>Accelerating the transition: a policy and practice review of alternative vehicle adoption and infrastructure readiness in sub-Saharan Africa</title>
       <link>https://doi.org/10.3389/fsuep.2026.2011071</link>
       <guid isPermaLink="false">molecola-45ef02aece673886</guid>
@@ -343,22 +359,6 @@
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>ACS Applied Polymer Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Coordinated Scheduling of Hydrogen Production and Flexible Loads in Offshore Wind-Powered Underwater Data Centers</title>
-      <link>https://doi.org/10.3390/math14224149</link>
-      <guid isPermaLink="false">molecola-e7094f76cee62d1f</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Mathematics — OpenAlex</description>
-    </item>
-    <item>
-      <title>Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers</title>
-      <link>https://doi.org/10.1002/ange.4691596</link>
-      <guid isPermaLink="false">molecola-890fa2b5a2497346</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Angewandte Chemie — OpenAlex</description>
     </item>
     <item>
       <title>FuelCell Energy's New Project Aims to Power AI Data Centers with Integrated Fuel Cell Systems</title>

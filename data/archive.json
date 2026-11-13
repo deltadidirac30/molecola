@@ -1,6 +1,28 @@
 {
- "count": 3026,
+ "count": 3028,
  "items": [
+  {
+   "authors": [
+    "Zhuangzhuang Ma",
+    "Rukuan Chai",
+    "Qianqian Ma",
+    "Yanghua Wang",
+    "Branko Bijeljic",
+    "Martin J. Blunt"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T17:04:50+00:00",
+   "excerpt": "Pore-space evolution and fluid displacement influence how rocks transmit and store fluids, affecting geological carbon storage, underground hydrogen storage and groundwater contaminant transport. A single time-resolved…",
+   "first_seen": "2026-11-13T06:28:31+00:00",
+   "id": "7d37d827547fb187",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.17111v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -550,6 +572,26 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Germany Backs Biohydrogen From Biogas With Carbon Capture to Deliver ‘Negative Emissions’"
+  },
+  {
+   "authors": [
+    "Manish Kumar",
+    "Bridget S. Ferris",
+    "Avital Isakov",
+    "Robert B. Wexler"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-11T10:29:47+00:00",
+   "excerpt": "The function of oxide materials, from solid-oxide fuel cells to solar thermochemical fuel production, depends on their oxygen vacancies. Their formation energetics have been mapped systematically for ternary…",
+   "first_seen": "2026-11-13T06:28:31+00:00",
+   "id": "64116dfc35d13f30",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.15297v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Periodic Trends in Oxygen Vacancy Formation Energies Across Binary Main-Group Metal Oxides"
   },
   {
    "authors": [
@@ -53677,6 +53719,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-12T23:31:04+00:00",
+ "updated": "2026-11-13T06:28:31+00:00",
  "version": 2
 }
