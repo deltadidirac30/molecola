@@ -6,8 +6,24 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:44:08 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Launch of Hyd’Occ: A Step Forward for Green Hydrogen Production in France</title>
+      <link>http://www.hydrogenfuelnews.com/launch-of-hyd-occ-a-step-forward-for-green-hydrogen-production-in-france/8577058/</link>
+      <guid isPermaLink="false">molecola-f77e7f8deba69821</guid>
+      <pubDate>Sat, 14 Nov 2026 03:25:47 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Qair and AREC Occitanie have inaugurated Hyd’Occ, the largest renewable hydrogen production facility in France located at Port-la-Nouvelle, featuring a 20 MW alkaline electrolyser designed to produce 2,700 tonnes of… — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>TE H2 Chile Cancels H2 Magallanes Green Hydrogen Project Amid Economic Challenges</title>
+      <link>http://www.hydrogenfuelnews.com/te-h2-chile-cancels-h2-magallanes-green-hydrogen-project-amid-economic-challenge/8577057/</link>
+      <guid isPermaLink="false">molecola-1b27724c2be35bf6</guid>
+      <pubDate>Sat, 14 Nov 2026 03:12:32 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>TE H2 Chile withdraws from the H2 Magallanes green hydrogen project citing economic challenges, marking a significant setback for green energy ambitions in Chile. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>German Beverage Distributor Voßkamp Tests Hyundai XCIENT Hydrogen Truck Alongside BEV and Combustion Fleet</title>
       <link>https://fuelcellsworks.com/2026/11/12/fuel-cells/german-beverage-distributor-vo-kamp-tests-hyundai-xcient-hydrogen-truck-alongside-bev-and-combustion-fleet</link>
@@ -49,6 +65,22 @@
       <description>DHL Becomes First Express Cargo Carrier to Use Sustainable Aviation Fuel (SAF) at Paris Charles De Gaulle Airport — Fuel Cells Works</description>
     </item>
     <item>
+      <title>AION I60's Overseas Debut Shows How GAC Is Building Global Competitiveness</title>
+      <link>https://fuelcellsworks.com/2026/11/13/electric/aion-i60-s-overseas-debut-shows-how-gac-is-building-global-competitiveness</link>
+      <guid isPermaLink="false">molecola-09ecfbd2deaffd11</guid>
+      <pubDate>Fri, 13 Nov 2026 15:08:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>AION I60's Overseas Debut Shows How GAC Is Building Global Competitiveness — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>European Industrial Sovereignty: Veolia Launches a Pioneering Site for Extracting Strategic Metals From EV Batteries</title>
+      <link>https://fuelcellsworks.com/2026/11/12/battery/european-industrial-sovereignty-veolia-launches-a-pioneering-site-for-extracting-strategic-metals-from-ev-batteries</link>
+      <guid isPermaLink="false">molecola-a2464d67409aec52</guid>
+      <pubDate>Fri, 13 Nov 2026 15:04:06 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>European Industrial Sovereignty: Veolia Launches a Pioneering Site for Extracting Strategic Metals From EV Batteries — Fuel Cells Works</description>
+    </item>
+    <item>
       <title>Luxembourg Puts Hydrogen Cars on Equal Footing With Battery EVs in Revamped Subsidy Scheme</title>
       <link>https://fuelcellsworks.com/2026/11/12/h2/luxembourg-puts-hydrogen-cars-on-equal-footing-with-battery-evs-in-revamped-subsidy-scheme</link>
       <guid isPermaLink="false">molecola-e9919f4b39e28016</guid>
@@ -87,6 +119,14 @@
       <pubDate>Fri, 13 Nov 2026 14:16:55 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Bertrand Piccard’s Hydrogen Round-the-World Flight Picks Up Two Major Clean Energy Backers at COP31 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>PosHYdon: Pioneering Offshore Hydrogen Production in the North Sea</title>
+      <link>http://www.hydrogenfuelnews.com/poshydon-pioneering-offshore-hydrogen-production-in-the-north-sea/8577055/</link>
+      <guid isPermaLink="false">molecola-e0b2db02ad4e2b4d</guid>
+      <pubDate>Fri, 13 Nov 2026 14:13:43 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The PosHYdon project demonstrates the feasibility of integrating hydrogen production with existing offshore energy infrastructures in the North Sea. Key lessons learned highlight the importance of system integration… — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>One of Europe’s Largest E-SAF Projects Enters Engineering Phase in Sweden</title>
@@ -407,46 +447,6 @@
       <pubDate>Wed, 11 Nov 2026 15:26:02 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>GeoKiln and ONEIC Sign MOU to Evaluate Engineered Hydrogen Development in Oman — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Costs Rise as Low Renewable Output Hits Electrolyser Economics</title>
-      <link>https://fuelcellsworks.com/2026/11/10/green-hydrogen/green-hydrogen-costs-rise-as-low-renewable-output-hits-electrolyser-economics</link>
-      <guid isPermaLink="false">molecola-b8fc8204ac075ec8</guid>
-      <pubDate>Wed, 11 Nov 2026 15:16:16 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Green Hydrogen Costs Rise as Low Renewable Output Hits Electrolyser Economics — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>MB Energy and IVECO to Develop Multi-Energy Hub for Commercial Vehicles in Ulm</title>
-      <link>https://fuelcellsworks.com/2026/11/11/h2/mb-energy-and-iveco-to-develop-multi-energy-hub-for-commercial-vehicles-in-ulm</link>
-      <guid isPermaLink="false">molecola-8ae7b1e0f31f515b</guid>
-      <pubDate>Wed, 11 Nov 2026 15:10:15 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>MB Energy and IVECO to Develop Multi-Energy Hub for Commercial Vehicles in Ulm — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>India Reportedly Extends Electrolyser Manufacturing Deadline to August 2027 as Hydrogen Orders Fall Short</title>
-      <link>https://fuelcellsworks.com/2026/11/11/h2/india-reportedly-extends-electrolyser-manufacturing-deadline-to-august-2027-as-hydrogen-orders-fall-short</link>
-      <guid isPermaLink="false">molecola-66aae54ad57ce8d2</guid>
-      <pubDate>Wed, 11 Nov 2026 15:08:11 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>India Reportedly Extends Electrolyser Manufacturing Deadline to August 2027 as Hydrogen Orders Fall Short — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Cefmof Introduces Hydrogen Technologies to Schoolchildren Through a New Hands-On Learning Environment</title>
-      <link>https://fuelcellsworks.com/2026/11/11/clean-technology/cefmof-introduces-hydrogen-technologies-to-schoolchildren-through-a-new-hands-on-learning-environment</link>
-      <guid isPermaLink="false">molecola-f62ca4b2bfc6b70b</guid>
-      <pubDate>Wed, 11 Nov 2026 15:07:05 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Cefmof Introduces Hydrogen Technologies to Schoolchildren Through a New Hands-On Learning Environment — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Green Hydrogen: University of Siegen Leads European Multi-Million Euro Project</title>
-      <link>https://fuelcellsworks.com/2026/11/09/green-hydrogen/green-hydrogen-university-of-siegen-leads-european-multi-million-euro-project</link>
-      <guid isPermaLink="false">molecola-f0718289ef6de645</guid>
-      <pubDate>Wed, 11 Nov 2026 14:55:18 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Green Hydrogen: University of Siegen Leads European Multi-Million Euro Project — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

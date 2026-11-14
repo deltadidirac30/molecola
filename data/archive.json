@@ -1,6 +1,36 @@
 {
- "count": 3062,
+ "count": 3068,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-14T03:25:47+00:00",
+   "excerpt": "Qair and AREC Occitanie have inaugurated Hyd’Occ, the largest renewable hydrogen production facility in France located at Port-la-Nouvelle, featuring a 20 MW alkaline electrolyser designed to produce 2,700 tonnes of…",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "f77e7f8deba69821",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/launch-of-hyd-occ-a-step-forward-for-green-hydrogen-production-in-france/8577058/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Launch of Hyd’Occ: A Step Forward for Green Hydrogen Production in France"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-14T03:12:32+00:00",
+   "excerpt": "TE H2 Chile withdraws from the H2 Magallanes green hydrogen project citing economic challenges, marking a significant setback for green energy ambitions in Chile.",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "1b27724c2be35bf6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/te-h2-chile-cancels-h2-magallanes-green-hydrogen-project-amid-economic-challenge/8577057/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "TE H2 Chile Cancels H2 Magallanes Green Hydrogen Project Amid Economic Challenges"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -79,6 +109,36 @@
   {
    "authors": [],
    "category": "industria",
+   "date": "2026-11-13T15:08:19+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "09ecfbd2deaffd11",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/13/electric/aion-i60-s-overseas-debut-shows-how-gac-is-building-global-competitiveness",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "AION I60's Overseas Debut Shows How GAC Is Building Global Competitiveness"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-13T15:04:06+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "a2464d67409aec52",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/12/battery/european-industrial-sovereignty-veolia-launches-a-pioneering-site-for-extracting-strategic-metals-from-ev-batteries",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "European Industrial Sovereignty: Veolia Launches a Pioneering Site for Extracting Strategic Metals From EV Batteries"
+  },
+  {
+   "authors": [],
+   "category": "industria",
    "date": "2026-11-13T14:51:31+00:00",
    "excerpt": "",
    "first_seen": "2026-11-13T23:28:24+00:00",
@@ -150,6 +210,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Bertrand Piccard’s Hydrogen Round-the-World Flight Picks Up Two Major Clean Energy Backers at COP31"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-13T14:13:43+00:00",
+   "excerpt": "The PosHYdon project demonstrates the feasibility of integrating hydrogen production with existing offshore energy infrastructures in the North Sea. Key lessons learned highlight the importance of system integration…",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "e0b2db02ad4e2b4d",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/poshydon-pioneering-offshore-hydrogen-production-in-the-north-sea/8577055/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "PosHYdon: Pioneering Offshore Hydrogen Production in the North Sea"
   },
   {
    "authors": [],
@@ -843,6 +918,28 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Modeling International Trade of Ammonia for Direct Use and as a Hydrogen Carrier in Korea"
+  },
+  {
+   "authors": [
+    "Wencheng Yang",
+    "Yuanxin Cao",
+    "Ying Li",
+    "Jingying Li",
+    "Huiyong Chen",
+    "Jianbo Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-11-14T15:44:25+00:00",
+   "id": "c81166c1ed22230f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125631",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Robust carbon-Ni network in-situ derived from spent methane decomposition catalyst as substrate for CoNi-layered double hydroxides enabling high-performance supercapacitors"
   },
   {
    "authors": [],
@@ -54341,6 +54438,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-14T06:07:55+00:00",
+ "updated": "2026-11-14T15:44:25+00:00",
  "version": 2
 }
