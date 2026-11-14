@@ -1,6 +1,51 @@
 {
- "count": 3068,
+ "count": 3073,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-14T17:02:10+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T22:16:21+00:00",
+   "id": "7350abfb2f3b71e5",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/14/news/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Why AI Data Centres Are Powering a Boom in Fuel Cell Demand"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-14T16:58:31+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T22:16:21+00:00",
+   "id": "8062c9eec819e77b",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/14/h2/vidi-grants-for-ut-researchers-who-work-on-networks-hydrogen-and-waste-heat",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Vidi Grants for UT Researchers Who Work on Networks, Hydrogen and Waste Heat"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-14T16:55:43+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T22:16:21+00:00",
+   "id": "1de65e44433e6608",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/14/electrolyzer/koncar-wins-eu-innovation-fund-backing-for-2-5mw-power-interface-targeting-green-hydrogen-electrolysers",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "KONČAR Wins EU Innovation Fund Backing for 2.5MW Power Interface Targeting Green Hydrogen Electrolysers"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -90,6 +135,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Brazil’s Energy Regulator Authorises First Green Hydrogen Project to Access National Grid"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-13T15:32:15+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T22:16:21+00:00",
+   "id": "6313f1b94c7f7fa3",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/13/electric/kia-india-to-invest-usd-2-billion-in-second-plant-in-andhra-pradesh-reinforcing-long-term-commitment-to-india",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Kia India to Invest USD 2 Billion in Second Plant in Andhra Pradesh, Reinforcing Long-Term Commitment to India"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-13T15:24:53+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-14T22:16:21+00:00",
+   "id": "83048d2d76ae4bf5",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/12/battery/uk-opens-38-million-depot-ev-charging-round-but-grant-rate-drops-to-60-percent",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "UK Opens £38 Million Depot EV Charging Round — But Grant Rate Drops to 60%"
   },
   {
    "authors": [],
@@ -54438,6 +54513,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-14T15:44:25+00:00",
+ "updated": "2026-11-14T22:16:21+00:00",
  "version": 2
 }
