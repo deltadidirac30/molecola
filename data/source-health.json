@@ -1,6 +1,6 @@
 {
- "checked": "2026-11-14T22:16:21+00:00",
- "productive": 8,
+ "checked": "2026-11-15T06:15:52+00:00",
+ "productive": 9,
  "total": 16,
  "sources": [
   {
@@ -40,14 +40,6 @@
    "name": "Offshore Energy",
    "ok": false,
    "error": "HTTPError: HTTP Error 404: Not Found",
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "openalex",
-   "name": "OpenAlex",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 429: Too Many Requests",
    "count": 0,
    "newest": null
   },
@@ -113,7 +105,15 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-14T03:25:47+00:00"
+   "newest": "2026-11-15T05:11:28+00:00"
+  },
+  {
+   "slug": "openalex",
+   "name": "OpenAlex",
+   "ok": true,
+   "error": null,
+   "count": 40,
+   "newest": "2026-11-13T00:00:00+00:00"
   },
   {
    "slug": "power",

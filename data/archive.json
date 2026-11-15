@@ -1,6 +1,21 @@
 {
- "count": 3073,
+ "count": 3088,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-15T05:11:28+00:00",
+   "excerpt": "Hydrogen Fuel News is an established publication covering hydrogen, fuel cells, clean energy and electric mobility. Our readers are investors, corporate strategy teams, suppliers and engineers. That focus is what makes…",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "176e8eff70065f2a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/sponsored-content-partnerships/8577063/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Sponsored Content & Partnerships"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -389,6 +404,252 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "First-principles insights into vacancy-ordered double perovskite hydrides A2BH6 (A = Li, Na; B = Ge, Sn) for solid-state hydrogen storage applications"
+  },
+  {
+   "authors": [
+    "Lan Chen",
+    "C Li",
+    "Yutie Gong",
+    "Bo Li",
+    "Zhicheng Xu",
+    "Hanxiao Gao"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Advanced Functional Materials",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "db4363161310f8ec",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adfm.79631",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Ultrahigh Energy Storage in Supramolecular Biomass‐Based Dielectrics"
+  },
+  {
+   "authors": [
+    "Xue Li",
+    "Haotian Ge",
+    "Jiuming Zhong",
+    "Chenxi Fan",
+    "Jun Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Sustainability",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "737cc248f4de9fd8",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/su182211579",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen and Battery Energy Storage for Resilient High-Renewable Microgrids: A Multi-Objective Assessment of Cost, Emissions and Employment Under Uncertainty"
+  },
+  {
+   "authors": [
+    "Richi Kumar",
+    "Xiufu Sun",
+    "Andreas Kaiser",
+    "Ojas Shanker",
+    "Mette Bybjerg Brock",
+    "Jonas Okkels Birk"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "3e87ff6c068f8116",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158520",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "In situ neutron imaging of MnCl2 -silica gel systems for ammonia storage"
+  },
+  {
+   "authors": [
+    "Zhanqing Lv",
+    "Meili Liu",
+    "Shilei Cao",
+    "Yanan Cui",
+    "Dunqing Wang",
+    "Min Yang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Journal of Materials Science",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "a2c529e6ac0c21fb",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10853-026-14074-z",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dual-function diammonium hydrogen phosphate enabling foam suppression and pore engineering in sweet potato starch-derived hard carbons for enhanced sodium storage"
+  },
+  {
+   "authors": [
+    "Haizhen Liu",
+    "Jiayi Deng",
+    "Hui Luo",
+    "Qinqin Wei",
+    "Hua Ning",
+    "Guangxu Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Tungsten",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "92d741d715f5bf17",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s42864-026-00428-2",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Layered molybdenum boride MBene for regulating the hydrogen storage properties of Li–Mg–B–H composite via interfacial catalysis and spatial templating effect"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "1d2e21210e4a6859",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24189142",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Regenerative Hydrogen-Oxygen Fuel Cell System Carrying a Lunar Outpost Through the Night"
+  },
+  {
+   "authors": [
+    "Banhao Ruan",
+    "Shenzhen Chang",
+    "Yanhong Chen",
+    "Junwei Zhao",
+    "Qinhe Pan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "cMat",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "a47dac5b6b588465",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/cmt2.70059",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Covalent Integration of Polyoxometalates Onto Covalent Organic Frameworks (POM‐COFs): From Molecular Design to Multifunctional Applications"
+  },
+  {
+   "authors": [
+    "Sida Rong",
+    "Yichong Cai",
+    "Zheng Han",
+    "Shiqi Liu",
+    "Wenyin Yang",
+    "Zhiqian Wan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Advanced Energy Materials",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "c74749e73ff9f818",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/aenm.71832",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Proton Competition Induced Stabilization in TEMPO‐Based Redox‐Targeting Flow Batteries"
+  },
+  {
+   "authors": [
+    "Salvatore Garofalo",
+    "Emanuele Sgambitterra",
+    "Petronilla Fragiacomo",
+    "Leonardo Pagnotta"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Hydrogen",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "4643ecea9a4c8994",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/hydrogen7040193",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Development and Performance of Elastomer Seals for Hydrogen Storage and Distribution Systems: Challenges, Solutions, and Future Perspectives—Part II: Component-Level Performance, Design, Modeling, and Qualification of Elastomer Hydrogen Seals"
+  },
+  {
+   "authors": [
+    "Onyekachi U. Idika",
+    "Pouriya H. Niknam"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Processes",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "347636de9876ebc0",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/pr14223661",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Low-Carbon Hydrogen Production from Biomass via Staged Sorption-Enhanced Gasification and Reforming: Process Modelling and Techno-Economic Assessment"
+  },
+  {
+   "authors": [
+    "Hao Wei"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Advanced Control for Applications",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "74d54bf754ed606b",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/adc2.70079",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal Energy Management for Hydrogen and Electric Based Integration Based on Machine Learning and Demand Response Using Multi Objective Optimization Algorithm"
+  },
+  {
+   "authors": [
+    "Rashmi Singh",
+    "Sreenivas Punna",
+    "Suvashitha Pusuluru",
+    "Parthasarathy S",
+    "Dharshan Kesavan Potti",
+    "Farid Menaa"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T00:00:00+00:00",
+   "excerpt": "Frontiers in Energy Efficiency",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "8bafd64f38bab646",
+   "lang": "en",
+   "link": "https://doi.org/10.3389/fenef.2026.2009819",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Artificial intelligence-enabled integration of water, ammonia based catalytic materials, and concentrated solar power for energy-efficient and low carbon neutral marine energy systems"
   },
   {
    "authors": [
@@ -1015,6 +1276,48 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Robust carbon-Ni network in-situ derived from spent methane decomposition catalyst as substrate for CoNi-layered double hydroxides enabling high-performance supercapacitors"
+  },
+  {
+   "authors": [
+    "Wenlong Lv",
+    "Xiaojing Wei",
+    "Haiyan Song",
+    "Yanan Feng",
+    "Zhuhe Zhai",
+    "Shengqiang Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "4d0e76f6498bb790",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.142128",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Poplar catkin-derived porous carbon for enhanced ammonia borane thermal dehydrogenation via synergistic nanoconfinement and surface anchoring"
+  },
+  {
+   "authors": [
+    "Linhao Ye",
+    "Zhen Yang",
+    "Zhanzhi Liu",
+    "Shijian Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-12T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-11-15T06:15:52+00:00",
+   "id": "9571be8fdc279857",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-70059-7",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Carbon negative scheduling of direct air capture and hydrogen production in PV powered AI data centers under uncertainty"
   },
   {
    "authors": [],
@@ -54513,6 +54816,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-14T22:16:21+00:00",
+ "updated": "2026-11-15T06:15:52+00:00",
  "version": 2
 }

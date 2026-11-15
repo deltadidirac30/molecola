@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:15:34 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Sponsored Content &amp; Partnerships</title>
+      <link>http://www.hydrogenfuelnews.com/sponsored-content-partnerships/8577063/</link>
+      <guid isPermaLink="false">molecola-176e8eff70065f2a</guid>
+      <pubDate>Sun, 15 Nov 2026 05:11:28 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Hydrogen Fuel News is an established publication covering hydrogen, fuel cells, clean energy and electric mobility. Our readers are investors, corporate strategy teams, suppliers and engineers. That focus is what makes… — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>Why AI Data Centres Are Powering a Boom in Fuel Cell Demand</title>
       <link>https://fuelcellsworks.com/2026/11/14/news/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand</link>
@@ -209,12 +217,68 @@
       <description>Ionics — OpenAlex</description>
     </item>
     <item>
-      <title>Spatiotemporal learning improves quantification of pore-space evolution and fluid displacement</title>
-      <link>https://arxiv.org/abs/2611.17111v1</link>
-      <guid isPermaLink="false">molecola-7d37d827547fb187</guid>
-      <pubDate>Thu, 12 Nov 2026 17:04:50 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
-      <description>Pore-space evolution and fluid displacement influence how rocks transmit and store fluids, affecting geological carbon storage, underground hydrogen storage and groundwater contaminant transport. A single time-resolved… — arXiv</description>
+      <title>Ultrahigh Energy Storage in Supramolecular Biomass‐Based Dielectrics</title>
+      <link>https://doi.org/10.1002/adfm.79631</link>
+      <guid isPermaLink="false">molecola-db4363161310f8ec</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Functional Materials — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen and Battery Energy Storage for Resilient High-Renewable Microgrids: A Multi-Objective Assessment of Cost, Emissions and Employment Under Uncertainty</title>
+      <link>https://doi.org/10.3390/su182211579</link>
+      <guid isPermaLink="false">molecola-737cc248f4de9fd8</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Sustainability — OpenAlex</description>
+    </item>
+    <item>
+      <title>In situ neutron imaging of MnCl2 -silica gel systems for ammonia storage</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158520</link>
+      <guid isPermaLink="false">molecola-3e87ff6c068f8116</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Dual-function diammonium hydrogen phosphate enabling foam suppression and pore engineering in sweet potato starch-derived hard carbons for enhanced sodium storage</title>
+      <link>https://doi.org/10.1007/s10853-026-14074-z</link>
+      <guid isPermaLink="false">molecola-a2c529e6ac0c21fb</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Materials Science — OpenAlex</description>
+    </item>
+    <item>
+      <title>Layered molybdenum boride MBene for regulating the hydrogen storage properties of Li–Mg–B–H composite via interfacial catalysis and spatial templating effect</title>
+      <link>https://doi.org/10.1007/s42864-026-00428-2</link>
+      <guid isPermaLink="false">molecola-92d741d715f5bf17</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Tungsten — OpenAlex</description>
+    </item>
+    <item>
+      <title>A Regenerative Hydrogen-Oxygen Fuel Cell System Carrying a Lunar Outpost Through the Night</title>
+      <link>https://doi.org/10.5281/zenodo.24189142</link>
+      <guid isPermaLink="false">molecola-1d2e21210e4a6859</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
+      <title>Covalent Integration of Polyoxometalates Onto Covalent Organic Frameworks (POM‐COFs): From Molecular Design to Multifunctional Applications</title>
+      <link>https://doi.org/10.1002/cmt2.70059</link>
+      <guid isPermaLink="false">molecola-a47dac5b6b588465</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>cMat — OpenAlex</description>
+    </item>
+    <item>
+      <title>Proton Competition Induced Stabilization in TEMPO‐Based Redox‐Targeting Flow Batteries</title>
+      <link>https://doi.org/10.1002/aenm.71832</link>
+      <guid isPermaLink="false">molecola-c74749e73ff9f818</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Advanced Energy Materials — OpenAlex</description>
     </item>
     <item>
       <title>Hyundai’s HTWO Guangzhou Puts Next-Generation Hydrogen Fuel Cell System Into Local Mass Production</title>
@@ -345,62 +409,6 @@
       <description>Energiepark Bad Lauchstädt has produced green hydrogen for the first time, utilizing a 30-megawatt electrolysis plant powered by a 50-megawatt wind farm. Collaborations among key industry players underscore the… — Hydrogen Fuel News</description>
     </item>
     <item>
-      <title>Low-temperature waste recovery using a mobilized latent-heat storage system: PCM selection and encapsulated design optimization</title>
-      <link>https://doi.org/10.1016/j.est.2026.125418</link>
-      <guid isPermaLink="false">molecola-413aaf4b3023f8d4</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Energy Storage — OpenAlex</description>
-    </item>
-    <item>
-      <title>Alkali-metal Na2LiXH6 (X = Al, In and Ga) complex hydrides as prospective materials for solar energy conversion and hydrogen storage applications</title>
-      <link>https://doi.org/10.1007/s12648-026-04246-7</link>
-      <guid isPermaLink="false">molecola-d25f10b9be634f0f</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Indian Journal of Physics — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Regenerative Hydrogen-Oxygen Fuel Cell for a Crewed Mars Transit Vehicle: Round-Trip Efficiency, Reactant Mass for a Seventy-Two-Hour Reserve and the Battery It Replaces</title>
-      <link>https://doi.org/10.5281/zenodo.24169194</link>
-      <guid isPermaLink="false">molecola-1fd04ea2d0cce392</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Multicomponent Quasi-Solid Electrolyte with an Electrospun Fibrous Scaffold for Stable Zn Plating/Stripping</title>
-      <link>https://doi.org/10.1149/1945-7111/aeba28</link>
-      <guid isPermaLink="false">molecola-280ac5c21a1e0213</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of The Electrochemical Society — OpenAlex</description>
-    </item>
-    <item>
-      <title>Decarbonization pathways of energy intensive industries in an enhanced CGE framework</title>
-      <link>https://doi.org/10.5281/zenodo.24159935</link>
-      <guid isPermaLink="false">molecola-9b4237194d4f2199</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Hydrogen Power-to-Gas Store for a Small Town: Electrolyser Rating, Compressed-Gas Mass, Storage Volume and Full Round-Trip Loss for Five Thousand Usable Kilowatt-Hours</title>
-      <link>https://doi.org/10.5281/zenodo.24173863</link>
-      <guid isPermaLink="false">molecola-611571d7414fb3f2</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Nanoconfinement Controls Hydrogen Transport in Shales</title>
-      <link>https://doi.org/10.1021/acs.est.6c01659</link>
-      <guid isPermaLink="false">molecola-7fcc1c1604fdc39d</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Environmental Science &amp; Technology — OpenAlex</description>
-    </item>
-    <item>
       <title>Hanwha Aerospace Achieves Type Approval for Groundbreaking Marine Hydrogen Fuel Cell System</title>
       <link>http://www.hydrogenfuelnews.com/hanwha-aerospace-achieves-type-approval-for-groundbreaking-marine-hydrogen-fuel-/8577049/</link>
       <guid isPermaLink="false">molecola-b176cf50a6dd6fd1</guid>
@@ -439,14 +447,6 @@
       <pubDate>Wed, 11 Nov 2026 15:54:27 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Smoltek and Hyworx Sign LOI to Validate Low-Iridium Electrodes in PEM Electrolyzer Stacks — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>German Nuclear Regulator to Release Study on Safety of Hydrogen Production From Nuclear Power</title>
-      <link>https://fuelcellsworks.com/2026/11/11/h2/german-nuclear-regulator-to-release-study-on-safety-of-hydrogen-production-from-nuclear-power</link>
-      <guid isPermaLink="false">molecola-ee98c099fc1b83d6</guid>
-      <pubDate>Wed, 11 Nov 2026 15:52:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>German Nuclear Regulator to Release Study on Safety of Hydrogen Production From Nuclear Power — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
