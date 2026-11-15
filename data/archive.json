@@ -1,6 +1,21 @@
 {
- "count": 3088,
+ "count": 3119,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-15T06:37:17+00:00",
+   "excerpt": "Anthropic's IPO may have significant implications for AI infrastructure and energy solutions, including the exploration of hydrogen as a potential power source amid growing data center demands.",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "0e8cd22464c5a763",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/anthropic-s-proposed-ipo-potential-impacts-on-ai-infrastructure-and-hydrogen-uti/8577067/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Anthropic’s IPO: Potential Impacts on AI Infrastructure and Hydrogen Utilization"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -90,6 +105,540 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "TE H2 Chile Cancels H2 Magallanes Green Hydrogen Project Amid Economic Challenges"
+  },
+  {
+   "authors": [
+    "Rong Shan",
+    "Hamsasew Hankebo Lemago",
+    "Imre Miklós Szilágyi"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Advanced Composites and Hybrid Materials",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "e6bed1358b79ca43",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s42114-026-02174-y",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Semiconductor composites based on biomass-derived chars: From pyrochar and hydrochar to emerging applications"
+  },
+  {
+   "authors": [
+    "Hui Yang",
+    "Bosi Yi",
+    "Xingbo Liu",
+    "Dongfeng Ren",
+    "Mingjiang Peng",
+    "Lei Luo"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "bebcf6631c42f167",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-78040-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multi-objective integrated performance prediction and active balancing control for grid-connected multi-energy microgrids with hydrogen storage and SOFCs"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "88a7760d3d240d18",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24213280",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Cryogenic Cruise Ship Thermal System: Boiloff, Zero-Boiloff Cooling and Radiator Budgets"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "82b5ea6d81c1a3e6",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218893",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Solar-Electric Station-Keeping Design for a Cryogenic Depot"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "ccb8e56ac74a31fe",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219471",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Liquid Hydrogen and Liquid Methane Depots Sized Separately: A Comparative Design"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "f4904827de9389f2",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219526",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Solar-Electric Station-Keeping Design for a Cryogenic Depot"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "ce9a87cf58e48b99",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218822",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Mars Transfer Depot at an Earth-Moon Lagrange Point"
+  },
+  {
+   "authors": [
+    "Rabia Durrani"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Science and Technology Nexus",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "8499d48ce6098258",
+   "lang": "en",
+   "link": "https://doi.org/10.25259/stn_29_2026",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Choline Chloride Based Deep Eutectic Solvents as Stabilisers and Activators for Phospholipase B from Talaromyces Marneffei"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "7f9d8a41615cdc1c",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219487",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Lunar Surface Cryogenic Storage Depot in a Permanently Shadowed Setting"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "9cf18b53d6668882",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218805",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Liquid Hydrogen and Liquid Methane Depots Sized Separately: A Comparative Design"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "afce9a3f87618e71",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219423",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Active Cryocooler Zero-Boiloff Depot for Long-Duration Storage"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "5d84ca5aaa422c57",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218768",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Long-Duration Depot with Boiloff-Fed Station-Keeping Thrusters"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "9e9c09610f23ff2c",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219480",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Mars Transfer Depot at an Earth-Moon Lagrange Point"
+  },
+  {
+   "authors": [
+    "Murugesan Prasanna",
+    "Sankaiya Asaithambi",
+    "Ramadoss Maniganadan",
+    "Ramar Rajamanikandan",
+    "Palanisamy Rajkumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Small Methods",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "7a1fb63764ae4084",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smtd.71214",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hierarchical Heterostructure Engineering for High‐Performance Supercapacitors With Extended Bifunctional Electrocatalytic Activity"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "2d687a8d236776b3",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218971",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Cryogenic Fluid Transfer Depot with a Thermodynamic Vent System"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "957f8435a6fc6b9e",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24213491",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: A Cryogenic Cruise Ship Thermal System: Boiloff, Zero-Boiloff Cooling and Radiator Budgets"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "38506058a16cb050",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219448",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Long-Duration Depot with Boiloff-Fed Station-Keeping Thrusters"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "6a5adb3ee63c6622",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219608",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Vapour-Cooled Shield Depot Using Boiloff Gas to Intercept Heat"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "148f7b503393a332",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218749",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Active Cryocooler Zero-Boiloff Depot for Long-Duration Storage"
+  },
+  {
+   "authors": [
+    "Zihan Zhang",
+    "Yuchen Jia"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Energy Reports",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "7dbd6d945c364e88",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.egyr.2026.109913",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Bi-level multi-objective optimal scheduling and multi-mechanism interaction-effect evaluation for integrated energy systems with coordinated hydrogen utilization"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "6b9380337f348544",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218738",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Passive Multilayer Insulation and Sunshield Depot for Low Earth Orbit"
+  },
+  {
+   "authors": [
+    "Sefa Yıldırım"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "aa08d654fd0b4a4f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158648",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Graded Liners for Type IV Hydrogen Storage Vessels: An Iso-Permeance Study of Hydrogen Supersaturation and Elastodynamic Response"
+  },
+  {
+   "authors": [
+    "Pushpanjali Singh",
+    "Shuchi Verma",
+    "Barkha Singhal",
+    "Ramakant Goyal",
+    "Saroj Kr. Shukla",
+    "Anu Radha Pathania"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Scientific Reports",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "4e0793a1f078ea71",
+   "lang": "en",
+   "link": "https://doi.org/10.1038/s41598-026-78503-4",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Valorisation of Bos-indicus excreta biowaste into nanocellulose-reinforced PVA composite films for sustainable seed coating"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "b7f2c0d1a40d213a",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219498",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Passive Multilayer Insulation and Sunshield Depot for Low Earth Orbit"
+  },
+  {
+   "authors": [
+    "M. A. Al-Khateeb"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Journal of Molecular Modeling",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "53881e760618a804",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s00894-026-07045-3",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Irradiation-enhanced hydrogen adsorption in lithium-decorated boron nitride nanocones: insights from combined DFT and PHITS investigation"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "e44ac20254c84a3e",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218839",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Lunar Surface Cryogenic Storage Depot in a Permanently Shadowed Setting"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "88b61bf14aaff39e",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24219594",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Design Blueprint: Cryogenic Fluid Transfer Depot with a Thermodynamic Vent System"
+  },
+  {
+   "authors": [
+    "William Alexander Aldred"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "03f65e8fcb241a36",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24218993",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Vapour-Cooled Shield Depot Using Boiloff Gas to Intercept Heat"
+  },
+  {
+   "authors": [
+    "Nikhil Chauhan",
+    "Shubham Parashar",
+    "P. Muthukumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Thermal Science and Engineering Progress",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "48dcded049e0f494",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.tsep.2026.105001",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comparative study of multi annular tube bundle reactor configurations for large scale metal hydride based hydrogen storage"
+  },
+  {
+   "authors": [
+    "Siti Hasanah Osman",
+    "Mohd Hasrul Hazrin Mohammad Hussain",
+    "Nur Ain Nabilah Rozuki",
+    "Muhammad Haris Azlan",
+    "Mohd Harris Jamil",
+    "Nurain Najihah Alias"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-15T16:17:18+00:00",
+   "id": "5e27aeded9d11569",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158688",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen Energy Systems in the Global Energy Transition: Critical Assessment of Technologies, Infrastructure Readiness, Decarbonisation Pathways and Market Prospects"
   },
   {
    "authors": [],
@@ -54816,6 +55365,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-15T06:15:52+00:00",
+ "updated": "2026-11-15T16:17:18+00:00",
  "version": 2
 }
