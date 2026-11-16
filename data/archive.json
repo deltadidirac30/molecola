@@ -1,5 +1,5 @@
 {
- "count": 3119,
+ "count": 3120,
  "items": [
   {
    "authors": [],
@@ -894,6 +894,25 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "AIST Claims World-Record Hydrogen Output From New Photocatalyst-Electrolysis Hybrid System"
+  },
+  {
+   "authors": [
+    "A. F. Visentini",
+    "J. J. Hidalgo",
+    "M. Dentz"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-13T13:46:13+00:00",
+   "excerpt": "Gas compressibility induces a nonlinear relationship between boundary forcing and pressure evolution in porous media. This matters in operations and experiments where inlet pressure, volumetric flux or mass flux is…",
+   "first_seen": "2026-11-16T06:14:05+00:00",
+   "id": "37cb021bbf03418e",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.18177v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Compressible gas flow through porous media under forced pressure and fluxes: compressibility number and pressure curvature"
   },
   {
    "authors": [],
@@ -55365,6 +55384,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-15T22:44:29+00:00",
+ "updated": "2026-11-16T06:14:05+00:00",
  "version": 2
 }
