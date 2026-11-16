@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-16T16:06:10+00:00",
+ "checked": "2026-11-16T19:30:53+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -14,8 +14,8 @@
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
-   "ok": true,
-   "error": null,
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -65,7 +65,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-11-13"
+   "newest": "2026-11-13T13:46:13+00:00"
   },
   {
    "slug": "fchea",
@@ -73,7 +73,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-10-26"
+   "newest": "2026-10-26T18:42:15+00:00"
   },
   {
    "slug": "fuel-cells-works",
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-14"
+   "newest": "2026-11-16T17:07:48+00:00"
   },
   {
    "slug": "h2it",
@@ -89,7 +89,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-03"
+   "newest": "2026-11-03T15:44:50+00:00"
   },
   {
    "slug": "hydrogen-europe",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-12"
+   "newest": "2026-11-16T16:28:14+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-16"
+   "newest": "2026-11-16T07:10:15+00:00"
   },
   {
    "slug": "openalex",
@@ -113,7 +113,7 @@
    "ok": true,
    "error": null,
    "count": 40,
-   "newest": "2026-11-15"
+   "newest": "2026-11-15T00:00:00+00:00"
   },
   {
    "slug": "power",
@@ -121,7 +121,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-02"
+   "newest": "2026-11-02T17:12:57+00:00"
   },
   {
    "slug": "pv-magazine",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-13"
+   "newest": "2026-11-13T15:41:03+00:00"
   }
  ]
 }
