@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:43:34 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Vilnius Airport Unveils Electric Bus Fleet, Bringing More Comfort and Less Pollution</title>
@@ -249,6 +249,22 @@
       <description>Nature Communications — OpenAlex</description>
     </item>
     <item>
+      <title>A Green and Ultra-low-cost Kitchen-Derived Natural Starch Gel Layer for Ultra-stable Aqueous Zinc Anodes</title>
+      <link>https://doi.org/10.1021/acssuschemeng.6c07804</link>
+      <guid isPermaLink="false">molecola-dd08965a66aa9eea</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Sustainable Chemistry &amp; Engineering — OpenAlex</description>
+    </item>
+    <item>
+      <title>Photo‐Induced Multi‐Physical Field Synergy for Direct Natural Seawater Electrolysis</title>
+      <link>https://doi.org/10.1002/anie.2806218</link>
+      <guid isPermaLink="false">molecola-0b5ce6925321a79e</guid>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Angewandte Chemie International Edition — OpenAlex</description>
+    </item>
+    <item>
       <title>Why AI Data Centres Are Powering a Boom in Fuel Cell Demand</title>
       <link>https://fuelcellsworks.com/2026/11/14/news/why-ai-data-centres-are-powering-a-boom-in-fuel-cell-demand</link>
       <guid isPermaLink="false">molecola-7350abfb2f3b71e5</guid>
@@ -273,6 +289,22 @@
       <description>KONČAR Wins EU Innovation Fund Backing for 2.5MW Power Interface Targeting Green Hydrogen Electrolysers — Fuel Cells Works</description>
     </item>
     <item>
+      <title>Hydrogen in Practice: A Global Review of Demonstration Projects from Production to Integration</title>
+      <link>https://arxiv.org/abs/2611.19428v1</link>
+      <guid isPermaLink="false">molecola-aad176d355f5620b</guid>
+      <pubDate>Sat, 14 Nov 2026 14:22:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Hydrogen technology has the potential to address various challenges related to integrating low- and zero-carbon energy sources, as well as achieving carbon neutrality. It provides valuable solutions for transitioning… — arXiv</description>
+    </item>
+    <item>
+      <title>Fault Diagnosis and Fault-Tolerant Operation Strategy for Triple-Port Hydrogen Production System</title>
+      <link>https://arxiv.org/abs/2611.19426v1</link>
+      <guid isPermaLink="false">molecola-515c036cb4cac799</guid>
+      <pubDate>Sat, 14 Nov 2026 14:22:30 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>The multi-port converter offers significant advantages in sustainable energy-based hydrogen production, such as high energy density and wide application potential. As the core energy hub in these systems, the… — arXiv</description>
+    </item>
+    <item>
       <title>Launch of Hyd’Occ: A Step Forward for Green Hydrogen Production in France</title>
       <link>http://www.hydrogenfuelnews.com/launch-of-hyd-occ-a-step-forward-for-green-hydrogen-production-in-france/8577058/</link>
       <guid isPermaLink="false">molecola-f77e7f8deba69821</guid>
@@ -295,38 +327,6 @@
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Advanced Composites and Hybrid Materials — OpenAlex</description>
-    </item>
-    <item>
-      <title>Multi-objective integrated performance prediction and active balancing control for grid-connected multi-energy microgrids with hydrogen storage and SOFCs</title>
-      <link>https://doi.org/10.1038/s41598-026-78040-0</link>
-      <guid isPermaLink="false">molecola-bebcf6631c42f167</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Scientific Reports — OpenAlex</description>
-    </item>
-    <item>
-      <title>A Cryogenic Cruise Ship Thermal System: Boiloff, Zero-Boiloff Cooling and Radiator Budgets</title>
-      <link>https://doi.org/10.5281/zenodo.24213280</link>
-      <guid isPermaLink="false">molecola-88a7760d3d240d18</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Solar-Electric Station-Keeping Design for a Cryogenic Depot</title>
-      <link>https://doi.org/10.5281/zenodo.24218893</link>
-      <guid isPermaLink="false">molecola-82b5ea6d81c1a3e6</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
-    </item>
-    <item>
-      <title>Design Blueprint: Liquid Hydrogen and Liquid Methane Depots Sized Separately: A Comparative Design</title>
-      <link>https://doi.org/10.5281/zenodo.24219471</link>
-      <guid isPermaLink="false">molecola-ccb8e56ac74a31fe</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
     </item>
     <item>
       <title>German Beverage Distributor Voßkamp Tests Hyundai XCIENT Hydrogen Truck Alongside BEV and Combustion Fleet</title>

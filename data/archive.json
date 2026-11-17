@@ -1,5 +1,5 @@
 {
- "count": 3157,
+ "count": 3163,
  "items": [
   {
    "authors": [],
@@ -474,6 +474,50 @@
    "title": "Phosphorus-mediated reverse hydrogen spillover enables rate-matched nitrate-sulfate paired electrolysis for ammonium persulfate synthesis"
   },
   {
+   "authors": [
+    "Yanxin Liao",
+    "Tianrui Liu",
+    "Shile Liu",
+    "Xiaohua Chen",
+    "Qichun Zhang",
+    "Lingyun Chen"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-15T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "dd08965a66aa9eea",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c07804",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "A Green and Ultra-low-cost Kitchen-Derived Natural Starch Gel Layer for Ultra-stable Aqueous Zinc Anodes"
+  },
+  {
+   "authors": [
+    "Zhan Zhao",
+    "Xiaonan Zhang",
+    "Tong Li",
+    "Huiying Yang",
+    "Zizhen Li",
+    "Kelei Huang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-15T00:00:00+00:00",
+   "excerpt": "Angewandte Chemie International Edition",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "0b5ce6925321a79e",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/anie.2806218",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Photo‐Induced Multi‐Physical Field Synergy for Direct Natural Seawater Electrolysis"
+  },
+  {
    "authors": [],
    "category": "industria",
    "date": "2026-11-14T17:02:10+00:00",
@@ -517,6 +561,50 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "KONČAR Wins EU Innovation Fund Backing for 2.5MW Power Interface Targeting Green Hydrogen Electrolysers"
+  },
+  {
+   "authors": [
+    "Yiyina Teng",
+    "Shahab Dehghan",
+    "Xiaoqiang Guo",
+    "Shiqi Zhang",
+    "Yanming Wan",
+    "Sara Walker"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T14:22:40+00:00",
+   "excerpt": "Hydrogen technology has the potential to address various challenges related to integrating low- and zero-carbon energy sources, as well as achieving carbon neutrality. It provides valuable solutions for transitioning…",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "aad176d355f5620b",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.19428v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Hydrogen in Practice: A Global Review of Demonstration Projects from Production to Integration"
+  },
+  {
+   "authors": [
+    "Shiqi Zhang",
+    "Yiyina Teng",
+    "Yuhang Sun",
+    "Fanqin Ding",
+    "Ning Wang",
+    "Xiaoqiang Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T14:22:30+00:00",
+   "excerpt": "The multi-port converter offers significant advantages in sustainable energy-based hydrogen production, such as high energy density and wide application potential. As the core energy hub in these systems, the…",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "515c036cb4cac799",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.19426v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Fault Diagnosis and Fault-Tolerant Operation Strategy for Triple-Port Hydrogen Production System"
   },
   {
    "authors": [],
@@ -1265,6 +1353,50 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Subsidy Governance, Regulatory Design and the Delivery Gap in Global Green Hydrogen Deployment, 2025-2026"
+  },
+  {
+   "authors": [
+    "Qingyan Pan",
+    "Zhe Liu",
+    "Xifeng Zuo",
+    "Jiale Ding",
+    "Haoyang Xu",
+    "Shufang Guo"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "Food Chemistry",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "575423db479b1bcb",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.foodchem.2026.152049",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dual role of citric acid in rapid stabilization and antibacterial functionality of carboxymethyl chitosan/sodium alginate/poly(vinyl alcohol)-based films and coatings for blueberry preservation"
+  },
+  {
+   "authors": [
+    "Meital Shviro",
+    "Colby Smith",
+    "Alex Badgett",
+    "Aline Léon",
+    "Alessandro Micero",
+    "Bryan Pivovar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-14T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-17T03:43:50+00:00",
+   "id": "1ff54eeeeb61f507",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158684",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Toward Gigawatt-Scale Alkaline Water Electrolysis: Durability-Driven Materials and System Optimization"
   },
   {
    "authors": [],
@@ -56010,6 +56142,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-16T19:30:53+00:00",
+ "updated": "2026-11-17T03:43:50+00:00",
  "version": 2
 }
