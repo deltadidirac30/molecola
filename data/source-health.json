@@ -1,8 +1,16 @@
 {
- "checked": "2026-11-18T00:54:28+00:00",
- "productive": 11,
+ "checked": "2026-11-18T11:29:56+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
+  {
+   "slug": "canale-energia",
+   "name": "Canale Energia",
+   "ok": true,
+   "error": null,
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
@@ -50,14 +58,6 @@
    "error": null,
    "count": 40,
    "newest": "2026-11-14T14:22:40+00:00"
-  },
-  {
-   "slug": "canale-energia",
-   "name": "Canale Energia",
-   "ok": true,
-   "error": null,
-   "count": 2,
-   "newest": "2026-11-17T08:56:41+00:00"
   },
   {
    "slug": "fchea",
@@ -128,8 +128,8 @@
    "name": "QualEnergia",
    "ok": true,
    "error": null,
-   "count": 4,
-   "newest": "2026-11-17T10:00:45+00:00"
+   "count": 2,
+   "newest": "2026-11-18T11:15:45+00:00"
   }
  ]
 }

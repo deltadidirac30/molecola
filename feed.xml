@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 18 Nov 2026 00:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:29:38 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Idrogeno rinnovabile, le regole per accedere agli incentivi del decreto Tariffe</title>
+      <link>https://www.qualenergia.it/pro/articoli-pro/idrogeno-rinnovabile-regole-accedere-incentivi-decreto-tariffe/</link>
+      <guid isPermaLink="false">molecola-804ac47c7cbc8d27</guid>
+      <pubDate>Wed, 18 Nov 2026 11:15:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
+      <description>Il Mase ha approvato le regole operative per l’incentivazione della produzione di idrogeno di origine rinnovabile, disciplinata dal cosiddetto decreto “Tariffe” (DM 183 del 5 giugno 2026). I documenti, approvati con… — QualEnergia</description>
+    </item>
     <item>
       <title>Hyundai XCIENT Hydrogen Truck Completes First Full-Load Beverage Demonstration in Germany</title>
       <link>https://fuelcellsworks.com/2026/11/12/fuel-cells/hyundai-xcient-hydrogen-truck-completes-first-full-load-beverage-demonstration-in-germany</link>
@@ -15,6 +23,14 @@
       <pubDate>Tue, 17 Nov 2026 16:59:47 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai XCIENT Hydrogen Truck Completes First Full-Load Beverage Demonstration in Germany — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Baja Carports Unveils PowerColumn: Turning Parking Into Power</title>
+      <link>https://fuelcellsworks.com/2026/11/17/electric/baja-carports-unveils-powercolumn-turning-parking-into-power</link>
+      <guid isPermaLink="false">molecola-413d4cae062675a2</guid>
+      <pubDate>Tue, 17 Nov 2026 16:43:03 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Baja Carports Unveils PowerColumn: Turning Parking Into Power — Fuel Cells Works</description>
     </item>
     <item>
       <title>SunHydrogen Aims to Scale Austin Pilot to 16 Panels After Stable Outdoor H₂ Tests</title>
@@ -39,6 +55,14 @@
       <pubDate>Tue, 17 Nov 2026 16:04:21 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>China Develops First 20-Kg Hydrogen-Powered Unmanned Helicopter with Dual Propulsion Systems for Low-Altitude Economy — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots</title>
+      <link>https://fuelcellsworks.com/2026/11/16/battery/ayvens-and-fellten-partner-to-bring-containerised-battery-buffered-chargers-to-fleet-depots</link>
+      <guid isPermaLink="false">molecola-f04497a188031a43</guid>
+      <pubDate>Tue, 17 Nov 2026 15:59:40 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots — Fuel Cells Works</description>
     </item>
     <item>
       <title>EU's Green Methanol Targets Risk Strengthening Chinese Imports Instead of European Production, Regulator Warns</title>
@@ -423,30 +447,6 @@
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Rising Challenges for Green and Low-Carbon Ammonia Projects Amidst Growing Demand</title>
-      <link>http://www.hydrogenfuelnews.com/rising-challenges-for-green-and-low-carbon-ammonia-projects-amidst-growing-deman/8577070/</link>
-      <guid isPermaLink="false">molecola-5729459b23f8096a</guid>
-      <pubDate>Sun, 15 Nov 2026 18:09:36 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Fertiglobe CEO Ahmed El-Hoshy outlines current challenges for green ammonia projects amid rising costs and supply-chain issues, while highlighting progress with Project Harvest. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Liebherr Launches Multi-Year Trial of Hydrogen-Powered Wheel Loader in Bremerhaven Port</title>
-      <link>http://www.hydrogenfuelnews.com/liebherr-launches-multi-year-trial-of-hydrogen-powered-wheel-loader-in-bremerhav/8577069/</link>
-      <guid isPermaLink="false">molecola-0d5af5f2a9c990b6</guid>
-      <pubDate>Sun, 15 Nov 2026 18:09:28 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Liebherr has launched a multi-year field trial for its hydrogen-powered wheel loader, the L 566 H, at Georg Grube GmbH in Bremerhaven, Germany, marking a significant step in the logistics sector's transition to… — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Anthropic’s IPO: Potential Impacts on AI Infrastructure and Hydrogen Utilization</title>
-      <link>http://www.hydrogenfuelnews.com/anthropic-s-proposed-ipo-potential-impacts-on-ai-infrastructure-and-hydrogen-uti/8577067/</link>
-      <guid isPermaLink="false">molecola-0e8cd22464c5a763</guid>
-      <pubDate>Sun, 15 Nov 2026 06:37:17 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Anthropic's IPO may have significant implications for AI infrastructure and energy solutions, including the exploration of hydrogen as a potential power source amid growing data center demands. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

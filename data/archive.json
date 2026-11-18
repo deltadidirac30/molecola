@@ -1,6 +1,21 @@
 {
- "count": 3226,
+ "count": 3229,
  "items": [
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-18T11:15:45+00:00",
+   "excerpt": "Il Mase ha approvato le regole operative per l’incentivazione della produzione di idrogeno di origine rinnovabile, disciplinata dal cosiddetto decreto “Tariffe” (DM 183 del 5 giugno 2026). I documenti, approvati con…",
+   "first_seen": "2026-11-18T11:29:56+00:00",
+   "id": "804ac47c7cbc8d27",
+   "lang": "it",
+   "link": "https://www.qualenergia.it/pro/articoli-pro/idrogeno-rinnovabile-regole-accedere-incentivi-decreto-tariffe/",
+   "manual": null,
+   "paywall": false,
+   "source": "QualEnergia",
+   "source_slug": "qualenergia",
+   "title": "Idrogeno rinnovabile, le regole per accedere agli incentivi del decreto Tariffe"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -15,6 +30,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Hyundai XCIENT Hydrogen Truck Completes First Full-Load Beverage Demonstration in Germany"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-17T16:43:03+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-18T11:29:56+00:00",
+   "id": "413d4cae062675a2",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/17/electric/baja-carports-unveils-powercolumn-turning-parking-into-power",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Baja Carports Unveils PowerColumn: Turning Parking Into Power"
   },
   {
    "authors": [],
@@ -60,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "China Develops First 20-Kg Hydrogen-Powered Unmanned Helicopter with Dual Propulsion Systems for Low-Altitude Economy"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-17T15:59:40+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-18T11:29:56+00:00",
+   "id": "f04497a188031a43",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/16/battery/ayvens-and-fellten-partner-to-bring-containerised-battery-buffered-chargers-to-fleet-depots",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots"
   },
   {
    "authors": [],
@@ -57289,6 +57334,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-18T00:54:28+00:00",
+ "updated": "2026-11-18T11:29:56+00:00",
  "version": 2
 }
