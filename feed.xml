@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:29:00 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>ACME Group Moves Forward with a $3.6 Billion Green Ammonia Project in Odisha</title>
+      <link>http://www.hydrogenfuelnews.com/acme-group-moves-forward-with-a-3-6-billion-green-ammonia-project-in-odisha/8577095/</link>
+      <guid isPermaLink="false">molecola-ac33219cb0313f5f</guid>
+      <pubDate>Thu, 19 Nov 2026 01:13:47 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>ACME Group has completed a final investment decision to move forward with a $3.6 billion green ammonia project in Odisha, signaling progress in India's renewable energy initiatives. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>New Collaboration For Hydrogen Production in Southern Spain</title>
+      <link>http://www.hydrogenfuelnews.com/new-collaboration-set-to-revolutionize-hydrogen-production-in-southern-spain/8577094/</link>
+      <guid isPermaLink="false">molecola-23cdbc2ad203b6f0</guid>
+      <pubDate>Thu, 19 Nov 2026 01:12:55 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>The Universidad de Cádiz and Fundación Campus Tecnológico de Algeciras are partnering for the II Congreso RH₂Enovables, aiming to recharge green hydrogen production and boost local economies. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Empowering Combined Cycle Plants</title>
+      <link>https://www.powermag.com/white-papers/empowering-combined-cycle-plants/</link>
+      <guid isPermaLink="false">molecola-c23f9122b9352257</guid>
+      <pubDate>Wed, 18 Nov 2026 18:47:45 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
+      <description>Learn how leading combined cycle power plants are improving reliability, efficiency, and operational performance to meet the challenges of a rapidly evolving energy landscape. As electricity demand continues to rise… — POWER</description>
+    </item>
     <item>
       <title>45-8 Energy Signs UAE MoU to Advance Natural Hydrogen Exploration in Ras Al Khaimah</title>
       <link>https://fuelcellsworks.com/2026/11/18/h2/45-8-energy-signs-uae-mou-to-advance-natural-hydrogen-exploration-in-ras-al-khaimah</link>
@@ -31,6 +55,14 @@
       <pubDate>Wed, 18 Nov 2026 16:51:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Could Ammonia Replace Diesel in the Fields? — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Delhivery Ties up with Tata Motors, Euler Motors and Montra Electric to Deploy up to 2,000 Electric Commercial Vehicles</title>
+      <link>https://fuelcellsworks.com/2026/11/17/electric/delhivery-ties-up-with-tata-motors-euler-motors-and-montra-electric-to-deploy-up-to-2-000-electric-commercial-vehicles</link>
+      <guid isPermaLink="false">molecola-da309a532f7751dd</guid>
+      <pubDate>Wed, 18 Nov 2026 16:50:44 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Delhivery Ties up with Tata Motors, Euler Motors and Montra Electric to Deploy up to 2,000 Electric Commercial Vehicles — Fuel Cells Works</description>
     </item>
     <item>
       <title>How Safety Shaped the Pioneer 25, From Crash Tests to the Paddock</title>
@@ -345,14 +377,6 @@
       <description>In Europa 677 MW di elettrolizzatori ad acqua erano operativi a luglio 2026 (+19% in un anno) e 3,7 GW erano in costruzione. Per soddisfare la domanda di idrogeno rinnovabile prevista dalla normativa al 2030, stimata… — QualEnergia</description>
     </item>
     <item>
-      <title>European hydrogen markets – 2026 Monitoring Report</title>
-      <link>https://www.qualenergia.it/pro/documenti/european-hydrogen-markets-2026-monitoring-report/</link>
-      <guid isPermaLink="false">molecola-2825fc8608629ef5</guid>
-      <pubDate>Tue, 17 Nov 2026 06:00:30 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">QualEnergia</source>
-      <description>Il mercato europeo dell’idrogeno conta 4,2 GW di elettrolizzatori operativi, in costruzione o con decisione finale d’investimento, contro 30-58 GW previsti dagli scenari al 2030. Restano criticità su domanda… — QualEnergia</description>
-    </item>
-    <item>
       <title>Advanced chemical looping-based reverse water–gas shift for methanol production: A techno-economic analysis</title>
       <link>https://doi.org/10.1016/j.enconman.2026.122383</link>
       <guid isPermaLink="false">molecola-38409b93c26fa12b</guid>
@@ -423,30 +447,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Small — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ceres Power Partners with European Energy Firm to Expand Solid Oxide Fuel-Cell Manufacturing</title>
-      <link>http://www.hydrogenfuelnews.com/ceres-power-partners-with-european-energy-firm-to-expand-solid-oxide-fuel-cell-m/8577076/</link>
-      <guid isPermaLink="false">molecola-5c2129b664e88d44</guid>
-      <pubDate>Mon, 16 Nov 2026 20:08:57 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Ceres Power partners with a European firm to expand manufacturing of solid oxide fuel cells, targeting a capacity of 200 MW. The deal boosts revenue projections to £60 million. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Airbus and MTU Partner on Hydrogen Fuel Cell Technology for Aviation</title>
-      <link>http://www.hydrogenfuelnews.com/airbus-and-mtu-partner-on-hydrogen-fuel-cell-technology-for-aviation/8577075/</link>
-      <guid isPermaLink="false">molecola-95ed4f1d084c0ce6</guid>
-      <pubDate>Mon, 16 Nov 2026 20:08:23 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Airbus and MTU Aero Engines plan a joint venture to develop a hydrogen fuel-cell propulsion system for cleaner aviation, set for operation in 2027. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>HyCoFlex Project Achieves Milestone in Hydrogen-Powered Cogeneration</title>
-      <link>http://www.hydrogenfuelnews.com/hycoflex-project-achieves-milestone-in-hydrogen-powered-cogeneration/8577074/</link>
-      <guid isPermaLink="false">molecola-ac76378223340d5f</guid>
-      <pubDate>Mon, 16 Nov 2026 20:07:50 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>The HyCoFlex project successfully demonstrated a hydrogen-powered cogeneration system at Smurfit Westrock, showcasing the potential for integrating renewable hydrogen into industrial processes. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>

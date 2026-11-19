@@ -1,6 +1,51 @@
 {
- "count": 3285,
+ "count": 3289,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-19T01:13:47+00:00",
+   "excerpt": "ACME Group has completed a final investment decision to move forward with a $3.6 billion green ammonia project in Odisha, signaling progress in India's renewable energy initiatives.",
+   "first_seen": "2026-11-19T02:29:12+00:00",
+   "id": "ac33219cb0313f5f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/acme-group-moves-forward-with-a-3-6-billion-green-ammonia-project-in-odisha/8577095/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "ACME Group Moves Forward with a $3.6 Billion Green Ammonia Project in Odisha"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-19T01:12:55+00:00",
+   "excerpt": "The Universidad de Cádiz and Fundación Campus Tecnológico de Algeciras are partnering for the II Congreso RH₂Enovables, aiming to recharge green hydrogen production and boost local economies.",
+   "first_seen": "2026-11-19T02:29:12+00:00",
+   "id": "23cdbc2ad203b6f0",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/new-collaboration-set-to-revolutionize-hydrogen-production-in-southern-spain/8577094/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "New Collaboration For Hydrogen Production in Southern Spain"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-18T18:47:45+00:00",
+   "excerpt": "Learn how leading combined cycle power plants are improving reliability, efficiency, and operational performance to meet the challenges of a rapidly evolving energy landscape. As electricity demand continues to rise…",
+   "first_seen": "2026-11-19T02:29:12+00:00",
+   "id": "c23f9122b9352257",
+   "lang": "en",
+   "link": "https://www.powermag.com/white-papers/empowering-combined-cycle-plants/",
+   "manual": null,
+   "paywall": false,
+   "source": "POWER",
+   "source_slug": "power",
+   "title": "Empowering Combined Cycle Plants"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -45,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Could Ammonia Replace Diesel in the Fields?"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-18T16:50:44+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-19T02:29:12+00:00",
+   "id": "da309a532f7751dd",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/17/electric/delhivery-ties-up-with-tata-motors-euler-motors-and-montra-electric-to-deploy-up-to-2-000-electric-commercial-vehicles",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Delhivery Ties up with Tata Motors, Euler Motors and Montra Electric to Deploy up to 2,000 Electric Commercial Vehicles"
   },
   {
    "authors": [],
@@ -58374,6 +58434,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-18T20:24:30+00:00",
+ "updated": "2026-11-19T02:29:12+00:00",
  "version": 2
 }
