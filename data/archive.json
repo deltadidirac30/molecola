@@ -1,6 +1,51 @@
 {
- "count": 3342,
+ "count": 3347,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-20T03:06:23+00:00",
+   "excerpt": "EU operational hydrogen production capacity reaches only 490 MW by 2025, falling below 2030 targets of 30 to 58 GW, reports ACER. Key barriers include high production costs and incomplete national regulations.",
+   "first_seen": "2026-11-20T11:24:09+00:00",
+   "id": "652a9955b763e9dd",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/eu-s-hydrogen-production-capacity-falls-short-of-2030-goals-warns-acer/8577112/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "EU's Hydrogen Production Capacity Falls Short of 2030 Goals, Warns ACER"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-20T03:06:19+00:00",
+   "excerpt": "Meta Platforms, Inc. partners with Stegra for environmental attribute certificates linked to green steel production in Sweden, addressing carbon footprint in data centers.",
+   "first_seen": "2026-11-20T11:24:09+00:00",
+   "id": "a3646a29f5e29915",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/meta-partners-with-stegra-for-environmental-attribute-certificates-in-green-stee/8577111/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Meta Partners with Stegra for Environmental Attribute Certificates in Green Steel Initiative"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-20T03:06:15+00:00",
+   "excerpt": "A new ammonia synthesis protocol by Chinese and Danish researchers promises to revolutionize ammonia production using environmentally friendly, continuous electrochemical methods.",
+   "first_seen": "2026-11-20T11:24:09+00:00",
+   "id": "e0989c723f047950",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/revolutionizing-ammonia-synthesis-a-step-forward-in-green-hydrogen-production/8577110/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Revolutionizing Ammonia Synthesis: A Step Forward in Green Hydrogen Production"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -195,6 +240,36 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Italy Begins Hydrogen Drone Trials at Padua Airport, Targeting Medical Deliveries in 2027"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-19T14:06:22+00:00",
+   "excerpt": "Tata Steel and Utility Global are partnering to evaluate hydrogen production from steel plant off-gases at Kalinganagar, aiming for a sustainable future in steelmaking.",
+   "first_seen": "2026-11-20T11:24:09+00:00",
+   "id": "80e9be35a929dc80",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/tata-steel-and-utility-global-join-forces-for-hydrogen-production-at-kalinganaga/8577100/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Tata Steel and Utility Global Join Forces for Hydrogen Production at Kalinganagar"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-19T14:05:41+00:00",
+   "excerpt": "HiiROC Ltd is exploring partnerships with Portuguese firms for hydrogen production using thermal plasma electrolysis, aligning with Portugal's National Hydrogen Strategy focused on renewable sources.",
+   "first_seen": "2026-11-20T11:24:09+00:00",
+   "id": "8c2faa0203a893c4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hiiroc-explores-hydrogen-partnerships-in-portugal-amid-renewable-energy-focus/8577099/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "HiiROC Explores Hydrogen Partnerships in Portugal Amid Renewable Energy Focus"
   },
   {
    "authors": [],
@@ -59436,6 +59511,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-20T02:14:27+00:00",
+ "updated": "2026-11-20T11:24:09+00:00",
  "version": 2
 }

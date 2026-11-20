@@ -6,8 +6,32 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:23:53 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>EU's Hydrogen Production Capacity Falls Short of 2030 Goals, Warns ACER</title>
+      <link>http://www.hydrogenfuelnews.com/eu-s-hydrogen-production-capacity-falls-short-of-2030-goals-warns-acer/8577112/</link>
+      <guid isPermaLink="false">molecola-652a9955b763e9dd</guid>
+      <pubDate>Fri, 20 Nov 2026 03:06:23 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>EU operational hydrogen production capacity reaches only 490 MW by 2025, falling below 2030 targets of 30 to 58 GW, reports ACER. Key barriers include high production costs and incomplete national regulations. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Meta Partners with Stegra for Environmental Attribute Certificates in Green Steel Initiative</title>
+      <link>http://www.hydrogenfuelnews.com/meta-partners-with-stegra-for-environmental-attribute-certificates-in-green-stee/8577111/</link>
+      <guid isPermaLink="false">molecola-a3646a29f5e29915</guid>
+      <pubDate>Fri, 20 Nov 2026 03:06:19 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Meta Platforms, Inc. partners with Stegra for environmental attribute certificates linked to green steel production in Sweden, addressing carbon footprint in data centers. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>Revolutionizing Ammonia Synthesis: A Step Forward in Green Hydrogen Production</title>
+      <link>http://www.hydrogenfuelnews.com/revolutionizing-ammonia-synthesis-a-step-forward-in-green-hydrogen-production/8577110/</link>
+      <guid isPermaLink="false">molecola-e0989c723f047950</guid>
+      <pubDate>Fri, 20 Nov 2026 03:06:15 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>A new ammonia synthesis protocol by Chinese and Danish researchers promises to revolutionize ammonia production using environmentally friendly, continuous electrochemical methods. — Hydrogen Fuel News</description>
+    </item>
     <item>
       <title>China Completes Main Installation of 3,000-Cubic-Metre Hydrogen Storage System as Hubei Plant Reaches 90% Construction</title>
       <link>https://fuelcellsworks.com/2026/11/16/h2/china-completes-main-installation-of-3-000-cubic-metre-hydrogen-storage-system-as-hubei-plant-reaches-90-percent-construction</link>
@@ -111,6 +135,22 @@
       <pubDate>Thu, 19 Nov 2026 14:52:14 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Italy Begins Hydrogen Drone Trials at Padua Airport, Targeting Medical Deliveries in 2027 — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Tata Steel and Utility Global Join Forces for Hydrogen Production at Kalinganagar</title>
+      <link>http://www.hydrogenfuelnews.com/tata-steel-and-utility-global-join-forces-for-hydrogen-production-at-kalinganaga/8577100/</link>
+      <guid isPermaLink="false">molecola-80e9be35a929dc80</guid>
+      <pubDate>Thu, 19 Nov 2026 14:06:22 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>Tata Steel and Utility Global are partnering to evaluate hydrogen production from steel plant off-gases at Kalinganagar, aiming for a sustainable future in steelmaking. — Hydrogen Fuel News</description>
+    </item>
+    <item>
+      <title>HiiROC Explores Hydrogen Partnerships in Portugal Amid Renewable Energy Focus</title>
+      <link>http://www.hydrogenfuelnews.com/hiiroc-explores-hydrogen-partnerships-in-portugal-amid-renewable-energy-focus/8577099/</link>
+      <guid isPermaLink="false">molecola-8c2faa0203a893c4</guid>
+      <pubDate>Thu, 19 Nov 2026 14:05:41 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
+      <description>HiiROC Ltd is exploring partnerships with Portuguese firms for hydrogen production using thermal plasma electrolysis, aligning with Portugal's National Hydrogen Strategy focused on renewable sources. — Hydrogen Fuel News</description>
     </item>
     <item>
       <title>SK Innovation Develops Lithium-Enhanced Hydrogen Catalyst That Survives Thousands of Load Cycles</title>
@@ -407,46 +447,6 @@
       <pubDate>Tue, 17 Nov 2026 16:59:47 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Hyundai XCIENT Hydrogen Truck Completes First Full-Load Beverage Demonstration in Germany — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Baja Carports Unveils PowerColumn: Turning Parking Into Power</title>
-      <link>https://fuelcellsworks.com/2026/11/17/electric/baja-carports-unveils-powercolumn-turning-parking-into-power</link>
-      <guid isPermaLink="false">molecola-413d4cae062675a2</guid>
-      <pubDate>Tue, 17 Nov 2026 16:43:03 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Baja Carports Unveils PowerColumn: Turning Parking Into Power — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>SunHydrogen Aims to Scale Austin Pilot to 16 Panels After Stable Outdoor H₂ Tests</title>
-      <link>https://fuelcellsworks.com/2026/11/17/electrolyzer/sunhydrogen-aims-to-scale-austin-pilot-to-16-panels-after-stable-outdoor-h-tests</link>
-      <guid isPermaLink="false">molecola-11c4ce4819170b5a</guid>
-      <pubDate>Tue, 17 Nov 2026 16:41:44 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>SunHydrogen Aims to Scale Austin Pilot to 16 Panels After Stable Outdoor H₂ Tests — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Dassault Aviation Drops Hydrogen Research, Bets on SAF for Business Jet Decarbonisation</title>
-      <link>https://fuelcellsworks.com/2026/11/16/h2/dassault-aviation-drops-hydrogen-research-bets-on-saf-for-business-jet-decarbonisation</link>
-      <guid isPermaLink="false">molecola-a4a29f6a8741149a</guid>
-      <pubDate>Tue, 17 Nov 2026 16:19:38 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Dassault Aviation Drops Hydrogen Research, Bets on SAF for Business Jet Decarbonisation — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>China Develops First 20-Kg Hydrogen-Powered Unmanned Helicopter with Dual Propulsion Systems for Low-Altitude Economy</title>
-      <link>https://fuelcellsworks.com/2026/11/14/fuel-cells/china-develops-first-20-kg-hydrogen-powered-unmanned-helicopter-with-dual-propulsion-systems-for-low-altitude-economy</link>
-      <guid isPermaLink="false">molecola-fef47a733665ead2</guid>
-      <pubDate>Tue, 17 Nov 2026 16:04:21 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>China Develops First 20-Kg Hydrogen-Powered Unmanned Helicopter with Dual Propulsion Systems for Low-Altitude Economy — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots</title>
-      <link>https://fuelcellsworks.com/2026/11/16/battery/ayvens-and-fellten-partner-to-bring-containerised-battery-buffered-chargers-to-fleet-depots</link>
-      <guid isPermaLink="false">molecola-f04497a188031a43</guid>
-      <pubDate>Tue, 17 Nov 2026 15:59:40 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
