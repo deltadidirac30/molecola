@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:14:02 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>China Completes Main Installation of 3,000-Cubic-Metre Hydrogen Storage System as Hubei Plant Reaches 90% Construction</title>
@@ -55,6 +55,14 @@
       <pubDate>Thu, 19 Nov 2026 16:09:23 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Sacramento Regional Transit Wins $57.7 Million for 21 Hydrogen Fuel Cell Buses and Dedicated Fuelling Infrastructure — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Europe’s Electric Car Sales Surge 60% in October as Oil Prices and Subsidies Drive Buyers</title>
+      <link>https://fuelcellsworks.com/2026/11/18/electric/europe-s-electric-car-sales-surge-60-percent-in-october-as-oil-prices-and-subsidies-drive-buyers</link>
+      <guid isPermaLink="false">molecola-e4d36c00e61f15d6</guid>
+      <pubDate>Thu, 19 Nov 2026 15:50:53 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Europe’s Electric Car Sales Surge 60% in October as Oil Prices and Subsidies Drive Buyers — Fuel Cells Works</description>
     </item>
     <item>
       <title>World’s First Semi-Submersible Wind-Power Hydrogen Platform Departs for Hainan Deployment</title>
@@ -439,14 +447,6 @@
       <pubDate>Tue, 17 Nov 2026 15:59:40 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Ayvens and Fellten Partner to Bring Containerised Battery-Buffered Chargers to Fleet Depots — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>EU's Green Methanol Targets Risk Strengthening Chinese Imports Instead of European Production, Regulator Warns</title>
-      <link>https://fuelcellsworks.com/2026/11/17/h2/eu-s-green-methanol-targets-risk-strengthening-chinese-imports-instead-of-european-production-regulator-warns</link>
-      <guid isPermaLink="false">molecola-6691ecd9c71348ff</guid>
-      <pubDate>Tue, 17 Nov 2026 15:58:49 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>EU's Green Methanol Targets Risk Strengthening Chinese Imports Instead of European Production, Regulator Warns — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>

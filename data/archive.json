@@ -1,5 +1,5 @@
 {
- "count": 3341,
+ "count": 3342,
  "items": [
   {
    "authors": [],
@@ -90,6 +90,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Sacramento Regional Transit Wins $57.7 Million for 21 Hydrogen Fuel Cell Buses and Dedicated Fuelling Infrastructure"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-19T15:50:53+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-20T02:14:27+00:00",
+   "id": "e4d36c00e61f15d6",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/18/electric/europe-s-electric-car-sales-surge-60-percent-in-october-as-oil-prices-and-subsidies-drive-buyers",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Europe’s Electric Car Sales Surge 60% in October as Oil Prices and Subsidies Drive Buyers"
   },
   {
    "authors": [],
@@ -59421,6 +59436,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-19T20:27:53+00:00",
+ "updated": "2026-11-20T02:14:27+00:00",
  "version": 2
 }
