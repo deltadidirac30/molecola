@@ -1,6 +1,21 @@
 {
- "count": 3393,
+ "count": 3395,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-20T17:21:02+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-21T10:53:28+00:00",
+   "id": "d282067216824499",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/19/electric/paua-gives-commercial-fleets-access-to-stagecoach-chargd-ev-charging-depots",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Paua Gives Commercial Fleets Access to Stagecoach Chargd EV Charging Depots"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -165,6 +180,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Kelluu Adds Passive Radar to Autonomous Hydrogen Airship for Persistent Aerial Monitoring"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-20T16:11:12+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-21T10:53:28+00:00",
+   "id": "632e0671aba38f8c",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/19/electric/ford-ships-first-battery-cells-from-michigan-plant-for-fathom-electric-truck-key-milestone-for-ford-energy",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "Ford Ships First Battery Cells From Michigan Plant for Fathom Electric Truck; Key Milestone for Ford Energy"
   },
   {
    "authors": [],
@@ -60316,6 +60346,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-21T02:07:53+00:00",
+ "updated": "2026-11-21T10:53:28+00:00",
  "version": 2
 }

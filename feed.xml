@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 21 Nov 2026 02:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 10:53:13 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Paua Gives Commercial Fleets Access to Stagecoach Chargd EV Charging Depots</title>
+      <link>https://fuelcellsworks.com/2026/11/19/electric/paua-gives-commercial-fleets-access-to-stagecoach-chargd-ev-charging-depots</link>
+      <guid isPermaLink="false">molecola-d282067216824499</guid>
+      <pubDate>Fri, 20 Nov 2026 17:21:02 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Paua Gives Commercial Fleets Access to Stagecoach Chargd EV Charging Depots — Fuel Cells Works</description>
+    </item>
     <item>
       <title>Hyundai Takes Best EV Brand Title for First Time as Lucid Holds Luxury Crown at U.S. News 2027 Rankings</title>
       <link>https://fuelcellsworks.com/2026/11/19/electric/hyundai-takes-best-ev-brand-title-for-first-time-as-lucid-holds-luxury-crown-at-u-s-news-2027-rankings</link>
@@ -95,6 +103,14 @@
       <pubDate>Fri, 20 Nov 2026 16:13:25 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Kelluu Adds Passive Radar to Autonomous Hydrogen Airship for Persistent Aerial Monitoring — Fuel Cells Works</description>
+    </item>
+    <item>
+      <title>Ford Ships First Battery Cells From Michigan Plant for Fathom Electric Truck; Key Milestone for Ford Energy</title>
+      <link>https://fuelcellsworks.com/2026/11/19/electric/ford-ships-first-battery-cells-from-michigan-plant-for-fathom-electric-truck-key-milestone-for-ford-energy</link>
+      <guid isPermaLink="false">molecola-632e0671aba38f8c</guid>
+      <pubDate>Fri, 20 Nov 2026 16:11:12 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
+      <description>Ford Ships First Battery Cells From Michigan Plant for Fathom Electric Truck; Key Milestone for Ford Energy — Fuel Cells Works</description>
     </item>
     <item>
       <title>H2APEX Subsidiary HydroExceed: Certification Paves the Way Into the Hydrogen Trailer Market</title>
@@ -431,22 +447,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Langmuir — OpenAlex</description>
-    </item>
-    <item>
-      <title>Empowering Combined Cycle Plants</title>
-      <link>https://www.powermag.com/white-papers/empowering-combined-cycle-plants/</link>
-      <guid isPermaLink="false">molecola-c23f9122b9352257</guid>
-      <pubDate>Wed, 18 Nov 2026 18:47:45 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">POWER</source>
-      <description>Learn how leading combined cycle power plants are improving reliability, efficiency, and operational performance to meet the challenges of a rapidly evolving energy landscape. As electricity demand continues to rise… — POWER</description>
-    </item>
-    <item>
-      <title>45-8 Energy Signs UAE MoU to Advance Natural Hydrogen Exploration in Ras Al Khaimah</title>
-      <link>https://fuelcellsworks.com/2026/11/18/h2/45-8-energy-signs-uae-mou-to-advance-natural-hydrogen-exploration-in-ras-al-khaimah</link>
-      <guid isPermaLink="false">molecola-af3f811b40fd218f</guid>
-      <pubDate>Wed, 18 Nov 2026 18:02:07 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
-      <description>45-8 Energy Signs UAE MoU to Advance Natural Hydrogen Exploration in Ras Al Khaimah — Fuel Cells Works</description>
     </item>
   </channel>
 </rss>
