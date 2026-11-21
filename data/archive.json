@@ -1,5 +1,5 @@
 {
- "count": 3395,
+ "count": 3409,
  "items": [
   {
    "authors": [],
@@ -561,6 +561,287 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Activating Interlayer Organic Redox Sites in Hybrid Layered Vanadium Oxides for Li-Ion Batteries via Dopamine-Derived Carbonization"
+  },
+  {
+   "authors": [
+    "Hanjian Li",
+    "xiaoxuan Lyu",
+    "Shichen Ding",
+    "Ying Zhao",
+    "Abdulmajid Abdullahi Shagali",
+    "Ben Wang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Fuel",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "dae50a1866e96a69",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.fuel.2026.142262",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Steam-enhanced concentrated solar pyrolysis of walnut shells for hydrogen-rich syngas production, biochar upgrading, and product energy-flow analysis"
+  },
+  {
+   "authors": [
+    "Jonas Huber",
+    "Johann Walter Kolar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "IEEE Power Electronics Magazine",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "ec2d86e41165a2cb",
+   "lang": "en",
+   "link": "https://doi.org/10.1109/mpel.2026.3731332",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Beyond Tomorrow—Electrification of Hard-to-Abate Sectors"
+  },
+  {
+   "authors": [
+    "Fellando Martino Nugroho",
+    "Robertus Dhimas Dhewangga Putra",
+    "Akmal Irfan Majid",
+    "Alisya Eka Putri",
+    "Joko Waluyo",
+    "Felix Arie Setiawan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Biomass and Bioenergy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "2d23a0071d9beeed",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.biombioe.2026.110322",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Tailoring pore structure and hydrogen adsorption mechanisms of sugarcane bagasse-derived activated carbon by ZnCl2 activation"
+  },
+  {
+   "authors": [
+    "Seung Jin Lee",
+    "Ye-Jin Jang",
+    "Sam Yeon Cho",
+    "Seongseop Kim"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Korean Journal of Chemical Engineering",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "58f1e9de4c43daf8",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s11814-026-00879-w",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Zinc Metal Anodes for Aqueous Zinc-Ion Batteries: from Coupled Failure Mechanisms to Stabilization Strategies"
+  },
+  {
+   "authors": [
+    "B. Kurt"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "International Journal of Green Energy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "5a67f1893c98708b",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/15435075.2026.2767212",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dynamic operation of water electrolyzers under variable renewable energy conditions: A critical review of performance and degradation"
+  },
+  {
+   "authors": [
+    "Supriya Halder",
+    "Ahan Nag",
+    "Debashis Adhikari"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "ACS Catalysis",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "cd21ab71873ec115",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acscatal.6c07691",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "An Organocatalytic Borrowing Hydrogen Reaction by Flavin Photocatalyst"
+  },
+  {
+   "authors": [
+    "Xiaoguang Li",
+    "Shaokang Zhang",
+    "Aoqi Li",
+    "Jing Li",
+    "Mingyu Wang",
+    "Liangsheng Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Journal of Materials Science",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "2b9fb99c44cdf5b8",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10853-026-14073-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Superhydrophobic calcium stearate/carbon black coating for stable zinc anodes via alkyl-chain hydrophobicity and carboxyl-assisted interfacial dehydration"
+  },
+  {
+   "authors": [
+    "Rongyuan Wang",
+    "韦桂粤",
+    "Yue Liu",
+    "Hongyu Zhang",
+    "Feng Wang",
+    "Maohua Rong"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "562cca5591f178be",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158775",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Effect of C14 Laves/BCC Phase Balance on Hydrogen Storage and Cycling Behavior of Ti-V-Zr-Cr-Fe Multi-Principal-Element Alloys"
+  },
+  {
+   "authors": [
+    "Emilija Rakić Krstić",
+    "Jošt Oblak",
+    "Blaž Likozar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "31aac353e35b7030",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125700",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multiphase Mechanistic Catalytic Reaction Micro-kinetics of 2-Methylquinoline Hydrogenation Pathways over Ru/Al2O3 for Liquid Organic Hydrogen Carrier (LOHC)-based Hydrogen Storage"
+  },
+  {
+   "authors": [
+    "Denghui Yang",
+    "Chuanjing Chen",
+    "Yan Wang",
+    "Jiayi Chen",
+    "Ying Chen",
+    "Lei Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "02f6d3a94dc89053",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158455",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Vacancy-mediated Ru decoration of TiO2/MXene aerogels for hydrogen evolution in alkaline seawater"
+  },
+  {
+   "authors": [
+    "Mingwan Deng",
+    "Shengbo Wu",
+    "Lirong Zheng",
+    "Xiaoran Li",
+    "Qihang Zhang",
+    "Tianrui Zhai"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Small",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "08eb564f15e96566",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/smll.76836",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Laser Fabrication of Multiscale‐Structured Ru Nanocluster‐Integrated Carbon Nanotube Film Electrodes for Efficient and Durable Hydrogen Evolution"
+  },
+  {
+   "authors": [
+    "Yazeed I. Hamed",
+    "Awad Bin Saud Alquaity",
+    "Fahad Alzahrani"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "23c14e594760b14e",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158730",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Levelized Cost of Delivered Hydrogen in Saudi Arabia: Production Pathways, Compression, and Tube-Trailer Transportation"
+  },
+  {
+   "authors": [
+    "R.A.D.P. Dilshan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "Australian Geomechanics Journal",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "a5584200b42fe09d",
+   "lang": "en",
+   "link": "https://doi.org/10.56295/agj6147",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Geochemically Induced Alterations in Caprock: Implications for Safe Underground Hydrogen Storage in Depleted Gas Reservoirs"
+  },
+  {
+   "authors": [
+    "Mohammad Sayyafzadeh",
+    "Hassan Golghanddashti",
+    "James S. Gunning",
+    "Regina Sander"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-20T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-21T19:05:54+00:00",
+   "id": "fc13e1d41ca23e81",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158546",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Optimal control of underground hydrogen storage for renewable energy supply–demand balancing: A simulation–optimization approach"
   },
   {
    "authors": [],
@@ -60346,6 +60627,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-21T10:53:28+00:00",
+ "updated": "2026-11-21T19:05:54+00:00",
  "version": 2
 }

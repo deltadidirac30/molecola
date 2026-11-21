@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:05:38 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Paua Gives Commercial Fleets Access to Stagecoach Chargd EV Charging Depots</title>
@@ -289,6 +289,14 @@
       <description>ACS Omega — OpenAlex</description>
     </item>
     <item>
+      <title>Steam-enhanced concentrated solar pyrolysis of walnut shells for hydrogen-rich syngas production, biochar upgrading, and product energy-flow analysis</title>
+      <link>https://doi.org/10.1016/j.fuel.2026.142262</link>
+      <guid isPermaLink="false">molecola-dae50a1866e96a69</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Fuel — OpenAlex</description>
+    </item>
+    <item>
       <title>China Completes Main Installation of 3,000-Cubic-Metre Hydrogen Storage System as Hubei Plant Reaches 90% Construction</title>
       <link>https://fuelcellsworks.com/2026/11/16/h2/china-completes-main-installation-of-3-000-cubic-metre-hydrogen-storage-system-as-hubei-plant-reaches-90-percent-construction</link>
       <guid isPermaLink="false">molecola-6b12139023113ff5</guid>
@@ -439,14 +447,6 @@
       <pubDate>Thu, 19 Nov 2026 01:12:55 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>The Universidad de Cádiz and Fundación Campus Tecnológico de Algeciras are partnering for the II Congreso RH₂Enovables, aiming to recharge green hydrogen production and boost local economies. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Multiscale Interface Engineering of Nickel–Iron Alloy/Sulfide-Based Integral Self-Supporting Electrode for Seawater Electrolysis and Enrofloxacin Electrochemical Sensing</title>
-      <link>https://doi.org/10.1021/acs.langmuir.6c06156</link>
-      <guid isPermaLink="false">molecola-4f366da24f055ac8</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Langmuir — OpenAlex</description>
     </item>
   </channel>
 </rss>
