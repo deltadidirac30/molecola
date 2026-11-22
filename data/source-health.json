@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22T11:08:16+00:00",
+ "checked": "2026-11-22T19:28:54+00:00",
  "productive": 9,
  "total": 16,
  "sources": [
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-20T17:21:02+00:00"
+   "newest": "2026-11-20T17:13:54+00:00"
   },
   {
    "slug": "h2it",
@@ -112,8 +112,8 @@
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 23,
-   "newest": "2026-11-20T00:00:00+00:00"
+   "count": 22,
+   "newest": "2026-11-21T00:00:00+00:00"
   },
   {
    "slug": "power",

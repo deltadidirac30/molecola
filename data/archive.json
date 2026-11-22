@@ -1,6 +1,269 @@
 {
- "count": 3409,
+ "count": 3422,
  "items": [
+  {
+   "authors": [
+    "Marta Cruz Fernandez",
+    "Ioanna Dimitriou",
+    "Pete Hodgson",
+    "Jon McKechnie"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Journal of CO2 Utilization",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "0d33f2f1557697f9",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.jcou.2026.103634",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Allocation and greenhouse gas accounting for CO2 utilisation: a steelworks-to-fuel case study"
+  },
+  {
+   "authors": [
+    "Wenyu Sun",
+    "Linlin Yang",
+    "Xuemei Wang",
+    "Hui Jiang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Coordination Chemistry Reviews",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "86f30f90f27782bd",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ccr.2026.218801",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Multifunctional programmable Coacervates: From single-component nucleic acid and peptide systems to peptide–nucleic acid assemblies"
+  },
+  {
+   "authors": [
+    "Lukas Roessler-Escudero",
+    "Alejandro Ansón‐Casaos",
+    "F. Valetti",
+    "Justyna Łuczak",
+    "Mariya Ivanova",
+    "Francesco Zimbardi"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "10be570e1acc2252",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158685",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Alternative Electrochemical Hydrogen Production Processes: A Review on State of the Art, Challenges and Future Research"
+  },
+  {
+   "authors": [
+    "Hüseyin Sarıaltın"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "3ab6fb3f0d52cdca",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158814",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Extending Linear Degradation Projections to a Non-Linear Model for Large-Scale PEM Electrolysis: Performance and Cost Implications"
+  },
+  {
+   "authors": [
+    "Ali Hashemizadeh",
+    "Abbasali Abouei Mehrizi",
+    "Faezeh Zareian Baghdad Abadi"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "a74c5e8648de2ca8",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158741",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "How Does Green Hydrogen Development Catalyze Geopolitical Trust Across the BRI Region? A System Dynamics Modeling"
+  },
+  {
+   "authors": [
+    "Fares T. Alshorifi",
+    "Eman A. Alzahrani",
+    "Fatima A.S. Al-Yusufy",
+    "Zulfa Mohamed Abaker",
+    "Tasneem I. Hussein",
+    "Hala M. Abo‐Dief"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "ACS Organic & Inorganic Au",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "a08f8e985a2cea2f",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acsorginorgau.6c00070",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Engineering Multifunctional Ag2O/K2Fe2O4 Nanocomposites for Visible-Light Photocatalytic Hydrogen Evolution and Dye Degradation Coupled with Catalytic Coumarin Synthesis"
+  },
+  {
+   "authors": [
+    "Mustafa Kurban",
+    "Erchin Serpedin",
+    "Hasan Kurban"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "f9a6b4dd67f1c5bd",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158737",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sequential Molecular Hydrogen Loading on the ZIF-8 Metal–Organic Framework: Adsorption Hierarchy, Electronic Structure, and Charge Redistribution"
+  },
+  {
+   "authors": [
+    "Sana Awan",
+    "K. Jayachandran"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Next Sustainability",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "e038791eec205617",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.nxsust.2026.100604",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Green-synthesized Fe₃O₄ nanoparticles stabilized by soil-relevant organic acids for sustainable fertilizer delivery in sweet corn"
+  },
+  {
+   "authors": [
+    "Anjali Gupta",
+    "Noble George",
+    "Shivani Pandya",
+    "Harjeet Singh"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Biodegradation",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "d2ec22010593a0d3",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s10532-026-10412-9",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Synergistic adsorption of malachite green using Trichophyton rubrum (Castell.) Sabour. biomass together with cysteine-functionalized iron oxide nanoparticles"
+  },
+  {
+   "authors": [
+    "Biji Pullithadathil",
+    "Gaurav Sharma",
+    "Nahid Tyagi",
+    "Gaurav Gupta",
+    "Vidya Raj",
+    "P. Manoj Kumar"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "576da6632b83bfaa",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158797",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Hydrogen Storage Technologies: Materials, Infrastructure, Safety, and Commercial Deployment"
+  },
+  {
+   "authors": [
+    "Shalini Tiwari",
+    "Richa Saxena",
+    "Kuldeep Singh",
+    "B. S. Rawat",
+    "Arun Kumar Mishra",
+    "Gyas Khan"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Discover Sustainability",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "f8f88e2a541d5a3f",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s43621-026-05399-5",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Sustainable chemistry for the production of clean and renewable energy and its role in climate action"
+  },
+  {
+   "authors": [
+    "Yu Cheng",
+    "Xinyu Dai",
+    "Shu-Wen Zhang",
+    "Yangyang Zhang"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "Journal of Molecular Modeling",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "d5b51eeb023ccac3",
+   "lang": "en",
+   "link": "https://doi.org/10.1007/s00894-026-07064-0",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "DFT study and molecular dynamics simulations on the mechanisms for the nucleation and growth of helium bubbles"
+  },
+  {
+   "authors": [
+    "Qiuhao Chang",
+    "David E. Dempsey",
+    "Liangliang Huang",
+    "Liehui Zhang",
+    "Yulong Zhao",
+    "Guilong Xu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-21T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-22T19:28:54+00:00",
+   "id": "e6b33097a5261195",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158717",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Investigation of Gas Self-Diffusion and Dissolution in Quartz Nanopores for Underground Hydrogen Storage Using Molecular Dynamics Simulations"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -60627,6 +60890,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-22T11:08:16+00:00",
+ "updated": "2026-11-22T19:28:54+00:00",
  "version": 2
 }

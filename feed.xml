@@ -6,8 +6,88 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Sun, 22 Nov 2026 11:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:28:37 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Allocation and greenhouse gas accounting for CO2 utilisation: a steelworks-to-fuel case study</title>
+      <link>https://doi.org/10.1016/j.jcou.2026.103634</link>
+      <guid isPermaLink="false">molecola-0d33f2f1557697f9</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of CO2 Utilization — OpenAlex</description>
+    </item>
+    <item>
+      <title>Multifunctional programmable Coacervates: From single-component nucleic acid and peptide systems to peptide–nucleic acid assemblies</title>
+      <link>https://doi.org/10.1016/j.ccr.2026.218801</link>
+      <guid isPermaLink="false">molecola-86f30f90f27782bd</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Coordination Chemistry Reviews — OpenAlex</description>
+    </item>
+    <item>
+      <title>Alternative Electrochemical Hydrogen Production Processes: A Review on State of the Art, Challenges and Future Research</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158685</link>
+      <guid isPermaLink="false">molecola-10be570e1acc2252</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Extending Linear Degradation Projections to a Non-Linear Model for Large-Scale PEM Electrolysis: Performance and Cost Implications</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158814</link>
+      <guid isPermaLink="false">molecola-3ab6fb3f0d52cdca</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>How Does Green Hydrogen Development Catalyze Geopolitical Trust Across the BRI Region? A System Dynamics Modeling</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158741</link>
+      <guid isPermaLink="false">molecola-a74c5e8648de2ca8</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Engineering Multifunctional Ag2O/K2Fe2O4 Nanocomposites for Visible-Light Photocatalytic Hydrogen Evolution and Dye Degradation Coupled with Catalytic Coumarin Synthesis</title>
+      <link>https://doi.org/10.1021/acsorginorgau.6c00070</link>
+      <guid isPermaLink="false">molecola-a08f8e985a2cea2f</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Organic &amp; Inorganic Au — OpenAlex</description>
+    </item>
+    <item>
+      <title>Sequential Molecular Hydrogen Loading on the ZIF-8 Metal–Organic Framework: Adsorption Hierarchy, Electronic Structure, and Charge Redistribution</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158737</link>
+      <guid isPermaLink="false">molecola-f9a6b4dd67f1c5bd</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Green-synthesized Fe₃O₄ nanoparticles stabilized by soil-relevant organic acids for sustainable fertilizer delivery in sweet corn</title>
+      <link>https://doi.org/10.1016/j.nxsust.2026.100604</link>
+      <guid isPermaLink="false">molecola-e038791eec205617</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Next Sustainability — OpenAlex</description>
+    </item>
+    <item>
+      <title>Synergistic adsorption of malachite green using Trichophyton rubrum (Castell.) Sabour. biomass together with cysteine-functionalized iron oxide nanoparticles</title>
+      <link>https://doi.org/10.1007/s10532-026-10412-9</link>
+      <guid isPermaLink="false">molecola-d2ec22010593a0d3</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Biodegradation — OpenAlex</description>
+    </item>
+    <item>
+      <title>Hydrogen Storage Technologies: Materials, Infrastructure, Safety, and Commercial Deployment</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158797</link>
+      <guid isPermaLink="false">molecola-576da6632b83bfaa</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
     <item>
       <title>Paua Gives Commercial Fleets Access to Stagecoach Chargd EV Charging Depots</title>
       <link>https://fuelcellsworks.com/2026/11/19/electric/paua-gives-commercial-fleets-access-to-stagecoach-chargd-ev-charging-depots</link>
@@ -215,86 +295,6 @@
       <pubDate>Fri, 20 Nov 2026 03:06:15 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>A new ammonia synthesis protocol by Chinese and Danish researchers promises to revolutionize ammonia production using environmentally friendly, continuous electrochemical methods. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization</title>
-      <link>https://doi.org/10.32628/ijsrst13132622</link>
-      <guid isPermaLink="false">molecola-f0756f3c9718e758</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Energy Storage Technologies: A Comprehensive Review of Principles, Performance, Applications, Challenges, and Future Directions</title>
-      <link>https://doi.org/10.32628/ijsrst13132629</link>
-      <guid isPermaLink="false">molecola-c6810848d1a354d5</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Psychological Readiness for the Green Energy Transition: A Human-Factors Model for Aviation Maintenance Crews</title>
-      <link>https://doi.org/10.32628/ijsrst13132630</link>
-      <guid isPermaLink="false">molecola-494ee813f6b126a3</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Green Research, Energy, and Environmental Networking: A Critical Review of Trends and Opportunities</title>
-      <link>https://doi.org/10.32628/ijsrst1313267</link>
-      <guid isPermaLink="false">molecola-3e8340f395706641</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Sustainable Polymer-Based Functional Materials for Energy and Environmental Applications: Recent Advances, Challenges and Future Perspectives</title>
-      <link>https://doi.org/10.32628/ijsrst13132610</link>
-      <guid isPermaLink="false">molecola-8ecd7e5b3505b0cd</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>From Geothermal Heat to Stored Hydrogen: A Critical Review of System Efficiency, Materials Durability, Life-Cycle Emissions, and Economic Feasibility</title>
-      <link>https://doi.org/10.32628/ijsrst13132639</link>
-      <guid isPermaLink="false">molecola-e30297cb24a1f2cb</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production Through Water Electrolysis : Technologies, Applications, Challenges and Future Prospects</title>
-      <link>https://doi.org/10.32628/ijsrst1313261</link>
-      <guid isPermaLink="false">molecola-3229b192fc8ce496</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Green Hydrogen Production through Photoelectrochemical Water Splitting</title>
-      <link>https://doi.org/10.32628/ijsrst1313263</link>
-      <guid isPermaLink="false">molecola-bd83f47ae5113efb</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Scientific Research in Science and Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Activating Interlayer Organic Redox Sites in Hybrid Layered Vanadium Oxides for Li-Ion Batteries via Dopamine-Derived Carbonization</title>
-      <link>https://doi.org/10.1021/acsomega.6c07023</link>
-      <guid isPermaLink="false">molecola-5c7627f0c48fd870</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>ACS Omega — OpenAlex</description>
-    </item>
-    <item>
-      <title>Steam-enhanced concentrated solar pyrolysis of walnut shells for hydrogen-rich syngas production, biochar upgrading, and product energy-flow analysis</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.142262</link>
-      <guid isPermaLink="false">molecola-dae50a1866e96a69</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Fuel — OpenAlex</description>
     </item>
     <item>
       <title>China Completes Main Installation of 3,000-Cubic-Metre Hydrogen Storage System as Hubei Plant Reaches 90% Construction</title>
