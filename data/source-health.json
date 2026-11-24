@@ -1,8 +1,16 @@
 {
- "checked": "2026-11-24T02:08:16+00:00",
- "productive": 9,
+ "checked": "2026-11-24T13:32:38+00:00",
+ "productive": 8,
  "total": 16,
  "sources": [
+  {
+   "slug": "arxiv",
+   "name": "arXiv",
+   "ok": false,
+   "error": "HTTPError: HTTP Error 429: Unknown Error",
+   "count": 0,
+   "newest": null
+  },
   {
    "slug": "canale-energia",
    "name": "Canale Energia",
@@ -60,14 +68,6 @@
    "newest": null
   },
   {
-   "slug": "arxiv",
-   "name": "arXiv",
-   "ok": true,
-   "error": null,
-   "count": 40,
-   "newest": "2026-11-20T13:14:34+00:00"
-  },
-  {
    "slug": "fchea",
    "name": "FCHEA",
    "ok": true,
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-20T17:01:00+00:00"
+   "newest": "2026-11-24T08:50:07+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -105,7 +105,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-22T20:06:22+00:00"
+   "newest": "2026-11-24T11:08:19+00:00"
   },
   {
    "slug": "openalex",

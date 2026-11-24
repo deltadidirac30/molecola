@@ -1,6 +1,111 @@
 {
- "count": 3462,
+ "count": 3471,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-24T11:08:19+00:00",
+   "excerpt": "Plug Power Inc. is pivoting towards green hydrogen recovery through improved execution and partnerships, despite facing financial challenges.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "f618a1e57b4e878f",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/plug-power-s-turnaround-focus-on-green-hydrogen-demand-recovery/8577150/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Plug Power's Turnaround: Focus on Green Hydrogen Demand Recovery"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-24T11:05:54+00:00",
+   "excerpt": "ONE SCIENTIFIC and AMBARtec AG launch a pilot project for integrated hydrogen production and storage, leveraging innovative technologies in Germany.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "447e9086f0ca8801",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/one-scientific-and-ambartec-launch-pilot-project-for-integrated-hydrogen-product/8577148/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "ONE SCIENTIFIC and AMBARtec Launch Pilot Project for Integrated Hydrogen Production and Storage in Germany"
+  },
+  {
+   "authors": [],
+   "category": "politica",
+   "date": "2026-11-24T08:50:07+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "5fc197f420cd4fac",
+   "lang": "en",
+   "link": "https://hydrogeneurope.eu/tecnicas-reunidas-will-execute-three-hydrogen-ready-combined-cycle-gas-power-plants-for-rwe-in-germany/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Europe",
+   "source_slug": "hydrogen-europe",
+   "title": "Técnicas Reunidas will execute three hydrogen-ready combined-cycle gas power plants for RWE in Germany"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T22:07:29+00:00",
+   "excerpt": "Catalonia is advancing renewable hydrogen and circular carbon technologies to strengthen its energy strategy. The recent H2CAT Innovation Summit highlighted key projects like APLEH2C and Thunder, aimed at interlinking…",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "012b02a299ccfc9b",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/catalonia-unveils-comprehensive-strategy-for-renewable-hydrogen-and-circular-car/8577145/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Catalonia Unveils Comprehensive Strategy for Renewable Hydrogen and Circular Carbon at H2CAT Innovation Summit"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T22:06:24+00:00",
+   "excerpt": "A hydrogen fuel-cell truck, operated by Loblaw, just completed a landmark 1,046-kilometre journey in Canada, demonstrating the viability of hydrogen for commercial logistics.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "d65df91067a43c4a",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/hydrogen-fuel-cell-truck-completes-record-journey-across-canada/8577143/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Hydrogen Fuel-Cell Truck Completes Record Journey Across Canada"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T22:06:13+00:00",
+   "excerpt": "GP JOULE GmbH recently achieved REDcert-EU certification for its HY.City.Bremerhaven project, confirming compliance with EU sustainability standards for renewable hydrogen production.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "453a72dbce9672d4",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/gp-joule-secures-redcert-eu-certification-for-bremerhaven-hydrogen-project/8577142/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "GP JOULE Secures REDcert-EU Certification for Bremerhaven Hydrogen Project"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T22:05:18+00:00",
+   "excerpt": "Moeve and World2Fly's flight on November 23, 2026, showcased sustainable aviation fuels without altering existing aircraft systems, marking a pivotal step in aviation's green transition.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "5d96e3ee625ce6d6",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/moeve-and-world2fly-demonstrate-sustainable-aviation-fuel-transition-on-madrid-l/8577141/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Moeve and World2Fly Demonstrate Sustainable Aviation Fuel Transition on Madrid-Lisbon Flight"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -255,6 +360,36 @@
    "source": "PV Magazine",
    "source_slug": "pv-magazine",
    "title": "Hydrogen shifts summer solar to winter in Japanese apartment building"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T09:10:24+00:00",
+   "excerpt": "The Ministry of Power showcased green hydrogen and energy storage initiatives at IITF 2026, highlighting India's commitment to sustainable energy.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "1b357960c560c5f3",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/ministry-of-power-showcases-green-hydrogen-and-energy-storage-initiatives-at-iit/8577140/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Ministry of Power Showcases Green Hydrogen and Energy Storage Initiatives at IITF 2026"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-23T09:06:08+00:00",
+   "excerpt": "Zhejiang Sunshine Green Hydrogen has shipped its first AEM electrolyzer to Singapore, marking a significant move in green hydrogen production and the company's entry into the international market.",
+   "first_seen": "2026-11-24T13:32:38+00:00",
+   "id": "dceb074c039c18d2",
+   "lang": "en",
+   "link": "http://www.hydrogenfuelnews.com/sunshine-green-hydrogen-ships-first-aem-electrolyzer-to-singapore-marking-a-mile/8577136/",
+   "manual": null,
+   "paywall": false,
+   "source": "Hydrogen Fuel News",
+   "source_slug": "hydrogen-fuel-news",
+   "title": "Sunshine Green Hydrogen Ships First AEM Electrolyzer to Singapore,"
   },
   {
    "authors": [
@@ -61566,6 +61701,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-24T02:08:16+00:00",
+ "updated": "2026-11-24T13:32:38+00:00",
  "version": 2
 }
