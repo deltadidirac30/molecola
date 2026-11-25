@@ -1,6 +1,21 @@
 {
- "count": 3504,
+ "count": 3506,
  "items": [
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-25T07:12:33+00:00",
+   "excerpt": "La filiera italiana dell’idrogeno entra nella fase della concretezza, ma per garantire la sostenibilità economica dei progetti avviati è necessario affiancare agli investimenti infrastrutturali un reale sviluppo della…",
+   "first_seen": "2026-11-25T08:18:31+00:00",
+   "id": "75ba34f65e915d85",
+   "lang": "it",
+   "link": "https://www.canaleenergia.com/rubriche/scenari/idrogeno-crema-h2it-investimenti-pnrr-south2-corridor-filiera-cresce-ora-serve-domanda-strutturata/",
+   "manual": null,
+   "paywall": false,
+   "source": "Canale Energia",
+   "source_slug": "canale-energia",
+   "title": "Idrogeno, Crema (H2IT): “Dagli investimenti PNRR al SoutH2 Corridor, la filiera cresce ma ora serve una domanda strutturata”"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -240,6 +255,25 @@
    "source": "Hydrogen Europe",
    "source_slug": "hydrogen-europe",
    "title": "Técnicas Reunidas will execute three hydrogen-ready combined-cycle gas power plants for RWE in Germany"
+  },
+  {
+   "authors": [
+    "Parisa Beyranvand",
+    "Ismaeil Abdolhosseini Sarsari",
+    "Noejung Park"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-23T23:02:11+00:00",
+   "excerpt": "Photocatalytic water splitting is considered as one of the most promising approaches for the green hydrogen production. But the rapid recombination of photogenerated electron-hole pairs severely inhibits its…",
+   "first_seen": "2026-11-25T08:18:31+00:00",
+   "id": "a300b3711bac5bc3",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.31672v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures"
   },
   {
    "authors": [],
@@ -62302,6 +62336,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-24T23:51:06+00:00",
+ "updated": "2026-11-25T08:18:31+00:00",
  "version": 2
 }

@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:18:12 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Idrogeno, Crema (H2IT): “Dagli investimenti PNRR al SoutH2 Corridor, la filiera cresce ma ora serve una domanda strutturata”</title>
+      <link>https://www.canaleenergia.com/rubriche/scenari/idrogeno-crema-h2it-investimenti-pnrr-south2-corridor-filiera-cresce-ora-serve-domanda-strutturata/</link>
+      <guid isPermaLink="false">molecola-75ba34f65e915d85</guid>
+      <pubDate>Wed, 25 Nov 2026 07:12:33 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
+      <description>La filiera italiana dell’idrogeno entra nella fase della concretezza, ma per garantire la sostenibilità economica dei progetti avviati è necessario affiancare agli investimenti infrastrutturali un reale sviluppo della… — Canale Energia</description>
+    </item>
     <item>
       <title>Tokyo and Yamanashi Governors Set Out Green Hydrogen Zone Vision at Fuji Hydrogen Summit 2026</title>
       <link>https://fuelcellsworks.com/2026/11/23/h2/tokyo-and-yamanashi-governors-set-out-green-hydrogen-zone-vision-at-fuji-hydrogen-summit-2026</link>
@@ -135,6 +143,14 @@
       <pubDate>Tue, 24 Nov 2026 08:50:07 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Europe</source>
       <description>Técnicas Reunidas will execute three hydrogen-ready combined-cycle gas power plants for RWE in Germany — Hydrogen Europe</description>
+    </item>
+    <item>
+      <title>Photocatalytic Water Splitting in GeC/ReS$_2$ van der Waals Heterostructures</title>
+      <link>https://arxiv.org/abs/2611.31672v1</link>
+      <guid isPermaLink="false">molecola-a300b3711bac5bc3</guid>
+      <pubDate>Mon, 23 Nov 2026 23:02:11 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Photocatalytic water splitting is considered as one of the most promising approaches for the green hydrogen production. But the rapid recombination of photogenerated electron-hole pairs severely inhibits its… — arXiv</description>
     </item>
     <item>
       <title>Catalonia Unveils Comprehensive Strategy for Renewable Hydrogen and Circular Carbon at H2CAT Innovation Summit</title>
@@ -393,14 +409,6 @@
       <description>International Journal of Hydrogen Energy — OpenAlex</description>
     </item>
     <item>
-      <title>Immiscible viscous fingering in porous media: The roles of finite viscosity ratio and disorder, and a macroscopic model</title>
-      <link>https://doi.org/10.1103/yplf-svmv</link>
-      <guid isPermaLink="false">molecola-388e3541185bbb7d</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Physical Review Fluids — OpenAlex</description>
-    </item>
-    <item>
       <title>Innovative Catalyst Developed for Efficient Ammonia-to-Hydrogen Conversion</title>
       <link>http://www.hydrogenfuelnews.com/innovative-catalyst-developed-for-efficient-ammonia-to-hydrogen-conversion/8577134/</link>
       <guid isPermaLink="false">molecola-ba80336654b571a9</guid>
@@ -439,14 +447,6 @@
       <pubDate>Sat, 21 Nov 2026 18:10:58 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
       <description>India's green hydrogen initiatives face delays in electrolyser manufacturing, highlighting a mismatch between production capacity and market demand, as major companies seek to postpone commissioning. — Hydrogen Fuel News</description>
-    </item>
-    <item>
-      <title>Ballard Power Systems Acquires GeoPura: A Strategic Leap in Hydrogen Energy Solutions</title>
-      <link>http://www.hydrogenfuelnews.com/ballard-power-systems-acquires-geopura-a-strategic-leap-in-hydrogen-energy-solut/8577127/</link>
-      <guid isPermaLink="false">molecola-a7df1d57c9724e6c</guid>
-      <pubDate>Sat, 21 Nov 2026 18:10:56 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">Hydrogen Fuel News</source>
-      <description>Ballard Power Systems has acquired GeoPura, combining fuel-cell technology with hydrogen energy solutions to meet growing energy demands for zero-emission power. — Hydrogen Fuel News</description>
     </item>
   </channel>
 </rss>
