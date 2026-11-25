@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-25T08:18:31+00:00",
+ "checked": "2026-11-25T19:08:52+00:00",
  "productive": 10,
  "total": 16,
  "sources": [
@@ -81,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-24T18:03:49+00:00"
+   "newest": "2026-11-25T17:16:25+00:00"
   },
   {
    "slug": "h2it",
@@ -97,7 +97,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-24T08:50:07+00:00"
+   "newest": "2026-11-25T09:06:34+00:00"
   },
   {
    "slug": "hydrogen-fuel-news",
@@ -112,8 +112,8 @@
    "name": "OpenAlex",
    "ok": true,
    "error": null,
-   "count": 23,
-   "newest": "2026-11-23T00:00:00+00:00"
+   "count": 16,
+   "newest": "2026-11-24T00:00:00+00:00"
   },
   {
    "slug": "power",
