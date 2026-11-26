@@ -1,5 +1,5 @@
 {
- "count": 3540,
+ "count": 3541,
  "items": [
   {
    "authors": [],
@@ -300,6 +300,28 @@
    "source": "Canale Energia",
    "source_slug": "canale-energia",
    "title": "Idrogeno, Crema (H2IT): “Dagli investimenti PNRR al SoutH2 Corridor, la filiera cresce ma ora serve una domanda strutturata”"
+  },
+  {
+   "authors": [
+    "Chiyoung Kim",
+    "Ryan Jacobs",
+    "Jun Meng",
+    "Jack H. Duffy",
+    "Kyle S. Brinkman",
+    "Yueh-Lin Lee"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-24T23:38:11+00:00",
+   "excerpt": "Protonic ceramic fuel cells (PCFCs) offer efficient energy conversion at intermediate temperatures, but their performance is often constrained by sluggish oxygen reduction kinetics at the cathode. Triple conducting…",
+   "first_seen": "2026-11-26T03:29:23+00:00",
+   "id": "047ba455b7a3e167",
+   "lang": "en",
+   "link": "https://arxiv.org/abs/2611.33543v1",
+   "manual": null,
+   "paywall": false,
+   "source": "arXiv",
+   "source_slug": "arxiv",
+   "title": "Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells"
   },
   {
    "authors": [],
@@ -62926,6 +62948,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-25T19:08:52+00:00",
+ "updated": "2026-11-26T03:29:23+00:00",
  "version": 2
 }

@@ -6,7 +6,7 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 19:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 03:29:09 +0000</lastBuildDate>
     <ttl>180</ttl>
     <item>
       <title>Yanmar Unveils New Multi-Fuel Marine Engine Lineup Including Hydrogen-Fired Model</title>
@@ -167,6 +167,14 @@
       <pubDate>Wed, 25 Nov 2026 07:12:33 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Canale Energia</source>
       <description>La filiera italiana dell’idrogeno entra nella fase della concretezza, ma per garantire la sostenibilità economica dei progetti avviati è necessario affiancare agli investimenti infrastrutturali un reale sviluppo della… — Canale Energia</description>
+    </item>
+    <item>
+      <title>Effects of Yttrium doping on Proton Conductivity in Ba(Fe, Co, Zr, Y)O$_{3-δ}$ Cathode Materials for Proton Ceramic Fuel Cells</title>
+      <link>https://arxiv.org/abs/2611.33543v1</link>
+      <guid isPermaLink="false">molecola-047ba455b7a3e167</guid>
+      <pubDate>Tue, 24 Nov 2026 23:38:11 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">arXiv</source>
+      <description>Protonic ceramic fuel cells (PCFCs) offer efficient energy conversion at intermediate temperatures, but their performance is often constrained by sluggish oxygen reduction kinetics at the cathode. Triple conducting… — arXiv</description>
     </item>
     <item>
       <title>Tokyo and Yamanashi Governors Set Out Green Hydrogen Zone Vision at Fuji Hydrogen Summit 2026</title>
@@ -367,14 +375,6 @@
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
       <description>Discover Food — OpenAlex</description>
-    </item>
-    <item>
-      <title>Techno-Economic Optimization of Utility-Scale Battery Energy Storage (BESS) and Green Hydrogen Electrolysis under Variable Renewable Curtailment</title>
-      <link>https://doi.org/10.13140/rg.2.2.33986.13760</link>
-      <guid isPermaLink="false">molecola-31555049fa1ebd81</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Techno-Economic Optimization of Utility-Scale Battery Energy Storage (BESS) and Green Hydrogen Electrolysis under Variable Renewable Curtailment — OpenAlex</description>
     </item>
     <item>
       <title>Catalonia Unveils Comprehensive Strategy for Renewable Hydrogen and Circular Carbon at H2CAT Innovation Summit</title>
