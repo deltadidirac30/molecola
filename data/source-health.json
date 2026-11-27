@@ -1,13 +1,13 @@
 {
- "checked": "2026-11-27T12:02:32+00:00",
- "productive": 9,
+ "checked": "2026-11-27T21:05:53+00:00",
+ "productive": 10,
  "total": 16,
  "sources": [
   {
    "slug": "ec-presscorner",
    "name": "Commissione europea",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
+   "ok": true,
+   "error": null,
    "count": 0,
    "newest": null
   },
@@ -24,14 +24,6 @@
    "name": "Energy Storage News",
    "ok": false,
    "error": "HTTPError: HTTP Error 403: Forbidden",
-   "count": 0,
-   "newest": null
-  },
-  {
-   "slug": "hydrogen-fuel-news",
-   "name": "Hydrogen Fuel News",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out",
    "count": 0,
    "newest": null
   },
@@ -89,7 +81,7 @@
    "ok": true,
    "error": null,
    "count": 64,
-   "newest": "2026-11-26T16:24:14+00:00"
+   "newest": "2026-11-27T16:44:16+00:00"
   },
   {
    "slug": "h2it",
@@ -106,6 +98,14 @@
    "error": null,
    "count": 10,
    "newest": "2026-11-26T15:29:54+00:00"
+  },
+  {
+   "slug": "hydrogen-fuel-news",
+   "name": "Hydrogen Fuel News",
+   "ok": true,
+   "error": null,
+   "count": 10,
+   "newest": "2026-11-27T04:08:46+00:00"
   },
   {
    "slug": "openalex",
@@ -129,7 +129,7 @@
    "ok": true,
    "error": null,
    "count": 10,
-   "newest": "2026-11-23T09:15:00+00:00"
+   "newest": "2026-11-27T13:38:42+00:00"
   }
  ]
 }
