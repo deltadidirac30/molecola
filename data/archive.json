@@ -1,6 +1,28 @@
 {
- "count": 3587,
+ "count": 3602,
  "items": [
+  {
+   "authors": [
+    "Fushuo Lu",
+    "Xin Li",
+    "Jianhui Zhong",
+    "Ruzhuo Liao",
+    "Ziyi Li",
+    "Jingrun Li"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-27T00:00:00+00:00",
+   "excerpt": "ACS Sustainable Chemistry & Engineering",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "5008eb97e1884d93",
+   "lang": "en",
+   "link": "https://doi.org/10.1021/acssuschemeng.6c10112",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Techno-Economic and Environmental Assessment of Seasonal Operating Strategies for Wind−Thermal Coupled Hydrogen and Methanol Coproduction"
+  },
   {
    "authors": [],
    "category": "industria",
@@ -375,6 +397,310 @@
    "source": "Hydrogen Fuel News",
    "source_slug": "hydrogen-fuel-news",
    "title": "CF Industries to Acquire Mosaic's Faustina Ammonia Production Facility"
+  },
+  {
+   "authors": [
+    "Giacomo Rubino",
+    "Jan-Philipp Sasse",
+    "Evelina Trutnevyte"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Environmental Research Energy",
+   "first_seen": "2026-11-18T20:24:30+00:00",
+   "id": "0511a06655b7428d",
+   "lang": "en",
+   "link": "https://doi.org/10.1088/2753-3751/aec2ee",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Conditions for power-to-hydrogen as electricity storage in the Swiss electricity sector"
+  },
+  {
+   "authors": [
+    "Maghsoud Abdollahi Haghghi",
+    "Samad Jafarmadar",
+    "Mohammad Kaveh",
+    "Mohammad Mohsen Soltani",
+    "Hassan Athari"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Energy Conversion and Management",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "6000bcd904d7e47f",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.enconman.2026.122435",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Power-ammonia coproduction by biogas-fed HSOFC, heat recovery, and P2X: application of LS-boosting machine learning and grey wolf optimizer with thermodynamic, exergoeconomic, and life cycle assessment"
+  },
+  {
+   "authors": [
+    "Indrė Gečaitė"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Sustainability",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "cd76f970fd24e768",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/su182312062",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Beyond Installed Capacity: Stress-Testing Lithuania’s 2030 Renewable Energy Targets over 35 Weather Years"
+  },
+  {
+   "authors": [
+    "Ahmed Zarzor Al-Yaseri",
+    "Nurudeen Peter Yekeen",
+    "Sivabalan Sakthivel",
+    "Arsalan Iqbal",
+    "Shabeeb Alajmei"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Greenhouse Gases Science and Technology",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "cd258a82ffdceb4e",
+   "lang": "en",
+   "link": "https://doi.org/10.1002/ghg.70056",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Rock Permeability Effects on Hydrogen Flow in Subsurface Water Aquifers"
+  },
+  {
+   "authors": [
+    "Caroline Andersen",
+    "Sina Narimani Abar",
+    "Martin Schulwitz",
+    "Lars-Peter Lauven"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Raumforschung und Raumordnung / Spatial Research and Planning",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "1831834df9593e8f",
+   "lang": "en",
+   "link": "https://doi.org/10.14512/rur.3570",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Transformation of regional energy systems – An integrative approach to optimised site planning for regional hydrogen production"
+  },
+  {
+   "authors": [
+    "Zhixue Wang",
+    "Jing Bai",
+    "Quanquan Li",
+    "Junfeng Wen",
+    "Rameshwari Verma",
+    "Santosh Kumar Verma"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "61b37ff6c8acc166",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158803",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Co/Fe Bimetallic Coordination-Induced Interfacial Catalysis of Ball-Milled CoFe-MOF-74 for Boosting Hydrogen Storage Performance of MgH2"
+  },
+  {
+   "authors": [
+    "Zhixin Sun",
+    "Yongqi Wang",
+    "Jifeng Zhang",
+    "Yubo Lin",
+    "Honghui Ma"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "International Journal of Hydrogen Energy",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "c82777e0dd72ae61",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.ijhydene.2026.158890",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dynamic Flexibility Assessment of Green Ammonia Systems: A Comparative Study of Three Reactor Configurations Under Renewable Fluctuation and Typical Disturbances"
+  },
+  {
+   "authors": [
+    "Wanyu Li",
+    "Yu Gong",
+    "Pan Liu",
+    "Xiaoqi ZHANG",
+    "Bo Ming"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "9f4125a7d160491c",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.125416",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Robust short-term generation scheduling considering the interaction between hydropower and hydrogen storage under photovoltaic integration"
+  },
+  {
+   "authors": [
+    "inquantio"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Zenodo (CERN European Organization for Nuclear Research)",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "074019fc5caf786a",
+   "lang": "en",
+   "link": "https://doi.org/10.5281/zenodo.24551334",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Diamond Quantum Sensors Improve Deuterium NMR Spin-Number Sensitivity by Up to Eight Orders of Magnitude"
+  },
+  {
+   "authors": [
+    "Fuyu Li",
+    "Xiu Xiao",
+    "Huiying Ma",
+    "Yulong Ji"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Journal of Marine Science and Engineering",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "b7e1d97a89a7020c",
+   "lang": "en",
+   "link": "https://doi.org/10.3390/jmse14232260",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Environmental and Economic Assessment of Marine Methanol Pathways for Green Shipping Corridors"
+  },
+  {
+   "authors": [
+    "Bohyun Kim"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Journal of Environmental Policy & Planning",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "5d8203dca8ce4e1b",
+   "lang": "en",
+   "link": "https://doi.org/10.1080/1523908x.2026.2753155",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "The geopolitics of green industrial policy integration: comparing divergent pathways and functional convergence in EU and South Korean hydrogen strategies"
+  },
+  {
+   "authors": [
+    "Marlon Córdoba-Ramirez",
+    "Albert Deluque Pinto",
+    "Carlos Martínez-Smit",
+    "Dario Serrano-Florez",
+    "Marlon Jose Bastidas-Barranco",
+    "Andrés Amell-Arrieta"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Sustainable Energy Technologies and Assessments",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "cd38fcc7cccdbf42",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.seta.2026.105646",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Assessment of a grid-virtual-storage surplus dispatch strategy for enhanced green hydrogen production in a Power-to-Gas pilot plant located in La Guajira, northern Colombia"
+  },
+  {
+   "authors": [
+    "Longhui Zhi",
+    "Wenjing Li",
+    "Meiqi Song",
+    "Weiguang Han",
+    "Jiaqi Huo",
+    "Li Sun"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Journal of Energy Storage",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "f7695142cdc97248",
+   "lang": "en",
+   "link": "https://doi.org/10.1016/j.est.2026.126030",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Dual-regulation mechanism of K+ incorporation and CuO loading in natural attapulgite for stable zinc anodes of aqueous zinc-ion batteries"
+  },
+  {
+   "authors": [
+    "MD Masud Rana",
+    "Firoz Alam",
+    "Nawshad Haque",
+    "Mohammed Hedayet Ullah Bhuiyan",
+    "Yingai Jin",
+    "Xingjun Hu"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Figshare",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "e36050731097adb7",
+   "lang": "en",
+   "link": "https://doi.org/10.6084/m9.figshare.35131493",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Comparative techno-economic green hydrogen production cost model for high, upper-middle, lower-middle, and low-income countries"
+  },
+  {
+   "authors": [
+    "Alfi Rodiansyah",
+    "Ravli Maulana Yusuf",
+    "Jaeyeon Choi",
+    "Sae Yane Paek",
+    "Jong Min Kim",
+    "Joonwon Lim"
+   ],
+   "category": "ricerca",
+   "date": "2026-11-26T00:00:00+00:00",
+   "excerpt": "Journal of Electrochemical Science and Technology",
+   "first_seen": "2026-11-27T12:02:32+00:00",
+   "id": "915ad538bc46e7a8",
+   "lang": "en",
+   "link": "https://doi.org/10.33961/jecst.2026.01536",
+   "manual": null,
+   "paywall": false,
+   "source": "OpenAlex",
+   "source_slug": "openalex",
+   "title": "Coexisting Pt Single Atoms and Nanoparticles on Nitrogen-Doped Unzipped Carbon Nanotubes for Hydrogen and Chlorine Evolution"
   },
   {
    "authors": [],
@@ -6383,25 +6709,6 @@
    "source": "OpenAlex",
    "source_slug": "openalex",
    "title": "Design Blueprint: A Cryogenic-Propellant Long-Storage Variant for the Saturn Cruise, Sized by Boiloff, Storage and Arrival Budgets"
-  },
-  {
-   "authors": [
-    "Giacomo Rubino",
-    "Jan-Philipp Sasse",
-    "Evelina Trutnevyte"
-   ],
-   "category": "ricerca",
-   "date": "2026-11-17T00:00:00+00:00",
-   "excerpt": "Environmental Research Energy",
-   "first_seen": "2026-11-18T20:24:30+00:00",
-   "id": "0511a06655b7428d",
-   "lang": "en",
-   "link": "https://doi.org/10.1088/2753-3751/aec2ee",
-   "manual": null,
-   "paywall": false,
-   "source": "OpenAlex",
-   "source_slug": "openalex",
-   "title": "Conditions for power-to-hydrogen as electricity storage in the Swiss electricity sector"
   },
   {
    "authors": [
@@ -63737,6 +64044,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-27T01:40:13+00:00",
+ "updated": "2026-11-27T12:02:32+00:00",
  "version": 2
 }

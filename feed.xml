@@ -6,8 +6,16 @@
     <atom:link href="https://deltadidirac30.github.io/molecola/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Rassegna quotidiana sull'idrogeno: stampa di settore, fonti istituzionali europee e italiane, preprint di ricerca. Aggregazione automatica, nessun testo generato, link diretto alla fonte.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:01:24 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Techno-Economic and Environmental Assessment of Seasonal Operating Strategies for Wind−Thermal Coupled Hydrogen and Methanol Coproduction</title>
+      <link>https://doi.org/10.1021/acssuschemeng.6c10112</link>
+      <guid isPermaLink="false">molecola-5008eb97e1884d93</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>ACS Sustainable Chemistry &amp; Engineering — OpenAlex</description>
+    </item>
     <item>
       <title>Fincantieri Delivers Viking Libra Cruise Ship With Liquefied Hydrogen and Fuel-Cell Propulsion</title>
       <link>https://fuelcellsworks.com/2026/11/26/electrolyzer/fincantieri-delivers-viking-libra-cruise-ship-with-liquefied-hydrogen-and-fuel-cell-propulsion</link>
@@ -209,6 +217,78 @@
       <description>CF Industries to Acquire Mosaic's Faustina Ammonia Production Facility — Hydrogen Fuel News</description>
     </item>
     <item>
+      <title>Conditions for power-to-hydrogen as electricity storage in the Swiss electricity sector</title>
+      <link>https://doi.org/10.1088/2753-3751/aec2ee</link>
+      <guid isPermaLink="false">molecola-0511a06655b7428d</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Environmental Research Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Power-ammonia coproduction by biogas-fed HSOFC, heat recovery, and P2X: application of LS-boosting machine learning and grey wolf optimizer with thermodynamic, exergoeconomic, and life cycle assessment</title>
+      <link>https://doi.org/10.1016/j.enconman.2026.122435</link>
+      <guid isPermaLink="false">molecola-6000bcd904d7e47f</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Energy Conversion and Management — OpenAlex</description>
+    </item>
+    <item>
+      <title>Beyond Installed Capacity: Stress-Testing Lithuania’s 2030 Renewable Energy Targets over 35 Weather Years</title>
+      <link>https://doi.org/10.3390/su182312062</link>
+      <guid isPermaLink="false">molecola-cd76f970fd24e768</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Sustainability — OpenAlex</description>
+    </item>
+    <item>
+      <title>Rock Permeability Effects on Hydrogen Flow in Subsurface Water Aquifers</title>
+      <link>https://doi.org/10.1002/ghg.70056</link>
+      <guid isPermaLink="false">molecola-cd258a82ffdceb4e</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Greenhouse Gases Science and Technology — OpenAlex</description>
+    </item>
+    <item>
+      <title>Transformation of regional energy systems – An integrative approach to optimised site planning for regional hydrogen production</title>
+      <link>https://doi.org/10.14512/rur.3570</link>
+      <guid isPermaLink="false">molecola-1831834df9593e8f</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Raumforschung und Raumordnung / Spatial Research and Planning — OpenAlex</description>
+    </item>
+    <item>
+      <title>Co/Fe Bimetallic Coordination-Induced Interfacial Catalysis of Ball-Milled CoFe-MOF-74 for Boosting Hydrogen Storage Performance of MgH2</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158803</link>
+      <guid isPermaLink="false">molecola-61b37ff6c8acc166</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Dynamic Flexibility Assessment of Green Ammonia Systems: A Comparative Study of Three Reactor Configurations Under Renewable Fluctuation and Typical Disturbances</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2026.158890</link>
+      <guid isPermaLink="false">molecola-c82777e0dd72ae61</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>International Journal of Hydrogen Energy — OpenAlex</description>
+    </item>
+    <item>
+      <title>Robust short-term generation scheduling considering the interaction between hydropower and hydrogen storage under photovoltaic integration</title>
+      <link>https://doi.org/10.1016/j.est.2026.125416</link>
+      <guid isPermaLink="false">molecola-9f4125a7d160491c</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Journal of Energy Storage — OpenAlex</description>
+    </item>
+    <item>
+      <title>Diamond Quantum Sensors Improve Deuterium NMR Spin-Number Sensitivity by Up to Eight Orders of Magnitude</title>
+      <link>https://doi.org/10.5281/zenodo.24551334</link>
+      <guid isPermaLink="false">molecola-074019fc5caf786a</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
+      <description>Zenodo (CERN European Organization for Nuclear Research) — OpenAlex</description>
+    </item>
+    <item>
       <title>Smoltek Receives SEK 1.1 Million in Funding for Battery Technology Projects</title>
       <link>https://fuelcellsworks.com/2026/11/25/battery/smoltek-receives-sek-1-1-million-in-funding-for-battery-technology-projects</link>
       <guid isPermaLink="false">molecola-8ffc657946b75928</guid>
@@ -367,86 +447,6 @@
       <pubDate>Wed, 25 Nov 2026 14:08:53 +0000</pubDate>
       <source url="https://deltadidirac30.github.io/molecola/">Fuel Cells Works</source>
       <description>Pesa Selected to Build Prototype Hydrogen Trains for Polish Rail Network — Fuel Cells Works</description>
-    </item>
-    <item>
-      <title>When hydrogen is not fully flexible: Implications for sector-coupled energy models</title>
-      <link>https://doi.org/10.1016/j.apenergy.2026.129290</link>
-      <guid isPermaLink="false">molecola-79ffbc6735db5e5b</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Applied Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Search-state-controlled FACBO for rolling-horizon energy management of renewable-integrated hydrogen-battery microgrids</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158762</link>
-      <guid isPermaLink="false">molecola-b3183ffd9a7f2224</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Insights into the non-Fickian dispersion of H₂–N₂ mixtures in pore channels: Implications for underground hydrogen storage</title>
-      <link>https://doi.org/10.1016/j.ees.2026.100079</link>
-      <guid isPermaLink="false">molecola-d2a84ffa3d9590a1</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Earth energy science. — OpenAlex</description>
-    </item>
-    <item>
-      <title>Macrocyclic Host-Functionalized Cobalt Nanoparticles: Superior Electrocatalysts for the Hydrogen Evolution Reaction in Alkaline Media</title>
-      <link>https://doi.org/10.1021/acs.jpcc.6c04538</link>
-      <guid isPermaLink="false">molecola-bcad709dd1ab1dc3</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>The Journal of Physical Chemistry C — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ice nanotubes: From microscopic formation mechanisms and multiphysics modulation to functional applications</title>
-      <link>https://doi.org/10.1088/1361-648x/aec707</link>
-      <guid isPermaLink="false">molecola-ccbd8d63ea465c91</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Journal of Physics Condensed Matter — OpenAlex</description>
-    </item>
-    <item>
-      <title>Fabrication of B/N co-doped Non-metal Biochar Derived from Agricultural Waste Sugarcane Bagasse for Aqueous Chloramphenicol Adsorption</title>
-      <link>https://doi.org/10.1007/s11270-026-10207-x</link>
-      <guid isPermaLink="false">molecola-6a1c10c5c9596dfa</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Water Air &amp; Soil Pollution — OpenAlex</description>
-    </item>
-    <item>
-      <title>Ru-Decorated Sulfided NiMoO4 Nanorod Arrays as Highly Efficient Bifunctional Electrocatalysts for Overall Water Splitting</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2026.158895</link>
-      <guid isPermaLink="false">molecola-6abb00dff4e80c60</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>International Journal of Hydrogen Energy — OpenAlex</description>
-    </item>
-    <item>
-      <title>Titanyl Phosphate: A Long-Life Anode Material for Mg-Ion Storage in Aqueous Batteries</title>
-      <link>https://doi.org/10.1021/acs.nanolett.6c04433</link>
-      <guid isPermaLink="false">molecola-0e8ae6fee15695b5</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Nano Letters — OpenAlex</description>
-    </item>
-    <item>
-      <title>Combined NO and H2S Treatment Delays Postharvest Strawberry Senescence by Suppressing Jasmonic Acid Biosynthesis and Sustaining Phenylpropanoid Metabolism</title>
-      <link>https://doi.org/10.1007/s11947-026-04667-6</link>
-      <guid isPermaLink="false">molecola-d9b9ea08dcbb19e5</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Food and Bioprocess Technology — OpenAlex</description>
-    </item>
-    <item>
-      <title>Hydrogen Spillover‐Driven Pt 1– Mo x Dual‐Site Heterostructure Enables High‐Current‐Density Acidic Water Electrolysis</title>
-      <link>https://doi.org/10.1002/adfm.79853</link>
-      <guid isPermaLink="false">molecola-51f7b7eeee311a5e</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <source url="https://deltadidirac30.github.io/molecola/">OpenAlex</source>
-      <description>Advanced Functional Materials — OpenAlex</description>
     </item>
   </channel>
 </rss>
