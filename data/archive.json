@@ -1,5 +1,5 @@
 {
- "count": 3619,
+ "count": 3621,
  "items": [
   {
    "authors": [],
@@ -15,6 +15,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Mercedes-Benz Trucks to Launch 100 NextGenH2 Hydrogen Trucks in 2027"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-27T16:39:21+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-28T03:15:43+00:00",
+   "id": "1dab10459b7ca2c0",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/26/electric/srlk-ev-urges-fleet-operators-to-apply-for-38million-charging-infrastructure-fund",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "SRLK EV Urges Fleet Operators to Apply for £38Million Charging Infrastructure Fund"
   },
   {
    "authors": [],
@@ -60,6 +75,21 @@
    "source": "Fuel Cells Works",
    "source_slug": "fuel-cells-works",
    "title": "Water Is Becoming a Site-Selection Factor for Green Hydrogen — Not Just an Operational Detail"
+  },
+  {
+   "authors": [],
+   "category": "industria",
+   "date": "2026-11-27T16:01:15+00:00",
+   "excerpt": "",
+   "first_seen": "2026-11-28T03:15:43+00:00",
+   "id": "ef771227f72a3023",
+   "lang": "en",
+   "link": "https://fuelcellsworks.com/2026/11/26/electric/ezo-plans-more-than-250-new-ev-charging-sites-across-northern-scotland-by-2030",
+   "manual": null,
+   "paywall": false,
+   "source": "Fuel Cells Works",
+   "source_slug": "fuel-cells-works",
+   "title": "EZO Plans More Than 250 New EV Charging Sites Across Northern Scotland by 2030"
   },
   {
    "authors": [],
@@ -64299,6 +64329,6 @@
    "title": "Energy Vault receives approval for green hydrogen-BESS microgrid to participate in California market"
   }
  ],
- "updated": "2026-11-27T21:05:53+00:00",
+ "updated": "2026-11-28T03:15:43+00:00",
  "version": 2
 }
